@@ -1,0 +1,298 @@
+{
+  "received_date": "2026-10-22",
+  "timezone": "Asia/Shanghai",
+  "asset_kind": "real_product_photos",
+  "sku_color": "silver",
+  "source_image_count": 12,
+  "all_source_copy_sha256_match": true,
+  "all_images_verify_and_full_decode": "PASS",
+  "original_bytes_preserved": true,
+  "exif_orientation_handled_in_previews_only": true,
+  "original_sources_deleted": false,
+  "files": [
+    {
+      "id": "SIL001",
+      "source_path": "/Users/USER/Downloads/微信图片_20261022184342_89_2.jpg",
+      "project_path": "products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+      "bytes": 7530863,
+      "sha256": "6de02f19793c568c799762525475cd0241af1b9c41487580383be4efbd2a1fa2",
+      "source_copy_sha256_match": true,
+      "format": "JPEG",
+      "raw_dimensions": [
+        5712,
+        4284
+      ],
+      "exif_orientation": 6,
+      "display_dimensions": [
+        4284,
+        5712
+      ],
+      "verify": "PASS",
+      "full_decode": "PASS"
+    },
+    {
+      "id": "SIL002",
+      "source_path": "/Users/USER/Downloads/微信图片_20261022184344_90_2.jpg",
+      "project_path": "products/主推花洒/银色/原图/微信图片_20261022184344_90_2.jpg",
+      "bytes": 6642296,
+      "sha256": "9f6e724d9fc0e01a0670fbd1964d4a3e2e32d985447bcdb99fc98fe147526eb1",
+      "source_copy_sha256_match": true,
+      "format": "JPEG",
+      "raw_dimensions": [
+        5712,
+        4284
+      ],
+      "exif_orientation": 6,
+      "display_dimensions": [
+        4284,
+        5712
+      ],
+      "verify": "PASS",
+      "full_decode": "PASS"
+    },
+    {
+      "id": "SIL003",
+      "source_path": "/Users/USER/Downloads/微信图片_20261022184345_91_2.jpg",
+      "project_path": "products/主推花洒/银色/原图/微信图片_20261022184345_91_2.jpg",
+      "bytes": 6439405,
+      "sha256": "8d41d23e8e762b1e9208796587c36db70ea8e452ee2e3fdd3604f97c7f40dd60",
+      "source_copy_sha256_match": true,
+      "format": "JPEG",
+      "raw_dimensions": [
+        5712,
+        4284
+      ],
+      "exif_orientation": 6,
+      "display_dimensions": [
+        4284,
+        5712
+      ],
+      "verify": "PASS",
+      "full_decode": "PASS"
+    },
+    {
+      "id": "SIL004",
+      "source_path": "/Users/USER/Downloads/微信图片_20261022184347_92_2.jpg",
+      "project_path": "products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg",
+      "bytes": 6765569,
+      "sha256": "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90",
+      "source_copy_sha256_match": true,
+      "format": "JPEG",
+      "raw_dimensions": [
+        5712,
+        4284
+      ],
+      "exif_orientation": 6,
+      "display_dimensions": [
+        4284,
+        5712
+      ],
+      "verify": "PASS",
+      "full_decode": "PASS"
+    },
+    {
+      "id": "SIL005",
+      "source_path": "/Users/USER/Downloads/微信图片_20261022184349_93_2.jpg",
+      "project_path": "products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+      "bytes": 8180978,
+      "sha256": "0b388756f0ee2e35630dac7789237153d390fa8aaab8f58f6e2643d4181be21d",
+      "source_copy_sha256_match": true,
+      "format": "JPEG",
+      "raw_dimensions": [
+        5712,
+        4284
+      ],
+      "exif_orientation": 6,
+      "display_dimensions": [
+        4284,
+        5712
+      ],
+      "verify": "PASS",
+      "full_decode": "PASS"
+    },
+    {
+      "id": "SIL006",
+      "source_path": "/Users/USER/Downloads/微信图片_20261022184355_94_2.jpg",
+      "project_path": "products/主推花洒/银色/原图/微信图片_20261022184355_94_2.jpg",
+      "bytes": 7612419,
+      "sha256": "10dcfb2cad17faf397a03e0587da0ad19c76229fe801e090fee527a3fbc1a412",
+      "source_copy_sha256_match": true,
+      "format": "JPEG",
+      "raw_dimensions": [
+        5712,
+        4284
+      ],
+      "exif_orientation": 6,
+      "display_dimensions": [
+        4284,
+        5712
+      ],
+      "verify": "PASS",
+      "full_decode": "PASS"
+    },
+    {
+      "id": "SIL007",
+      "source_path": "/Users/USER/Downloads/微信图片_20261022184357_95_2.jpg",
+      "project_path": "products/主推花洒/银色/原图/微信图片_20261022184357_95_2.jpg",
+      "bytes": 3467301,
+      "sha256": "4aee9c3464d2f590ce6e7c08da656ab36093a0976a51560d0e7706b568c412db",
+      "source_copy_sha256_match": true,
+      "format": "JPEG",
+      "raw_dimensions": [
+        4032,
+        3024
+      ],
+      "exif_orientation": 6,
+      "display_dimensions": [
+        3024,
+        4032
+      ],
+      "verify": "PASS",
+      "full_decode": "PASS"
+    },
+    {
+      "id": "SIL008",
+      "source_path": "/Users/USER/Downloads/微信图片_20261022184358_96_2.jpg",
+      "project_path": "products/主推花洒/银色/原图/微信图片_20261022184358_96_2.jpg",
+      "bytes": 3114877,
+      "sha256": "071b041a0c14ced993d33df9598611fd0e7ea9cb0e65892de6b6969d901fb140",
+      "source_copy_sha256_match": true,
+      "format": "JPEG",
+      "raw_dimensions": [
+        4032,
+        3024
+      ],
+      "exif_orientation": 6,
+      "display_dimensions": [
+        3024,
+        4032
+      ],
+      "verify": "PASS",
+      "full_decode": "PASS"
+    },
+    {
+      "id": "SIL009",
+      "source_path": "/Users/USER/Downloads/微信图片_20261022184359_97_2.jpg",
+      "project_path": "products/主推花洒/银色/原图/微信图片_20261022184359_97_2.jpg",
+      "bytes": 3598876,
+      "sha256": "4a812b7e8b033a403a65d5d7fc8ef6ef49515410b6196e953c16aafcf71a1693",
+      "source_copy_sha256_match": true,
+      "format": "JPEG",
+      "raw_dimensions": [
+        4032,
+        3024
+      ],
+      "exif_orientation": 6,
+      "display_dimensions": [
+        3024,
+        4032
+      ],
+      "verify": "PASS",
+      "full_decode": "PASS"
+    },
+    {
+      "id": "SIL010",
+      "source_path": "/Users/USER/Downloads/微信图片_20261022184400_98_2.jpg",
+      "project_path": "products/主推花洒/银色/原图/微信图片_20261022184400_98_2.jpg",
+      "bytes": 3614336,
+      "sha256": "97ee7ce1dd84ba8e93cbce28ee5ecf94d1da5e29fba0aa064759f6eb2bed502e",
+      "source_copy_sha256_match": true,
+      "format": "JPEG",
+      "raw_dimensions": [
+        4032,
+        3024
+      ],
+      "exif_orientation": 6,
+      "display_dimensions": [
+        3024,
+        4032
+      ],
+      "verify": "PASS",
+      "full_decode": "PASS"
+    },
+    {
+      "id": "SIL011",
+      "source_path": "/Users/USER/Downloads/微信图片_20261022184402_99_2.jpg",
+      "project_path": "products/主推花洒/银色/原图/微信图片_20261022184402_99_2.jpg",
+      "bytes": 3799313,
+      "sha256": "22287ec426ebc7f449beeda0a3d64c24631e4ccc75d7bf4fb7a6abb9d1e8781c",
+      "source_copy_sha256_match": true,
+      "format": "JPEG",
+      "raw_dimensions": [
+        4032,
+        3024
+      ],
+      "exif_orientation": 6,
+      "display_dimensions": [
+        3024,
+        4032
+      ],
+      "verify": "PASS",
+      "full_decode": "PASS"
+    },
+    {
+      "id": "SIL012",
+      "source_path": "/Users/USER/Downloads/微信图片_20261022184403_100_2.jpg",
+      "project_path": "products/主推花洒/银色/原图/微信图片_20261022184403_100_2.jpg",
+      "bytes": 3554391,
+      "sha256": "c471d115285f03079202e30954acc36370c29d10c482ef3eeb77f5fda47a84a6",
+      "source_copy_sha256_match": true,
+      "format": "JPEG",
+      "raw_dimensions": [
+        4032,
+        3024
+      ],
+      "exif_orientation": 6,
+      "display_dimensions": [
+        3024,
+        4032
+      ],
+      "verify": "PASS",
+      "full_decode": "PASS"
+    }
+  ],
+  "contact_sheets": [
+    {
+      "path": "products/主推花洒/银色/previews/contact_sheet_01.png",
+      "ids": [
+        "SIL001",
+        "SIL002",
+        "SIL003",
+        "SIL004"
+      ]
+    },
+    {
+      "path": "products/主推花洒/银色/previews/contact_sheet_02.png",
+      "ids": [
+        "SIL005",
+        "SIL006",
+        "SIL007",
+        "SIL008"
+      ]
+    },
+    {
+      "path": "products/主推花洒/银色/previews/contact_sheet_03.png",
+      "ids": [
+        "SIL009",
+        "SIL010",
+        "SIL011",
+        "SIL012"
+      ]
+    }
+  ],
+  "temporary_files": [],
+  "visual_review": {
+    "date": "2026-10-22",
+    "all_attached_photos_viewed": true,
+    "all_project_preview_pages_viewed": [
+      "products/主推花洒/银色/previews/contact_sheet_01.png",
+      "products/主推花洒/银色/previews/contact_sheet_02.png",
+      "products/主推花洒/银色/previews/contact_sheet_03.png"
+    ],
+    "detail_review_ids": [
+      "SIL005",
+      "SIL006"
+    ],
+    "product_effect_or_switching_test_performed": false
+  }
+}

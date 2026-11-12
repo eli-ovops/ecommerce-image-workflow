@@ -1,0 +1,195 @@
+{
+  "checks": [
+    {
+      "id": 387,
+      "size": [
+        1254,
+        1254
+      ],
+      "decode": true,
+      "local_replacement": true,
+      "ora_crc_recomposition": true
+    },
+    {
+      "id": 388,
+      "size": [
+        1254,
+        1254
+      ],
+      "decode": true,
+      "local_replacement": false,
+      "ora_crc_recomposition": false
+    },
+    {
+      "id": 389,
+      "size": [
+        1254,
+        1254
+      ],
+      "decode": true,
+      "local_replacement": false,
+      "ora_crc_recomposition": false
+    },
+    {
+      "id": 390,
+      "size": [
+        1254,
+        1254
+      ],
+      "decode": true,
+      "local_replacement": false,
+      "ora_crc_recomposition": false
+    },
+    {
+      "id": 391,
+      "size": [
+        1254,
+        1254
+      ],
+      "decode": true,
+      "local_replacement": false,
+      "ora_crc_recomposition": false
+    },
+    {
+      "id": 392,
+      "size": [
+        1254,
+        1254
+      ],
+      "decode": true,
+      "local_replacement": true,
+      "ora_crc_recomposition": true
+    },
+    {
+      "id": 393,
+      "size": [
+        1254,
+        1254
+      ],
+      "decode": true,
+      "local_replacement": false,
+      "ora_crc_recomposition": false
+    },
+    {
+      "id": 394,
+      "size": [
+        941,
+        1672
+      ],
+      "decode": true,
+      "local_replacement": false,
+      "ora_crc_recomposition": false
+    },
+    {
+      "id": 395,
+      "size": [
+        941,
+        1672
+      ],
+      "decode": true,
+      "local_replacement": true,
+      "ora_crc_recomposition": true
+    },
+    {
+      "id": 396,
+      "size": [
+        1024,
+        1536
+      ],
+      "decode": true,
+      "local_replacement": true,
+      "ora_crc_recomposition": true
+    },
+    {
+      "id": 397,
+      "size": [
+        992,
+        1586
+      ],
+      "decode": true,
+      "local_replacement": false,
+      "ora_crc_recomposition": false
+    },
+    {
+      "id": 398,
+      "size": [
+        940,
+        1673
+      ],
+      "decode": true,
+      "local_replacement": false,
+      "ora_crc_recomposition": false
+    },
+    {
+      "id": 399,
+      "size": [
+        940,
+        1672
+      ],
+      "decode": true,
+      "local_replacement": false,
+      "ora_crc_recomposition": false
+    }
+  ],
+  "replacements": {
+    "387": [
+      {
+        "box": [
+          33,
+          505,
+          394,
+          811
+        ],
+        "source": "382 actual crop",
+        "ellipse": false
+      }
+    ],
+    "392": [
+      {
+        "box": [
+          924,
+          779,
+          1231,
+          1086
+        ],
+        "source": "382 actual crop",
+        "ellipse": true
+      }
+    ],
+    "395": [
+      {
+        "box": [
+          582,
+          1199,
+          891,
+          1514
+        ],
+        "source": "382 actual crop",
+        "ellipse": true
+      }
+    ],
+    "396": [
+      {
+        "box": [
+          526,
+          628,
+          999,
+          1020
+        ],
+        "source": "actual connector crop",
+        "ellipse": false
+      },
+      {
+        "box": [
+          526,
+          1052,
+          999,
+          1499
+        ],
+        "source": "382 actual crop",
+        "ellipse": false
+      }
+    ]
+  },
+  "notes": "Other nine files are flat generated rasters; no invented editable layers. Native image aspect ratios preserved, no stretch."
+}

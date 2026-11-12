@@ -1,0 +1,36 @@
+{
+  "status": "MATERIAL_REFINEMENT_USER_REVIEW_PENDING",
+  "root_visual_opened": [
+    "candidate-01.png",
+    "圆形花洒_材质精修_棚拍验证.jpg",
+    "panel-200.png",
+    "neck-200.png"
+  ],
+  "observations": [
+    "Neck bright boundary and handle gradients softer than baseline",
+    "Panel micrograin slightly stronger but still weaker than original photograph 348",
+    "Neck highlight bend remains visible; no photorealism acceptance"
+  ],
+  "jpg": {
+    "width": 1600,
+    "height": 1600,
+    "format": "jpeg",
+    "space": "srgb"
+  },
+  "geometry_and_camera_saved_verification": {
+    "reopen_success": true,
+    "saved_geometry_and_transforms_equal_baseline": true,
+    "saved_camera_equal_baseline": true,
+    "external_images": []
+  },
+  "zip": {
+    "members": 21,
+    "bytes": 36933294,
+    "crc_error": null,
+    "local_member_hash_mismatches": [],
+    "sha256": "abef81a497bdfa7cf7b31bf65656d409bb1341b3ceabd45a49c2c1ae93bf80fd"
+  },
+  "user_acceptance": "PENDING",
+  "customer_acceptance": "UNKNOWN",
+  "preservation": "Previous inputs and versions retained; no deletion"
+}

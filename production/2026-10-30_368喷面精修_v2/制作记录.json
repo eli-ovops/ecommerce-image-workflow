@@ -1,0 +1,35 @@
+{
+  "source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-29_圆形花洒_实拍主体验证/新实拍368/实拍原件.jpg",
+  "sourceSHA256": "36e58c65a5cd99fe268cac4533808afeb5e748477e2965b6d46997aca00d5d0c",
+  "operations": [
+    "EXIF rotate",
+    "isotropic resize 2736x3648",
+    "crop 280,1160,2220,1160",
+    "masked neutralize metal reflections",
+    "source-derived button microtexture suppression",
+    "background cleanup preserving original shadow",
+    "face selective midtone darkening and 28% median blend on low-gradient substrate; white nozzle mild unsharp"
+  ],
+  "geometryWarp": false,
+  "aiCalls": 0,
+  "protectedInteriorPixelChanges": 0,
+  "actualModel": "UNKNOWN",
+  "actualEffort": "UNKNOWN",
+  "status": "候选待独立审阅",
+  "newFiles": [
+    "368_无字主体精修.jpg",
+    "mask-face.svg",
+    "mask-key.svg",
+    "mask-metal.svg",
+    "mask-protect.svg",
+    "mask-shell.svg",
+    "retouch.js",
+    "制作记录.json",
+    "对照_喷面_左原右修.jpg",
+    "对照_头颈银键_左原右修.jpg",
+    "对照_整图_左原右修.jpg",
+    "对照_银柄接口_左原右修.jpg",
+    "精修像素母版.png",
+    "缩略预览.jpg"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "reviewer": "root",
+  "reviewed_at": "2026-10-24T22:21:37.055279+08:00",
+  "candidate_sha256": "ce5a06b52112c6997f249d604fea33143a26907ed193a14ed79ac46eae5d092e",
+  "jpg_sha256": "c803a8450a87190ea4bdc7b8c070cb4b5a2a8fe0d750168dccecdb92a6c2bd61",
+  "appearance_source_sha256": [
+    "0b388756f0ee2e35630dac7789237153d390fa8aaab8f58f6e2643d4181be21d",
+    "6de02f19793c568c799762525475cd0241af1b9c41487580383be4efbd2a1fa2",
+    "9f6e724d9fc0e01a0670fbd1964d4a3e2e32d985447bcdb99fc98fe147526eb1",
+    "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90"
+  ],
+  "checks": {
+    "photo_appearance": "PASS",
+    "geometry": "PASS",
+    "reference_style": "PASS",
+    "copy": "PASS",
+    "no_model": "PASS",
+    "export": "PASS"
+  },
+  "finding": "实际打开v001/v002/v004、三处修补1:1对照和最终JPG，并对照A034与SIL001/002/004/005。保留蓝色竖纹窗光、前大后小错落、右大字/双蓝胶囊/红钮小窗、下深色标题带，非并列目录。后背外来凸条已去除，背壳浅顺收束；三处坏孔各对位一枚工具生成的清晰白环，孤立亮尾移除，未再带邻孔。文字不盖商品，前背展示/单花洒小字明确。",
+  "retained": "A034冷蓝窗光、前背重叠与大字/胶囊/小窗/底带的广告密度",
+  "deviation": "删除参考六档、滤芯、喷枪、680%和证书；采用本商品三档/按压除垢；本轮干态无水流。",
+  "local_repair_limit": "仅对1036像素小mask作补片投回，外部PNG变化0；不是原照片或3D像素硬锁，也不证明逐孔真实坐标完整映射。",
+  "limits": "人工视觉比较；没有自动实物IoU、精密曲率、逐孔物理测量、平台官方合规审核或客户接受证明。"
+}

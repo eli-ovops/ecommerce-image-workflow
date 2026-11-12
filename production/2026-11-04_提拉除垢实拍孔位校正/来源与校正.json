@@ -1,0 +1,27 @@
+{
+  "face_hand_pins": "real-3.jpg original photo, same projective transform",
+  "crosscheck": [
+    "real-1.jpg",
+    "real-2.jpg"
+  ],
+  "nominal_projected_envelope": [
+    [
+      320,
+      208
+    ],
+    [
+      1352,
+      208
+    ],
+    [
+      1352,
+      896
+    ],
+    [
+      320,
+      896
+    ]
+  ],
+  "pin_adjustment": "Local red colour only, original positions and outlines; no synthetic holes or pin dots",
+  "hidden_area": "covered by photographed hand, not reconstructed"
+}

@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-24",
+  "request": "这个地方也不对。你看看我发给你的视频。",
+  "scope": "inspect and locally repair head-neck transition; ecommerce production remains paused",
+  "source_records": [
+    {
+      "source": "/Users/USER/Downloads/9cb27fd5fdb50f38e74d2d46ac19704e_raw.mp4",
+      "copy": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/review/neck-video-feedback/9cb27fd5fdb50f38e74d2d46ac19704e_raw.mp4",
+      "bytes": 14776782,
+      "sha256": "34c9a52f9f4572902ec88f6e71393d232ec63c74fa070570bbbbcc1b0f113599"
+    },
+    {
+      "source": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/codex-clipboard-34252c1d-bd28-426f-9c42-f4076ea49538.png",
+      "copy": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/review/neck-video-feedback/codex-clipboard-34252c1d-bd28-426f-9c42-f4076ea49538.png",
+      "bytes": 61456,
+      "sha256": "3cbafc942e57a4d4915f02cec1fe65edcdb67165cf563585c9a98c2698c82734"
+    }
+  ],
+  "inspection": {
+    "duration_seconds": 10.04,
+    "sample_fps": 3,
+    "frame_count": 30,
+    "sample_coverage": "30 sampled frames over 10.04-second source, not continuous audiovisual review",
+    "contact": "video-contact.jpg",
+    "opened_individual_frames": [
+      "frames/f007.jpg",
+      "frames/f009.jpg",
+      "frames/f017.jpg",
+      "frames/f028.jpg"
+    ],
+    "audio_reviewed": false,
+    "root_findings": [
+      "v009 head-neck transition above switch shows abrupt short shoulder and rear convex bulge",
+      "video shows a longer continuous rear neck transition",
+      "cylindrical head sidewall should remain; only the affected upper neck is authorized for repair"
+    ],
+    "physical_accuracy": "uncalibrated; no true-scale geometric acceptance"
+  },
+  "owner": "blender_product_model",
+  "status": "LOCAL_NECK_CORRECTION_READY_FOR_REVIEW",
+  "new_files_purpose": "Original copies, 30 sampled JPG frames, contact and this intake record retained as necessary modeling and review evidence; no originals removed.",
+  "result": "../../blender/v010a/shower_black_clay_v010a.blend",
+  "review_record": "../head-neck-review-v010a.json"
+}

@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "asset_id": "P02",
+  "candidate_sha256": "91642edeb906b8655692b94a43c91025ab35dc506fef5b22c29190b26a671d4c",
+  "jpg_sha256": "bdd5d52b8264a7ae082adfa0c913c3d55a68cd47436544e807359fdea037f1ef",
+  "model_sha256": "e3de47e1ddd7ee4741d2a698e8fb22078839297c0834f6bad32af4b4341d4a97",
+  "reviewer": "root",
+  "reviewed_at": "2026-10-24T20:37:17.852310+08:00",
+  "finding": "Two distinct views of the same body mesh, complete head/neck/handle/thread; rear surface has no central circular stain. Silver visual shading and clean continuous highlights. A034 dual-product hierarchy and A022 two-column reading adapted to user simplified same-product front/back; no competitor or unsupported claim. Full-size JPEG actually opened.",
+  "checks": {
+    "geometry": "PASS",
+    "style": "PASS",
+    "copy": "PASS",
+    "export": "PASS"
+  },
+  "independent_layout_review": {
+    "path": "production/2026-10-24_三维主图试作/model_assets/final-layout-independent-review.json",
+    "sha256": "f3e58841b96fe7d2bf7cca5dc1a5c279e86e7b0befb23533ce014bce2e1874cc"
+  },
+  "water": "NOT_APPLICABLE_DRY",
+  "person": "NOT_APPLICABLE_NO_PERSON",
+  "acceptance_scope": "Internal review readiness only, not customer acceptance or physically calibrated geometry"
+}

@@ -1,0 +1,68 @@
+{
+  "text": [
+    {
+      "text": "提拉红钮 辅助除垢",
+      "x": 45,
+      "y": 65,
+      "size": 57,
+      "color": "#efd0a3",
+      "font": "Heiti SC",
+      "bold": true,
+      "oblique": true,
+      "gold_gradient": true,
+      "extrusion_px": 3
+    },
+    {
+      "text": "短针辅助清理出水孔",
+      "x": 45,
+      "y": 145,
+      "size": 47,
+      "color": "#efd0a3",
+      "font": "Heiti SC",
+      "bold": true,
+      "oblique": false,
+      "gold_gradient": true,
+      "extrusion_px": 3
+    },
+    {
+      "text": "向外提拉 · 操作细节见实拍",
+      "x": 45,
+      "y": 225,
+      "size": 31,
+      "color": "#efd0a3",
+      "font": "Heiti SC",
+      "bold": true,
+      "oblique": false,
+      "gold_gradient": true,
+      "extrusion_px": 3
+    },
+    {
+      "text": "短针实拍细节",
+      "x": 599,
+      "y": 1512,
+      "size": 39,
+      "color": "#efd0a3",
+      "font": "Heiti SC",
+      "bold": true,
+      "oblique": false,
+      "gold_gradient": true,
+      "extrusion_px": 3
+    }
+  ],
+  "transforms": [
+    {
+      "source": "native-static.png",
+      "uniform": true,
+      "rotation": -8,
+      "xy": [
+        34,
+        469
+      ],
+      "size": [
+        832,
+        1001
+      ]
+    }
+  ],
+  "note": "整件拉出状态未完成；真实局部只能证明短针可见。"
+}

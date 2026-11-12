@@ -1,0 +1,69 @@
+{
+  "id": "BLACK-THREEQUARTER",
+  "version": 1,
+  "prompt": "Use case: product-mockup. Create ONE accurate dry BLACK handheld showerhead product master photograph on a seamless very light gray-white studio background. Completely new photograph based ONLY on these FIVE real photographs of the SAME actual product. No previous generated product is a reference.\nInput1=real BLACK front (102): exact face/outline/outlet arrangement/buttons/black thread.\nInput2=real BLACK back (101): smooth gently convex rear shell and seamless narrowing into handle.\nInput3=NEW side-01: continuous side-profile curvature and shallow head-to-handle offset.\nInput4=NEW side-02: opposite side confirms thickness and gentle smooth transition.\nInput5=NEW side-03 horizontal side view: MOST IMPORTANT exact shallow convex rear, head-face versus grip-axis real angle and smooth curved neck.\nPrimary requirement is PHYSICAL GEOMETRY FIDELITY, not redesign or beautification. Reconstruct the shape jointly from these real photos. It is NOT a flat round disk mounted on a ruler-straight handle like a paddle/racquet. The rear shell is gently and continuously convex; head, neck and grip form one smooth SHALLOW S-CURVE in side elevation. Face plane is angled relative to handle axis exactly as photos show. Rounded thick sidewall tapers organically through a subtly pinched curved neck into the cylindrical/oval grip. Avoid an exaggerated L neck/gooseneck, sharp elbow, separate ball joint, stem, articulating hinge, flat rear disk, huge thickness or straight flattened profile. Preserve moderate real shallow curvature, not invent a dramatic bend.\nCAMERA: true THREE-QUARTER SIDE view from the FRONT-SIDE, sufficiently off-axis that the curved sidewall, convex rear edge, neck sweep and actual head/grip angle are clearly visible. The face should be a foreshortened ellipse showing all red center and small white outlets, not a near-frontal circular projection that conceals the curvature. Show complete single product vertically centered with slight natural diagonal lean, full head to bare threaded end, generous empty background margins. Portrait1024x1536.\nAppearance exact BLACK SKU: deep satin-matte black outer shell, back and grip; soft broad restrained photographic highlights to reveal curved volume, never silver/gunmetal recolor. Continuous dark black face, original pattern of many small LOW FLAT WHITE eyelet rings and dense tiny BLACK peripheral perforations, central small RED manual descaling ring-button, lower BLACK mode selector on curved neck. Rings thin and near flush, no raised long white nozzles/donuts. No extra carved concentric rings or invented face components. Bare male thread at grip end is BLACK as actual photos, short with real grooves, no added connector/collar/hose. Smooth clean black rear, no circular patch or decoration.\nSoft realistic product photography lighting and gentle ground contact shadow, no dramatic stylization or shiny chrome. Product only: remove source hands, people and workshop background entirely. No water, drops, mist, hose, mount/bracket, accessories, text, measurements, logos, symbols, certificates, badges or packaging. One single product, no collage or multiple views. This is a geometry-validation master, preserve actual proportions and continuous mild S curve over generic showerhead conventions.",
+  "refs": [
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185739_102_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185739_101_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/sources/side-01.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/sources/side-02.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/sources/side-03.jpg"
+  ],
+  "directed_images_viewed": [
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/sources/side-01.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/sources/side-02.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/sources/side-03.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185739_101_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185739_102_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185740_103_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185803_104_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185803_105_2.jpg"
+  ],
+  "fresh": true,
+  "old_generated_product_inputs": false,
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "batch_full_read_record": "Reuses current batch actual full74 records under BATCH-REF-20261023-v1; only 3 new actual product side photographs supplemented in full.",
+  "observations": [
+    "New three side photographs all actually opened, plus BLK001-005 real photographs.",
+    "side03 shows shallow convex back and curved neck transitioning continuously into grip, face/grip axes angled.",
+    "Deep satin black shell and grip; original red center manual button and separate black lower selector; thin low white eyelet rings and peripheral dark holes.",
+    "Black bare thread observed in actual black photos.",
+    "No K01/K02 or other previously generated product supplied."
+  ],
+  "validation": "Native output to be actually opened and compared to original side03/side01/side02; root independent QA required.",
+  "preflight_date_utc": "2026-10-23T07:23:54.950061+00:00",
+  "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/black-threequarter/black-threequarter-v1.png",
+  "source_output": "/Users/USER/.codex/generated_images/01a1677a-d5c6-7ae1-aff4-beb08d398f79/exec-b25aeaa2-b1fe-4a22-9360-a8224c940ab2.png",
+  "actual_dimensions": [
+    1024,
+    1536
+  ],
+  "sha256": "40696b334f3eae323be9af00aa1397dce22f1b41a3ef1d7e08986f5bed07ceaa",
+  "date_utc": "2026-10-23T07:24:45.620417+00:00",
+  "self_review": {
+    "native_output_actually_opened": true,
+    "status": "CANDIDATE_PENDING_GEOMETRY_QA",
+    "preserved": [
+      "Deep satin black casing/grip and short black bare thread",
+      "Black panel with small low flat white rings, peripheral dark holes, red center ring-button and lower black selector",
+      "Continuous curved head/neck/grip silhouette rather than separate joint or sharp L bend",
+      "Light gray-white background, one complete product, no water/person/text/accessory"
+    ],
+    "visible_limitations": [
+      "Camera remains somewhat near frontal three-quarter; sidewall visible but rear convexity and real face/grip angle not fully demonstrated by this view.",
+      "Cannot claim exact 3D geometry or customer acceptance based on this one generated candidate."
+    ],
+    "comparison_sources": [
+      "side-01",
+      "side-02",
+      "side-03",
+      "BLK001",
+      "BLK002",
+      "BLK003",
+      "BLK004",
+      "BLK005"
+    ],
+    "additional_generation": "None; one built-in call requested and completed."
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "id": "D06",
+  "role": "外观侧背大景与三局部窗",
+  "sku": "银色",
+  "refs_actual_viewed": [
+    {
+      "id": "A023",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_18.jpg",
+      "sha256": "2159c43045000b669ed3d67e26ab674910a41adaad67d1da40f3c5de0923fb6c"
+    },
+    {
+      "id": "A027",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_22.jpg",
+      "sha256": "7d8e57cebe77dcb02d4e46c4ddcc31da89bb5fc39e1441553fe5348c7c3f5ae3"
+    },
+    {
+      "id": "R031",
+      "path": "references/2026-10-22_首批参考/01_微信参考原图/R031_配件_软管展示.jpg",
+      "sha256": "fd8a5b10641fbd50af5dc2905b4abb6afc6681e867b8acd7c8919c663fc4e328"
+    }
+  ],
+  "actual_inputs": [
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/rear-cutout-v003.png",
+      "sha256": "88adf99e7b7c50c4a73f5000988f7ceb33215f7e3ffb5007641750807b557a2d"
+    },
+    {
+      "path": "production/2026-10-24_实拍主导主图/generated/R01-v003-composite.png",
+      "sha256": "dd8c54d386ada0bd7406e75075014297c35ed622a1c81bbd3760ed2c4e3d2665"
+    },
+    {
+      "path": "products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg",
+      "sha256": "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90"
+    },
+    {
+      "path": "production/2026-10-24_实拍主导续作/generated/R06-v002-native.png",
+      "sha256": "2187eb5dfff71d66686d40736240218e838a2af749a9341f00b26a05007ca4f6"
+    }
+  ],
+  "claims": [
+    "头部侧壁",
+    "侧面实拍",
+    "头颈过渡"
+  ],
+  "copy": [
+    "侧背之间",
+    "看见连续的外观线条",
+    "头部侧壁",
+    "侧面实拍",
+    "头颈过渡"
+  ],
+  "source_files": [
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/rear-cutout-v003.png",
+      "sha256": "88adf99e7b7c50c4a73f5000988f7ceb33215f7e3ffb5007641750807b557a2d"
+    },
+    {
+      "path": "production/2026-10-24_实拍主导主图/generated/R01-v003-composite.png",
+      "sha256": "dd8c54d386ada0bd7406e75075014297c35ed622a1c81bbd3760ed2c4e3d2665"
+    },
+    {
+      "path": "products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg",
+      "sha256": "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90"
+    },
+    {
+      "path": "production/2026-10-24_实拍主导续作/generated/R06-v002-native.png",
+      "sha256": "2187eb5dfff71d66686d40736240218e838a2af749a9341f00b26a05007ca4f6"
+    }
+  ],
+  "source_layers": [
+    {
+      "source": {
+        "path": "production/2026-10-24_完整电商套图/generated/rear-cutout-v003.png",
+        "sha256": "88adf99e7b7c50c4a73f5000988f7ceb33215f7e3ffb5007641750807b557a2d"
+      },
+      "uniform_scale": 1.3732718894009217,
+      "rotation_deg": -5,
+      "destination_top_left": [
+        728,
+        456
+      ],
+      "resampled_size": [
+        725,
+        1538
+      ],
+      "operation": "alpha composite existing product RGB, no recolor or local geometry edits",
+      "source_kind": "derived_alpha_or_crop_of_photo_guided_generated_product"
+    },
+    {
+      "resampled_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/ea3974d942d10b78.png",
+        "sha256": "e81da78c26949bd15f743ac0097cfe5ac3538b135fd5a93c85fa0942578c3e9a"
+      },
+      "source": {
+        "path": "production/2026-10-24_实拍主导主图/generated/R01-v003-composite.png",
+        "sha256": "dd8c54d386ada0bd7406e75075014297c35ed622a1c81bbd3760ed2c4e3d2665"
+      },
+      "exif_display_size": [
+        1254,
+        1254
+      ],
+      "source_crop": [
+        710,
+        130,
+        865,
+        470
+      ],
+      "uniform_scale": 3.032258064516129,
+      "scaled_crop_offset": [
+        0,
+        333
+      ],
+      "destination": [
+        80,
+        445,
+        470,
+        365
+      ],
+      "operation": "uniform cover crop; source RGB retained through resampling",
+      "source_kind": "photo_guided_generated_product_or_composite"
+    },
+    {
+      "resampled_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/f0500bd5dcdfc9a2.png",
+        "sha256": "7b598a312bfd61d4dc67e494c8c35ace5e116da30c0a1f069377dfe582227efe"
+      },
+      "source": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg",
+        "sha256": "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90"
+      },
+      "exif_display_size": [
+        4284,
+        5712
+      ],
+      "source_crop": [
+        1600,
+        200,
+        2750,
+        4550
+      ],
+      "uniform_scale": 0.40869565217391307,
+      "scaled_crop_offset": [
+        0,
+        706
+      ],
+      "destination": [
+        80,
+        975,
+        470,
+        365
+      ],
+      "operation": "uniform cover crop; source RGB retained through resampling",
+      "source_kind": "original_real_photo"
+    },
+    {
+      "resampled_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/38dcb1c246473b89.png",
+        "sha256": "92d8435120c7dc1ed5ac57cdc656bebc19ab22348e573d31d60f261ce897e614"
+      },
+      "source": {
+        "path": "production/2026-10-24_实拍主导续作/generated/R06-v002-native.png",
+        "sha256": "2187eb5dfff71d66686d40736240218e838a2af749a9341f00b26a05007ca4f6"
+      },
+      "exif_display_size": [
+        1254,
+        1254
+      ],
+      "source_crop": [
+        720,
+        380,
+        1090,
+        710
+      ],
+      "uniform_scale": 1.2702702702702702,
+      "scaled_crop_offset": [
+        0,
+        27
+      ],
+      "destination": [
+        80,
+        1505,
+        470,
+        365
+      ],
+      "operation": "uniform cover crop; source RGB retained through resampling",
+      "source_kind": "photo_guided_generated_product_or_composite"
+    }
+  ],
+  "transform": "See source_layers; all photo transforms uniform scaling/cropping; no nonuniform product stretch",
+  "output": {
+    "path": "production/2026-10-24_完整电商套图/generated/D06-v004.jpg",
+    "sha256": "92e8491d279f398e000985bb877eeab74dd968918146a5d662b62f62b2a561eb"
+  },
+  "working": {
+    "path": "production/2026-10-24_完整电商套图/generated/D06-v004.png",
+    "sha256": "c09caac4f2c04d754478c77fa77b182aefb69a00971744dd6155117dbb178cdc"
+  },
+  "dims": [
+    1600,
+    2100
+  ],
+  "notes": "大背面来自本轮已验R06生成图，不用被否定旧侧面；SIL004侧窗为原实拍含原局部手；取消参考滤芯/喷枪/软管",
+  "status": "AWAITING_INDEPENDENT_VISUAL_REVIEW",
+  "refs": [
+    {
+      "id": "A023",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_18.jpg",
+      "sha256": "2159c43045000b669ed3d67e26ab674910a41adaad67d1da40f3c5de0923fb6c"
+    },
+    {
+      "id": "A027",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_22.jpg",
+      "sha256": "7d8e57cebe77dcb02d4e46c4ddcc31da89bb5fc39e1441553fe5348c7c3f5ae3"
+    },
+    {
+      "id": "R031",
+      "path": "references/2026-10-22_首批参考/01_微信参考原图/R031_配件_软管展示.jpg",
+      "sha256": "fd8a5b10641fbd50af5dc2905b4abb6afc6681e867b8acd7c8919c663fc4e328"
+    }
+  ]
+}

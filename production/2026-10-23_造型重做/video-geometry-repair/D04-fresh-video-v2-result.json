@@ -1,0 +1,12 @@
+{
+  "native": "/Users/USER/.codex/generated_images/01a16319-d848-71d0-95e1-72970644c800/exec-d74d11d2-50ac-4d68-999c-8f9ee45a73fb.png",
+  "saved": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/D04-fresh-video-v2.png",
+  "sha256": "9f0d07f3c9e53e82605460dc708652cff08717c8ac8741a5439b1695423cc4a6",
+  "dimensions": [
+    941,
+    1670
+  ],
+  "status": "SELECTED_PASS_WITH_LIMITATIONS",
+  "tool": "builtin image_gen",
+  "mode": "fresh generation from original sources"
+}

@@ -1,0 +1,19 @@
+{
+  "status": "REWORK_NOT_COMPLETED_NO_REPLACEMENT_DELIVERABLE",
+  "user_affected_images": [392,399],
+  "owner_thread": "01a18bc9-5492-79e3-bfe3-678a64ea1c26",
+  "requested_model": "gpt-6-astra/medium",
+  "actual_runtime_model": "UNKNOWN",
+  "root_actually_viewed": ["original hole-map-source-overlay.jpg", "399-preview.jpg", "399-detail.jpg", "uv-color-candidate/399-preview.jpg", "uv-color-candidate/399-detail.jpg", "uv-color-candidate/same-light-check/399-preview.jpg", "uv-color-candidate/same-light-check/399-detail.jpg"],
+  "geometry_evidence": "Owner source-check reports96 photo-classified candidate holes open,132 blind circles closed and sampled leaf centers closed. Root inspected original photo overlay and rendered detail, did not rerun Blender or claim factory-confirmed total.",
+  "root_findings": [
+    "Original rejected AI candidates invent dark holes inside leaves and misclassify closed circles; generated redpin locations inherit these errors.",
+    "Deterministic source removes extra leaf holes; two-class circle layout is substantially more traceable, but photographic contour registration is not exact.",
+    "Normal-only texture route lost clear material and leaf shape; source-based correction still failed advertisement appearance.",
+    "First UV color candidate simultaneously changed light powers/world/exposure and washed out entire scene. Root identified this confound in source, requested one same-light check.",
+    "Same-light check restores charcoal/red and clearer photographed almond leaves, but blind-circle/offcenter ring doubling remains; silver shell reads too dark and overall image lacks accepted advertising finish. No visual PASS."
+  ],
+  "not_completed": ["399 qualified advertising replacement", "392 repaired functional advertisement", "full pixel-level hole/circle alignment", "high-resolution delivery"],
+  "decision": "Stop failed routes; preserve sources and all candidates. No new candidate replaces rejected392/399 in the13-image delivery. No additional permission requested, no public release, no deletion.",
+  "current_useful_artifact": "uv-color-candidate/same-light-check/399-detail.jpg is a diagnostic closeup only, not an approved product/ad image."
+}

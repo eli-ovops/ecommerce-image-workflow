@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-24T16:36:49",
+  "reviewer": "root",
+  "producer": "blender_product_model",
+  "candidate": {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/shower_black_clay_v001.blend",
+    "sha256": "161e76b65d08dfbe4abcc0534387b0798c4a6d0b0d9d151ab32da82eae272694"
+  },
+  "status": "REVISION_REQUIRED",
+  "actually_viewed": [
+    "v001/renders/front.jpg",
+    "v001/renders/left.jpg",
+    "v001/renders/back.jpg",
+    "v001/renders/front_oblique.jpg",
+    "P03",
+    "P04",
+    "P09",
+    "P10",
+    "P11",
+    "P12",
+    "P13",
+    "18 sampled video frames contact"
+  ],
+  "source_sha256": {
+    "P01": "bff4932ec04d16c353b6c70f9b5b1d9e8238d2328444340488cc47a51ce8e3f4",
+    "P02": "aeb93f9f2acf00218bd162ac9ecafd34cd165ed07e240a26b2f0b64a010e4049",
+    "P03": "9c46ff440781cd647bd4cb2c747e50832b116812fb5e2f6a9aa1bc0054186a5d",
+    "P04": "5d97b3aa898b962a4656f25c6b690b9ad6bbe8820e73fa3f3a8f4ad967db471c",
+    "P05": "68b4fafd2fdc59b767251a4597dbce043f72d969e7c6ac4c0910d6ecd480916b",
+    "P06": "7a2aa4e37cf0faf8be625f396404479462ac269f71c6c6452396550f2eea4d07",
+    "P07": "ae0309436769bd753242b20d04ee97380e23b491cbd210b4635c15eea84fee16",
+    "P08": "44a598043b2cc3e07eca50be22bce3bb701995f4068069744f9ea67e16291dbd",
+    "P09": "341d2ed498ec1bea3d22078d68f510c654fa99004b0ea64c5c9df2ef8b02dc35",
+    "P10": "f479f0accd8a6577eead0a5803107c3ea616ba7c754e9f9a0619845b6cb3806d",
+    "P11": "3adbc88d32e90a4d7e3ad35abfcd7eb9a1123fe4aba6605062cca154497c9a81",
+    "P12": "3c61e64c2b8fd09477e951ff0faa4c93eea6d483caa022b225bc607aeb84d5ef",
+    "P13": "7d3f24ba65337bcd28995b921acfdaff2a9853033f134b0e2b9f093d4770bbdc",
+    "V01": "e1f1891879c865657774ef54c2135bf0e75b68ed2824ef867e6bdff58fa11b20"
+  },
+  "findings": [
+    "Side profile bends more strongly than the P03/P04 and sampled opposite-side references; lower handle bow is too strong.",
+    "Neck transition and a horizontal shading band under the rear head need surface-continuity inspection.",
+    "Front head/handle proportions are plausible only; uncalibrated source perspective prevents precision claims.",
+    "Nozzles and exact thread unfinished; blank panel is explicitly incomplete."
+  ],
+  "repair_scope": [
+    "Reduce excessive handle/head inclination and lower-handle bow",
+    "Improve continuous cross-section interpolation; inspect normals and neck fold"
+  ],
+  "limits": [
+    "No calibrated camera pose, metric scan, IoU, manufacturing CAD accuracy or customer acceptance",
+    "No full continuous playback or audio review; sampled video inspection only"
+  ]
+}

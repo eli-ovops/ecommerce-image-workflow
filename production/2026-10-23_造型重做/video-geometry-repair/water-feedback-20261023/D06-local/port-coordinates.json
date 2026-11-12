@@ -1,0 +1,370 @@
+{
+  "upper": [
+    {
+      "id": "upper-001",
+      "x": 593,
+      "y": 432,
+      "detector_score": 205.11,
+      "water_origin": true
+    },
+    {
+      "id": "upper-002",
+      "x": 525,
+      "y": 433,
+      "detector_score": 193.91,
+      "water_origin": true
+    },
+    {
+      "id": "upper-003",
+      "x": 659,
+      "y": 440,
+      "detector_score": 186.7,
+      "water_origin": true
+    },
+    {
+      "id": "upper-004",
+      "x": 456,
+      "y": 443,
+      "detector_score": 202.79,
+      "water_origin": true
+    },
+    {
+      "id": "upper-005",
+      "x": 723,
+      "y": 457,
+      "detector_score": 187.14,
+      "water_origin": true
+    },
+    {
+      "id": "upper-006",
+      "x": 397,
+      "y": 461,
+      "detector_score": 189.48,
+      "water_origin": true
+    },
+    {
+      "id": "upper-007",
+      "x": 575,
+      "y": 477,
+      "detector_score": 208.17,
+      "water_origin": true
+    },
+    {
+      "id": "upper-008",
+      "x": 509,
+      "y": 480,
+      "detector_score": 198.58,
+      "water_origin": true
+    },
+    {
+      "id": "upper-009",
+      "x": 335,
+      "y": 483,
+      "detector_score": 181.8,
+      "water_origin": true
+    },
+    {
+      "id": "upper-010",
+      "x": 779,
+      "y": 483,
+      "detector_score": 166.7,
+      "water_origin": true
+    },
+    {
+      "id": "upper-011",
+      "x": 640,
+      "y": 484,
+      "detector_score": 193.05,
+      "water_origin": true
+    },
+    {
+      "id": "upper-012",
+      "x": 453,
+      "y": 493,
+      "detector_score": 176.86,
+      "water_origin": true
+    },
+    {
+      "id": "upper-013",
+      "x": 704,
+      "y": 501,
+      "detector_score": 199.85,
+      "water_origin": true
+    },
+    {
+      "id": "upper-014",
+      "x": 399,
+      "y": 513,
+      "detector_score": 191.19,
+      "water_origin": true
+    },
+    {
+      "id": "upper-015",
+      "x": 283,
+      "y": 515,
+      "detector_score": 175.3,
+      "water_origin": true
+    },
+    {
+      "id": "upper-016",
+      "x": 828,
+      "y": 516,
+      "detector_score": 163.87,
+      "water_origin": true
+    },
+    {
+      "id": "upper-017",
+      "x": 565,
+      "y": 524,
+      "detector_score": 201.53,
+      "water_origin": true
+    },
+    {
+      "id": "upper-018",
+      "x": 760,
+      "y": 525,
+      "detector_score": 173.9,
+      "water_origin": true
+    },
+    {
+      "id": "upper-019",
+      "x": 500,
+      "y": 530,
+      "detector_score": 187.27,
+      "water_origin": true
+    },
+    {
+      "id": "upper-020",
+      "x": 630,
+      "y": 531,
+      "detector_score": 199.59,
+      "water_origin": true
+    },
+    {
+      "id": "upper-021",
+      "x": 348,
+      "y": 536,
+      "detector_score": 186.67,
+      "water_origin": true
+    },
+    {
+      "id": "upper-022",
+      "x": 440,
+      "y": 544,
+      "detector_score": 169.63,
+      "water_origin": true
+    },
+    {
+      "id": "upper-023",
+      "x": 691,
+      "y": 549,
+      "detector_score": 182.26,
+      "water_origin": true
+    },
+    {
+      "id": "upper-024",
+      "x": 237,
+      "y": 553,
+      "detector_score": 180.15,
+      "water_origin": true
+    },
+    {
+      "id": "upper-025",
+      "x": 870,
+      "y": 555,
+      "detector_score": 150.03,
+      "water_origin": true
+    },
+    {
+      "id": "upper-026",
+      "x": 808,
+      "y": 558,
+      "detector_score": 165.42,
+      "water_origin": true
+    },
+    {
+      "id": "upper-027",
+      "x": 389,
+      "y": 567,
+      "detector_score": 142.49,
+      "water_origin": true
+    },
+    {
+      "id": "upper-028",
+      "x": 298,
+      "y": 568,
+      "detector_score": 175.76,
+      "water_origin": true
+    },
+    {
+      "id": "upper-029",
+      "x": 554,
+      "y": 569,
+      "detector_score": 180.98,
+      "water_origin": true
+    },
+    {
+      "id": "upper-030",
+      "x": 743,
+      "y": 571,
+      "detector_score": 145.52,
+      "water_origin": true
+    },
+    {
+      "id": "upper-031",
+      "x": 624,
+      "y": 576,
+      "detector_score": 188.91,
+      "water_origin": true
+    },
+    {
+      "id": "upper-032",
+      "x": 492,
+      "y": 578,
+      "detector_score": 153.01,
+      "water_origin": true
+    },
+    {
+      "id": "upper-033",
+      "x": 205,
+      "y": 592,
+      "detector_score": 159.14,
+      "water_origin": true
+    },
+    {
+      "id": "upper-034",
+      "x": 344,
+      "y": 595,
+      "detector_score": 171.75,
+      "water_origin": true
+    },
+    {
+      "id": "upper-035",
+      "x": 683,
+      "y": 596,
+      "detector_score": 147.79,
+      "water_origin": true
+    },
+    {
+      "id": "upper-036",
+      "x": 432,
+      "y": 597,
+      "detector_score": 127.84,
+      "water_origin": true
+    },
+    {
+      "id": "upper-037",
+      "x": 899,
+      "y": 598,
+      "detector_score": 165.64,
+      "water_origin": true
+    },
+    {
+      "id": "upper-038",
+      "x": 847,
+      "y": 600,
+      "detector_score": 140.54,
+      "water_origin": true
+    },
+    {
+      "id": "upper-039",
+      "x": 780,
+      "y": 602,
+      "detector_score": 127.99,
+      "water_origin": true
+    },
+    {
+      "id": "upper-040",
+      "x": 256,
+      "y": 603,
+      "detector_score": 167.33,
+      "water_origin": true
+    }
+  ],
+  "lower": [
+    {
+      "id": "lower-001",
+      "x": 660,
+      "y": 1227,
+      "detector_score": 167.04,
+      "water_origin": true
+    },
+    {
+      "id": "lower-002",
+      "x": 689,
+      "y": 1227,
+      "detector_score": 138.86,
+      "water_origin": true
+    },
+    {
+      "id": "lower-003",
+      "x": 631,
+      "y": 1228,
+      "detector_score": 150.78,
+      "water_origin": true
+    },
+    {
+      "id": "lower-004",
+      "x": 603,
+      "y": 1229,
+      "detector_score": 136.44,
+      "water_origin": true
+    },
+    {
+      "id": "lower-005",
+      "x": 735,
+      "y": 1231,
+      "detector_score": 147.83,
+      "water_origin": true
+    },
+    {
+      "id": "lower-006",
+      "x": 575,
+      "y": 1232,
+      "detector_score": 159.59,
+      "water_origin": true
+    },
+    {
+      "id": "lower-007",
+      "x": 763,
+      "y": 1234,
+      "detector_score": 106.58,
+      "water_origin": true
+    },
+    {
+      "id": "lower-008",
+      "x": 549,
+      "y": 1236,
+      "detector_score": 160.36,
+      "water_origin": true
+    },
+    {
+      "id": "lower-009",
+      "x": 618,
+      "y": 1239,
+      "detector_score": 116.26,
+      "water_origin": true
+    },
+    {
+      "id": "lower-010",
+      "x": 785,
+      "y": 1239,
+      "detector_score": 140.36,
+      "water_origin": true
+    },
+    {
+      "id": "lower-011",
+      "x": 715,
+      "y": 1240,
+      "detector_score": 138.39,
+      "water_origin": true
+    },
+    {
+      "id": "lower-012",
+      "x": 713,
+      "y": 1229,
+      "detector_score": 999,
+      "water_origin": true
+    }
+  ]
+}

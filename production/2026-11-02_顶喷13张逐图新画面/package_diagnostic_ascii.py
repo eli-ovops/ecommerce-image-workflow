@@ -1,0 +1,52 @@
+from pathlib import Path
+from PIL import Image,ImageDraw,ImageOps,ImageChops
+import json,zipfile,hashlib,html,io,xml.etree.ElementTree as ET
+P=Path(__file__).resolve().parent;R=P.parents[1];records=sorted(json.loads((P/'manifest.json').read_text()),key=lambda r:r['id'])
+checks=[];cards=[];contact=Image.new('RGB',(1440,2240),'#e7e5e1');cd=ImageDraw.Draw(contact)
+for i,r in enumerate(records):
+ n=r['id'];f=P/f'JPG/{n}.jpg';im=Image.open(f);im.load();assert im.size==tuple(r['size']);assert im.format=='JPEG'
+ # Independently reconstruct archived layers, not trusting merged preview.
+ with zipfile.ZipFile(P/f'editable/{n}/layers.ora') as z:
+  assert z.testzip() is None;tree=ET.fromstring(z.read('stack.xml'));out=Image.new('RGBA',im.size)
+  for el in reversed(list(tree.find('stack'))):out=Image.alpha_composite(out,Image.open(io.BytesIO(z.read(el.attrib['src']))).convert('RGBA'))
+  merged=Image.open(io.BytesIO(z.read('mergedimage.png'))).convert('RGBA');assert ImageChops.difference(out,merged).getbbox() is None
+ ET.parse(P/f'editable/{n}/editable.svg')
+ thumb=im.copy();thumb.thumbnail((350,495));x=i%4*360;y=i//4*560;contact.paste(thumb,(x,y+28));cd.text((x+5,y+5),str(n),fill='#111')
+ mobile=im.copy();mobile.thumbnail((360,640));mobile.save(P/f'review/{n}-mobile.jpg',quality=94)
+ ref=Image.open(R/f'references/2026-10-31_\u540c\u6b3e\u5546\u6237\u7535\u5546\u53c2\u8003/\u5fae\u4fe1\u56fe\u7247_20261031133902_{n}_2.jpg');ref.thumbnail((500,890));ref.save(P/f'review/{n}-reference.jpg',quality=92)
+ status='\u5f85\u5ba1\uff1a\u9759\u6001\u8fd1\u4f3c\uff0c\u539a\u8fb9/\u771f\u5b9e\u611f\u672a\u901a\u8fc7' if n in [387,392,395,399] else ('\u672a\u5b8c\u6210\uff1a\u7f3a\u5b89\u88c5\u89c6\u89d2\u4e0e\u6c34\u5e55' if n in [388,389,390,391,394] else '\u66ff\u4ee3\u9898\u6750\uff1a\u53c2\u8003\u529f\u80fd\u65e0\u4f9d\u636e')
+ r['status']=status;r['actual_primary_source']='376' if n in [387,392,395,399] else '372' if n not in [396,398] else 'multiple photo details'
+ checks.append(dict(id=n,size=im.size,sha256=hashlib.sha256(f.read_bytes()).hexdigest(),ora_crc=True,ora_recomposed_equal=True,svg_xml_valid=True,status=status))
+ cards.append(f'<section id="r{n}"><h2>{n} \u00b7 {status}</h2><div class="pair"><figure><img src="review/{n}-reference.jpg" alt="\u539f\u53c2\u8003{n}"><figcaption>\u539f\u53c2\u8003 \u00b7 \u4ec5\u4f9b\u5bf9\u7167</figcaption></figure><figure><a href="JPG/{n}.jpg"><img src="JPG/{n}.jpg" alt="\u5ba1\u9605\u5019\u9009{n}"></a><figcaption>\u672c\u8f6e\u5019\u9009 \u00b7 <a href="editable/{n}/editable.svg">\u53ef\u7f16\u8f91\u6587\u5b57SVG</a> \u00b7 <a href="editable/{n}/layers.ora">\u5206\u5c42ORA</a></figcaption></figure></div><p>{html.escape(r["note"])}</p></section>')
+contact.save(P/'review/13\u5f20\u5ba1\u9605\u603b\u89c8.jpg',quality=94)
+(P/'manifest.json').write_text(json.dumps(records,ensure_ascii=False,indent=2))
+(P/'verification.json').write_text(json.dumps(dict(stage='STOPPED_REFERENCE_FIDELITY_FAILED',checks=checks,browser_preview='NOT_RUN',svg_visual_render='NOT_VERIFIED; live text metrics may differ from JPG; layout.json and build.py preserve exact Pillow rendering',visual_review='All13 final JPGs opened individually in tool; source372/376/374/382 and connector details inspected; full reference review reused and relevant refs re-opened. No visual PASS claimed.'),ensure_ascii=False,indent=2))
+(P/'preview.html').write_text('''<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>\u9876\u55b713\u5f20 \u00b7 \u9636\u6bb5\u5ba1\u9605</title><style>body{margin:0;background:#16191c;color:#eee;font:16px/1.6 system-ui}main{max-width:1200px;margin:auto;padding:24px}a{color:#e6bd85}h1{font-size:30px}.notice{background:#3a2e20;padding:20px;border-left:4px solid #d7b07b}.pair{display:grid;grid-template-columns:1fr 1fr;gap:18px}figure{margin:0;background:#25282b;padding:10px}img{display:block;width:100%;height:auto}figcaption{padding:10px}section{margin:50px 0;border-top:1px solid #555}p{color:#d1d1d1}nav{display:flex;flex-wrap:wrap;gap:18px;padding:20px 0}@media(max-width:600px){main{padding:14px}.pair{gap:8px}figure{padding:3px}figcaption{font-size:12px}h2{font-size:19px}}</style><main><h1>13\u5f20\u9010\u56fe\u5bf9\u5e94 \u00b7 \u9636\u6bb5\u5ba1\u9605\u5019\u9009</h1><div class="notice">\u5df2\u4fdd\u5b587\u65b96\u7ad6\u3001\u53ef\u7f16\u8f91\u4e2d\u6587\u548c\u72ec\u7acb\u5546\u54c1/\u80cc\u666f\u5c42\u3002\u5c1a\u672a\u8fbe\u5230\u201c\u4ec5\u6362\u5546\u54c1\u548c\u6a21\u7279\uff0c\u5176\u4ed6\u5c3d\u91cf\u8d34\u53c2\u8003\u201d\u7684\u6574\u4f53\u9a8c\u6536\u8981\u6c42\uff1a\u5b9e\u62cd\u89d2\u5ea6\u4e0d\u8db3\u3001\u539a\u5ea6\u4e0e\u5149\u7ebf\u5339\u914d\u4ecd\u5f31\uff0c5\u5f20\u7f3a\u5b89\u88c5\u6c34\u5e55\uff0cAIR/360\u00b0\u7b49\u6539\u4e3a\u5916\u89c2\u9898\u6750\u3002\u4e0d\u80fd\u4f5c\u4e3a\u5df2\u9a8c\u6536\u5ba2\u6237\u6210\u54c1\u3002</div><nav>'''+''.join(f'<a href="#r{r["id"]}">{r["id"]}</a>' for r in records)+'</nav>'+''.join(cards)+'</main></html>')
+readme='''# \u9876\u55b713\u5f20\u9010\u56fe\u5bf9\u5e94 \u00b7 \u9636\u6bb5\u5ba1\u9605
+
+2026-11-02\u3002\u552f\u4e00\u5236\u4f5cOwner\u5f53\u524d\u4f1a\u8bdd\uff1b\u672a\u65b0\u589e\u4ee3\u7406/\u804a\u5929\u3002\u6700\u65b0\u8981\u6c42\uff1a\u98ce\u683c\u3001\u6784\u56fe\u3001\u5149\u5f71\u5c3d\u91cf\u7167\u539f13\u53c2\u8003\uff0c\u4ec5\u66ff\u6362\u5546\u54c1\u4e0e\u539f\u521b\u6a21\u7279\uff1b\u4e0d\u652f\u6301\u7684\u54c1\u724c\u3001\u529f\u80fd\u3001\u53c2\u6570\u4e0d\u7167\u642c\u3002
+
+**\u7ed3\u8bba\uff1a13\u4e2a\u7f16\u53f7\u90fd\u6709\u5019\u9009\uff0c\u4f46\u4efb\u52a1\u9a8c\u6536\u672a\u5b8c\u6210\uff0c\u4e0d\u80fd\u5f53\u4f5c\u5b8c\u6574\u5408\u683c\u5e7f\u544a\u5957\u56fe\u3002**
+
+- 399\u5df2\u7528376\u539f\u5b9e\u62cd\u6574\u4ef6\u91cd\u6392\uff0c\u53cc\u884c\u91d1\u5b57\u3001\u6696\u4fa7\u5149/\u8f7b\u96fe\u80cc\u666f\u63a5\u8fd1\u53c2\u8003\uff1b\u539f\u7247\u4ecd\u8fd1\u6b63\u89c6\uff0c\u660e\u663e\u4fa7\u58c1/\u659c\u4ef0\u89c6\u7f3a\u5931\u3002\u6ca1\u6709\u7528\u5047\u539a\u8fb9\u6216\u62c9\u4f38\u63a9\u76d6\u3002
+- 387\u3001392\u3001395\u3001399\u91c7\u7528376\u539f\u7247\uff1b388\u2014391\u3001393\u2014394\u3001397\u91c7\u7528372\u539f\u7247\u3002\u6240\u6709\u6574\u4ef6\u7b49\u6bd4\u7f29\u653e/\u65cb\u8f6c\uff0c\u4e0d\u505a\u900f\u89c6\u626d\u66f2\u6216AI\u5546\u54c1\u91cd\u7ed8\u3002\u540c\u4e00\u539f\u7247\u590d\u7528\u4ec5\u80fd\u4f5c\u5e03\u5c40\u5360\u4f4d\uff0c\u4e0d\u80fd\u5ba3\u79f0\u4e0d\u540c\u673a\u4f4d\u5df2\u6062\u590d\u3002
+- 388\u3001389\u3001390\u3001391\u3001394\uff1a\u7f3a\u53c2\u8003\u5bf9\u5e94\u5b89\u88c5\u4ef0\u89c6\u4e0e\u51fa\u6c34\u8bc1\u636e\uff0c\u76ee\u524d\u9759\u6001\u573a\u666f\u5360\u4f4d\uff0c\u65e0\u6c34\u5e55\u3001\u652f\u67b6\uff1b391/394\u4e3a\u65b0\u539f\u521b\u6210\u5e74\u77ed\u53d1\u6a21\u7279\uff0c\u6807\u573a\u666f\u793a\u610f\u3002\u8be55\u5f20\u7684\u4e3b\u89c6\u89c9\u4efb\u52a1\u672a\u5b8c\u6210\u3002
+- 392/395\uff1a372/376\u590d\u4f4d\u5546\u54c1+382\u5b9e\u9645\u77ed\u7ea2\u70b9\u5706\u7a97\uff0c\u672a\u5c55\u793a\u5b8c\u6574\u63d0\u62c9\u8fc7\u7a0b\uff1b382\u5c40\u90e8\u5916\u7f18SKU\u672a\u786e\u8ba4\uff0c\u4e0d\u6539\u6210\u94f6\u8272\u6574\u4ef6\u3002
+- 393/397\u5185\u90e8AIR\u7206\u70b8\u56fe\u6539\u4e3a\u9762\u677f/\u4fa7\u8fb9/\u63a5\u5934\u5916\u89c2\uff1b398\u65cb\u8f6c/\u4eba\u4f53\u8986\u76d6\u6bd4\u8f83\u6539\u4e3a\u63a5\u5934\u7279\u5199\uff1b396\u516d\u5927\u529f\u80fd\u6539\u516d\u5904\u5b9e\u62cd\u7ec6\u8282\u3002\u8fd9\u4e9b\u662f\u5185\u5bb9\u66ff\u4ee3\uff0c\u4e0d\u4ee3\u8868\u539f\u529f\u80fd\u8986\u76d6\u3002
+- \u5b9e\u9645\u5546\u54c1\u53d7\u539f\u62cd\u6444\u5149\u7ebf\u9650\u5236\uff0c\u51b7\u8272\u53cd\u5c04\u4e0e\u90e8\u5206\u6696\u573a\u666f\u4e0d\u5b8c\u5168\u878d\u5408\uff1b\u8fb9\u7f18\u6709\u8584\u7247\u611f\u3002\u4fa7\u8fb9/\u63a5\u5934\u539f\u7167\u6b8b\u7559\u73af\u5883\u53cd\u5c04\u548c\u5c40\u90e8\u6e05\u6670\u5ea6\u9650\u5236\u3002\u771f\u5b9e\u611f\u672a\u901a\u8fc7\uff0c\u4e0d\u8ffd\u52a0\u65e0\u4f9d\u636e\u7684\u76f8\u540c\u8def\u7ebf\u91cd\u8bd5\u3002
+
+## \u6587\u4ef6
+
+`preview.html`\u9010\u5f20\u5de6\u53c2\u8003\u53f3\u5019\u9009\uff08\u672c\u5730\u6d4f\u89c8\u5668\u672a\u5b9e\u6d4b\uff09\uff1b`JPG/`13\u5f20\uff1b`review/13\u5f20\u5ba1\u9605\u603b\u89c8.jpg`\uff1b`editable/\u7f16\u53f7/layers.ora`\u72ec\u7acb\u6805\u683c\u5c42\uff1b`editable.svg`\u542b\u53ef\u7f16\u8f91\u4e2d\u6587\u5b57\u4e0e\u672c\u5730base.png\uff1b`layout.json`\u4f4d\u7f6e/\u6587\u5b57\uff1b`build.py`\u539f\u751f\u6392\u7248\u590d\u73b0\u5165\u53e3\uff08\u9700\u8981\u539f\u9879\u76ee\u5b9e\u62cd\u8def\u5f84\uff09\u3002ORA\u548cSVG\u53cabase\u53ef\u72ec\u7acb\u7f16\u8f91\uff0c\u4e0d\u4f9d\u8d56\u5916\u90e8\u670d\u52a1\uff1bSVG\u5b57\u4f53\u663e\u793a\u4e0eJPG\u7cbe\u786e\u5b57\u8ddd\u5c1a\u672a\u901a\u8fc7GUI\u6838\u9a8c\uff0c\u7cbe\u786e\u6805\u683c\u6392\u7248\u7528JSON+Pillow\u811a\u672c\u3002
+
+\u5c3a\u5bf8\uff1a7\u5f201200\u00d71200\uff1b6\u5f20900\u00d71600\u3002\u6240\u6709\u539f\u4ef6\u53ca\u6b64\u524d\u7248\u672c\u4fdd\u7559\uff1b\u672c\u8f6e\u521d\u7a3fJPG\u5728review/v1-jpg.zip\u3002\u65e0\u5916\u53d1\u3001\u53d1\u5e03\u3001\u5220\u9664\u3002
+
+## \u5df2\u67e5\u4e0e\u5f85\u8865
+
+13\u5f20\u6700\u7ec8JPG\u5747\u5b9e\u9645\u6253\u5f00\uff1b396\u4fa7\u8fb9\u5361\u9996\u6b21\u88ab\u65b9\u5f62\u88c1\u5207\u6210\u7a7a\u53cd\u5c04\uff0c\u5df2\u56de\u539f374\u53f3\u7aef\u5c40\u90e8\u5e76\u7528\u7b49\u6bd4\u5b8c\u6574\u663e\u793a\u4fee\u6b63\uff0c393/397/398\u540c\u6b65\u300213JPG\u89e3\u7801\u548c\u5c3a\u5bf8\u300113ORA CRC\u4e0e\u72ec\u7acb\u9010\u5c42\u91cd\u7ec4\u300113SVG XML\u68c0\u67e5\u901a\u8fc7\uff1b\u8fd9\u4e9b\u4e0d\u7b49\u4e8e\u89c6\u89c9\u901a\u8fc7\u3002\u9010\u9879SHA\u89c1verification.json\u3002
+
+\u4e0b\u4e00\u6b65\u9700\u8981\u771f\u5b9e\u5546\u54c1\u7684\u53c2\u8003\u5bf9\u5e94\u659c\u4ef0\u89c6\u5b89\u88c5\u89d2\u5ea6\u3001\u53ef\u8fa8\u4fa7\u58c1\u7684\u659c\u653e\u8fd1\u7167\u548c\u771f\u5b9e\u51fa\u6c34\u7d20\u6750\uff0c\u624d\u80fd\u4fdd\u6301\u771f\u5b9e\u5b54\u7eb9\u540c\u65f6\u63a5\u8fd1\u6c34\u5e55\u6784\u56fe\uff1bAIR/360/\u6c34\u91cf\u6bd4\u8f83\u65e0\u8bc1\u636e\u4e0d\u6062\u590d\u3002\u5f53\u524d\u53ef\u76f4\u63a5\u5ba1\u9605399\u7b49\u9759\u6001\u6784\u56fe\u6539\u5584\u548c\u539f\u521b\u6a21\u7279\u9009\u62e9\uff0c\u6574\u5957\u63a5\u53d7\u4ecdUNKNOWN\u3002
+'''
+(P/'README.md').write_text(readme)
+
+print("Reviewed13 diagnostic artifacts; no full delivery package created")

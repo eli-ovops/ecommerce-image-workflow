@@ -1,0 +1,16 @@
+{
+  "D04": {
+    "source_base_sha256": "e69f9dd6b66bd1b99a2ed29d95f963a0e4df6d4cddd45061e568a2023c3a9db6",
+    "output_sha256": "41fab5141ca3a824ebfcab66d26ba65801992c72a5628a1fe7e9670efe5458b9",
+    "changed_pixels": 66830,
+    "outside_face_neck_mask_changed_pixels": 0,
+    "method": "Fresh portrait rendered from original M001 supplies attenuated fine skin detail; old rejected skin surface removed in one deterministic frequency-separation pass from frozen base. Low-frequency facial form and sharp facial landmarks retained; no whole-scene regeneration."
+  },
+  "D11": {
+    "source_base_sha256": "4f2e8e585a89fd833eaaf0906cb26ada8dda20d8146d11431ba2649417346008",
+    "output_sha256": "7b1d6e7ec6cda8d53f1a4b244f62af83b0999d16b2e4eb1b7feef33644d56e5a",
+    "changed_pixels": 106001,
+    "outside_face_neck_mask_changed_pixels": 0,
+    "method": "Fresh portrait rendered from original M001 supplies attenuated fine skin detail; old rejected skin surface removed in one deterministic frequency-separation pass from frozen base. Low-frequency facial form and sharp facial landmarks retained; no whole-scene regeneration."
+  }
+}

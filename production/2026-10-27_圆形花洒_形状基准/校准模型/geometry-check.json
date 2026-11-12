@@ -1,0 +1,9 @@
+{
+  "shell": {
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "zero_area_faces": 0
+  },
+  "mesh_objects": 9,
+  "white_nozzle_count": 144
+}

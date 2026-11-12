@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-27",
+  "status": "A/D边缘精修完成，待用户审阅",
+  "count": 7,
+  "new_count": 0,
+  "revised_count": 2,
+  "images": [
+    {
+      "title": "已认可主图",
+      "path": "银色花洒_暖白浴室主图.jpg",
+      "width": 1440,
+      "height": 1440,
+      "bytes": 877135,
+      "sha256": "66ed25f685db7bd1a9523a6a25c501ecb336dead7f957e4cc1ed362a55c2bea4",
+      "zip_member": "01_银色花洒_暖白浴室主图.jpg"
+    },
+    {
+      "title": "下方按键切档",
+      "path": "细节返修/A_下键切档_精修.jpg",
+      "width": 1440,
+      "height": 1440,
+      "bytes": 709833,
+      "sha256": "64e0cbf11a94238917425b2fb9f2dc309e00bfd51445512f75c097dca13a86ae",
+      "zip_member": "02_A_下键切档_精修.jpg"
+    },
+    {
+      "title": "中央红钮细节",
+      "path": "追加三图/B清洁/B_红钮细节_清洁版.jpg",
+      "width": 1440,
+      "height": 1440,
+      "bytes": 902563,
+      "sha256": "9937a139de6780a133cc011c0e18e6aac1a9c0ced927302728d03125ffd31fe8",
+      "zip_member": "03_B_红钮细节_清洁版.jpg"
+    },
+    {
+      "title": "圆盘厚边",
+      "path": "追加三图/C_圆盘厚边.jpg",
+      "width": 1440,
+      "height": 1440,
+      "bytes": 793259,
+      "sha256": "84569113e08702560cbd0c44536856d3f449e4e6c8e30e92157cb17442f2b61c",
+      "zip_member": "04_C_圆盘厚边.jpg"
+    },
+    {
+      "title": "日常手持",
+      "path": "细节返修/D_日常手持_精修.jpg",
+      "width": 1440,
+      "height": 1440,
+      "bytes": 591664,
+      "sha256": "3a3ac16dc719638e6a3560b2bb0acba8f261e4ddd21c599c5ddb25c4e22436fc",
+      "zip_member": "05_D_日常手持_精修.jpg"
+    },
+    {
+      "title": "真实按压红钮",
+      "path": "续作三图/E_按压红钮.jpg",
+      "width": 1440,
+      "height": 1440,
+      "bytes": 731898,
+      "sha256": "28b1ceb27083f3d3f046a92c4ec51d6a302308e541817140c569d3f3d456dbde",
+      "zip_member": "06_E_按压红钮.jpg"
+    },
+    {
+      "title": "银色背面",
+      "path": "续作三图/F_银色背面.jpg",
+      "width": 1440,
+      "height": 1440,
+      "bytes": 469197,
+      "sha256": "c[REDACTED_PHONE]e88e64bc56896c49614f30fabf770918f28ac6fac097768c5ce1",
+      "zip_member": "07_F_银色背面.jpg"
+    }
+  ],
+  "approved_image_unchanged": true,
+  "zip": {
+    "path": "圆形花洒_暖白七图_边缘精修_JPG.zip",
+    "bytes": 5076479,
+    "sha256": "a04e4e9e729c04ca9f083db604cc72d33117a1a17ab7671a314e532e078f6527",
+    "member_count": 7,
+    "crc": "PASS",
+    "member_hashes": "PASS"
+  },
+  "root_visual_review": [
+    "root实际打开用户两批注、350/89原照、A/D预览、200%局部与最终两张JPG",
+    "A产品mask越界带入肤色碎片已修；D手缘及皮肤局部精修、金属反射修饰",
+    "其他五张沿用有效审阅记录并核SHA一致"
+  ],
+  "limits": [
+    "A/D/F仅银面局部AI反射编辑；B/C/E商品取实拍",
+    "F反射为生成处理，仍需用户确认摄影真实感，不等于完整实物摄影",
+    "无水流或人物实验",
+    "C是斜正面头部厚边近景，不是完整侧背几何验收",
+    "D原拇指短平边保留真实遮挡；整体+手统一缩小取景，未生成指尖；皮肤保留原细肤理和极小浅点"
+  ],
+  "client_acceptance": "UNKNOWN",
+  "unchanged_count": 5
+}

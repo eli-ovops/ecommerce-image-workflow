@@ -1,0 +1,103 @@
+{
+  "tool": "builtin_image_gen",
+  "native_sha256": "fad90b6fcef5939a1c16f9d1a8c5bf1fedc172b343bcba2d67764e3f0a8149bd",
+  "prompt_sha256": "eaf5f2b66e5d7c44d3caef23a88f5aeeeace5fa29f92b8dbfa36dcdee1ec1162",
+  "appearance_source_sha256": [
+    "0b388756f0ee2e35630dac7789237153d390fa8aaab8f58f6e2643d4181be21d",
+    "10dcfb2cad17faf397a03e0587da0ad19c76229fe801e090fee527a3fbc1a412",
+    "6de02f19793c568c799762525475cd0241af1b9c41487580383be4efbd2a1fa2",
+    "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90"
+  ],
+  "actual_call": {
+    "id": "R04",
+    "version": "v001",
+    "status": "candidate_for_independent_review",
+    "actual_call": {
+      "prompt": "Use case: ads-marketing. One square clean TWO-CARD product-controls detail photograph composition, no text. Image1 actual silver front, image2 actual closeup, image3 actual side, image4 actual pressed-button closeup is only construction evidence and MUST NOT contribute hand/press-action/red protruding pins. Image5 is STYLE ONLY: borrow its two side-by-side equal cards and blue-white restrained hierarchy, NOT its skin, droplets, VS, claims or objects. ACTUAL PRODUCT DETAILS: realistic bright mirror SILVER shell/rim, black finely textured face, dense small off-white separate nozzle rings each with a dark center, original dark microhole outer border. Central RED control is the actual low wide circular flange plus smaller concentric raised boss with dark center opening; do not enlarge relative to neighboring holes, do not replace with a huge doughnut or add a new black pedestal. The separate lower button is the actual shiny SILVER rounded-rectangle in black insert, not black and not a red control. Exact source-photo visual character, not CG clay. No text, letters, logos, arrows, diagrams, performance comparisons, dimensions, filter parts, certificates, human/hand/finger, water or spray. Dry resting product; no press-action, no long red needles, no exploding internals. Real product photographs override all other references. LAYOUT: pure white / very pale cool gray square canvas. Leave upper18% totally empty for a future title. From x6–48% and x52–94%, y28–75%, show two equal clean rectangular photo windows separated by a narrow white gutter, flat and borderless. LEFT window: a tight photographic crop of the true CENTRAL RED control surrounded by several rows of actual white ring nozzles on black face. Red button at window center, photographed near-front, about20% of window width, not a giant new part. RIGHT window: a separate tight crop of the actual LOWER SILVER selector, black insert and a little surrounding mirror silver neck; selector centered, recognizable rounded rectangle, actual curvature and polished highlight. These are two magnified areas of the SAME actual silver product, no invented additional button. Focus and light match; glossy silver only in right window, real fine dark face texture in left. Both controls resting, no visible hand. Leave y78–95% beneath both windows blank white for independently added Chinese captions. No rendered text or placeholder boxes. Do not show the whole showerhead twice; two distinct detail windows only.",
+      "referenced_image_paths": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184355_94_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_15.jpg"
+      ],
+      "transparent_background": false
+    },
+    "prompt_file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导续作/prompts/R04-request.json",
+    "references": [
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+        "sha256": "6de02f19793c568c799762525475cd0241af1b9c41487580383be4efbd2a1fa2",
+        "id": "SIL001",
+        "role": "actual own-SKU appearance authority",
+        "actually_viewed": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+        "sha256": "0b388756f0ee2e35630dac7789237153d390fa8aaab8f58f6e2643d4181be21d",
+        "id": "SIL005",
+        "role": "actual own-SKU appearance authority",
+        "actually_viewed": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg",
+        "sha256": "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90",
+        "id": "SIL004",
+        "role": "actual own-SKU appearance authority",
+        "actually_viewed": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184355_94_2.jpg",
+        "sha256": "10dcfb2cad17faf397a03e0587da0ad19c76229fe801e090fee527a3fbc1a412",
+        "id": "SIL006",
+        "role": "actual construction evidence only; hand/press/pins excluded",
+        "actually_viewed": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_15.jpg",
+        "sha256": "80c0f2df083f06cb2f3eb89eeee27a21b9969213f3f693035b559a25736ed034",
+        "id": "A020",
+        "role": "style only; source product/claims excluded",
+        "actually_viewed": true
+      }
+    ],
+    "actual_tool_output_path": "/Users/USER/.codex/generated_images/01a16d07-b34d-7ff3-afe5-dfc839dd6cb1/exec-86feeb75-59c2-45ff-bc14-33b7d998364b.png",
+    "native_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导续作/generated/R04-v001-native.png",
+    "native_sha256": "fad90b6fcef5939a1c16f9d1a8c5bf1fedc172b343bcba2d67764e3f0a8149bd",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "output_actually_viewed": true,
+    "saved_at": "2026-10-24T21:34:00.847179+08:00",
+    "additional_viewed_not_passed": [
+      {
+        "id": "A023",
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_18.jpg",
+        "sha256": "2159c43045000b669ed3d67e26ab674910a41adaad67d1da40f3c5de0923fb6c",
+        "actually_viewed": true
+      },
+      {
+        "id": "A024",
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_19.jpg",
+        "sha256": "5e8e8e5d4b5a20eb1866e2746a0a8dc5795e11c43414e1dca1e2e97edc1b0cdd",
+        "actually_viewed": true
+      },
+      {
+        "id": "A025",
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_20.jpg",
+        "sha256": "3f746d882e83ad3646d5fd6a8638414dd425c0e03a3b2c5962406d0f1143888e",
+        "actually_viewed": true
+      },
+      {
+        "id": "A026",
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_21.jpg",
+        "sha256": "fef953c92593aa7192faf6522ace726912f253276891ce03f1d0c82fe0b43455",
+        "actually_viewed": true
+      }
+    ],
+    "self_review": "Two independent magnifications of actual controls: red flange left and silver selector right. No hand/action/water/pins. White rings read separately.",
+    "suggested_typesetting_area": "1254px title x65..1150,y70..190; left caption x50..595/right650..1200,y1010..1180; photos y247..969"
+  },
+  "hard_shape_lock": false
+}

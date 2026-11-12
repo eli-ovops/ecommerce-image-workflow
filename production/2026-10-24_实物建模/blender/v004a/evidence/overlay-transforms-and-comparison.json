@@ -1,0 +1,381 @@
+{
+  "render_projection": {
+    "width": 1000,
+    "height": 1200,
+    "pixels_per_mm": 3.870967741935484,
+    "camera_target_z_mm": 132.5,
+    "side_camera_target_y_mm": 17,
+    "type": "orthographic"
+  },
+  "source_transforms": {
+    "P04": {
+      "output_to_source_affine": [
+        1.4337514243794658,
+        -0.005213641543200254,
+        -36.998800785128026,
+        0.005213641543193148,
+        1.4337514243794942,
+        -27.138589121208355
+      ],
+      "mirror": false,
+      "pose_fit": "Only declared roll+uniform total-height scale+translation; no perspective/yaw warp",
+      "source_metadata": {
+        "origin_xy": [
+          585,
+          120
+        ],
+        "roll_angle_degrees": -0.20834737080620067,
+        "mirror_u_sign": 1,
+        "uniform_mm_per_pixel": 0.18017880991685015,
+        "top_v": -19.999867769906412,
+        "bottom_v": 1450.761317312255,
+        "formula": "u=sign*(cos(theta)*(x-ox)-sin(theta)*(y-oy)); v=sin(theta)*(x-ox)+cos(theta)*(y-oy); modelY=u*scale; modelZ=265-(v-top_v)*scale",
+        "no_nonuniform_scale": true
+      }
+    },
+    "P03": {
+      "output_to_source_affine": [
+        -1.5206161468943264,
+        0.03948266486668217,
+        1436.1542223299166,
+        0.039482664866739015,
+        1.5206161468943549,
+        0.4329635221586159
+      ],
+      "mirror": true,
+      "pose_fit": "Only declared roll+uniform total-height scale+translation; no perspective/yaw warp",
+      "source_metadata": {
+        "origin_xy": [
+          780,
+          175
+        ],
+        "roll_angle_degrees": 1.4873457045897485,
+        "mirror_u_sign": -1,
+        "uniform_mm_per_pixel": 0.1698300368004957,
+        "top_v": -24.991577050306134,
+        "bottom_v": 1535.3919981549636,
+        "formula": "u=sign*(cos(theta)*(x-ox)-sin(theta)*(y-oy)); v=sin(theta)*(x-ox)+cos(theta)*(y-oy); modelY=u*scale; modelZ=265-(v-top_v)*scale",
+        "no_nonuniform_scale": true
+      }
+    },
+    "P01": {
+      "output_to_source_affine": [
+        1.6178047960778486,
+        0.04783075049272156,
+        -155.91793978431303,
+        -0.04783075049272156,
+        1.6178047960777349,
+        -81.61030143574516
+      ],
+      "mirror": false,
+      "pose_fit": "Only declared roll+uniform total-height scale+translation; no perspective/yaw warp",
+      "source_metadata": {
+        "id": "P01",
+        "origin_xy": [
+          670,
+          470
+        ],
+        "roll_degrees": 1.6934688703157939,
+        "uniform_mm_per_pixel": 0.15961165591258647,
+        "top_v": -434.8100073433949,
+        "bottom_v": 1225.4697415562148,
+        "samples": [
+          {
+            "y": 35,
+            "left_x": 650,
+            "right_x": 690,
+            "model_z_halfwidth_mm": [
+              265.0,
+              3.1908388634226728
+            ]
+          },
+          {
+            "y": 50,
+            "left_x": 530,
+            "right_x": 800,
+            "model_z_halfwidth_mm": [
+              262.63045531359745,
+              21.538162328103045
+            ]
+          },
+          {
+            "y": 100,
+            "left_x": 438,
+            "right_x": 894,
+            "model_z_halfwidth_mm": [
+              254.64864126280784,
+              36.375563043018474
+            ]
+          },
+          {
+            "y": 150,
+            "left_x": 375,
+            "right_x": 957,
+            "model_z_halfwidth_mm": [
+              246.67154410425115,
+              46.42670546279989
+            ]
+          },
+          {
+            "y": 200,
+            "left_x": 331,
+            "right_x": 1000,
+            "model_z_halfwidth_mm": [
+              238.69680539181093,
+              53.36677999074421
+            ]
+          },
+          {
+            "y": 250,
+            "left_x": 303,
+            "right_x": 1030,
+            "model_z_halfwidth_mm": [
+              230.71499134102137,
+              57.99349634270709
+            ]
+          },
+          {
+            "y": 300,
+            "left_x": 283,
+            "right_x": 1052,
+            "model_z_halfwidth_mm": [
+              222.7331772902318,
+              61.34387714930089
+            ]
+          },
+          {
+            "y": 350,
+            "left_x": 271,
+            "right_x": 1066,
+            "model_z_halfwidth_mm": [
+              214.75136323944224,
+              63.417922410525634
+            ]
+          },
+          {
+            "y": 400,
+            "left_x": 266,
+            "right_x": 1074,
+            "model_z_halfwidth_mm": [
+              206.76719074253623,
+              64.45494504113799
+            ]
+          },
+          {
+            "y": 450,
+            "left_x": 266,
+            "right_x": 1078,
+            "model_z_halfwidth_mm": [
+              198.78065979951376,
+              64.77402892748026
+            ]
+          },
+          {
+            "y": 500,
+            "left_x": 272,
+            "right_x": 1075,
+            "model_z_halfwidth_mm": [
+              190.79648730260774,
+              64.05609018321017
+            ]
+          },
+          {
+            "y": 550,
+            "left_x": 282,
+            "right_x": 1063,
+            "model_z_halfwidth_mm": [
+              182.82410703628395,
+              62.3011288083277
+            ]
+          },
+          {
+            "y": 600,
+            "left_x": 300,
+            "right_x": 1048,
+            "model_z_halfwidth_mm": [
+              174.83993453937794,
+              59.66868674600399
+            ]
+          },
+          {
+            "y": 650,
+            "left_x": 325,
+            "right_x": 1028,
+            "model_z_halfwidth_mm": [
+              166.85104515023903,
+              56.07899302465348
+            ]
+          },
+          {
+            "y": 700,
+            "left_x": 359,
+            "right_x": 997,
+            "model_z_halfwidth_mm": [
+              158.86687265333302,
+              50.893879871591636
+            ]
+          },
+          {
+            "y": 750,
+            "left_x": 399,
+            "right_x": 959,
+            "model_z_halfwidth_mm": [
+              150.88505860254347,
+              44.671744087917425
+            ]
+          },
+          {
+            "y": 800,
+            "left_x": 452,
+            "right_x": 903,
+            "model_z_halfwidth_mm": [
+              142.91503678233613,
+              35.976708185090644
+            ]
+          },
+          {
+            "y": 850,
+            "left_x": 495,
+            "right_x": 858,
+            "model_z_halfwidth_mm": [
+              134.9426565160123,
+              28.956862685560758
+            ]
+          },
+          {
+            "y": 900,
+            "left_x": 531,
+            "right_x": 827,
+            "model_z_halfwidth_mm": [
+              126.95376712687343,
+              23.612207589327777
+            ]
+          },
+          {
+            "y": 950,
+            "left_x": 557,
+            "right_x": 805,
+            "model_z_halfwidth_mm": [
+              118.96723618385096,
+              19.783200953220575
+            ]
+          },
+          {
+            "y": 1000,
+            "left_x": 576,
+            "right_x": 794,
+            "model_z_halfwidth_mm": [
+              110.97127145636273,
+              17.390071805653566
+            ]
+          },
+          {
+            "y": 1050,
+            "left_x": 590,
+            "right_x": 787,
+            "model_z_halfwidth_mm": [
+              102.97766517499096,
+              15.714881402356665
+            ]
+          },
+          {
+            "y": 1100,
+            "left_x": 599,
+            "right_x": 784,
+            "model_z_halfwidth_mm": [
+              94.98641733973562,
+              14.757629743329865
+            ]
+          },
+          {
+            "y": 1200,
+            "left_x": 610,
+            "right_x": 783,
+            "model_z_halfwidth_mm": [
+              79.00863856145784,
+              13.80037808430306
+            ]
+          },
+          {
+            "y": 1300,
+            "left_x": 617,
+            "right_x": 785,
+            "model_z_halfwidth_mm": [
+              63.033218229296466,
+              13.401523226375227
+            ]
+          },
+          {
+            "y": 1400,
+            "left_x": 623,
+            "right_x": 789,
+            "model_z_halfwidth_mm": [
+              47.055439451018685,
+              13.241981283204096
+            ]
+          },
+          {
+            "y": 1500,
+            "left_x": 627,
+            "right_x": 791,
+            "model_z_halfwidth_mm": [
+              31.08709445720666,
+              13.08243934003296
+            ]
+          },
+          {
+            "y": 1600,
+            "left_x": 630,
+            "right_x": 793,
+            "model_z_halfwidth_mm": [
+              15.121107909511068,
+              13.002668368447393
+            ]
+          },
+          {
+            "y": 1620,
+            "left_x": 644,
+            "right_x": 778,
+            "model_z_halfwidth_mm": [
+              11.932627492204887,
+              10.689310192465955
+            ]
+          }
+        ],
+        "symmetry_assumption": "average left/right halfwidth after rigid rotation; photo not warped"
+      }
+    }
+  },
+  "endpoint_detrended_model_comparison": {
+    "v003": {
+      "range_z_mm": [
+        20,
+        260
+      ],
+      "maximum_endpoint_detrended_sag_mm": 9.460057426650465,
+      "maximum_over_total265": 0.035698329911888545,
+      "peak_z_mm": 99.0,
+      "above_half_max_z_span_mm": [
+        49.5,
+        162.5
+      ],
+      "width_above_half_max_mm": 113.0,
+      "limits": "Actual model profile diagnostic; not calibrated photo fit and no PASS"
+    },
+    "v004a": {
+      "range_z_mm": [
+        20,
+        260
+      ],
+      "maximum_endpoint_detrended_sag_mm": 14.142573627924346,
+      "maximum_over_total265": 0.05336820236952584,
+      "peak_z_mm": 125.0,
+      "above_half_max_z_span_mm": [
+        61.0,
+        196.5
+      ],
+      "width_above_half_max_mm": 135.5,
+      "limits": "Actual model profile diagnostic; not calibrated photo fit and no PASS"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "M001-CLEAN",
+  "version": 1,
+  "prompt": "Create a CLEAN IDENTITY MASTER SHEET of the SAME fictional ADULT woman in the sole reference. This is a direct identity-master cleanup, not a product advertisement. Keep exactly her adult identity: oval face, hazel-brown eyes, black near-middle-part long hair, naturally curved dark eyebrows, straight proportional nose, full natural lips, jawline, facial proportions and adult body. Keep the original three-panel layout: left frontal head/shoulder portrait, center three-quarter head/shoulder portrait, right standing head-to-thigh portrait. Same opaque ivory sleeveless top and taupe trousers, neutral warm-gray background, soft large diffused studio light. No text, product, jewelry or props.\nESSENTIAL CHANGE: REPLACE ALL ORIGINAL SKIN SURFACE MICROTEXTURE. The original skin contains unwanted faint closed polygon/grid/fishscale lines. Those surface patterns are artifacts and must be completely removed, not copied as identity. Apply professional high-end cosmetic-beauty retouch over forehead, both cheeks, nose skin, chin, neck, shoulders, chest skin, arms and hands. Immaculate smooth satin skin with only broad gentle natural continuous COLOR AND LIGHT GRADIENTS. NO VISIBLE PORES, epidermal lines, tiny cracks, microscopic creases, cell polygons, grain, dots, scales, diagonal ridges or repeating texture AT ALL. Zoomed-in skin should be an uninterrupted soft tonal surface, not an embossed/raster/mesh surface.\nPreserve clear adult identity and facial anatomy through lighting and shape. Eyelashes, eyebrows, iris, eye contours, nostrils, lips and individual hair strands remain sharply defined; do NOT blur the whole face, do not smooth away facial shape, do not create a plastic mannequin or childlike face. Only the SKIN surface frequency is cleaned, complexion realistic and even, subtle natural warm blush as broad smooth hue. Rebuild skin pixels instead of overlaying/retaining source surface. The result will serve as sole clean identity reference for later scenes, so zero closed-cell skin mesh is mandatory. Landscape1536x1024.",
+  "refs": [
+    "/Volumes/EXTERNAL/电商 作图工作流/models/M001/master-v1.png"
+  ],
+  "directed_images_viewed": [
+    "/Volumes/EXTERNAL/电商 作图工作流/models/M001/master-v1.png"
+  ],
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "purpose": "Clean identity master before six new scenes; original skin artifact removal only, adult identity retained; no failed scenes reused.",
+  "qa_gate": "Parent independent identity/skin QA before scene generation",
+  "preflight_date_utc": "2026-10-23T07:42:45.053166+00:00",
+  "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/M001-clean-v1.png",
+  "actual_dimensions": [
+    1536,
+    1024
+  ],
+  "sha256": "63f31848a8028fa8e9da2fad1cd087fe44aaa1291a11c03b827bfb06302a1f66",
+  "source_output": "/Users/USER/.codex/generated_images/01a1677a-d5c6-7ae1-aff4-beb08d398f79/exec-22a714dc-d083-40d0-81ec-011bff8faf12.png",
+  "status": "PENDING_INDEPENDENT_IDENTITY_SKIN_QA",
+  "independent_qa_relay": {
+    "owner": "root",
+    "result": "PWL usable",
+    "message": "QA same identity and continuous skin, old clear closed fishscale repetition not seen, minor natural skin lines not failure",
+    "source": "root collaboration message current session"
+  }
+}

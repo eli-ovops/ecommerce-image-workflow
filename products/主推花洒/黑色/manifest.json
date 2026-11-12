@@ -1,0 +1,140 @@
+{
+  "received_date": "2026-10-22",
+  "timezone": "Asia/Shanghai",
+  "asset_kind": "real_product_photos",
+  "sku_color": "黑色",
+  "sku_color_source": "User: first 5 attached images black; last 6 gunmetal gray.",
+  "source_image_count": 5,
+  "all_source_copy_sha256_match": true,
+  "all_images_verify_and_full_decode": "PASS",
+  "original_bytes_preserved": true,
+  "original_sources_deleted": false,
+  "files": [
+    {
+      "id": "BLK001",
+      "source_attachment_position": 3,
+      "source_path": "/Users/USER/Downloads/微信图片_20261022185739_101_2.jpg",
+      "project_path": "products/主推花洒/黑色/原图/微信图片_20261022185739_101_2.jpg",
+      "bytes": 77468,
+      "sha256": "6e8b9ac3ed7b70024346ca3a51fbdfa2ea8b5de4fa56b0b3b96a3171b4090a23",
+      "source_copy_sha256_match": true,
+      "format": "JPEG",
+      "raw_dimensions": [
+        960,
+        1280
+      ],
+      "exif_orientation": 1,
+      "display_dimensions": [
+        960,
+        1280
+      ],
+      "verify": "PASS",
+      "full_decode": "PASS"
+    },
+    {
+      "id": "BLK002",
+      "source_attachment_position": 2,
+      "source_path": "/Users/USER/Downloads/微信图片_20261022185739_102_2.jpg",
+      "project_path": "products/主推花洒/黑色/原图/微信图片_20261022185739_102_2.jpg",
+      "bytes": 205699,
+      "sha256": "04dcc913bfeafb9232a63686cb9cf4c5b47db3ea88275f25fdab30cdcabb6f2f",
+      "source_copy_sha256_match": true,
+      "format": "JPEG",
+      "raw_dimensions": [
+        1280,
+        1707
+      ],
+      "exif_orientation": 1,
+      "display_dimensions": [
+        1280,
+        1707
+      ],
+      "verify": "PASS",
+      "full_decode": "PASS"
+    },
+    {
+      "id": "BLK003",
+      "source_attachment_position": 1,
+      "source_path": "/Users/USER/Downloads/微信图片_20261022185740_103_2.jpg",
+      "project_path": "products/主推花洒/黑色/原图/微信图片_20261022185740_103_2.jpg",
+      "bytes": 82995,
+      "sha256": "69bc47dfe914b578f1e7d4d8aa8fb6a5ca3c6180108401a380e282ddc331a32b",
+      "source_copy_sha256_match": true,
+      "format": "JPEG",
+      "raw_dimensions": [
+        960,
+        1280
+      ],
+      "exif_orientation": 1,
+      "display_dimensions": [
+        960,
+        1280
+      ],
+      "verify": "PASS",
+      "full_decode": "PASS"
+    },
+    {
+      "id": "BLK004",
+      "source_attachment_position": 4,
+      "source_path": "/Users/USER/Downloads/微信图片_20261022185803_104_2.jpg",
+      "project_path": "products/主推花洒/黑色/原图/微信图片_20261022185803_104_2.jpg",
+      "bytes": 168811,
+      "sha256": "bdd80c03fdd183b91c1ef553058cee48be78522178765cfef82064f3458c685d",
+      "source_copy_sha256_match": true,
+      "format": "JPEG",
+      "raw_dimensions": [
+        1280,
+        1707
+      ],
+      "exif_orientation": 1,
+      "display_dimensions": [
+        1280,
+        1707
+      ],
+      "verify": "PASS",
+      "full_decode": "PASS"
+    },
+    {
+      "id": "BLK005",
+      "source_attachment_position": 5,
+      "source_path": "/Users/USER/Downloads/微信图片_20261022185803_105_2.jpg",
+      "project_path": "products/主推花洒/黑色/原图/微信图片_20261022185803_105_2.jpg",
+      "bytes": 83171,
+      "sha256": "736f95fa8951eeaaabb2de81cbd1530f9111843a47952f539eceae225e34f87a",
+      "source_copy_sha256_match": true,
+      "format": "JPEG",
+      "raw_dimensions": [
+        960,
+        1280
+      ],
+      "exif_orientation": 1,
+      "display_dimensions": [
+        960,
+        1280
+      ],
+      "verify": "PASS",
+      "full_decode": "PASS"
+    }
+  ],
+  "contact_sheets": [
+    {
+      "path": "products/主推花洒/黑色/previews/contact_sheet_01.png",
+      "ids": [
+        "BLK001",
+        "BLK002",
+        "BLK003",
+        "BLK004",
+        "BLK005"
+      ]
+    }
+  ],
+  "temporary_files": [],
+  "visual_review": {
+    "date": "2026-10-22",
+    "all_attached_photos_viewed": true,
+    "all_project_preview_pages_viewed": [
+      "products/主推花洒/黑色/previews/contact_sheet_01.png"
+    ],
+    "action_or_performance_test_performed": false
+  }
+}

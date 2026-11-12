@@ -1,0 +1,78 @@
+{
+  "status": "STRUCTURAL_IMPROVEMENT_CANDIDATE_ONLY",
+  "other12_unchanged": true,
+  "current389_not_replaced": true,
+  "images": [
+    {
+      "file": "387.jpg",
+      "sha256": "86ea1b15c7e8b82a86d6b7e0e06551468a5158070afbbc4284c14b19c768f4a4",
+      "unchanged": true
+    },
+    {
+      "file": "388.jpg",
+      "sha256": "d6bfef0c771bcec826c958fb3ece411caf88f58570a19d83aca77a57568eab48",
+      "unchanged": true
+    },
+    {
+      "file": "389.jpg",
+      "sha256": "65f467f777f54bbc8cd6805ef25362016f2b009ca82236b28a7b4e2d5c62a561",
+      "unchanged": true
+    },
+    {
+      "file": "390.jpg",
+      "sha256": "9e4e52a9b3a6bf57807b03d7289b29e38cb08ff1ebc128b20d8c158dae7b345f",
+      "unchanged": true
+    },
+    {
+      "file": "391.jpg",
+      "sha256": "cb07a70efb9a1144de1a1084b59714f9c09ae06bb1ec368cf6bccecea9dfe102",
+      "unchanged": true
+    },
+    {
+      "file": "392.jpg",
+      "sha256": "2acda0e1e249bf24560a1b84bc98b93e4b89d71eafe865b0907bd3cc1175701f",
+      "unchanged": true
+    },
+    {
+      "file": "393.jpg",
+      "sha256": "3f7b3cd0d8c46130333e0c67e30c7d847a6cb83d844029c2715c0ce0a4100562",
+      "unchanged": true
+    },
+    {
+      "file": "394.jpg",
+      "sha256": "21c1ea124b8d8fc897fe1a315caaa3bd1e69f5d92561aa7d163bb4340e3cc783",
+      "unchanged": true
+    },
+    {
+      "file": "395.jpg",
+      "sha256": "989100e4e8c0a73bca7e654a27075b13810c6f5646d62a41f37b5e5d0690d214",
+      "unchanged": true
+    },
+    {
+      "file": "396.jpg",
+      "sha256": "2d2226b6312557b9171525059703690ba24b6ffe1da860c3ca1873e68cdcd8f1",
+      "unchanged": true
+    },
+    {
+      "file": "397.jpg",
+      "sha256": "21312d75bd9d683bb5757c2619b9fbdb1d129b513076669b9ddb220476ac5368",
+      "unchanged": true
+    },
+    {
+      "file": "398.jpg",
+      "sha256": "b398a38e1caa9b757277a92d9dc1c5a649f692d3bcf109db3c1038dbe5e42438",
+      "unchanged": true
+    },
+    {
+      "file": "399.jpg",
+      "sha256": "5c6e0ff784283fab7142d3bfea6ec2d6ebb4f9e6782d8309cc8939a47753cc73",
+      "unchanged": true
+    }
+  ],
+  "ora_crc": true,
+  "ora_recompose_pixels_equal": true,
+  "jpg_size": [
+    1254,
+    1254
+  ]
+}

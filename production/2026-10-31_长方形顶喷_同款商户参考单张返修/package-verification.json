@@ -1,0 +1,77 @@
+{
+  "archive": "editable-source.zip",
+  "bytes": 10382805,
+  "count": 17,
+  "crc_and_member_sha256": "PASS",
+  "archive_sha256": "ad148aa81ccf15b0acf300aa620bee9945d67826713009b36cb37a38c6d002a8",
+  "members": [
+    {
+      "file": "01_advertising_refined.jpg",
+      "sha256": "11b4effbec113c1ad08fc8cdca9bf2658d66fde20e049110ae1c027da38e7021"
+    },
+    {
+      "file": "01_advertising_refined.blend",
+      "sha256": "c4ca40af2fe28f6e202068c128afa76b02eb512b86a52250fe71ba9d5083ff58"
+    },
+    {
+      "file": "input.blend",
+      "sha256": "aa0c96cad937c9d5fbba8b852f569e6d289f0746429a1d55effc655777984d6e"
+    },
+    {
+      "file": "商品基线_v3.blend",
+      "sha256": "05b80b0ebc072c1a01cdf597c08f16e33d8033eb3771a9fe48dc2c18a0079905"
+    },
+    {
+      "file": "render.py",
+      "sha256": "285054ac6e69f761f6695496d235ab8afea6cd34c09df1e183c335376de5f631"
+    },
+    {
+      "file": "verify.py",
+      "sha256": "f129d5d663aad3506c030929bbfa8b4cb512518b78a93ab9d72472514f90ec6a"
+    },
+    {
+      "file": "package.py",
+      "sha256": "c3afb6a567de810a65587dedab3c60f53185e4c0b5882bd1aa8fec7cc81eccc7"
+    },
+    {
+      "file": "README.md",
+      "sha256": "fe591e0b3b334eec052450ae5402267caa413531fd26763694db010aef87f5df"
+    },
+    {
+      "file": "source-receipt.json",
+      "sha256": "2cbe99c62d8439a2ed0d4ae522a634a3c7b556b442ad9a98803504ae3b78f809"
+    },
+    {
+      "file": "reopened-scene-verification.json",
+      "sha256": "19c8abc2b43c42281ebf9681d154e21a3f2c31f54ad2bbefe585875b3e5dae82"
+    },
+    {
+      "file": "visual-review.json",
+      "sha256": "16ee940d8c248c1d0beabd0e5d23b8255438679fe7967dfb2c2e0dc9a58473e6"
+    },
+    {
+      "file": "actual-sku-contact.jpg",
+      "sha256": "6e46eba6075d35aac33a393f9cb4b0ea3488549bd93855c1599d3cbba715434e"
+    },
+    {
+      "file": "372-detail.jpg",
+      "sha256": "48f43c66fe21eeeedccf7b7046ba2f1f9d1a3748b3523eb1fabada25cc09429a"
+    },
+    {
+      "file": "before-after.jpg",
+      "sha256": "0d8a25eac5e4778845f094fb44b280d95ba69f0d414b03d7bc6681c2e1cd0557"
+    },
+    {
+      "file": "phone.jpg",
+      "sha256": "e61cf13ee272369f62e5ef5ca3fa37be29e57b5b111d118b0efcb8ff276aaae9"
+    },
+    {
+      "file": "detail-200pct.jpg",
+      "sha256": "5b79dab80ff6f717e39b5949cf22815e8621187d37cd542cc4b5bf4c1b36055d"
+    },
+    {
+      "file": "source-detail-comparison.jpg",
+      "sha256": "154790748b50d5d66511aba806c9fecdf3dbef6e1a05a9a6d1815a608a033ebc"
+    }
+  ]
+}

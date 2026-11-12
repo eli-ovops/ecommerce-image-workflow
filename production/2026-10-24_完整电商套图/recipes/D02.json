@@ -1,0 +1,131 @@
+{
+  "id": "D02",
+  "role": "三色错落相册",
+  "sku": "三色",
+  "refs_actual_viewed": [
+    {
+      "id": "A008",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_03.jpg",
+      "sha256": "585d978887eb1dc864fbd241b1770eedb0c6101c84e74e3b87badc3837d57124"
+    }
+  ],
+  "actual_inputs": [
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/gunmetal-cutout-v003.png",
+      "sha256": "591b5e0aa86372b536da9b0513f742953524f58747ba319e4183d3e18ee59c9d"
+    },
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/silver-cutout-v003.png",
+      "sha256": "6bd26eb1336ef7bedaef9a2bcf67f2d26d0179dac255c2cc246cf5d8e9f27b54"
+    },
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/black-cutout-v003.png",
+      "sha256": "e9e9b17233bed01d7c573a2eba5ad38c3165f4ae0f9b0b9ee95aac69c7372f57"
+    }
+  ],
+  "claims": [
+    "银色",
+    "黑色",
+    "枪灰色"
+  ],
+  "copy": [
+    "三色可选",
+    "把喜欢的颜色带进浴室",
+    "枪灰色",
+    "银色",
+    "黑色",
+    "银色  /  黑色  /  枪灰色"
+  ],
+  "source_files": [
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/gunmetal-cutout-v003.png",
+      "sha256": "591b5e0aa86372b536da9b0513f742953524f58747ba319e4183d3e18ee59c9d"
+    },
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/silver-cutout-v003.png",
+      "sha256": "6bd26eb1336ef7bedaef9a2bcf67f2d26d0179dac255c2cc246cf5d8e9f27b54"
+    },
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/black-cutout-v003.png",
+      "sha256": "e9e9b17233bed01d7c573a2eba5ad38c3165f4ae0f9b0b9ee95aac69c7372f57"
+    }
+  ],
+  "source_layers": [
+    {
+      "source": {
+        "path": "production/2026-10-24_完整电商套图/generated/gunmetal-cutout-v003.png",
+        "sha256": "591b5e0aa86372b536da9b0513f742953524f58747ba319e4183d3e18ee59c9d"
+      },
+      "uniform_scale": 0.7763713080168776,
+      "rotation_deg": 12,
+      "destination_top_left": [
+        52,
+        728
+      ],
+      "resampled_size": [
+        585,
+        984
+      ],
+      "operation": "alpha composite existing product RGB, no recolor or local geometry edits",
+      "source_kind": "derived_alpha_or_crop_of_photo_guided_generated_product"
+    },
+    {
+      "source": {
+        "path": "production/2026-10-24_完整电商套图/generated/silver-cutout-v003.png",
+        "sha256": "6bd26eb1336ef7bedaef9a2bcf67f2d26d0179dac255c2cc246cf5d8e9f27b54"
+      },
+      "uniform_scale": 0.8851063829787233,
+      "rotation_deg": -5,
+      "destination_top_left": [
+        555,
+        428
+      ],
+      "resampled_size": [
+        510,
+        1074
+      ],
+      "operation": "alpha composite existing product RGB, no recolor or local geometry edits",
+      "source_kind": "derived_alpha_or_crop_of_photo_guided_generated_product"
+    },
+    {
+      "source": {
+        "path": "production/2026-10-24_完整电商套图/generated/black-cutout-v003.png",
+        "sha256": "e9e9b17233bed01d7c573a2eba5ad38c3165f4ae0f9b0b9ee95aac69c7372f57"
+      },
+      "uniform_scale": 0.7027942421676545,
+      "rotation_deg": -14,
+      "destination_top_left": [
+        978,
+        848
+      ],
+      "resampled_size": [
+        554,
+        894
+      ],
+      "operation": "alpha composite existing product RGB, no recolor or local geometry edits",
+      "source_kind": "derived_alpha_or_crop_of_photo_guided_generated_product"
+    }
+  ],
+  "transform": "See source_layers; all photo transforms uniform scaling/cropping; no nonuniform product stretch",
+  "output": {
+    "path": "production/2026-10-24_完整电商套图/generated/D02-v004.jpg",
+    "sha256": "f0330b30c3299e914b9cf7161f4d118574c976979369aa00b8f625d756b5fcad"
+  },
+  "working": {
+    "path": "production/2026-10-24_完整电商套图/generated/D02-v004.png",
+    "sha256": "2e66e07bf62feee38788b5041d038f2c7ffd648c0b0dd9a07f80154fbed899ab"
+  },
+  "dims": [
+    1600,
+    2000
+  ],
+  "notes": "各色独立已验生成商品层；没有银色换色；A008高低错落白框节奏",
+  "status": "AWAITING_INDEPENDENT_VISUAL_REVIEW",
+  "refs": [
+    {
+      "id": "A008",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_03.jpg",
+      "sha256": "585d978887eb1dc864fbd241b1770eedb0c6101c84e74e3b87badc3837d57124"
+    }
+  ]
+}

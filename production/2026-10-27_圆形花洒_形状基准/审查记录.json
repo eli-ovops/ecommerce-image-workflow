@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-27",
+  "owner": "/root",
+  "status": "PENDING_USER_SHAPE_CONFIRMATION",
+  "production_owner": "/root/round_shower_model",
+  "model_sha256": "5e67a1e60ed6a7063159e60618af20b3ae4fe725d9cd07dabce1301e0af63ce7",
+  "verification": "Read worker native Blender reopen receipt; independently checked saved model hash. No duplicate Blender rerun.",
+  "opened_final_images": [
+    "校准模型/八视图总览.jpg",
+    "校准模型/正面实拍对照.jpg",
+    "校准模型/侧面实拍对照.jpg",
+    "校准模型/审查图/07_头颈局部.jpg",
+    "校准模型/审查图/08_圆盘顶边.jpg"
+  ],
+  "observations": [
+    "旧圆片下沿曲率亮线已移除，黑面板连续包围切档键，尾端已收圆",
+    "同模提供圆柱厚边、浅拱背壳及头颈握柄多视角基准",
+    "原照与正交模型未标定相机；侧面、肩部及背壳曲率仍待用户结合实物复核"
+  ],
+  "limits": [
+    "照片估建尺寸，不是实测或精密扫描",
+    "外围细孔计数和螺纹简化",
+    "灰模分色不是银色镜面材质或真实感验收",
+    "没有广告图、水流或客户接受结论"
+  ],
+  "technical_artifacts": "REOPEN_AND_JPG_AVAILABLE",
+  "user_shape_acceptance": "UNKNOWN",
+  "requested_model": "gpt-6-astra",
+  "requested_effort": "medium",
+  "actual_runtime_model": "UNKNOWN",
+  "no_deletion": true,
+  "no_imagegen": true
+}

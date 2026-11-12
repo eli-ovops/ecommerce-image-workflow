@@ -1,0 +1,12 @@
+{
+  "source_blend": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-11-02_391\u5b89\u88c5\u4ef0\u89c6\u5355\u5f20\u5b9e\u9a8c/391-installation.blend",
+  "face": "single original372 photo texture, no second hole mesh",
+  "rig_rotation_deg": [
+    0,
+    0,
+    76
+  ],
+  "mesh_changes": false,
+  "changes": "camera, rigid pose, shell roughness and lighting; no new product geometry",
+  "water_removed_from_inset_only": true
+}

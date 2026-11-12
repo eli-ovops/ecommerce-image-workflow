@@ -1,0 +1,87 @@
+{
+  "status": "READY_FOR_USER_REVIEW",
+  "requested_model": "gpt-6-astra",
+  "requested_effort": "medium",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "imagegen_calls": 1,
+  "generated_candidate_used": false,
+  "native_candidate": "/Users/USER/.codex/generated_images/01a17c88-9784-7202-9a4a-0bf7830010e6/exec-85c661b5-0285-4724-8ce4-3af4fba8ab57.png",
+  "reason_rejected": "Stain1 retained and original texture oversmoothed",
+  "actual_method": "3 local original-photo texture translations under feathered SVG masks",
+  "patches": [
+    {
+      "id": 1,
+      "cx": 520,
+      "cy": 905,
+      "rx": 18,
+      "ry": 17,
+      "dx": -70,
+      "dy": -5
+    },
+    {
+      "id": 2,
+      "cx": 653,
+      "cy": 1085,
+      "rx": 17,
+      "ry": 18,
+      "dx": -69,
+      "dy": -17
+    },
+    {
+      "id": 3,
+      "cx": 548,
+      "cy": 1285,
+      "rx": 13,
+      "ry": 19,
+      "dx": -74,
+      "dy": -22
+    }
+  ],
+  "source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/B清洁/sources/before.jpg",
+  "source_sha256": "85fc74d3d4af0f26c2fec3fdfc0a071483aae35068e1c1d1462684645ba61b87",
+  "source_matches_B_revision": true,
+  "viewed": [
+    "user-circles.png",
+    "original339",
+    "B_revision_JPG",
+    "candidate local crops1/2/3",
+    "final local before-after1/2/3",
+    "preview.png",
+    "phone.png",
+    "B_红钮细节_清洁版.jpg"
+  ],
+  "repair_history": [
+    "Single generated cleanup candidate rejected",
+    "Initial clone donors included nozzle fragments; source sampling corrected before export",
+    "Nearer coarse texture donors selected for patches2/3; no additional generation"
+  ],
+  "limitations": [
+    "Static product surface cleanup only; not evidence of cleaning function",
+    "JPG reencoding affects image bytes",
+    "Client acceptance pending"
+  ],
+  "scope": "Only this subdirectory; no parent manifest/package edits",
+  "root_review": "Three before/after regions viewed and approved for export",
+  "jpeg": {
+    "file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/B清洁/B_红钮细节_清洁版.jpg",
+    "sha256": "9937a139de6780a133cc011c0e18e6aac1a9c0ced927302728d03125ffd31fe8",
+    "dimensions": [
+      1440,
+      1440
+    ],
+    "export_count": 1
+  },
+  "pre_JPEG_diff": {
+    "compared": "Same SVG rasterizer baseline with all3 patch groups removed versus composited PNG, RGB; avoids JPEG decode rounding differences",
+    "changed_pixels": 4018,
+    "bounding_box": [
+      498,
+      884,
+      673,
+      1307
+    ],
+    "changed_outside_three_mask_bounds_plus_10px": 0,
+    "scope_note": "JPEG final reencoding can change pixels outside masks; this verifies composition before encoding only"
+  }
+}

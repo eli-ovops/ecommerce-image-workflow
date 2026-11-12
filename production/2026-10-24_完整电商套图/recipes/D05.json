@@ -1,0 +1,133 @@
+{
+  "id": "D05",
+  "role": "下方按键定位与操作",
+  "sku": "银色",
+  "refs_actual_viewed": [
+    {
+      "id": "A014",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_09.jpg",
+      "sha256": "fe989b00dab0d409b52650d1b36bb5eb436db23e6a336fd5b7ca1670dbe70217"
+    },
+    {
+      "id": "A015",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_10.jpg",
+      "sha256": "fa96028c43b3bf55a0900f8417c9964f6243bd3f1fd85ad95bd635d1a5775602"
+    },
+    {
+      "id": "A028",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_23.jpg",
+      "sha256": "1db582f01465a49b001b4186d34eef4713266c69a732d546880b5e49a30d758b"
+    },
+    {
+      "id": "R032",
+      "path": "references/2026-10-22_首批参考/01_微信参考原图/R032_配件_支架安装.jpg",
+      "sha256": "6f2849acf4795f7b58fffc7491edf1f3ce774287fe1c8659e031251876d7dd6f"
+    }
+  ],
+  "actual_inputs": [
+    {
+      "path": "production/2026-10-24_实拍主导主图/generated/R03-v001-native.png",
+      "sha256": "d9d55e31035604b0b9fa53ad4031acbea398ba3e47f77fc1db0cfd70044d01de"
+    }
+  ],
+  "claims": [
+    "下方按键切档",
+    "常规",
+    "喷雾",
+    "混合",
+    "中央红钮手动按压除垢"
+  ],
+  "copy": [
+    "切档，找下方按键",
+    "三种出水，按需选择",
+    "01",
+    "找到下方按键",
+    "位于面板下方",
+    "02",
+    "按下按键",
+    "切换出水档位",
+    "03",
+    "选择所需",
+    "常规 / 喷雾 / 混合",
+    "中央红钮用于",
+    "手动按压除垢"
+  ],
+  "source_files": [
+    {
+      "path": "production/2026-10-24_实拍主导主图/generated/R03-v001-native.png",
+      "sha256": "d9d55e31035604b0b9fa53ad4031acbea398ba3e47f77fc1db0cfd70044d01de"
+    }
+  ],
+  "source_layers": [
+    {
+      "resampled_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/572d5c936d8afe7b.png",
+        "sha256": "1b59a2dcbe698c84361e4b01598ac25d23da89a44691fec164123fc9602f7cb1"
+      },
+      "source": {
+        "path": "production/2026-10-24_实拍主导主图/generated/R03-v001-native.png",
+        "sha256": "d9d55e31035604b0b9fa53ad4031acbea398ba3e47f77fc1db0cfd70044d01de"
+      },
+      "exif_display_size": [
+        1254,
+        1254
+      ],
+      "source_crop": [
+        420,
+        480,
+        1020,
+        1254
+      ],
+      "uniform_scale": 1.9121447028423773,
+      "scaled_crop_offset": [
+        108,
+        0
+      ],
+      "destination": [
+        55,
+        420,
+        930,
+        1480
+      ],
+      "operation": "uniform cover crop; source RGB retained through resampling",
+      "source_kind": "photo_guided_generated_product_or_composite"
+    }
+  ],
+  "transform": "See source_layers; all photo transforms uniform scaling/cropping; no nonuniform product stretch",
+  "output": {
+    "path": "production/2026-10-24_完整电商套图/generated/D05-v004.jpg",
+    "sha256": "618adc5619f1038cc749bb0cfdcb72e68fcd304d025f2aa87ae535858628bf8c"
+  },
+  "working": {
+    "path": "production/2026-10-24_完整电商套图/generated/D05-v004.png",
+    "sha256": "71c81256348d76882c6e760b953effd210dd763c15fba193591ae05db7d3ea18"
+  },
+  "dims": [
+    1600,
+    2000
+  ],
+  "notes": "复用已验生成面板/下键；不画按下动作，不写固定循环顺序；参考A028/R032仅借步骤与外部定位",
+  "status": "AWAITING_INDEPENDENT_VISUAL_REVIEW",
+  "refs": [
+    {
+      "id": "A014",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_09.jpg",
+      "sha256": "fe989b00dab0d409b52650d1b36bb5eb436db23e6a336fd5b7ca1670dbe70217"
+    },
+    {
+      "id": "A015",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_10.jpg",
+      "sha256": "fa96028c43b3bf55a0900f8417c9964f6243bd3f1fd85ad95bd635d1a5775602"
+    },
+    {
+      "id": "A028",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_23.jpg",
+      "sha256": "1db582f01465a49b001b4186d34eef4713266c69a732d546880b5e49a30d758b"
+    },
+    {
+      "id": "R032",
+      "path": "references/2026-10-22_首批参考/01_微信参考原图/R032_配件_支架安装.jpg",
+      "sha256": "6f2849acf4795f7b58fffc7491edf1f3ce774287fe1c8659e031251876d7dd6f"
+    }
+  ]
+}

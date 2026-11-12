@@ -1,0 +1,312 @@
+{
+  "id": "D09",
+  "role": "外观图鉴与已知商品信息收尾",
+  "sku": "三色",
+  "refs_actual_viewed": [
+    {
+      "id": "A032",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_27.jpg",
+      "sha256": "876375ecfc0fe01f87c19948d24d8349faa2aba2c1d42c192fc64c6d384b7303"
+    },
+    {
+      "id": "A033",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_28.jpg",
+      "sha256": "fdd68b0dad49cfa6ef02495cdf02640d26d12b46d1f4abdba0f456dc4fce088d"
+    },
+    {
+      "id": "R034",
+      "path": "references/2026-10-22_首批参考/01_微信参考原图/R034_规格_参数与承诺.jpg",
+      "sha256": "91e6ae7cee75b738a57dccf6b53512eefbe0c608f207ddedda1c4946b8b5b6a8"
+    },
+    {
+      "id": "R035",
+      "path": "references/2026-10-22_首批参考/01_微信参考原图/R035_服务_售后与水效标识.jpg",
+      "sha256": "70635374cc6972328ec3a3e5602cbf7b3c2094f4899127a157c6bcaf5423f9d6"
+    }
+  ],
+  "actual_inputs": [
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/silver-cutout-v003.png",
+      "sha256": "6bd26eb1336ef7bedaef9a2bcf67f2d26d0179dac255c2cc246cf5d8e9f27b54"
+    },
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/rear-cutout-v003.png",
+      "sha256": "88adf99e7b7c50c4a73f5000988f7ceb33215f7e3ffb5007641750807b557a2d"
+    },
+    {
+      "path": "products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg",
+      "sha256": "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90"
+    },
+    {
+      "path": "products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+      "sha256": "0b388756f0ee2e35630dac7789237153d390fa8aaab8f58f6e2643d4181be21d"
+    },
+    {
+      "path": "production/2026-10-24_实拍主导主图/generated/R03-v001-native.png",
+      "sha256": "d9d55e31035604b0b9fa53ad4031acbea398ba3e47f77fc1db0cfd70044d01de"
+    }
+  ],
+  "claims": [
+    "银色",
+    "黑色",
+    "枪灰色",
+    "单花洒",
+    "常规",
+    "喷雾",
+    "混合",
+    "下方按键",
+    "手动按压中央红钮",
+    "不含软管与支架"
+  ],
+  "copy": [
+    "外观图鉴",
+    "看细节，再选色",
+    "正面",
+    "背面",
+    "侧面实拍",
+    "白色孔位",
+    "下方按键",
+    "中央红钮",
+    "商品信息",
+    "可选颜色",
+    "银色 / 黑色 / 枪灰色",
+    "销售内容",
+    "单花洒",
+    "出水档位",
+    "常规 / 喷雾 / 混合",
+    "切档位置",
+    "下方按键",
+    "除垢操作",
+    "手动按压中央红钮",
+    "配件说明",
+    "不含软管与支架",
+    "三色可选 · 单花洒"
+  ],
+  "source_files": [
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/silver-cutout-v003.png",
+      "sha256": "6bd26eb1336ef7bedaef9a2bcf67f2d26d0179dac255c2cc246cf5d8e9f27b54"
+    },
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/rear-cutout-v003.png",
+      "sha256": "88adf99e7b7c50c4a73f5000988f7ceb33215f7e3ffb5007641750807b557a2d"
+    },
+    {
+      "path": "products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg",
+      "sha256": "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90"
+    },
+    {
+      "path": "products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+      "sha256": "0b388756f0ee2e35630dac7789237153d390fa8aaab8f58f6e2643d4181be21d"
+    },
+    {
+      "path": "production/2026-10-24_实拍主导主图/generated/R03-v001-native.png",
+      "sha256": "d9d55e31035604b0b9fa53ad4031acbea398ba3e47f77fc1db0cfd70044d01de"
+    }
+  ],
+  "source_layers": [
+    {
+      "source": {
+        "path": "production/2026-10-24_完整电商套图/generated/silver-cutout-v003.png",
+        "sha256": "6bd26eb1336ef7bedaef9a2bcf67f2d26d0179dac255c2cc246cf5d8e9f27b54"
+      },
+      "uniform_scale": 0.28085106382978725,
+      "rotation_deg": 0,
+      "destination_top_left": [
+        231,
+        400
+      ],
+      "resampled_size": [
+        133,
+        330
+      ],
+      "operation": "alpha composite existing product RGB, no recolor or local geometry edits",
+      "source_kind": "derived_alpha_or_crop_of_photo_guided_generated_product"
+    },
+    {
+      "source": {
+        "path": "production/2026-10-24_完整电商套图/generated/rear-cutout-v003.png",
+        "sha256": "88adf99e7b7c50c4a73f5000988f7ceb33215f7e3ffb5007641750807b557a2d"
+      },
+      "uniform_scale": 0.30414746543778803,
+      "rotation_deg": 0,
+      "destination_top_left": [
+        736,
+        400
+      ],
+      "resampled_size": [
+        132,
+        330
+      ],
+      "operation": "alpha composite existing product RGB, no recolor or local geometry edits",
+      "source_kind": "derived_alpha_or_crop_of_photo_guided_generated_product"
+    },
+    {
+      "source": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg",
+        "sha256": "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90"
+      },
+      "source_kind": "original_real_photo",
+      "source_crop": [
+        1500,
+        0,
+        3000,
+        4500
+      ],
+      "uniform_scale": 0.07555555555555556,
+      "destination": [
+        1251,
+        395,
+        113,
+        340
+      ],
+      "container_box": [
+        1075,
+        395,
+        465,
+        340
+      ],
+      "resampled_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/contain-23da4639d205b423.png",
+        "sha256": "d80370a3876f2b4818adad1bfcb2ad760fd1b7498d857ca7e543a08277f84741"
+      },
+      "operation": "uniform contain original photo crop; no AI redraw"
+    },
+    {
+      "resampled_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/82e6c4f175d5282a.png",
+        "sha256": "895ee07496f454940c491416a9328cb36c48ce4f0f21e5c2e4a1962471857e1b"
+      },
+      "source": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+        "sha256": "0b388756f0ee2e35630dac7789237153d390fa8aaab8f58f6e2643d4181be21d"
+      },
+      "exif_display_size": [
+        4284,
+        5712
+      ],
+      "source_crop": [
+        800,
+        600,
+        2400,
+        2000
+      ],
+      "uniform_scale": 0.290625,
+      "scaled_crop_offset": [
+        0,
+        34
+      ],
+      "destination": [
+        65,
+        845,
+        465,
+        340
+      ],
+      "operation": "uniform cover crop; source RGB retained through resampling",
+      "source_kind": "original_real_photo"
+    },
+    {
+      "resampled_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/255ee0761660540e.png",
+        "sha256": "97ca1e19732cd23667dfdf7df5582efe13991a76bdc1ee58a66ce30a9c42b2be"
+      },
+      "source": {
+        "path": "production/2026-10-24_实拍主导主图/generated/R03-v001-native.png",
+        "sha256": "d9d55e31035604b0b9fa53ad4031acbea398ba3e47f77fc1db0cfd70044d01de"
+      },
+      "exif_display_size": [
+        1254,
+        1254
+      ],
+      "source_crop": [
+        580,
+        850,
+        850,
+        1120
+      ],
+      "uniform_scale": 1.7222222222222223,
+      "scaled_crop_offset": [
+        0,
+        62
+      ],
+      "destination": [
+        570,
+        845,
+        465,
+        340
+      ],
+      "operation": "uniform cover crop; source RGB retained through resampling",
+      "source_kind": "photo_guided_generated_product_or_composite"
+    },
+    {
+      "resampled_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/8ae88fde0bc2b50f.png",
+        "sha256": "994e603abfa6fd9bc5ead72fd09d2f1188af16e93335c4f774fe3106c0fb4679"
+      },
+      "source": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+        "sha256": "0b388756f0ee2e35630dac7789237153d390fa8aaab8f58f6e2643d4181be21d"
+      },
+      "exif_display_size": [
+        4284,
+        5712
+      ],
+      "source_crop": [
+        1400,
+        1700,
+        2800,
+        2900
+      ],
+      "uniform_scale": 0.33214285714285713,
+      "scaled_crop_offset": [
+        0,
+        30
+      ],
+      "destination": [
+        1075,
+        845,
+        465,
+        340
+      ],
+      "operation": "uniform cover crop; source RGB retained through resampling",
+      "source_kind": "original_real_photo"
+    }
+  ],
+  "transform": "See source_layers; all photo transforms uniform scaling/cropping; no nonuniform product stretch",
+  "output": {
+    "path": "production/2026-10-24_完整电商套图/generated/D09-v005.jpg",
+    "sha256": "41a2fe9e0b0ac352520c0b48f9d3b4530390cee1dc97253d92217ca3450f72bf"
+  },
+  "working": {
+    "path": "production/2026-10-24_完整电商套图/generated/D09-v005.png",
+    "sha256": "159a944330deeabeb0186ac4fed86e28c1a46540a9559dd292bf4127a715ca23"
+  },
+  "dims": [
+    1600,
+    2400
+  ],
+  "notes": "未知尺寸/材质/接口/售后不列；无证书/品牌/服务承诺；真实侧照与原孔/红钮窗明确来源",
+  "status": "AWAITING_INDEPENDENT_VISUAL_REVIEW",
+  "refs": [
+    {
+      "id": "A032",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_27.jpg",
+      "sha256": "876375ecfc0fe01f87c19948d24d8349faa2aba2c1d42c192fc64c6d384b7303"
+    },
+    {
+      "id": "A033",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_28.jpg",
+      "sha256": "fdd68b0dad49cfa6ef02495cdf02640d26d12b46d1f4abdba0f456dc4fce088d"
+    },
+    {
+      "id": "R034",
+      "path": "references/2026-10-22_首批参考/01_微信参考原图/R034_规格_参数与承诺.jpg",
+      "sha256": "91e6ae7cee75b738a57dccf6b53512eefbe0c608f207ddedda1c4946b8b5b6a8"
+    },
+    {
+      "id": "R035",
+      "path": "references/2026-10-22_首批参考/01_微信参考原图/R035_服务_售后与水效标识.jpg",
+      "sha256": "70635374cc6972328ec3a3e5602cbf7b3c2094f4899127a157c6bcaf5423f9d6"
+    }
+  ]
+}

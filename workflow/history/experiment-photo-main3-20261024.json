@@ -1,0 +1,304 @@
+{
+  "schema_version": 3,
+  "experiment_id": "SILVER-PHOTO-MAIN-001",
+  "date": "2026-10-24",
+  "production_state": "EXPERIMENT_ENABLED",
+  "task_scope": "THREE_PHOTO_GUIDED_MAIN_IMAGES",
+  "source_priority": "OWN_SKU_PHOTOS_PRIMARY_3D_SECONDARY",
+  "hard_shape_lock": false,
+  "source_catalog": {
+    "path": "products/主推花洒/银色/manifest.json",
+    "sha256": "d5ce66af6abf10f85b8748c53d037f573e3e753ffcc5b7505b4931a6e0dc91a5"
+  },
+  "appearance_sources": [
+    {
+      "id": "SIL001",
+      "file": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+        "sha256": "6de02f19793c568c799762525475cd0241af1b9c41487580383be4efbd2a1fa2"
+      }
+    },
+    {
+      "id": "SIL002",
+      "file": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184344_90_2.jpg",
+        "sha256": "9f6e724d9fc0e01a0670fbd1964d4a3e2e32d985447bcdb99fc98fe147526eb1"
+      }
+    },
+    {
+      "id": "SIL003",
+      "file": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184345_91_2.jpg",
+        "sha256": "8d41d23e8e762b1e9208796587c36db70ea8e452ee2e3fdd3604f97c7f40dd60"
+      }
+    },
+    {
+      "id": "SIL004",
+      "file": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg",
+        "sha256": "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90"
+      }
+    },
+    {
+      "id": "SIL005",
+      "file": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+        "sha256": "0b388756f0ee2e35630dac7789237153d390fa8aaab8f58f6e2643d4181be21d"
+      }
+    }
+  ],
+  "secondary_geometry_reference": {
+    "path": "production/2026-10-24_实物建模/blender/v010a/renders/strict_side.jpg",
+    "sha256": "87b0d943d94882adf26b46b88b1a52d0012f9780aedac3d6c571d7fcff1b4eeb"
+  },
+  "assets": [
+    {
+      "id": "R01",
+      "role": "白底完整银色单品",
+      "sku": "silver",
+      "geometry_route": "photo_guided_generation",
+      "appearance_source_ids": [
+        "SIL001",
+        "SIL003",
+        "SIL004"
+      ],
+      "style_references": [
+        {
+          "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/主图/主图_05.jpg",
+          "sha256": "32584bc1f2be07bc6e076cbbe6c24c70b11d949244e035918567de9977591ab4"
+        }
+      ],
+      "has_person": false,
+      "has_water": false,
+      "prompt": {
+        "path": "production/2026-10-24_实拍主导主图/prompts/R01-local-fix.txt",
+        "sha256": "2213a2f2c08ab4b36be800efa22ab5ecdabcc868df52bb188a201403780ccb9f"
+      },
+      "generated_native": {
+        "path": "production/2026-10-24_实拍主导主图/generated/R01-v002-native.png",
+        "sha256": "6348a81ecd252344d8cd10d1a81edea6f3f9a859b2c48293abddc7d226180eba"
+      },
+      "generation_receipt": {
+        "path": "production/2026-10-24_实拍主导主图/review/R01-generation-receipt.json",
+        "sha256": "31f96ccdc09fe04194364b49e1c9dc52a8227621d5a1f4513d3b44e37d41dd3b"
+      },
+      "candidate": {
+        "path": "production/2026-10-24_实拍主导主图/working/R01.png",
+        "sha256": "144bc44f88c5b4d38506e8bf33713e9b18d14280351d4d46a7728cd2bff09f87"
+      },
+      "client_jpg": {
+        "path": "production/2026-10-24_实拍主导主图/final/R01.jpg",
+        "sha256": "d7a6e607ba7923f56eb39c720d57ab061fd36a25bc73d159369235ee122b68b2"
+      },
+      "review": {
+        "path": "production/2026-10-24_实拍主导主图/review/R01-visual-review.json",
+        "sha256": "8c2fc995fa2882a568b0b79f5672b524449a03666ffd86b4caf79d776a429d90"
+      },
+      "text_edit_regions": [],
+      "qa_status": "REVIEW_READY",
+      "native_transform": {
+        "uniform_scale": 0.82,
+        "background_rgb": [
+          255,
+          255,
+          255
+        ]
+      },
+      "local_repair": {
+        "file": {
+          "path": "production/2026-10-24_实拍主导主图/generated/R01-v003-composite.png",
+          "sha256": "dd8c54d386ada0bd7406e75075014297c35ed622a1c81bbd3760ed2c4e3d2665"
+        },
+        "mask": {
+          "path": "production/2026-10-24_实拍主导主图/generated/R01-roi-composite-mask.png",
+          "sha256": "7f4e1ccd6b4cd33de3b070ce09afc6299aea4b057767cec045bce1670ec86902"
+        },
+        "tool_patch": {
+          "path": "production/2026-10-24_实拍主导主图/generated/R01-roi-tool-native.png",
+          "sha256": "130aa9482d8ed22d4a18ec03f35d3cfc61496b03923aeac2d7b0836b98d2da98"
+        },
+        "evidence": {
+          "path": "production/2026-10-24_实拍主导主图/generated/R01-roi-evidence.json",
+          "sha256": "ce82223c47fcd40a49ee45c426b64d5beb5f36e442981cb57c4dc25526d89be4"
+        },
+        "base_sha256": "6348a81ecd252344d8cd10d1a81edea6f3f9a859b2c48293abddc7d226180eba",
+        "tool": "builtin_image_gen",
+        "additional_photo_reference": "SIL005 actual nozzle closeup used to produce the ROI repair patch"
+      },
+      "approved_copy": [],
+      "actual_dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "R02",
+      "role": "暖金单品主图",
+      "sku": "silver",
+      "geometry_route": "photo_guided_generation",
+      "appearance_source_ids": [
+        "SIL001",
+        "SIL003",
+        "SIL004"
+      ],
+      "style_references": [
+        {
+          "path": "references/2026-10-22_首批参考/01_微信参考原图/R001_主图_套装推荐.jpg",
+          "sha256": "f84d0f81c6417e52ed367a8756d235450cc63b05a91ef06be6dd7742f860dd2c"
+        },
+        {
+          "path": "references/2026-10-22_首批参考/01_微信参考原图/R033_规格_产品尺寸.jpg",
+          "sha256": "0478b46a264f72ada3665285c6119fb5bb5a8348239ddabd924c565395402cac"
+        }
+      ],
+      "has_person": false,
+      "has_water": false,
+      "prompt": {
+        "path": "production/2026-10-24_实拍主导主图/prompts/R02.txt",
+        "sha256": "433cf01ee9636ac7a7e3b5b83d0d4f7374758088a5e7efe3b0e86afc4c9e837c"
+      },
+      "generated_native": {
+        "path": "production/2026-10-24_实拍主导主图/generated/R02-v001-native.png",
+        "sha256": "1ccbfd9a65bf214ef2f3a5ff65686147c9bc512bf0db6dcb3b7cd7a844adfc75"
+      },
+      "generation_receipt": {
+        "path": "production/2026-10-24_实拍主导主图/review/R02-generation-receipt.json",
+        "sha256": "07317536021a4c0ab650549c1261c8797d846f2a6537bd788ce6a3718d0eb211"
+      },
+      "candidate": {
+        "path": "production/2026-10-24_实拍主导主图/working/R02.png",
+        "sha256": "75ad6d53764ce9e3f3712264ad32c39a1fc4160ab32221d55996830071de1b11"
+      },
+      "client_jpg": {
+        "path": "production/2026-10-24_实拍主导主图/final/R02.jpg",
+        "sha256": "0f151260bbb504d3f0543958fe2e612ff3871dfb06140dc39f894518e3ca25d3"
+      },
+      "review": {
+        "path": "production/2026-10-24_实拍主导主图/review/R02-visual-review.json",
+        "sha256": "15219d884829638cfbe5cb8896b1465ac2ffbd72de42f908a61587366bd5e30f"
+      },
+      "text_edit_regions": [
+        [
+          48,
+          100,
+          430,
+          480
+        ]
+      ],
+      "qa_status": "REVIEW_READY",
+      "local_repair": {
+        "file": {
+          "path": "production/2026-10-24_实拍主导主图/generated/R02-v002-composite.png",
+          "sha256": "36c2832997bf86ac537e9a7cee1744a63272ea7ca3d6fe33d3851d3cc877636c"
+        },
+        "mask": {
+          "path": "production/2026-10-24_实拍主导主图/generated/R02-reuse-mask.png",
+          "sha256": "74f4199eff5bade544ecf5499b20a63a842ba40c86f49a91db6fc40c73583569"
+        },
+        "tool_patch": {
+          "path": "production/2026-10-24_实拍主导主图/generated/R01-roi-tool-native.png",
+          "sha256": "130aa9482d8ed22d4a18ec03f35d3cfc61496b03923aeac2d7b0836b98d2da98"
+        },
+        "evidence": {
+          "path": "production/2026-10-24_实拍主导主图/generated/R02-reuse-evidence.json",
+          "sha256": "4f7f401c92966b021f756d74f58aefed140229e11ba2d4fb4ebe1b8812710bcd"
+        },
+        "base_sha256": "1ccbfd9a65bf214ef2f3a5ff65686147c9bc512bf0db6dcb3b7cd7a844adfc75",
+        "tool": "builtin_image_gen",
+        "additional_photo_reference": "SIL005 actual nozzle closeup used to produce the ROI repair patch"
+      },
+      "approved_copy": [
+        "三档出水",
+        "手持花洒",
+        "常规 · 喷雾 · 混合",
+        "银色｜单花洒"
+      ],
+      "actual_dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "R03",
+      "role": "冷蓝下方按键细节",
+      "sku": "silver",
+      "geometry_route": "photo_guided_generation",
+      "appearance_source_ids": [
+        "SIL001",
+        "SIL005",
+        "SIL004"
+      ],
+      "style_references": [
+        {
+          "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_09.jpg",
+          "sha256": "fe989b00dab0d409b52650d1b36bb5eb436db23e6a336fd5b7ca1670dbe70217"
+        }
+      ],
+      "has_person": false,
+      "has_water": false,
+      "prompt": {
+        "path": "production/2026-10-24_实拍主导主图/prompts/R03.txt",
+        "sha256": "a4431b0a5700651f079a6782576a7e49e9875501c40a13399f857e09b5d4798a"
+      },
+      "generated_native": {
+        "path": "production/2026-10-24_实拍主导主图/generated/R03-v001-native.png",
+        "sha256": "d9d55e31035604b0b9fa53ad4031acbea398ba3e47f77fc1db0cfd70044d01de"
+      },
+      "generation_receipt": {
+        "path": "production/2026-10-24_实拍主导主图/review/R03-generation-receipt.json",
+        "sha256": "b799f961e99edae646784ddacf8ef1b7b56d73c0449b754b1be53fa3d17ac619"
+      },
+      "candidate": {
+        "path": "production/2026-10-24_实拍主导主图/working/R03.png",
+        "sha256": "3308be650822414b1802527166ddc101440e47bf59158f4ac80b3f3e87305855"
+      },
+      "client_jpg": {
+        "path": "production/2026-10-24_实拍主导主图/final/R03.jpg",
+        "sha256": "707dc8ce7bcd1b69ba8aa8c7ec00033a3297dd750cbf416cfc0bd3e8406b2119"
+      },
+      "review": {
+        "path": "production/2026-10-24_实拍主导主图/review/R03-visual-review.json",
+        "sha256": "5add007fdba9d2e2e37ba2546b5a8b77b19eaf418e90648f53c7806d7c9de6d9"
+      },
+      "text_edit_regions": [
+        [
+          44,
+          60,
+          350,
+          675
+        ]
+      ],
+      "qa_status": "REVIEW_READY",
+      "approved_copy": [
+        "下方按键",
+        "切换三档",
+        "常规出水",
+        "喷雾出水",
+        "混合出水"
+      ],
+      "actual_dimensions": [
+        1254,
+        1254
+      ]
+    }
+  ],
+  "client_acceptance": null,
+  "reference_read_record": "production/2026-10-22_参考重构/reference-map.md:31-37",
+  "reference_policy": "same-product rework: reuse verified 74-image reading receipt; inspect targeted original references before each call",
+  "user_instructions": [
+    "Actual own-SKU photos remain appearance authority; 3D secondary",
+    "Still reference prior74 ecommerce images",
+    "No model images",
+    "JPG output only"
+  ],
+  "prior_cg_trial": "workflow/history/experiment-cg-dry3-20261024.json",
+  "trial_metrics": {
+    "effective_image_generation_calls": 5,
+    "baseline_full_images": 3,
+    "targeted_full_frame_edits": 1,
+    "local_roi_tool_edits": 1,
+    "deterministic_patch_reuse_R02": true,
+    "customer_accepted_images": 0,
+    "unit_acceptance_rate": "UNKNOWN until customer feedback"
+  }
+}

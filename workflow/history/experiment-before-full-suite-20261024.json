@@ -1,0 +1,329 @@
+{
+  "schema_version": 3,
+  "date": "2026-10-24",
+  "production_state": "EXPERIMENT_ENABLED",
+  "source_priority": "OWN_SKU_PHOTOS_PRIMARY_3D_SECONDARY",
+  "hard_shape_lock": false,
+  "secondary_geometry_reference": {
+    "path": "production/2026-10-24_实物建模/blender/v010a/renders/strict_side.jpg",
+    "sha256": "87b0d943d94882adf26b46b88b1a52d0012f9780aedac3d6c571d7fcff1b4eeb"
+  },
+  "source_catalog": {
+    "path": "products/主推花洒/银色/manifest.json",
+    "sha256": "d5ce66af6abf10f85b8748c53d037f573e3e753ffcc5b7505b4931a6e0dc91a5"
+  },
+  "reference_read_record": "production/2026-10-22_参考重构/reference-map.md:31-37",
+  "reference_policy": "same-product rework: reuse verified 74-image reading receipt; inspect targeted original references before each call",
+  "experiment_id": "REFERENCE-AD-SILVER-003",
+  "task_scope": "THREE_REFERENCE_LED_ADS",
+  "client_acceptance": null,
+  "appearance_sources": [
+    {
+      "id": "SIL001",
+      "file": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+        "sha256": "6de02f19793c568c799762525475cd0241af1b9c41487580383be4efbd2a1fa2"
+      }
+    },
+    {
+      "id": "SIL002",
+      "file": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184344_90_2.jpg",
+        "sha256": "9f6e724d9fc0e01a0670fbd1964d4a3e2e32d985447bcdb99fc98fe147526eb1"
+      }
+    },
+    {
+      "id": "SIL003",
+      "file": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184345_91_2.jpg",
+        "sha256": "8d41d23e8e762b1e9208796587c36db70ea8e452ee2e3fdd3604f97c7f40dd60"
+      }
+    },
+    {
+      "id": "SIL004",
+      "file": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg",
+        "sha256": "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90"
+      }
+    },
+    {
+      "id": "SIL005",
+      "file": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+        "sha256": "0b388756f0ee2e35630dac7789237153d390fa8aaab8f58f6e2643d4181be21d"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "id": "AD01",
+      "role": "棕金斜托盘广告主图",
+      "sku": "silver",
+      "has_person": false,
+      "has_water": false,
+      "style_references": [
+        {
+          "path": "references/2026-10-22_首批参考/01_微信参考原图/R001_主图_套装推荐.jpg",
+          "sha256": "f84d0f81c6417e52ed367a8756d235450cc63b05a91ef06be6dd7742f860dd2c"
+        }
+      ],
+      "geometry_route": "photo_guided_generation",
+      "qa_status": "REVIEW_READY",
+      "candidate": {
+        "path": "production/2026-10-24_参考广告主图/working/AD01.png",
+        "sha256": "7c56fb495cd96282ea54cada0e065ace192c40a9bb934a9cab9b9cbf739b4c83"
+      },
+      "client_jpg": {
+        "path": "production/2026-10-24_参考广告主图/final/AD01.jpg",
+        "sha256": "5258d1ad36ba0bcb22c33a3978d5b9195b1d2ea7552a5ba01fb64ebc28e5a6b4"
+      },
+      "generated_native": {
+        "path": "production/2026-10-24_参考广告主图/generated/AD01-v001-native.png",
+        "sha256": "370f9dd5c7673c1a4997e830474b9d456cf35f220215bd46dbf52c3bd8d7272b"
+      },
+      "prompt": {
+        "path": "production/2026-10-24_参考广告主图/prompts/AD01-request.json",
+        "sha256": "4418c5437d27e73d6e391fe9b41513837b8d5cd29dc116a68674a15c32fe18c3"
+      },
+      "appearance_source_ids": [
+        "SIL001",
+        "SIL005",
+        "SIL004"
+      ],
+      "text_edit_regions": [
+        [
+          50,
+          88,
+          480,
+          166
+        ],
+        [
+          20,
+          1080,
+          1215,
+          1240
+        ]
+      ],
+      "approved_copy": [
+        "三档出水",
+        "手持花洒",
+        "常规 · 喷雾 · 混合",
+        "下方按键切换"
+      ],
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "generation_receipt": {
+        "path": "production/2026-10-24_参考广告主图/review/AD01-generation-receipt.json",
+        "sha256": "88160825a6b8b98aa2ffc553e69b0b108cbd80441ca11310d8db153715a22019"
+      },
+      "review": {
+        "path": "production/2026-10-24_参考广告主图/review/AD01-visual-review.json",
+        "sha256": "2207e3e20b31b0562e1e2f78578d2f15b8e8f7e38a3ed976c9185dd962869ccc"
+      }
+    },
+    {
+      "id": "AD02",
+      "role": "冷蓝前背叠置广告主图",
+      "sku": "silver",
+      "has_person": false,
+      "has_water": false,
+      "style_references": [
+        {
+          "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/主图/主图_01.jpg",
+          "sha256": "c9eb34ab7c3930539b2a7393aedfad97e3c00fd5f4165a1972d4e54207d7a663"
+        }
+      ],
+      "geometry_route": "photo_guided_generation",
+      "qa_status": "REVIEW_READY",
+      "candidate": {
+        "path": "production/2026-10-24_参考广告主图/working/AD02.png",
+        "sha256": "ce5a06b52112c6997f249d604fea33143a26907ed193a14ed79ac46eae5d092e"
+      },
+      "client_jpg": {
+        "path": "production/2026-10-24_参考广告主图/final/AD02.jpg",
+        "sha256": "c803a8450a87190ea4bdc7b8c070cb4b5a2a8fe0d750168dccecdb92a6c2bd61"
+      },
+      "generated_native": {
+        "path": "production/2026-10-24_参考广告主图/generated/AD02-v002-native.png",
+        "sha256": "bee67ca533c700bd7c2c2e2398e30cd2f89d0d52af059d10b8847d93b104b519"
+      },
+      "prompt": {
+        "path": "production/2026-10-24_参考广告主图/prompts/AD02-v002-request.json",
+        "sha256": "6eb40714d44bc117ba77a523d626a80ddaa679a8ef43e5d44e12d3f4194a02c2"
+      },
+      "appearance_source_ids": [
+        "SIL002",
+        "SIL005",
+        "SIL001",
+        "SIL004"
+      ],
+      "text_edit_regions": [
+        [
+          865,
+          35,
+          1225,
+          280
+        ],
+        [
+          880,
+          320,
+          1205,
+          385
+        ],
+        [
+          880,
+          425,
+          1205,
+          488
+        ],
+        [
+          60,
+          1132,
+          1194,
+          1241
+        ],
+        [
+          890,
+          995,
+          1215,
+          1045
+        ]
+      ],
+      "approved_copy": [
+        "三档出水",
+        "下方按键切档",
+        "中央按压除垢",
+        "常规 · 喷雾 · 混合",
+        "正背展示 · 单花洒"
+      ],
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "generation_receipt": {
+        "path": "production/2026-10-24_参考广告主图/review/AD02-generation-receipt.json",
+        "sha256": "e5d9d3d3e570b00a9b28f48d2478f95a58485892352f5d3adaaae0451d1e7d65"
+      },
+      "local_repair": {
+        "file": {
+          "path": "production/2026-10-24_参考广告主图/generated/AD02-v004-composite.png",
+          "sha256": "34229709b4a9979c5b3bfa0ea4582c6fa12ba760a21db01015238e3f4304a55a"
+        },
+        "mask": {
+          "path": "production/2026-10-24_参考广告主图/generated/AD02-v004-mask.png",
+          "sha256": "46125134b6870113d7051921979f64cfceaa8eb51bec2bdf06aa2858be2c124c"
+        },
+        "tool_patch": {
+          "path": "production/2026-10-24_参考广告主图/generated/AD02-roi-tool-native.png",
+          "sha256": "942d9ad82eadfc26805d5001db58181403984118e2d25459a2668828b9d7a439"
+        },
+        "evidence": {
+          "path": "production/2026-10-24_参考广告主图/generated/AD02-v004-evidence.json",
+          "sha256": "bc0477ffe58facae9144aba02b2be906dceb698a33bebaf2bb36d464ecf9212a"
+        },
+        "base_sha256": "bee67ca533c700bd7c2c2e2398e30cd2f89d0d52af059d10b8847d93b104b519",
+        "tool": "builtin_image_gen"
+      },
+      "style_reference_usage": "A034原图已实际查看，并用于v001初始生成；v002以v001为编辑目标、只传4张实际照片，没有再次传外来参考商品；v004局部补片仅用于明确缺陷。",
+      "review": {
+        "path": "production/2026-10-24_参考广告主图/review/AD02-visual-review.json",
+        "sha256": "9feab731fb47f8b46accaec4dc29cd0619a2b1f6be8b6edda5495efeb9b42489"
+      }
+    },
+    {
+      "id": "AD03",
+      "role": "黑金斜轴冲击广告主图",
+      "sku": "silver",
+      "has_person": false,
+      "has_water": false,
+      "style_references": [
+        {
+          "path": "references/2026-10-22_首批参考/01_微信参考原图/R004_卖点_增压结构示意.jpg",
+          "sha256": "bfb52332804e9ce8890304222376b73bbbb8931214023fe37cffe858cd024f5a"
+        }
+      ],
+      "geometry_route": "photo_guided_generation",
+      "qa_status": "REVIEW_READY",
+      "candidate": {
+        "path": "production/2026-10-24_参考广告主图/working/AD03.png",
+        "sha256": "b13a15c52e18c5f7e0d6187990b8d93860cc1785398daf19df82c6470995060b"
+      },
+      "client_jpg": {
+        "path": "production/2026-10-24_参考广告主图/final/AD03.jpg",
+        "sha256": "f51d6e5ce1ce4fbd8ba3257e7274f1456ab3146f462bf1a7e21c8c3c7080a13b"
+      },
+      "generated_native": {
+        "path": "production/2026-10-24_参考广告主图/generated/AD03-v001-native.png",
+        "sha256": "42c5264fde017530558a0eac02de8a5bbb5a65375e64e05a20b632345309478c"
+      },
+      "prompt": {
+        "path": "production/2026-10-24_参考广告主图/prompts/AD03-request.json",
+        "sha256": "a3293b94cff4fef014102a22c70b1fa24fc983033a87b76728417bd51669a56e"
+      },
+      "appearance_source_ids": [
+        "SIL001",
+        "SIL005",
+        "SIL004"
+      ],
+      "text_edit_regions": [
+        [
+          785,
+          45,
+          1210,
+          205
+        ],
+        [
+          35,
+          1080,
+          1205,
+          1210
+        ]
+      ],
+      "approved_copy": [
+        "三档出水",
+        "下方按键切换",
+        "中央红钮",
+        "手动按压除垢"
+      ],
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "generation_receipt": {
+        "path": "production/2026-10-24_参考广告主图/review/AD03-generation-receipt.json",
+        "sha256": "5b89c4cf03c617a5245b84118aefe5f02764c3b7a726adc8f54e2255c60e1dea"
+      },
+      "review": {
+        "path": "production/2026-10-24_参考广告主图/review/AD03-visual-review.json",
+        "sha256": "82ef990e9bd2563dc3f3e4759859dde318c23ba5dcccd9e574f0450bdc757a17"
+      }
+    }
+  ],
+  "user_feedback": {
+    "date": "2026-10-24",
+    "source": "current user message",
+    "user_feedback": "没有参考74张参考图重新做些图吗？我需要那种风格的图，需要能够放到电商平台的那种。你现在做的更像产品介绍",
+    "status": "STYLE_REOPENED",
+    "affected_batch": "production/2026-10-24_实拍主导续作",
+    "internal_review_is_not_user_acceptance": true,
+    "reason": "题材识别/简化说明替代了参考广告的背景、字级、主体及信息密度。",
+    "next_batch": "production/2026-10-24_参考广告主图"
+  },
+  "trial_metrics": {
+    "tool": "builtin_image_gen",
+    "actual_generation_calls": 5,
+    "initial_ad_images": 3,
+    "targeted_full_frame_edits": 1,
+    "roi_patch_calls": 1,
+    "local_alignment_corrections_without_new_generation": 1,
+    "current_jpg_count": 3,
+    "in_flight": 0,
+    "customer_acceptance": "UNKNOWN"
+  },
+  "second_visual_review": {
+    "path": "production/2026-10-24_参考广告主图/review/final-layout-review.json",
+    "sha256": "60610b03aedc889a2f2555b113955ce5ee795679098995427155b84734524828"
+  }
+}

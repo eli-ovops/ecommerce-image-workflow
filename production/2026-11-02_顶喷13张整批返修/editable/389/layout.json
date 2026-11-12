@@ -1,0 +1,125 @@
+{
+  "text": [
+    {
+      "text": "提拉",
+      "x": 805,
+      "y": 65,
+      "size": 120,
+      "color": "#0c1720",
+      "font": "Heiti SC",
+      "bold": true,
+      "oblique": true,
+      "gold_gradient": false,
+      "extrusion_px": 3
+    },
+    {
+      "text": "除垢",
+      "x": 805,
+      "y": 218,
+      "size": 120,
+      "color": "#0c1720",
+      "font": "Heiti SC",
+      "bold": true,
+      "oblique": true,
+      "gold_gradient": false,
+      "extrusion_px": 3
+    },
+    {
+      "text": "长方形顶喷",
+      "x": 765,
+      "y": 390,
+      "size": 65,
+      "color": "#0c1720",
+      "font": "Heiti SC",
+      "bold": true,
+      "oblique": true,
+      "gold_gradient": false,
+      "extrusion_px": 3
+    },
+    {
+      "text": "约30×20cm",
+      "x": 797,
+      "y": 529,
+      "size": 42,
+      "color": "#17212a",
+      "font": "Heiti SC",
+      "bold": true,
+      "oblique": false,
+      "gold_gradient": false,
+      "extrusion_px": 3
+    },
+    {
+      "text": "安装出水示意",
+      "x": 790,
+      "y": 860,
+      "size": 33,
+      "color": "#15212a",
+      "font": "Heiti SC",
+      "bold": true,
+      "oblique": false,
+      "gold_gradient": false,
+      "extrusion_px": 3
+    },
+    {
+      "text": "中央红钮",
+      "x": 825,
+      "y": 640,
+      "size": 48,
+      "color": "#15212a",
+      "font": "Heiti SC",
+      "bold": true,
+      "oblique": false,
+      "gold_gradient": false,
+      "extrusion_px": 3
+    },
+    {
+      "text": "向外提拉",
+      "x": 825,
+      "y": 719,
+      "size": 48,
+      "color": "#15212a",
+      "font": "Heiti SC",
+      "bold": true,
+      "oblique": false,
+      "gold_gradient": false,
+      "extrusion_px": 3
+    },
+    {
+      "text": "银色长方形顶喷",
+      "x": 500,
+      "y": 1080,
+      "size": 68,
+      "color": "#fff7e9",
+      "font": "Heiti SC",
+      "bold": true,
+      "oblique": true,
+      "gold_gradient": false,
+      "extrusion_px": 3
+    }
+  ],
+  "transforms": [
+    {
+      "source": "native-installed.png",
+      "scale": 1.2521008403361344,
+      "xy": [
+        -377,
+        -115
+      ],
+      "illustration": true
+    },
+    {
+      "source": "native-static.png",
+      "uniform": true,
+      "rotation": 0,
+      "xy": [
+        35,
+        594
+      ],
+      "size": [
+        405,
+        517
+      ]
+    }
+  ],
+  "note": "黑字重影已消除；机位重复，细线水流和金属质感不达参考。"
+}

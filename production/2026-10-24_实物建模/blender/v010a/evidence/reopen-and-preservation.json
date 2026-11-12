@@ -1,0 +1,176 @@
+{
+  "vertices": 29617,
+  "faces": 29793,
+  "boundary_edges": 0,
+  "nonmanifold_edges": 0,
+  "zero_area_faces": 0,
+  "version": "v010a",
+  "successfully_reopened": true,
+  "blender": "5.2.2 LTS",
+  "blend_sha256": "e3de47e1ddd7ee4741d2a698e8fb22078839297c0834f6bad32af4b4341d4a97",
+  "compare_source": "v009",
+  "cylindrical_wall_vertices": 3281,
+  "all_wall_coordinates_exactly_unchanged": true,
+  "protected_lower_vertices": 16384,
+  "all_lower_coordinates_exactly_unchanged": true,
+  "changed_vertices": 7774,
+  "changed_vertex_world_z_range_mm": [
+    135.62257587909698,
+    264.5800709724426
+  ],
+  "corresponding_ring_pairs": 193,
+  "axis": [
+    0.0,
+    0.9912921786308289,
+    0.13168083131313324
+  ],
+  "ring_axial_projection_mm_min_max": [
+    17.69999861717224,
+    17.700004428625107
+  ],
+  "v009_actual_projected_mesh_envelope": [
+    {
+      "world_z_mm": 125,
+      "projected_front_min_y_mm": 13.940366916358471,
+      "projected_back_max_y_mm": 42.12774708867073
+    },
+    {
+      "world_z_mm": 130,
+      "projected_front_min_y_mm": 13.877577043928325,
+      "projected_back_max_y_mm": 42.313922330741335
+    },
+    {
+      "world_z_mm": 135,
+      "projected_front_min_y_mm": 13.71713469311022,
+      "projected_back_max_y_mm": 42.43344058057618
+    },
+    {
+      "world_z_mm": 140,
+      "projected_front_min_y_mm": 14.29180724890226,
+      "projected_back_max_y_mm": 42.032309133809406
+    },
+    {
+      "world_z_mm": 145,
+      "projected_front_min_y_mm": 13.81940906665295,
+      "projected_back_max_y_mm": 40.849293539234935
+    },
+    {
+      "world_z_mm": 150,
+      "projected_front_min_y_mm": 13.19121337413889,
+      "projected_back_max_y_mm": 39.204785167852854
+    },
+    {
+      "world_z_mm": 155,
+      "projected_front_min_y_mm": 12.512651233190791,
+      "projected_back_max_y_mm": 37.42134854066572
+    },
+    {
+      "world_z_mm": 160,
+      "projected_front_min_y_mm": 11.843665904398062,
+      "projected_back_max_y_mm": 35.82073296016117
+    },
+    {
+      "world_z_mm": 165,
+      "projected_front_min_y_mm": 11.21105422531362,
+      "projected_back_max_y_mm": 34.72096860329526
+    },
+    {
+      "world_z_mm": 170,
+      "projected_front_min_y_mm": 10.547737883252475,
+      "projected_back_max_y_mm": 34.38241748408081
+    },
+    {
+      "world_z_mm": 180,
+      "projected_front_min_y_mm": 9.21936257206988,
+      "projected_back_max_y_mm": 34.01220340340408
+    },
+    {
+      "world_z_mm": 200,
+      "projected_front_min_y_mm": 6.562611949703685,
+      "projected_back_max_y_mm": 32.266033512753225
+    },
+    {
+      "world_z_mm": 220,
+      "projected_front_min_y_mm": 3.905860014258384,
+      "projected_back_max_y_mm": 29.148922664586692
+    },
+    {
+      "world_z_mm": 240,
+      "projected_front_min_y_mm": 1.2491080788118942,
+      "projected_back_max_y_mm": 24.621029836807804
+    }
+  ],
+  "v010a_actual_projected_mesh_envelope": [
+    {
+      "world_z_mm": 125,
+      "projected_front_min_y_mm": 13.940366916358471,
+      "projected_back_max_y_mm": 42.12774708867073
+    },
+    {
+      "world_z_mm": 130,
+      "projected_front_min_y_mm": 13.877577043928325,
+      "projected_back_max_y_mm": 42.313922330741335
+    },
+    {
+      "world_z_mm": 135,
+      "projected_front_min_y_mm": 13.71713469311022,
+      "projected_back_max_y_mm": 42.43344058057618
+    },
+    {
+      "world_z_mm": 140,
+      "projected_front_min_y_mm": 14.29180724890226,
+      "projected_back_max_y_mm": 42.51259826193065
+    },
+    {
+      "world_z_mm": 145,
+      "projected_front_min_y_mm": 13.81940906665295,
+      "projected_back_max_y_mm": 42.551963776784206
+    },
+    {
+      "world_z_mm": 150,
+      "projected_front_min_y_mm": 13.19121337413889,
+      "projected_back_max_y_mm": 42.54660776977349
+    },
+    {
+      "world_z_mm": 155,
+      "projected_front_min_y_mm": 12.512651233190791,
+      "projected_back_max_y_mm": 42.49164811216795
+    },
+    {
+      "world_z_mm": 160,
+      "projected_front_min_y_mm": 11.843665904398062,
+      "projected_back_max_y_mm": 42.381817802229584
+    },
+    {
+      "world_z_mm": 165,
+      "projected_front_min_y_mm": 11.21105422531362,
+      "projected_back_max_y_mm": 42.212483904593235
+    },
+    {
+      "world_z_mm": 170,
+      "projected_front_min_y_mm": 10.547737883252475,
+      "projected_back_max_y_mm": 41.974964964897794
+    },
+    {
+      "world_z_mm": 180,
+      "projected_front_min_y_mm": 9.21936257206988,
+      "projected_back_max_y_mm": 41.22067504259446
+    },
+    {
+      "world_z_mm": 200,
+      "projected_front_min_y_mm": 6.562611949703685,
+      "projected_back_max_y_mm": 38.657764759737276
+    },
+    {
+      "world_z_mm": 220,
+      "projected_front_min_y_mm": 3.905860014258384,
+      "projected_back_max_y_mm": 34.24564111581783
+    },
+    {
+      "world_z_mm": 240,
+      "projected_front_min_y_mm": 1.2491080788118942,
+      "projected_back_max_y_mm": 27.415739496448627
+    }
+  ],
+  "limits": "Mesh construction comparison only, not calibrated photo fit or physical millimeter accuracy."
+}

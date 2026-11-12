@@ -1,0 +1,35 @@
+{
+  "磨砂精修_两张JPG.zip": {
+    "count": 2,
+    "bytes": 1749882,
+    "crc_pass": true,
+    "all_member_sha_matches_local": true,
+    "members_sha256": {
+      "01_银色完整顶喷_磨砂精修.jpg": "6c7343225edbb638acea3fd2363949b031729e5bc828eecbdf37f0198bffc495",
+      "02_静态红钮近景_非拉出_磨砂精修.jpg": "d30d8bac4e033d0c3e4dccbc65782a3e7aa004e82136cacb64b70d6ac90eda78"
+    }
+  },
+  "磨砂精修_可编辑源与证据.zip": {
+    "count": 15,
+    "bytes": 8798309,
+    "crc_pass": true,
+    "all_member_sha_matches_local": true,
+    "members_sha256": {
+      "README.md": "b5f30f500fa42b483eea28f7376f5919b4225895b20bc08d2490637980614ce9",
+      "refine_materials.py": "c82c3866c4ed1f3df8420c5cdc3734d7b53a3993fa03f7fc1abed729cddd3a5f",
+      "verify_scene.py": "b80e0d2edda5116e26f282ac05529e6241afeb20eb4325e7b4ee5967bfec9224",
+      "package_review.py": "546fb47d6c9db5e1c7edaa122929b6801acc6ae1438376934414778cfc4ebf28",
+      "输入场景.blend": "3c4586a533c963eb98e4fab14371733cf01e42473a7a6c968d518dfa50776fff",
+      "商品基线_v3.blend": "05b80b0ebc072c1a01cdf597c08f16e33d8033eb3771a9fe48dc2c18a0079905",
+      "磨砂精修_同一商品场景.blend": "9dbb7dc312ca19774862b325250d8109ad8c357ea7e1eccb7d61055c7e97a70b",
+      "geometry-preservation.json": "cbabc13a6605363a1ea4bf858fb18a623af750c3b47cac84da3b29bdc5bbc017",
+      "reopened-scene-check.json": "a4ccf825f472dd64fc1d01c6e7a82a72df178120d10ed4b9470a5fdf12729308",
+      "material-changes.json": "77a2a025e63ec4e5441c1dd48bec7186313e971eed3369445b13035ecac3a1bd",
+      "visual-review.json": "ddcfc53e33b083231159bbdfe40aa64a1903fcc3263422659664608468caa8fe",
+      "前后对照.jpg": "fdaff44eade1b3368f0802c31270ac365048262b9eecfc7bab1219e51e8a288e",
+      "实拍与材质对照.jpg": "8731b7021b10b78aaf2ccbee2008fd12b84ee9f44c0478a252a330fd54b5caab",
+      "372实拍原始细节.jpg": "cdd51f993dcc9a9a84bed732c6b7b81c2aff3dbfd000c1a8da515beed4b92dde",
+      "render.log": "174c69fbc43b2d26d670799aba6ff679b4f8208e16acabff62791fc9f71696bd"
+    }
+  }
+}

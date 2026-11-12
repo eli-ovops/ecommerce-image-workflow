@@ -1,0 +1,178 @@
+{
+  "date": "2026-10-25",
+  "scope": "历史版与最新版本对比，仅重包旧JPG；未生图/改图/重新编码，未对外发送。",
+  "initial_definition": "2026-10-22最早含模特的16张独立图加1张详情长图；不是后续74参考重构32张版。",
+  "initial_original_zip": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_花洒套图/花洒套图_交付.zip",
+  "initial_jpg_zip": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-25_版本对比/初版含模特_16张单图加1张长图_JPG.zip",
+  "initial_jpg_zip_sha256": "9990fd28bcd975d5b66922ebc697b79877b6f1907fac0bc9e51c497875584972",
+  "initial_entries": [
+    {
+      "source_archive_member": "exports/JPG/SIL-P01.jpg",
+      "comparison_member": "SIL-P01.jpg",
+      "sha256": "1a35dff85b20196141af03c20a7b3e49389eac0694a12dc751a1b1d3462ae51d",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_archive_member": "exports/JPG/SIL-P02.jpg",
+      "comparison_member": "SIL-P02.jpg",
+      "sha256": "16586559fb8ea0df268bd398f96771af1df5a11a3709db6fc0314c7e6572a7a9",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_archive_member": "exports/JPG/SIL-P03.jpg",
+      "comparison_member": "SIL-P03.jpg",
+      "sha256": "21807fe7f245bc2bf495d7d7bd9028211790824d07f7c155e2a26cb75462f80f",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_archive_member": "exports/JPG/SIL-P04.jpg",
+      "comparison_member": "SIL-P04.jpg",
+      "sha256": "1b8d127cac48aaffeee811ef8cc293163bb993164c7b986c3a978a46c3d969e0",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_archive_member": "exports/JPG/SIL-P05.jpg",
+      "comparison_member": "SIL-P05.jpg",
+      "sha256": "877e239ea793c5c7a14382da497fe09472cf0cf9293b62d741c98275bfd4eaac",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_archive_member": "exports/JPG/SIL-P06.jpg",
+      "comparison_member": "SIL-P06.jpg",
+      "sha256": "093d42017bbddcf3bd2390db3370bbc8ba5344d50075b21ac8ca87e434448146",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_archive_member": "exports/JPG/SIL-P07.jpg",
+      "comparison_member": "SIL-P07.jpg",
+      "sha256": "8a63a76f9d4ebca688d520f872f001417d6dba9599a0c0f01288c4296dc0fc07",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_archive_member": "exports/JPG/SIL-P08.jpg",
+      "comparison_member": "SIL-P08.jpg",
+      "sha256": "1ec73b32ed6e1de181a7e93ca477c97e86b9179879f37313aa889acef382cf99",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_archive_member": "exports/JPG/SIL-D01.jpg",
+      "comparison_member": "SIL-D01.jpg",
+      "sha256": "18b9532abf6883ceb5e80ddc3e4c64d716fbb40090834d4bb28549db06459f7a",
+      "dimensions": [
+        1086,
+        1448
+      ]
+    },
+    {
+      "source_archive_member": "exports/JPG/SIL-D02.jpg",
+      "comparison_member": "SIL-D02.jpg",
+      "sha256": "9acacd9d56e416e98f3cc0bd5b673149452bc968d58dff64e6a9826ad7b7610e",
+      "dimensions": [
+        1086,
+        1448
+      ]
+    },
+    {
+      "source_archive_member": "exports/JPG/SIL-D03.jpg",
+      "comparison_member": "SIL-D03.jpg",
+      "sha256": "de160e7e213f7614ae00985312ecc37ee8a24f0f70b7593a379ab67dc625af56",
+      "dimensions": [
+        1086,
+        1448
+      ]
+    },
+    {
+      "source_archive_member": "exports/JPG/SIL-D04.jpg",
+      "comparison_member": "SIL-D04.jpg",
+      "sha256": "bf124fff062316e36a1a0ec4ef906c31e7d85c4acaeb789170e0c051db789ac7",
+      "dimensions": [
+        1086,
+        1448
+      ]
+    },
+    {
+      "source_archive_member": "exports/JPG/SIL-D05.jpg",
+      "comparison_member": "SIL-D05.jpg",
+      "sha256": "f857a5c3019d7270469d3a9b4bf6aac2e328f2cfba6023893e8998be51b33567",
+      "dimensions": [
+        1086,
+        1448
+      ]
+    },
+    {
+      "source_archive_member": "exports/JPG/SIL-D06.jpg",
+      "comparison_member": "SIL-D06.jpg",
+      "sha256": "31e049d52264b80d410db56a2e752c68a0908b057c1e7e56f77ff2c6a8cca3e7",
+      "dimensions": [
+        1086,
+        1448
+      ]
+    },
+    {
+      "source_archive_member": "exports/JPG/BLK-P01.jpg",
+      "comparison_member": "BLK-P01.jpg",
+      "sha256": "3408f83a282010e89e226f3740c5ca12eb91d0b172a7f6ad6b08ecfb9d664eae",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_archive_member": "exports/JPG/GMT-P01.jpg",
+      "comparison_member": "GMT-P01.jpg",
+      "sha256": "18a05f6d458eec6939fdaaf31ed03c750c93c0a40512a7b95afa71df5cc944c2",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "source_archive_member": "exports/银色详情长图.jpg",
+      "comparison_member": "银色详情长图.jpg",
+      "sha256": "74c762d8113e269a1dcc1fc7feb94e9ad5d1e3829eb6715287c15e3a1d41e19e",
+      "dimensions": [
+        1086,
+        8688
+      ]
+    }
+  ],
+  "latest_zip": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_完整电商套图/花洒完整电商套图_JPG_24张.zip",
+  "latest_zip_sha256": "eeba720aa6d1e8a1015ddaab9ceb51aaf98e6b804242c4e40b2fa954887b825e",
+  "latest_jpg_count": 24,
+  "new_user_feedback": [
+    "不把随手实拍场所当成成品场景；之前为保留出水/按压原像素而连同原背景保留，影响了广告质感。",
+    "不要求每张显示裸螺纹，尽量通过裁切/构图/自然遮挡减少露出，不添加不售软管支架。",
+    "更喜欢初版有模特版本的整体风格；本轮只供对比，未授权开始新一轮生成。"
+  ],
+  "customer_acceptance": "UNKNOWN; 用户已指出最新版本场景/构图/风格存在问题，不能标为满意。",
+  "temporary_files": [],
+  "new_artifacts": [
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-25_版本对比/初版含模特_16张单图加1张长图_JPG.zip",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-25_版本对比/comparison-receipt.json",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-25_版本对比/README.md"
+  ]
+}

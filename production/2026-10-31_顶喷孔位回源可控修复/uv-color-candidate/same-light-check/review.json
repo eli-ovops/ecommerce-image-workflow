@@ -1,0 +1,11 @@
+{
+  "status": "STOPPED_AFTER_SAME_LIGHT_CHECK_RESIDUAL_VISUAL_FAIL",
+  "opened": [
+    "399-preview.jpg",
+    "399-detail.jpg"
+  ],
+  "lighting_confound_confirmed": true,
+  "conclusion": "Original lighting restores darker face and red knob. Previous washout cannot independently reject UV color method. Residual off-center double cup/blind-circle contours and dark silver rim still fail this candidate. No further changes.",
+  "392": "NOT_STARTED",
+  "high_resolution": "NOT_STARTED"
+}

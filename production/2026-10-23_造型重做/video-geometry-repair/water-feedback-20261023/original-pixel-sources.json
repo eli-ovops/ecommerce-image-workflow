@@ -1,0 +1,44 @@
+{
+  "assets": [
+    {
+      "id": "D04",
+      "source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/D04.png",
+      "frozen_copy": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/water-feedback-20261023/before-water/D04.png",
+      "sha256": "9f0d07f3c9e53e82605460dc708652cff08717c8ac8741a5439b1695423cc4a6",
+      "dimensions": [
+        941,
+        1670
+      ],
+      "purpose": "read-only original-pixel source for approved local repair; not a new generation"
+    },
+    {
+      "id": "D06",
+      "source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/D06.png",
+      "frozen_copy": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/water-feedback-20261023/before-water/D06.png",
+      "sha256": "9222db0321db291160281eebf831b659fb951601f17d6f84550fb759c244a1bb",
+      "dimensions": [
+        1063,
+        1479
+      ],
+      "purpose": "read-only original-pixel source for approved local repair; not a new generation"
+    },
+    {
+      "id": "D11",
+      "source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/D11.png",
+      "frozen_copy": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/water-feedback-20261023/before-water/D11.png",
+      "sha256": "e1c835d445864a04cfe2efe3aa770a0a8f867bd35f0bcb5694e2aaf2063fe128",
+      "dimensions": [
+        899,
+        1749
+      ],
+      "purpose": "read-only original-pixel source for approved local repair; not a new generation"
+    }
+  ],
+  "method_decision": "USER_APPROVED_LOCAL_LAYERED_COMPOSITE_20261023",
+  "approval": "改用本地分层合成，保留人物和商品原像素（推荐）",
+  "failed_whole_image_candidate": {
+    "file": "D04-water-v1.png",
+    "selected": false,
+    "reason": "Whole-image regeneration introduced face mesh; frozen earlier original is compositing base."
+  }
+}

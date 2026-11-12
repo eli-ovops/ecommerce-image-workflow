@@ -1,0 +1,2 @@
+const sharp=require('/Users/USER/.local/share/deepseek-harness/node_modules/sharp'),path=require('path');
+(async()=>{const B=__dirname;await sharp(path.join(B,'render1600.png')).extract({left:680,top:480,width:700,height:650}).resize(1400,1300).png().toFile(path.join(B,'panel-200.png'));await sharp(path.join(B,'render1600.png')).extract({left:500,top:960,width:460,height:430}).resize(920,860).png().toFile(path.join(B,'neck-key-200.png'));await sharp(path.join(B,'圆形花洒_暖白浴室代表图.jpg')).resize(400,400).png().toFile(path.join(B,'phone-preview.png'));})();

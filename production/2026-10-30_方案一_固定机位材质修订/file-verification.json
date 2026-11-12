@@ -1,0 +1,54 @@
+{
+  "jpeg_decode": "PASS",
+  "size": [
+    1600,
+    1600
+  ],
+  "outputs": {
+    "review-panel-200.jpg": {
+      "bytes": 78222,
+      "sha256": "5920eac2acd8d6790f339b82512795c67be839edeb5f06c6e88dfe32c8179377"
+    },
+    "render.py": {
+      "bytes": 3509,
+      "sha256": "9098ade23399cbf9b673ff25dd6a8d363a1761c226edb7b51acd10f8cadc2e17"
+    },
+    "before-after-panel.jpg": {
+      "bytes": 153616,
+      "sha256": "35b35faae4fca3420092d9def034efbfc992fa3c7189e4f34ef75784489c9b29"
+    },
+    "review-neck-200.jpg": {
+      "bytes": 49410,
+      "sha256": "ba52d0d2f8116837d096940ad8ea08f8a34487c4d1b7630a0da6b58c6fc9155c"
+    },
+    "\u56fa\u5b9a\u673a\u4f4d\u6750\u8d28\u4fee\u8ba2.jpg": {
+      "bytes": 320394,
+      "sha256": "e2c3c3e1ad46f3f31656f28767a2e826ad965dc2ce995eeaca3bb3dca7818fd1"
+    },
+    "verify.py": {
+      "bytes": 1021,
+      "sha256": "e6b2e024462757776d980c23ea6ef1e5251b3202e5c61cda41e23074923bc86f"
+    },
+    "review-handle-200.jpg": {
+      "bytes": 60393,
+      "sha256": "c6f5003913310960edb65961967c5f6f60d1d1a1936a40ed7764976f0fdc7b44"
+    },
+    "\u56fa\u5b9a\u673a\u4f4d\u6750\u8d28\u4fee\u8ba2.blend": {
+      "bytes": 18943976,
+      "sha256": "008f26959fb12fcf029a3dc6497ab967b11832dc4becf6e817207133e83afb98"
+    },
+    "before-after-neck.jpg": {
+      "bytes": 101423,
+      "sha256": "10405de9f6cf700ba2083812b1d75c18ccc8d95fe9afeacbde336745d6497cc4"
+    },
+    "before-after-handle.jpg": {
+      "bytes": 124358,
+      "sha256": "0ab13c52dee5d68683c3f7656340f9df6a0ae9b2bd131cff1a3e6d644a0ba69f"
+    },
+    "draft.jpg": {
+      "bytes": 153427,
+      "sha256": "598619e9d3ed24fcaa2d47f754cb28cd0d45c71eb121572dad9b5460739cb530"
+    }
+  },
+  "total_bytes": 19997778
+}

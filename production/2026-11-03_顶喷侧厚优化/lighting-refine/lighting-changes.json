@@ -1,0 +1,15 @@
+{
+  "view": "Standard",
+  "exposure": 0,
+  "photo_emission_strength": 1,
+  "light_energy_multiplier": 0.055,
+  "water_backlight_disabled": true,
+  "shell_roughness": 0.24,
+  "unchanged": [
+    "shell mesh",
+    "face mesh and UV",
+    "knob geometry and UV",
+    "camera",
+    "300x200x20mm dimensions"
+  ]
+}

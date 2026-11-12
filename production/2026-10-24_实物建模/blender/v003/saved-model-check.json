@@ -1,0 +1,203 @@
+{
+  "version": "v003",
+  "blender_version": "5.2.2 LTS",
+  "readback": "opened saved blend in separate Blender process",
+  "objects": [
+    {
+      "name": "01 Continuous head-neck-handle shell",
+      "vertices": 33408,
+      "polygons": 33282,
+      "bounds_mm": {
+        "min": [
+          -64.99999761581421,
+          -21.400000900030136,
+          8.999999612569809
+        ],
+        "max": [
+          64.99999761581421,
+          24.000000208616257,
+          264.99998569488525
+        ]
+      },
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "note": "open detail surfaces intentional; main shell expected closed"
+    },
+    {
+      "name": "02 Removable face panel - holes pending",
+      "vertices": 256,
+      "polygons": 130,
+      "bounds_mm": {
+        "min": [
+          -62.60000169277191,
+          -22.059999406337738,
+          137.40000128746033
+        ],
+        "max": [
+          62.60000169277191,
+          -8.283549919724464,
+          262.60000467300415
+        ]
+      },
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "note": "open detail surfaces intentional; main shell expected closed"
+    },
+    {
+      "name": "03 Central descaling press button | gray clay",
+      "vertices": 480,
+      "polygons": 384,
+      "bounds_mm": {
+        "min": [
+          -8.999999612569809,
+          -19.099999219179153,
+          190.99999964237213
+        ],
+        "max": [
+          8.999999612569809,
+          -15.300000086426735,
+          209.00000631809235
+        ]
+      },
+      "boundary_edges": 192,
+      "nonmanifold_edges": 192,
+      "note": "open detail surfaces intentional; main shell expected closed"
+    },
+    {
+      "name": "04 Lower three-mode selector button",
+      "vertices": 288,
+      "polygons": 193,
+      "bounds_mm": {
+        "min": [
+          -10.66388376057148,
+          -12.292723171412945,
+          106.49999976158142
+        ],
+        "max": [
+          10.66388376057148,
+          -4.4455938041210175,
+          135.4999989271164
+        ]
+      },
+      "boundary_edges": 96,
+      "nonmanifold_edges": 96,
+      "note": "open detail surfaces intentional; main shell expected closed"
+    },
+    {
+      "name": "05 Connector exterior | specification UNKNOWN",
+      "vertices": 480,
+      "polygons": 384,
+      "bounds_mm": {
+        "min": [
+          -10.499999858438969,
+          -8.999999612569809,
+          0.0
+        ],
+        "max": [
+          10.499999858438969,
+          12.000000104308128,
+          8.999999612569809
+        ]
+      },
+      "boundary_edges": 192,
+      "nonmanifold_edges": 192,
+      "note": "open detail surfaces intentional; main shell expected closed"
+    }
+  ],
+  "metrology": false,
+  "combined_bbox_mm": [
+    129.99999523162842,
+    46.059999614953995,
+    264.99998569488525
+  ],
+  "profile_stations": [
+    {
+      "z_mm": 8.999999612569809,
+      "front_y_mm": -9.999999776482582,
+      "back_y_mm": 17.000000923871994,
+      "width_mm": 28.999999165534973
+    },
+    {
+      "z_mm": 29.999999329447746,
+      "front_y_mm": -7.499999832361937,
+      "back_y_mm": 19.500000402331352,
+      "width_mm": 28.599999845027924
+    },
+    {
+      "z_mm": 59.99999865889549,
+      "front_y_mm": -4.4999998062849045,
+      "back_y_mm": 22.50000089406967,
+      "width_mm": 28.599999845027924
+    },
+    {
+      "z_mm": 90.00000357627869,
+      "front_y_mm": -3.000000026077032,
+      "back_y_mm": 24.000000208616257,
+      "width_mm": 29.999999329447746
+    },
+    {
+      "z_mm": 109.99999940395355,
+      "front_y_mm": -4.000000189989805,
+      "back_y_mm": 22.846434265375137,
+      "width_mm": 35.999998450279236
+    },
+    {
+      "z_mm": 125.0,
+      "front_y_mm": -6.000000052154064,
+      "back_y_mm": 20.099999383091927,
+      "width_mm": 50.00000074505806
+    },
+    {
+      "z_mm": 140.00000059604645,
+      "front_y_mm": -8.999999612569809,
+      "back_y_mm": 16.164401546120644,
+      "width_mm": 72.9999989271164
+    },
+    {
+      "z_mm": 155.0000011920929,
+      "front_y_mm": -10.499999858438969,
+      "back_y_mm": 14.435447752475739,
+      "width_mm": 93.80831569433212
+    },
+    {
+      "z_mm": 170.00000178813934,
+      "front_y_mm": -12.000000104308128,
+      "back_y_mm": 13.034836389124393,
+      "width_mm": 115.32562226057053
+    },
+    {
+      "z_mm": 200.00000298023224,
+      "front_y_mm": -14.999999664723873,
+      "back_y_mm": 9.999999776482582,
+      "width_mm": 129.99999523162842
+    },
+    {
+      "z_mm": 230.00000417232513,
+      "front_y_mm": -17.999999225139618,
+      "back_y_mm": 4.786146804690361,
+      "width_mm": 115.32562226057053
+    },
+    {
+      "z_mm": 250.0,
+      "front_y_mm": -19.999999552965164,
+      "back_y_mm": -0.4311881202738732,
+      "width_mm": 83.06623995304108
+    },
+    {
+      "z_mm": 259.99999046325684,
+      "front_y_mm": -20.999999716877937,
+      "back_y_mm": -3.2076153438538313,
+      "width_mm": 50.00000074505806
+    }
+  ],
+  "profile_adjacent_tangent_changes_90_to_175_deg": {
+    "front_y_mm": 1.1340609899664393,
+    "back_y_mm": 1.2428768118318523
+  },
+  "limits": [
+    "Single-object loft plus separate details; no calibrated reconstruction",
+    "Open button and connector detail surfaces are exterior mock-up, not watertight manufacturing assembly",
+    "Nozzle layout omitted; thread pitch unspecified",
+    "Dimensions are modeling parameters, not measurements of the real item"
+  ]
+}

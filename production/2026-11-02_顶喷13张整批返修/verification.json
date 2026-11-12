@@ -1,0 +1,153 @@
+{
+  "stage": "REVIEW_CANDIDATES_NOT_ACCEPTED",
+  "checks": [
+    {
+      "id": 387,
+      "size": [
+        1200,
+        1200
+      ],
+      "sha256": "b3386272c2294e0f85d66099e1862a09cf6713bfb22768ae451d64c61ade1525",
+      "ora_crc": true,
+      "ora_recomposed_equal": true,
+      "svg_xml_valid": true
+    },
+    {
+      "id": 388,
+      "size": [
+        1200,
+        1200
+      ],
+      "sha256": "9d0f8d676542fb1485fdd4fb732be2edee1157bbe729e78e750b1844984e5f44",
+      "ora_crc": true,
+      "ora_recomposed_equal": true,
+      "svg_xml_valid": true
+    },
+    {
+      "id": 389,
+      "size": [
+        1200,
+        1200
+      ],
+      "sha256": "01ec2f6bf4596c757f8c5657412e8cfd8e11875b037c2fc9816d595590b4d6ba",
+      "ora_crc": true,
+      "ora_recomposed_equal": true,
+      "svg_xml_valid": true
+    },
+    {
+      "id": 390,
+      "size": [
+        1200,
+        1200
+      ],
+      "sha256": "e1d5ed837ce2f63365e088d9eef922aefb6e05b629e8aa50f67636bb139a08e3",
+      "ora_crc": true,
+      "ora_recomposed_equal": true,
+      "svg_xml_valid": true
+    },
+    {
+      "id": 391,
+      "size": [
+        1200,
+        1200
+      ],
+      "sha256": "f839958796783c980d74a7175eb6fcb43d23e44357d3fbe7dd96215e6ef4ab3c",
+      "ora_crc": true,
+      "ora_recomposed_equal": true,
+      "svg_xml_valid": true
+    },
+    {
+      "id": 392,
+      "size": [
+        1200,
+        1200
+      ],
+      "sha256": "19ebea0ee1551be08270126e249935de344e9305d421c1e48661e6c664133c8f",
+      "ora_crc": true,
+      "ora_recomposed_equal": true,
+      "svg_xml_valid": true
+    },
+    {
+      "id": 393,
+      "size": [
+        1200,
+        1200
+      ],
+      "sha256": "5c1cb2d8ecf7fc83ef8ce6a63305146cfff82581d53a02560b30479ab4c98c76",
+      "ora_crc": true,
+      "ora_recomposed_equal": true,
+      "svg_xml_valid": true
+    },
+    {
+      "id": 394,
+      "size": [
+        900,
+        1600
+      ],
+      "sha256": "f09e22fadb724ed22be5410e90abaa495389e0124e0988d212c7d9fd3ccb906e",
+      "ora_crc": true,
+      "ora_recomposed_equal": true,
+      "svg_xml_valid": true
+    },
+    {
+      "id": 395,
+      "size": [
+        900,
+        1600
+      ],
+      "sha256": "2db8c2f3636594a5c7609720169ca7ac7a035ab6d4d18be436664686d2983251",
+      "ora_crc": true,
+      "ora_recomposed_equal": true,
+      "svg_xml_valid": true
+    },
+    {
+      "id": 396,
+      "size": [
+        900,
+        1600
+      ],
+      "sha256": "ef9b1041f9a935320e1e1a1d155343a60a25a9569888fa45846ad02c48c52115",
+      "ora_crc": true,
+      "ora_recomposed_equal": true,
+      "svg_xml_valid": true
+    },
+    {
+      "id": 397,
+      "size": [
+        900,
+        1600
+      ],
+      "sha256": "ec513b1590f02a78b8a43efb5b81a6d9895f9e2f9cd184970612bc53817f5a16",
+      "ora_crc": true,
+      "ora_recomposed_equal": true,
+      "svg_xml_valid": true
+    },
+    {
+      "id": 398,
+      "size": [
+        900,
+        1600
+      ],
+      "sha256": "504ec127942cd8f41ac9160596bea2b78c2a0f638f96cbe7f71a0e0262ebfb5c",
+      "ora_crc": true,
+      "ora_recomposed_equal": true,
+      "svg_xml_valid": true
+    },
+    {
+      "id": 399,
+      "size": [
+        900,
+        1600
+      ],
+      "sha256": "46c33e080ab4c9318841b6228366d249e502f4c3a7df7104d2eee8c439e0588c",
+      "ora_crc": true,
+      "ora_recomposed_equal": true,
+      "svg_xml_valid": true
+    }
+  ],
+  "preserved_388_byte_identical": true,
+  "previous_13_unchanged": true,
+  "svg_visual_metrics": "Not rendered; live text approximation. ORA layers are exact.",
+  "html_browser_test": "NOT_RUN",
+  "native_geometry_claim": "Water-refinement production record only; no independent mesh rerun this batch."
+}

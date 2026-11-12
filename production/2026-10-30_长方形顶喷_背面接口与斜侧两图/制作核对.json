@@ -1,0 +1,620 @@
+{
+  "base": {
+    "Housing_300x200x20": {
+      "mesh_sha256": "f3e2f848f1cbfa8247e75502b548b5cbe2c341f03aff99195a0eefe41f7ebfd8",
+      "world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "modifiers": [],
+      "hidden_render": false
+    },
+    "Recessed_panel_with_true_through_holes": {
+      "mesh_sha256": "c37abd3ecb1c4678142754f5716a822f552f9d7984e41086b4671bec7e34bf45",
+      "world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "modifiers": [
+        [
+          "BEVEL",
+          5.999999848427251e-05,
+          2
+        ]
+      ],
+      "hidden_render": false
+    },
+    "Outward_pull_knob_concave_face": {
+      "mesh_sha256": "0fb8b0ed4b08716e9495d39a66e6535db8c04d2db46ed02b87e8c51451c6fde1",
+      "world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "modifiers": [],
+      "hidden_render": false
+    },
+    "Rear_connector_visible_envelope_UNCONFIRMED_thread": {
+      "mesh_sha256": "40b3018a54ca5c929e5f734b85eef5db535bab850f3b28a4a51427dba0f206b3",
+      "world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "modifiers": [],
+      "hidden_render": false
+    },
+    "Observed_white_protective_cap": {
+      "mesh_sha256": "70daf757a5a06cd88b27692faa65b2992002e230456893edf69bb1be0a4f2bfd",
+      "world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "modifiers": [],
+      "hidden_render": false
+    }
+  },
+  "views": {
+    "03_背面去盖接口": {
+      "original_objects": {
+        "Housing_300x200x20": {
+          "mesh_sha256": "f3e2f848f1cbfa8247e75502b548b5cbe2c341f03aff99195a0eefe41f7ebfd8",
+          "world": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              -1.0,
+              8.742277657347586e-08,
+              0.0
+            ],
+            [
+              0.0,
+              -8.742277657347586e-08,
+              -1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "modifiers": [],
+          "hidden_render": false
+        },
+        "Recessed_panel_with_true_through_holes": {
+          "mesh_sha256": "c37abd3ecb1c4678142754f5716a822f552f9d7984e41086b4671bec7e34bf45",
+          "world": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              -1.0,
+              8.742277657347586e-08,
+              0.0
+            ],
+            [
+              0.0,
+              -8.742277657347586e-08,
+              -1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "modifiers": [
+            [
+              "BEVEL",
+              5.999999848427251e-05,
+              2
+            ]
+          ],
+          "hidden_render": false
+        },
+        "Outward_pull_knob_concave_face": {
+          "mesh_sha256": "0fb8b0ed4b08716e9495d39a66e6535db8c04d2db46ed02b87e8c51451c6fde1",
+          "world": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              -1.0,
+              8.742277657347586e-08,
+              0.0
+            ],
+            [
+              0.0,
+              -8.742277657347586e-08,
+              -1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "modifiers": [],
+          "hidden_render": false
+        },
+        "Rear_connector_visible_envelope_UNCONFIRMED_thread": {
+          "mesh_sha256": "40b3018a54ca5c929e5f734b85eef5db535bab850f3b28a4a51427dba0f206b3",
+          "world": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              -1.0,
+              8.742277657347586e-08,
+              0.0
+            ],
+            [
+              0.0,
+              -8.742277657347586e-08,
+              -1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "modifiers": [],
+          "hidden_render": true
+        },
+        "Observed_white_protective_cap": {
+          "mesh_sha256": "70daf757a5a06cd88b27692faa65b2992002e230456893edf69bb1be0a4f2bfd",
+          "world": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              -1.0,
+              8.742277657347586e-08,
+              0.0
+            ],
+            [
+              0.0,
+              -8.742277657347586e-08,
+              -1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "modifiers": [],
+          "hidden_render": true
+        }
+      },
+      "rigid_transform": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.0,
+          8.742277657347586e-08,
+          0.0
+        ],
+        [
+          0.0,
+          -8.742277657347586e-08,
+          -1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "normalized_transform_equal": true,
+      "camera": [
+        [
+          0.8574928045272827,
+          -0.469436913728714,
+          0.21055884659290314,
+          0.11999999731779099
+        ],
+        [
+          0.5144959092140198,
+          0.782394528388977,
+          -0.3509312570095062,
+          -0.20000000298023224
+        ],
+        [
+          1.8860015771338112e-09,
+          0.40925270318984985,
+          0.9124211072921753,
+          0.5249999761581421
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    "04_正面斜侧20mm": {
+      "original_objects": {
+        "Housing_300x200x20": {
+          "mesh_sha256": "f3e2f848f1cbfa8247e75502b548b5cbe2c341f03aff99195a0eefe41f7ebfd8",
+          "world": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "modifiers": [],
+          "hidden_render": false
+        },
+        "Recessed_panel_with_true_through_holes": {
+          "mesh_sha256": "c37abd3ecb1c4678142754f5716a822f552f9d7984e41086b4671bec7e34bf45",
+          "world": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "modifiers": [
+            [
+              "BEVEL",
+              5.999999848427251e-05,
+              2
+            ]
+          ],
+          "hidden_render": false
+        },
+        "Outward_pull_knob_concave_face": {
+          "mesh_sha256": "0fb8b0ed4b08716e9495d39a66e6535db8c04d2db46ed02b87e8c51451c6fde1",
+          "world": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "modifiers": [],
+          "hidden_render": false
+        },
+        "Rear_connector_visible_envelope_UNCONFIRMED_thread": {
+          "mesh_sha256": "40b3018a54ca5c929e5f734b85eef5db535bab850f3b28a4a51427dba0f206b3",
+          "world": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "modifiers": [],
+          "hidden_render": true
+        },
+        "Observed_white_protective_cap": {
+          "mesh_sha256": "70daf757a5a06cd88b27692faa65b2992002e230456893edf69bb1be0a4f2bfd",
+          "world": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "modifiers": [],
+          "hidden_render": true
+        }
+      },
+      "rigid_transform": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "normalized_transform_equal": true,
+      "camera": [
+        [
+          0.884918212890625,
+          -0.23433060944080353,
+          0.4025033116340637,
+          0.20000000298023224
+        ],
+        [
+          0.4657464325428009,
+          0.4452281594276428,
+          -0.7647562623023987,
+          -0.3799999952316284
+        ],
+        [
+          -3.956470706611981e-09,
+          0.8642112612724304,
+          0.5031291246414185,
+          0.24199999868869781
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    }
+  },
+  "original_meshes_unchanged": true,
+  "old_connector_and_cap_hidden": [
+    "Rear_connector_visible_envelope_UNCONFIRMED_thread",
+    "Observed_white_protective_cap"
+  ],
+  "new_estimated_connector_parts": [
+    "Connector_open_metal_envelope_ESTIMATED",
+    "Connector_dark_inner_ring_ESTIMATED",
+    "Connector_visible_screen_ESTIMATED_pitch_not_spec",
+    "Connector_dark_cavity_backing_ESTIMATED"
+  ],
+  "product_body_dimensions_mm": [
+    300,
+    200,
+    20
+  ],
+  "no_pull_state": true
+}

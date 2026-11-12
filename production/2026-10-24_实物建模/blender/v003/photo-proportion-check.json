@@ -1,0 +1,48 @@
+{
+  "coordinate_space": "EXIF-oriented photo resized to1368x1824, manual approximate marks",
+  "P01": {
+    "top_y": 31,
+    "connector_bottom_y": 1695,
+    "head_left_x": 270,
+    "head_right_x": 1077,
+    "projected_head_width_over_total_length": 0.48497596153846156
+  },
+  "P02": {
+    "top_y": 314,
+    "connector_bottom_y": 1730,
+    "head_left_x": 374,
+    "head_right_x": 1065,
+    "projected_head_width_over_total_length": 0.4879943502824859
+  },
+  "P04": {
+    "front_plane_points": [
+      [
+        585,
+        120
+      ],
+      [
+        645,
+        850
+      ]
+    ],
+    "lower_front_points": [
+      [
+        650,
+        980
+      ],
+      [
+        580,
+        1495
+      ]
+    ],
+    "estimated_relative_angle_degrees": 12.4,
+    "uncertainty": "Approximate manual lines; perspective/occlusion/edge choice; use rough10-15degree range"
+  },
+  "model_v003": {
+    "head_width_over_length": 0.49056603773584906,
+    "upper_front_plane_tilt_deg": 5.7106,
+    "lower_front_endpoint_direction_deg": -4.94,
+    "relative_angle_deg": 10.65
+  },
+  "conclusion": "Ratios are close at coarse level; cameras not calibrated so no IoU, tolerance pass, metrology or customer acceptance."
+}

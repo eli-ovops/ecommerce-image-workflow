@@ -1,0 +1,18 @@
+[
+  {
+    "zip": "暖金两张JPG.zip",
+    "items": 2,
+    "bytes": 993235,
+    "crc": "PASS",
+    "all_members_equal_local": "PASS",
+    "sha256": "f70d2532912dfdef8666f5dd493fd893a1f94473fe49d2d159e36754c258477c"
+  },
+  {
+    "zip": "暖金两图_可编辑源与证据.zip",
+    "items": 14,
+    "bytes": 6875237,
+    "crc": "PASS",
+    "all_members_equal_local": "PASS",
+    "sha256": "27bdc0419af708336c10e8546fe7657ab6d48b1fca344672d920b132dcc406a3"
+  }
+]

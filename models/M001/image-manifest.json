@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-22",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "id": "M001-master-v1",
+      "role": "model_identity_master_sheet",
+      "sku": null,
+      "source_images": [],
+      "approved_claims": [],
+      "aspect": "3:2",
+      "target_dimensions": [
+        1536,
+        1024
+      ],
+      "prompt": "Use case: photorealistic-natural.\nAsset type: a single reusable commercial model identity reference sheet for a bathroom-product ecommerce project.\nPrimary request: Create ONE original fictional adult White woman, approximately 28 years old, with long naturally black hair. This is her identity master reference for later campaign images. Show exactly the SAME person in all three panels; not three different models.\nScene/backdrop: a clean, seamless very light warm gray studio backdrop, evenly lit and uncluttered.\nSubject and identity: clearly adult woman, fair neutral skin with natural texture, long jet-black hair with a near-center part and soft gentle movement at the ends, naturally shaped dark eyebrows, warm brown-hazel eyes, softly defined oval face and cheekbones, straight proportionate nose, natural medium-full lips. Attractive, approachable, healthy commercial beauty with minimal makeup and authentic skin, not a waxy doll or an over-retouched influencer.\nComposition/framing: one landscape 3:2 photograph sheet, preferably 1536 by 1024 pixels, with three clean vertical panels and subtle blank gutters. LEFT: a large crisp front-facing head-and-shoulders portrait, eyes directly at camera, relaxed subtle closed-lip smile; MIDDLE: the identical woman in a three-quarter head-and-shoulders portrait facing slightly left, facial features and hairline visible; RIGHT: the identical woman standing naturally, framed from head to mid-thigh with arms resting naturally, enough space around her. Keep recognizable facial geometry, age, skin color and hair color consistent across all panels.\nWardrobe: the same simple opaque ivory sleeveless top with a modest high neckline in all panels; in the wider right panel, neutral taupe trousers. Natural body proportions and relaxed catalog posture.\nLighting/mood: soft large-source daylight, premium but grounded bathroom and personal-care catalog photography, accurate neutral color, gentle highlights, sharp eyes and realistic pores. Bright, calm and friendly.\nText: none.\nConstraints: one fictional identity repeated consistently; no product, no showerhead, no invented product, no water effects, no props, no jewelry or accessories, no brand, no typography, no labels, no watermark, no certificate or patent image, no claims. No likeness to any identifiable celebrity or existing reference model. Do not make different women in the panels. The deliverable is an identity master sheet rather than a finished product advertisement.",
+      "output": "models/M001/master-v1.png",
+      "qa_status": "VISUAL_PASS",
+      "issues": [],
+      "actual_dimensions": [
+        1536,
+        1024
+      ],
+      "format": "PNG",
+      "sha256": "88bab74a2ed289d73cfbc893d3da9ab7dcf5b3ae9f9696cf0b362b2b08c2a8a8",
+      "generated_source_path": "/Users/USER/.codex/generated_images/01a16319-d848-71d0-95e1-72970644c800/exec-cce23663-60fd-4109-ba3e-9c21d70bc0da.png",
+      "source_copy_sha256_match": true,
+      "user_acceptance": "USER_CONFIRMED_2026-10-22",
+      "visual_checks": {
+        "same_identity_across_three_panels": "PASS",
+        "clearly_adult_appearance": "PASS",
+        "long_black_hair": "PASS",
+        "natural_studio_photography": "PASS",
+        "obvious_anatomical_defect": "NOT_OBSERVED",
+        "unwanted_text_logo_product_certificate": "NOT_OBSERVED"
+      },
+      "limitations": [
+        "Future-scene identity consistency still needs per-image verification.",
+        "One hand has bent/partly occluded fingers; individual finger visibility is incomplete."
+      ],
+      "tool_runtime_model": "UNKNOWN"
+    }
+  ]
+}

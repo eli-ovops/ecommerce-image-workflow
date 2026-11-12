@@ -1,0 +1,189 @@
+{
+  "date": "2026-10-24",
+  "scope": "13 new black-SKU real photos and 1 real video, source preservation only",
+  "entries": [
+    {
+      "id": "P01",
+      "original_path": "/Users/USER/Downloads/微信图片_20261024162109_156_2.jpg",
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/sources/微信图片_20261024162109_156_2.jpg",
+      "purpose": "front",
+      "bytes": 6467421,
+      "sha256": "bff4932ec04d16c353b6c70f9b5b1d9e8238d2328444340488cc47a51ce8e3f4",
+      "kind": "real_photo",
+      "display_size": [
+        4284,
+        5712
+      ]
+    },
+    {
+      "id": "P02",
+      "original_path": "/Users/USER/Downloads/微信图片_20261024162111_157_2.jpg",
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/sources/微信图片_20261024162111_157_2.jpg",
+      "purpose": "back",
+      "bytes": 5430494,
+      "sha256": "aeb93f9f2acf00218bd162ac9ecafd34cd165ed07e240a26b2f0b64a010e4049",
+      "kind": "real_photo",
+      "display_size": [
+        4284,
+        5712
+      ]
+    },
+    {
+      "id": "P03",
+      "original_path": "/Users/USER/Downloads/微信图片_20261024162113_158_2.jpg",
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/sources/微信图片_20261024162113_158_2.jpg",
+      "purpose": "side_a",
+      "bytes": 5589708,
+      "sha256": "9c46ff440781cd647bd4cb2c747e50832b116812fb5e2f6a9aa1bc0054186a5d",
+      "kind": "real_photo",
+      "display_size": [
+        4284,
+        5712
+      ]
+    },
+    {
+      "id": "P04",
+      "original_path": "/Users/USER/Downloads/微信图片_20261024162115_159_2.jpg",
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/sources/微信图片_20261024162115_159_2.jpg",
+      "purpose": "side_b",
+      "bytes": 5481758,
+      "sha256": "5d97b3aa898b962a4656f25c6b690b9ad6bbe8820e73fa3f3a8f4ad967db471c",
+      "kind": "real_photo",
+      "display_size": [
+        4284,
+        5712
+      ]
+    },
+    {
+      "id": "P05",
+      "original_path": "/Users/USER/Downloads/微信图片_20261024162117_160_2.jpg",
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/sources/微信图片_20261024162117_160_2.jpg",
+      "purpose": "head_edge",
+      "bytes": 5107836,
+      "sha256": "68b4fafd2fdc59b767251a4597dbce043f72d969e7c6ac4c0910d6ecd480916b",
+      "kind": "real_photo",
+      "display_size": [
+        4284,
+        5712
+      ]
+    },
+    {
+      "id": "P06",
+      "original_path": "/Users/USER/Downloads/微信图片_20261024162119_161_2.jpg",
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/sources/微信图片_20261024162119_161_2.jpg",
+      "purpose": "connector_bottom",
+      "bytes": 5326195,
+      "sha256": "7a2aa4e37cf0faf8be625f396404479462ac269f71c6c6452396550f2eea4d07",
+      "kind": "real_photo",
+      "display_size": [
+        4284,
+        5712
+      ]
+    },
+    {
+      "id": "P07",
+      "original_path": "/Users/USER/Downloads/微信图片_20261024162121_162_2.jpg",
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/sources/微信图片_20261024162121_162_2.jpg",
+      "purpose": "back_oblique",
+      "bytes": 5360494,
+      "sha256": "ae0309436769bd753242b20d04ee97380e23b491cbd210b4635c15eea84fee16",
+      "kind": "real_photo",
+      "display_size": [
+        4284,
+        5712
+      ]
+    },
+    {
+      "id": "P08",
+      "original_path": "/Users/USER/Downloads/微信图片_20261024162123_163_2.jpg",
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/sources/微信图片_20261024162123_163_2.jpg",
+      "purpose": "front_oblique",
+      "bytes": 5511315,
+      "sha256": "44a598043b2cc3e07eca50be22bce3bb701995f4068069744f9ea67e16291dbd",
+      "kind": "real_photo",
+      "display_size": [
+        4284,
+        5712
+      ]
+    },
+    {
+      "id": "P09",
+      "original_path": "/Users/USER/Downloads/微信图片_20261024162125_164_2.jpg",
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/sources/微信图片_20261024162125_164_2.jpg",
+      "purpose": "overall_length_measurement",
+      "bytes": 6090324,
+      "sha256": "341d2ed498ec1bea3d22078d68f510c654fa99004b0ea64c5c9df2ef8b02dc35",
+      "kind": "real_photo",
+      "display_size": [
+        5712,
+        4284
+      ]
+    },
+    {
+      "id": "P10",
+      "original_path": "/Users/USER/Downloads/微信图片_20261024162127_165_2.jpg",
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/sources/微信图片_20261024162127_165_2.jpg",
+      "purpose": "head_width_measurement",
+      "bytes": 5588757,
+      "sha256": "f479f0accd8a6577eead0a5803107c3ea616ba7c754e9f9a0619845b6cb3806d",
+      "kind": "real_photo",
+      "display_size": [
+        5712,
+        4284
+      ]
+    },
+    {
+      "id": "P11",
+      "original_path": "/Users/USER/Downloads/微信图片_20261024162129_166_2.jpg",
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/sources/微信图片_20261024162129_166_2.jpg",
+      "purpose": "head_thickness_measurement",
+      "bytes": 5258535,
+      "sha256": "3adbc88d32e90a4d7e3ad35abfcd7eb9a1123fe4aba6605062cca154497c9a81",
+      "kind": "real_photo",
+      "display_size": [
+        4284,
+        5712
+      ]
+    },
+    {
+      "id": "P12",
+      "original_path": "/Users/USER/Downloads/微信图片_20261024162131_167_2.jpg",
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/sources/微信图片_20261024162131_167_2.jpg",
+      "purpose": "handle_thickness_measurement",
+      "bytes": 5259326,
+      "sha256": "3c61e64c2b8fd09477e951ff0faa4c93eea6d483caa022b225bc607aeb84d5ef",
+      "kind": "real_photo",
+      "display_size": [
+        4284,
+        5712
+      ]
+    },
+    {
+      "id": "P13",
+      "original_path": "/Users/USER/Downloads/微信图片_20261024162133_168_2.jpg",
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/sources/微信图片_20261024162133_168_2.jpg",
+      "purpose": "handle_length_measurement",
+      "bytes": 5881394,
+      "sha256": "7d3f24ba65337bcd28995b921acfdaff2a9853033f134b0e2b9f093d4770bbdc",
+      "kind": "real_photo",
+      "display_size": [
+        5712,
+        4284
+      ]
+    },
+    {
+      "id": "V01",
+      "original_path": "/Users/USER/Downloads/5c77f55ed42a7efa93efe9ca2e7121d5_raw.mp4",
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/sources/5c77f55ed42a7efa93efe9ca2e7121d5_raw.mp4",
+      "purpose": "new_rotation_video",
+      "bytes": 39788602,
+      "sha256": "e1f1891879c865657774ef54c2135bf0e75b68ed2824ef867e6bdff58fa11b20",
+      "kind": "real_video"
+    }
+  ],
+  "limitations": [
+    "Tape readings pending visual interpretation; not metrology",
+    "Cross-SKU identical geometry not established",
+    "No customer acceptance or 3D verification yet"
+  ]
+}

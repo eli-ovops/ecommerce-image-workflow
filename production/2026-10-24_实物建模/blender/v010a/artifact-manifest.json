@@ -1,0 +1,60 @@
+{
+  "version": "v010a",
+  "files": [
+    {
+      "path": "v010a/REVISION.md",
+      "bytes": 3214,
+      "sha256": "0a14e6e11c7259f9edc215f8d91354a1a2256e820e8287f364be6c9142a814ca"
+    },
+    {
+      "path": "v010a/evidence/geometry-check.json",
+      "bytes": 1280,
+      "sha256": "d9a0cab04d357c54ca774ef15cd4ec79b0594b59fb0d447a191fa87bec843958"
+    },
+    {
+      "path": "v010a/evidence/reopen-and-preservation.json",
+      "bytes": 5005,
+      "sha256": "13eecc2fdc3f2511d2d08647e248bee0c3bccba6b94cbcf5eeb44c831ffae38e"
+    },
+    {
+      "path": "v010a/evidence/v009-v010a-head_oblique_back-local.jpg",
+      "bytes": 112601,
+      "sha256": "d124b4df025ff81e76f7824e4ea8b9461e155766328472506dd51dd2575be78b"
+    },
+    {
+      "path": "v010a/evidence/v009-v010a-strict_side-local.jpg",
+      "bytes": 96307,
+      "sha256": "1cfe912c961b6cd3cdf99e3c0f1df0da9ff8212ebe66ff781f1916f9928ca573"
+    },
+    {
+      "path": "v010a/renders/head_oblique_back.jpg",
+      "bytes": 93265,
+      "sha256": "b301cab394a3fa019c6940b27e55fe23494da968b0b9846305f59864e6becae8"
+    },
+    {
+      "path": "v010a/renders/strict_side.jpg",
+      "bytes": 81363,
+      "sha256": "87b0d943d94882adf26b46b88b1a52d0012f9780aedac3d6c571d7fcff1b4eeb"
+    },
+    {
+      "path": "v010a/shower_black_clay_v010a.blend",
+      "bytes": 955603,
+      "sha256": "e3de47e1ddd7ee4741d2a698e8fb22078839297c0834f6bad32af4b4341d4a97"
+    },
+    {
+      "path": "build_model-v010a.py",
+      "bytes": 11873,
+      "sha256": "10e70134a4514580bbab86ccb2dad7f47310d95edda61836c23aed0cf437bfb9"
+    },
+    {
+      "path": "parameters-v010a.json",
+      "bytes": 3687,
+      "sha256": "5e947e716488fc679ae38717d18f644ccf843ff467c47b37ec69a44983d7532e"
+    },
+    {
+      "path": "verify-v010a.py",
+      "bytes": 2494,
+      "sha256": "23de065a41dd7aa95e6ba6153ad7ce3be46b143b2158dc573e27e51d4ac78ea3"
+    }
+  ]
+}

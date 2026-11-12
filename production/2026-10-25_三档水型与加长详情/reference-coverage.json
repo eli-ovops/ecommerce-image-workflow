@@ -1,0 +1,903 @@
+{
+  "entries": [
+    {
+      "reference_id": "R001",
+      "previous_outputs": [
+        "M02"
+      ],
+      "current_outputs": [
+        "M06"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "R002",
+      "previous_outputs": [
+        "M04"
+      ],
+      "current_outputs": [
+        "M02",
+        "M04"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "R003",
+      "previous_outputs": [
+        "D04",
+        "M06"
+      ],
+      "current_outputs": [
+        "M04",
+        "M05"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "R004",
+      "previous_outputs": [
+        "M07"
+      ],
+      "current_outputs": [
+        "M01"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "R005",
+      "previous_outputs": [
+        "D05"
+      ],
+      "current_outputs": [
+        "M02"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "R006",
+      "previous_outputs": [
+        "D05"
+      ],
+      "current_outputs": [
+        "M02"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "R007",
+      "previous_outputs": [
+        "D04"
+      ],
+      "current_outputs": [
+        "M04"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "R008",
+      "previous_outputs": [
+        "M06"
+      ],
+      "current_outputs": [
+        "M05"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "R009",
+      "previous_outputs": [
+        "M02"
+      ],
+      "current_outputs": [
+        "M06"
+      ],
+      "previous_disposition": "DUPLICATE_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "R010",
+      "previous_outputs": [
+        "D09"
+      ],
+      "current_outputs": [
+        "D02",
+        "D05"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "R011",
+      "previous_outputs": [
+        "D09"
+      ],
+      "current_outputs": [
+        "D02",
+        "D05"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "R012",
+      "previous_outputs": [
+        "M08"
+      ],
+      "current_outputs": [
+        "D03"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "R013",
+      "previous_outputs": [
+        "D04",
+        "M06"
+      ],
+      "current_outputs": [
+        "M04",
+        "M05"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "R014",
+      "previous_outputs": [
+        "L02"
+      ],
+      "current_outputs": [],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "保留原表的重复、集合或不适用说明，见原覆盖表。"
+    },
+    {
+      "reference_id": "R015",
+      "previous_outputs": [
+        "D04",
+        "M06"
+      ],
+      "current_outputs": [
+        "M04",
+        "M05"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "R016",
+      "previous_outputs": [
+        "D09"
+      ],
+      "current_outputs": [
+        "D02",
+        "D05"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "R017",
+      "previous_outputs": [
+        "D03"
+      ],
+      "current_outputs": [
+        "D03",
+        "M03",
+        "M04"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "R018",
+      "previous_outputs": [
+        "D04",
+        "M06"
+      ],
+      "current_outputs": [
+        "M04",
+        "M05"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "R019",
+      "previous_outputs": [],
+      "current_outputs": [
+        "M05"
+      ],
+      "previous_disposition": "EXCLUDED_PORTRAIT",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "R020",
+      "previous_outputs": [
+        "D05"
+      ],
+      "current_outputs": [
+        "M02"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "R021",
+      "previous_outputs": [
+        "D05"
+      ],
+      "current_outputs": [
+        "M02"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "R022",
+      "previous_outputs": [
+        "M06"
+      ],
+      "current_outputs": [
+        "M05"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "R023",
+      "previous_outputs": [
+        "D04"
+      ],
+      "current_outputs": [
+        "M04"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "R024",
+      "previous_outputs": [
+        "W01"
+      ],
+      "current_outputs": [
+        "M03"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "R025",
+      "previous_outputs": [
+        "D05"
+      ],
+      "current_outputs": [
+        "M02"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "R026",
+      "previous_outputs": [],
+      "current_outputs": [
+        "M05"
+      ],
+      "previous_disposition": "EXCLUDED_PORTRAIT",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "R027",
+      "previous_outputs": [
+        "D06",
+        "M07"
+      ],
+      "current_outputs": [
+        "D02",
+        "M01"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "R028",
+      "previous_outputs": [
+        "W01"
+      ],
+      "current_outputs": [
+        "M03"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "R029",
+      "previous_outputs": [
+        "D06",
+        "M07"
+      ],
+      "current_outputs": [
+        "D02",
+        "M01"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "R030",
+      "previous_outputs": [
+        "L02"
+      ],
+      "current_outputs": [],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "保留原表的重复、集合或不适用说明，见原覆盖表。"
+    },
+    {
+      "reference_id": "R031",
+      "previous_outputs": [
+        "W02"
+      ],
+      "current_outputs": [
+        "M06"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "R032",
+      "previous_outputs": [
+        "D05"
+      ],
+      "current_outputs": [
+        "M02"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "R033",
+      "previous_outputs": [
+        "W02"
+      ],
+      "current_outputs": [
+        "M06"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "R034",
+      "previous_outputs": [
+        "D09"
+      ],
+      "current_outputs": [
+        "D02",
+        "D05"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "R035",
+      "previous_outputs": [
+        "D09"
+      ],
+      "current_outputs": [
+        "D02",
+        "D05"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A001",
+      "previous_outputs": [
+        "L01",
+        "L02"
+      ],
+      "current_outputs": [],
+      "previous_disposition": "COLLECTION",
+      "note": "保留原表的重复、集合或不适用说明，见原覆盖表。"
+    },
+    {
+      "reference_id": "A002",
+      "previous_outputs": [
+        "K01"
+      ],
+      "current_outputs": [
+        "K01"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A003",
+      "previous_outputs": [
+        "K02"
+      ],
+      "current_outputs": [
+        "K02"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A004",
+      "previous_outputs": [
+        "K03"
+      ],
+      "current_outputs": [
+        "K03"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A005",
+      "previous_outputs": [
+        "K01"
+      ],
+      "current_outputs": [
+        "K01"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A006",
+      "previous_outputs": [
+        "D01"
+      ],
+      "current_outputs": [
+        "M01"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A007",
+      "previous_outputs": [
+        "D01"
+      ],
+      "current_outputs": [
+        "M01"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A008",
+      "previous_outputs": [
+        "D02"
+      ],
+      "current_outputs": [
+        "D01"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A009",
+      "previous_outputs": [
+        "D01"
+      ],
+      "current_outputs": [
+        "M01"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A010",
+      "previous_outputs": [
+        "D01"
+      ],
+      "current_outputs": [
+        "M01"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A011",
+      "previous_outputs": [
+        "D03"
+      ],
+      "current_outputs": [
+        "D03",
+        "M03",
+        "M04"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A012",
+      "previous_outputs": [
+        "D04"
+      ],
+      "current_outputs": [
+        "M04"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A013",
+      "previous_outputs": [
+        "D04"
+      ],
+      "current_outputs": [
+        "M04"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A014",
+      "previous_outputs": [
+        "D05"
+      ],
+      "current_outputs": [
+        "M02"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A015",
+      "previous_outputs": [
+        "D05"
+      ],
+      "current_outputs": [
+        "M02"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A016",
+      "previous_outputs": [
+        "D04"
+      ],
+      "current_outputs": [
+        "M04"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A017",
+      "previous_outputs": [
+        "D04"
+      ],
+      "current_outputs": [
+        "M04"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A018",
+      "previous_outputs": [
+        "D04"
+      ],
+      "current_outputs": [
+        "M04"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A019",
+      "previous_outputs": [],
+      "current_outputs": [
+        "M05"
+      ],
+      "previous_disposition": "EXCLUDED_PORTRAIT",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A020",
+      "previous_outputs": [
+        "D05"
+      ],
+      "current_outputs": [
+        "M02"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A021",
+      "previous_outputs": [],
+      "current_outputs": [
+        "M05"
+      ],
+      "previous_disposition": "EXCLUDED_PORTRAIT",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A022",
+      "previous_outputs": [
+        "D06"
+      ],
+      "current_outputs": [
+        "D02"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A023",
+      "previous_outputs": [
+        "D06"
+      ],
+      "current_outputs": [
+        "D02"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A024",
+      "previous_outputs": [
+        "D07"
+      ],
+      "current_outputs": [
+        "D04"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A025",
+      "previous_outputs": [
+        "D07"
+      ],
+      "current_outputs": [
+        "D04"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A026",
+      "previous_outputs": [
+        "D07"
+      ],
+      "current_outputs": [
+        "D04"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A027",
+      "previous_outputs": [
+        "D06"
+      ],
+      "current_outputs": [
+        "D02"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A028",
+      "previous_outputs": [
+        "D05"
+      ],
+      "current_outputs": [
+        "M02"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A029",
+      "previous_outputs": [
+        "D08"
+      ],
+      "current_outputs": [
+        "M06"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A030",
+      "previous_outputs": [
+        "D08"
+      ],
+      "current_outputs": [
+        "M06"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A031",
+      "previous_outputs": [
+        "D08"
+      ],
+      "current_outputs": [
+        "M06"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A032",
+      "previous_outputs": [
+        "D09"
+      ],
+      "current_outputs": [
+        "D02",
+        "D05"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A033",
+      "previous_outputs": [
+        "D09"
+      ],
+      "current_outputs": [
+        "D02",
+        "D05"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A034",
+      "previous_outputs": [
+        "M03"
+      ],
+      "current_outputs": [
+        "D02"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A035",
+      "previous_outputs": [
+        "M05"
+      ],
+      "current_outputs": [
+        "M03"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A036",
+      "previous_outputs": [
+        "M04"
+      ],
+      "current_outputs": [
+        "M02",
+        "M04"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A037",
+      "previous_outputs": [
+        "D06"
+      ],
+      "current_outputs": [
+        "D02"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A038",
+      "previous_outputs": [
+        "M01"
+      ],
+      "current_outputs": [
+        "M01"
+      ],
+      "previous_disposition": "ADAPTED_OR_MERGED",
+      "note": "沿原覆盖表承接内容任务；当前用户认可的暖白风格替换旧光色与碎片排版，不声称逐参考视觉复刻。"
+    },
+    {
+      "reference_id": "A039",
+      "previous_outputs": [
+        "L01"
+      ],
+      "current_outputs": [],
+      "previous_disposition": "COLLECTION",
+      "note": "保留原表的重复、集合或不适用说明，见原覆盖表。"
+    }
+  ],
+  "total": 74,
+  "original_receipt": "production/2026-10-22_参考重构/reference-map.md:31-37",
+  "old_to_new": {
+    "M01": [
+      "M01"
+    ],
+    "M02": [
+      "M06"
+    ],
+    "M03": [
+      "D02"
+    ],
+    "M04": [
+      "M02",
+      "M04"
+    ],
+    "M05": [
+      "M03"
+    ],
+    "M06": [
+      "M05"
+    ],
+    "M07": [
+      "M01"
+    ],
+    "M08": [
+      "D03"
+    ],
+    "K01": [
+      "K01"
+    ],
+    "K02": [
+      "K02"
+    ],
+    "K03": [
+      "K03"
+    ],
+    "D01": [
+      "M01"
+    ],
+    "D02": [
+      "D01"
+    ],
+    "D03": [
+      "M03",
+      "M04",
+      "D03"
+    ],
+    "D04": [
+      "M04"
+    ],
+    "D05": [
+      "M02"
+    ],
+    "D06": [
+      "D02"
+    ],
+    "D07": [
+      "D04"
+    ],
+    "D08": [
+      "M06"
+    ],
+    "D09": [
+      "D02",
+      "D05"
+    ],
+    "W01": [
+      "M03"
+    ],
+    "W02": [
+      "M06"
+    ]
+  },
+  "limitation": "任务承接映射，不是本轮重新全读74张或逐张风格通过证明"
+}

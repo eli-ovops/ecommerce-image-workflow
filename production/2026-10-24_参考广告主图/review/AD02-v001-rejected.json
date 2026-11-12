@@ -1,0 +1,11 @@
+{
+  "status": "REJECTED",
+  "candidate": "production/2026-10-24_参考广告主图/generated/AD02-v001-native.png",
+  "reviewer": "root and visual owner",
+  "reason": [
+    "后背错误出现参考商品的纵向凸条，真实SIL002后背没有此结构。",
+    "前面少量孔环抹连。"
+  ],
+  "style_comparison": "冷蓝窗光、竖纹、前背错落、蓝胶囊、局部窗和下暗带接近A034，但商品缺陷不允许用风格通过覆盖。",
+  "next_action": "一次目标编辑，去掉原A034作为工具输入，仅原候选+4张真实银色商品照片；保留实际style原图查看记录，不声明mask硬锁。"
+}

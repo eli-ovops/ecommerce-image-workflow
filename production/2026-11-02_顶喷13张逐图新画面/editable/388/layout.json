@@ -1,0 +1,65 @@
+{
+  "text": [
+    {
+      "text": "提拉红钮 辅助除垢",
+      "x": 413,
+      "y": 668,
+      "size": 68,
+      "color": "#ffffff",
+      "font": "Heiti SC"
+    },
+    {
+      "text": "约30×20cm 面板",
+      "x": 545,
+      "y": 1028,
+      "size": 45,
+      "color": "#251a14",
+      "font": "Heiti SC"
+    },
+    {
+      "text": "银色长方形顶喷",
+      "x": 530,
+      "y": 1095,
+      "size": 64,
+      "color": "#251a14",
+      "font": "Heiti SC"
+    },
+    {
+      "text": "银色 · 长方形面板",
+      "x": 58,
+      "y": 755,
+      "size": 35,
+      "color": "#ffffff",
+      "font": "Heiti SC"
+    }
+  ],
+  "transforms": [
+    {
+      "source": "product372.png",
+      "angle": -7,
+      "xy": [
+        184,
+        35
+      ],
+      "size": [
+        842,
+        615
+      ],
+      "uniform": true
+    },
+    {
+      "source": "product372.png",
+      "angle": 18,
+      "xy": [
+        25,
+        610
+      ],
+      "size": [
+        460,
+        375
+      ],
+      "uniform": true
+    }
+  ],
+  "note": "参考388综合双主体构图、浴室主色和强标题。实拍整件只能保留现有视角，未添加水幕/支架/通用接口/增压等；动态安装主图覆盖不足，当前为静态版候选而非原参考完整复现。"
+}

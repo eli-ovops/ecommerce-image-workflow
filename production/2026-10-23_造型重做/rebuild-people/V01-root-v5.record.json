@@ -1,0 +1,27 @@
+{
+  "id": "V01",
+  "prompt": "Precise local edit ONLY the LEFT small photograph rectangle in middle detail strip of IMAGE1 (rectangle approx x34..318,y919..1165 on936x1681 canvas). EVERYTHING OUTSIDE that photo rectangle stays EXACTLY UNCHANGED: entire woman/face/skin/hair/hands/clothes/water/product in upper scene, every Chinese word, two adjacent detail photos, cream strip, bottom gold bridge graphic. Do NOT regenerate person or change text. Completely REPLACE left detail photograph with a NEW extreme-close MACRO photographed from actual central red button in IMAGE2, never reuse old window's broken-hole texture. Central red raised descaling ring with clearly dark round center opening occupies about65% of this small window WIDTH. Black continuous finely textured face surrounding it, only3 to6 ordinary small low white annular outlet holes at peripheral edges; no dense wholehead view, no product outline/rim/handle in this macro. Every visible white annulus is complete smooth low thin white ring with exactly one tiny dark center, no broken grains, white debris, gray disks, extra hardware, red pins, droplets. Red button shape factual from photo2, no finger. Warm subtle matching light. Existing label中央红钮 remains unchanged. Preserve exact full image dimensions/aspect. Return entire image with just that one photo replaced.",
+  "referenced_image_paths": [
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/V01-root-v4.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg"
+  ],
+  "raw_output": "/Users/USER/.codex/generated_images/01a167f7-498a-71b3-969b-17d69673eb5c/exec-a6ea04a0-870b-4c9b-85ec-718e5f8a884b.png",
+  "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/V01-root-v5.png",
+  "status": "INDEPENDENT_QA_PASS_WITH_LIMITATIONS",
+  "scope": "Requested local replacement of left detail photograph; not a pixel-lock guarantee.",
+  "actual_viewed_related_originals": [
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/V01-root-v4.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg"
+  ],
+  "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+  "sha256": "6ed0fd410244c5a076d0cd824e63da81afcbaa02cc298403397f2972a5dd161a",
+  "actual_dimensions": [
+    936,
+    1680
+  ],
+  "producer_native_output_actually_viewed": true,
+  "producer_review": "Left window now clear extreme central red annular button macro with dark opening and six clean peripheral low white outlet rings; no debris observed. Person identity, pose, scene, regular water, other two windows, approved text and golden bridge visually preserved. Independent QA pending.",
+  "actual_review_limitations": [
+    "Independent QA observed changed upper-scene water-film accents outside the intended inset; randomly shaped droplets and film, without a repeated closed fish-scale network. Person identity, warm scene and chapter layout visually retained; no claim of identical pixels."
+  ]
+}

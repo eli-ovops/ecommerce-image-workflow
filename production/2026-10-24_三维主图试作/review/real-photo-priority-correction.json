@@ -1,0 +1,151 @@
+{
+  "date": "2026-10-24",
+  "user_quote": "建模模型参考3d的这个，但是实际的图片还是要以实际图片为准啊。我发给你的银色/枪灰色/黑色的图片你应该都还在啊",
+  "authority_order": [
+    "own-SKU real photos: appearance, color, reflection, panel, controls, holes and detail",
+    "v010a auxiliary 3D: secondary shape/curvature/spatial understanding",
+    "style references and Skills: composition/process only"
+  ],
+  "root_diagnosis": "Prior batch overused deterministic CG product as final visual; shape consistency alone did not satisfy real-photo appearance requirement",
+  "status": "REWORK_REQUIRED_REAL_PHOTOS",
+  "source_audit": [
+    {
+      "sku": "银色",
+      "count": 12,
+      "all_archive_hashes_match": true,
+      "files": [
+        {
+          "id": "SIL001",
+          "path": "products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+          "sha256": "6de02f19793c568c799762525475cd0241af1b9c41487580383be4efbd2a1fa2"
+        },
+        {
+          "id": "SIL002",
+          "path": "products/主推花洒/银色/原图/微信图片_20261022184344_90_2.jpg",
+          "sha256": "9f6e724d9fc0e01a0670fbd1964d4a3e2e32d985447bcdb99fc98fe147526eb1"
+        },
+        {
+          "id": "SIL003",
+          "path": "products/主推花洒/银色/原图/微信图片_20261022184345_91_2.jpg",
+          "sha256": "8d41d23e8e762b1e9208796587c36db70ea8e452ee2e3fdd3604f97c7f40dd60"
+        },
+        {
+          "id": "SIL004",
+          "path": "products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg",
+          "sha256": "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90"
+        },
+        {
+          "id": "SIL005",
+          "path": "products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+          "sha256": "0b388756f0ee2e35630dac7789237153d390fa8aaab8f58f6e2643d4181be21d"
+        },
+        {
+          "id": "SIL006",
+          "path": "products/主推花洒/银色/原图/微信图片_20261022184355_94_2.jpg",
+          "sha256": "10dcfb2cad17faf397a03e0587da0ad19c76229fe801e090fee527a3fbc1a412"
+        },
+        {
+          "id": "SIL007",
+          "path": "products/主推花洒/银色/原图/微信图片_20261022184357_95_2.jpg",
+          "sha256": "4aee9c3464d2f590ce6e7c08da656ab36093a0976a51560d0e7706b568c412db"
+        },
+        {
+          "id": "SIL008",
+          "path": "products/主推花洒/银色/原图/微信图片_20261022184358_96_2.jpg",
+          "sha256": "071b041a0c14ced993d33df9598611fd0e7ea9cb0e65892de6b6969d901fb140"
+        },
+        {
+          "id": "SIL009",
+          "path": "products/主推花洒/银色/原图/微信图片_20261022184359_97_2.jpg",
+          "sha256": "4a812b7e8b033a403a65d5d7fc8ef6ef49515410b6196e953c16aafcf71a1693"
+        },
+        {
+          "id": "SIL010",
+          "path": "products/主推花洒/银色/原图/微信图片_20261022184400_98_2.jpg",
+          "sha256": "97ee7ce1dd84ba8e93cbce28ee5ecf94d1da5e29fba0aa064759f6eb2bed502e"
+        },
+        {
+          "id": "SIL011",
+          "path": "products/主推花洒/银色/原图/微信图片_20261022184402_99_2.jpg",
+          "sha256": "22287ec426ebc7f449beeda0a3d64c24631e4ccc75d7bf4fb7a6abb9d1e8781c"
+        },
+        {
+          "id": "SIL012",
+          "path": "products/主推花洒/银色/原图/微信图片_20261022184403_100_2.jpg",
+          "sha256": "c471d115285f03079202e30954acc36370c29d10c482ef3eeb77f5fda47a84a6"
+        }
+      ]
+    },
+    {
+      "sku": "枪灰色",
+      "count": 6,
+      "all_archive_hashes_match": true,
+      "files": [
+        {
+          "id": "GMT001",
+          "path": "products/主推花洒/枪灰色/原图/微信图片_20261022185804_106_2.jpg",
+          "sha256": "7ac7a4d7c35d2a4d68c5a2afe0ec784afbe2545026943306cb3216991690af2d"
+        },
+        {
+          "id": "GMT002",
+          "path": "products/主推花洒/枪灰色/原图/微信图片_20261022185805_107_2.jpg",
+          "sha256": "5f7e288bec394f38fa99f5b721b127c83a90594b15e3e38346993aae23a51f8c"
+        },
+        {
+          "id": "GMT003",
+          "path": "products/主推花洒/枪灰色/原图/微信图片_20261022185805_108_2.jpg",
+          "sha256": "7df2098f15a901bb0d22b9339a608f2349c8ae1a20584c9e387e41d29f889b90"
+        },
+        {
+          "id": "GMT004",
+          "path": "products/主推花洒/枪灰色/原图/微信图片_20261022185806_109_2.jpg",
+          "sha256": "cac8642c6aa599def138cf2c897385624ef6827b30142c0c8551c85cb6b5c361"
+        },
+        {
+          "id": "GMT005",
+          "path": "products/主推花洒/枪灰色/原图/微信图片_20261022185807_110_2.jpg",
+          "sha256": "e6034a1eeed91938a6347c1dacc1c0d4e2c3aceba6cf36b6d13c66e504ffc003"
+        },
+        {
+          "id": "GMT006",
+          "path": "products/主推花洒/枪灰色/原图/微信图片_20261022185807_111_2.jpg",
+          "sha256": "e27681ffc36c9d211cd4abc1c031f1403104f4ba6986e10875947ae3b23b5f62"
+        }
+      ]
+    },
+    {
+      "sku": "黑色",
+      "count": 5,
+      "all_archive_hashes_match": true,
+      "files": [
+        {
+          "id": "BLK001",
+          "path": "products/主推花洒/黑色/原图/微信图片_20261022185739_101_2.jpg",
+          "sha256": "6e8b9ac3ed7b70024346ca3a51fbdfa2ea8b5de4fa56b0b3b96a3171b4090a23"
+        },
+        {
+          "id": "BLK002",
+          "path": "products/主推花洒/黑色/原图/微信图片_20261022185739_102_2.jpg",
+          "sha256": "04dcc913bfeafb9232a63686cb9cf4c5b47db3ea88275f25fdab30cdcabb6f2f"
+        },
+        {
+          "id": "BLK003",
+          "path": "products/主推花洒/黑色/原图/微信图片_20261022185740_103_2.jpg",
+          "sha256": "69bc47dfe914b578f1e7d4d8aa8fb6a5ca3c6180108401a380e282ddc331a32b"
+        },
+        {
+          "id": "BLK004",
+          "path": "products/主推花洒/黑色/原图/微信图片_20261022185803_104_2.jpg",
+          "sha256": "bdd80c03fdd183b91c1ef553058cee48be78522178765cfef82064f3458c685d"
+        },
+        {
+          "id": "BLK005",
+          "path": "products/主推花洒/黑色/原图/微信图片_20261022185803_105_2.jpg",
+          "sha256": "736f95fa8951eeaaabb2de81cbd1530f9111843a47952f539eceae225e34f87a"
+        }
+      ]
+    }
+  ],
+  "preservation": "all originals, models and previous candidates retained; no deletion",
+  "customer_acceptance": "NOT_RECEIVED"
+}

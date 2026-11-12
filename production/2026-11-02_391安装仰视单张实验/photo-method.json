@@ -1,0 +1,14 @@
+{
+  "source": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-31_\u9876\u55b7\u5b54\u4f4d\u56de\u6e90\u53ef\u63a7\u4fee\u590d/372-front-rectified.jpg",
+  "sha256": "3be7dc1bd8214915fd5589e89e334f3d20a9a8b077bd8dd28efdc1075460a533",
+  "single_photo_face": true,
+  "geometry_circles_and_leaf_relief_removed": true,
+  "knob_photo_mask": [
+    825,
+    502,
+    979,
+    655
+  ],
+  "knob": "Existing3D knob covers masked center; photo lighting remains baked; appearance approximation",
+  "water": "94 retained photo-classified candidate hole anchors;2 visually uncertain anchors excluded refined to local dark minima; not manufacturer verified; illustrative flow"
+}

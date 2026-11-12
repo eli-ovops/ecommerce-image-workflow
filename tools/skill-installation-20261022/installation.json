@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-22",
+  "timezone": "Asia/Shanghai",
+  "threadId": "01a16319-d848-71d0-95e1-72970644c800",
+  "scope": "project-local skills installation only; no image generation or third-party service",
+  "volume_uuid": "75C1D88E-4702-444C-B356-8CC282CBD720",
+  "sources": [
+    {
+      "repo": "nexu-io/open-design",
+      "commit": "61ab0f2a6dbfea20a1010b841d7f5234c69327b4",
+      "folder": "skills/ecommerce-image-workflow",
+      "file_count": 4
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "folder": "skills/copywriting",
+      "file_count": 6
+    }
+  ],
+  "downloads": [
+    {
+      "url": "https://raw.githubusercontent.com/nexu-io/open-design/61ab0f2a6dbfea20a1010b841d7f5234c69327b4/LICENSE",
+      "path": "tools/skill-installation-20261022/sources/nexu-io--open-design/LICENSE",
+      "bytes": 11296,
+      "sha256": "9d95806a26532623360eb84bb17d298f394b55ef73fb4c0796d99b4319b2b0da",
+      "git_blob_sha1": "eb79c35bd865477e525b18e56f35d56fbe0f7110",
+      "git_blob_match": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/nexu-io/open-design/61ab0f2a6dbfea20a1010b841d7f5234c69327b4/skills/ecommerce-image-workflow/SKILL.md",
+      "path": "tools/skill-installation-20261022/sources/nexu-io--open-design/skills/ecommerce-image-workflow/SKILL.md",
+      "bytes": 9685,
+      "sha256": "7b7d93ae062ee284ec2327ab21e246b1811cb17a8c29c7b37f49fcabcb5cbb5e",
+      "git_blob_sha1": "eba4ef2ece8fefd38b963090fe44d53ffa32a376",
+      "git_blob_match": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/nexu-io/open-design/61ab0f2a6dbfea20a1010b841d7f5234c69327b4/skills/ecommerce-image-workflow/example.html",
+      "path": "tools/skill-installation-20261022/sources/nexu-io--open-design/skills/ecommerce-image-workflow/example.html",
+      "bytes": 12014,
+      "sha256": "26dc57295ee36a0fbd92ec2fcb378cf9790e926a432ec73bcb761b6cbd817844",
+      "git_blob_sha1": "5cf663d0c7cbe531cd5c95f90a5581f3ef650f54",
+      "git_blob_match": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/nexu-io/open-design/61ab0f2a6dbfea20a1010b841d7f5234c69327b4/skills/ecommerce-image-workflow/references/checklist.md",
+      "path": "tools/skill-installation-20261022/sources/nexu-io--open-design/skills/ecommerce-image-workflow/references/checklist.md",
+      "bytes": 3188,
+      "sha256": "ad5f12b17eaf9838381ba3e5cecfc9b31b6d576a63f5bb2d007531926421abb5",
+      "git_blob_sha1": "d88f8b8339e85f5bbb4484d124d24a76f85be8b7",
+      "git_blob_match": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/LICENSE",
+      "path": "tools/skill-installation-20261022/sources/coreyhaines31--marketingskills/LICENSE",
+      "bytes": 1069,
+      "sha256": "b70d71e24e40fce5da8f4b6f9cd862096a048e433db7f3c8cac5e348e6d34591",
+      "git_blob_sha1": "7c48dd638a9ebed49a8ef0c0c4eea90105381cdf",
+      "git_blob_match": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/copywriting/SKILL.md",
+      "path": "tools/skill-installation-20261022/sources/coreyhaines31--marketingskills/skills/copywriting/SKILL.md",
+      "bytes": 15520,
+      "sha256": "13c580c2432a4499e9dfdcf5d553df7aa6589e90cf5bd869fb4fbde5caf9f567",
+      "git_blob_sha1": "e70bd2e1f4e96cb94ef69b3899150950b0128be5",
+      "git_blob_match": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/copywriting/evals/evals.json",
+      "path": "tools/skill-installation-20261022/sources/coreyhaines31--marketingskills/skills/copywriting/evals/evals.json",
+      "bytes": 12995,
+      "sha256": "ccec86052a0edd8646d0e50e63c08e0e971f443d8f6e9178843a1629f79efdb0",
+      "git_blob_sha1": "f903d8b9db5b201c71589278aff29bf3293043fa",
+      "git_blob_match": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/copywriting/references/ai-tells.md",
+      "path": "tools/skill-installation-20261022/sources/coreyhaines31--marketingskills/skills/copywriting/references/ai-tells.md",
+      "bytes": 20804,
+      "sha256": "b98c3a19b3a75c714d69e80a0076e4c07244b0e833c2ce81ff2631224fb7f7b2",
+      "git_blob_sha1": "0a93ab3b88fc2c683ff6280db187644a7aa04612",
+      "git_blob_match": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/copywriting/references/copy-frameworks.md",
+      "path": "tools/skill-installation-20261022/sources/coreyhaines31--marketingskills/skills/copywriting/references/copy-frameworks.md",
+      "bytes": 14352,
+      "sha256": "352122944bf9e891ceb0e003adce41591d111e9d97057700626249919dfe430d",
+      "git_blob_sha1": "194aefed131c4e2e508b76ae9fdfc9cdcd37a6ba",
+      "git_blob_match": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b/skills/copywriting/references/natural-transitions.md",
+      "path": "tools/skill-installation-20261022/sources/coreyhaines31--marketingskills/skills/copywriting/references/natural-transitions.md",
+      "bytes": 5561,
+      "sha256": "9bd61b0de5be2c4de4ce130c68236b4f290b12737823827a458bb2b4c8584683",
+      "git_blob_sha1": "5fba31a5d3bf0f35a9cc62605af5ceaa454a6186",
+      "git_blob_match": true
+    }
+  ],
+  "installer": {
+    "path": "/Users/USER/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py",
+    "sha256": "38f311b75664bb063808f982c600271ebc4b560830f491705190f88a94e3e781",
+    "method": "Built-in installer validation/copy helpers after bounded per-file pinned-source download; avoids full repository archive"
+  },
+  "local_imagegen_source": "/Users/USER/.codex/skills/.system/imagegen",
+  "status": "installed_and_static_verified",
+  "adapted_files": [
+    ".agents/skills/ecommerce-image-workflow/SKILL.md",
+    ".agents/skills/ecommerce-image-workflow/references/checklist.md"
+  ]
+}

@@ -1,0 +1,1 @@
+{"id":390,"attempt":1,"error":"image generation failed: connection failed: error sending request","output":"UNKNOWN; no returned artifact","action":"Defer affected image; proceed with independent 393, verify saved artifacts before retry."}

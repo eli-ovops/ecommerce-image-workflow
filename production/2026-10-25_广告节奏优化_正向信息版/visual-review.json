@@ -1,0 +1,128 @@
+[
+  {
+    "id": "M05",
+    "composition_review": "人工查看review/sheet-1至3全图预览；M01/D02/D05再打开原JPG检查",
+    "observation": "首屏使用已认可完整人物场景；文件哈希与旧版一致，没有重绘肤质。",
+    "technical": "JPEG decode and SHA256 PASS",
+    "acceptance": "用户待审"
+  },
+  {
+    "id": "M01",
+    "composition_review": "人工查看review/sheet-1至3全图预览；M01/D02/D05再打开原JPG检查",
+    "observation": "主商品放大；三档以明显大字分组，减少左侧空背景。标题与产品不相交。",
+    "technical": "JPEG decode and SHA256 PASS",
+    "acceptance": "用户待审"
+  },
+  {
+    "id": "M02",
+    "composition_review": "人工查看review/sheet-1至3全图预览；M01/D02/D05再打开原JPG检查",
+    "observation": "本轮未改图，源文件字节复用；整组预览确认保留已认可暖白铜棕风格。",
+    "technical": "JPEG decode and SHA256 PASS",
+    "acceptance": "用户待审"
+  },
+  {
+    "id": "M03",
+    "composition_review": "人工查看review/sheet-1至3全图预览；M01/D02/D05再打开原JPG检查",
+    "observation": "本轮未改图，源文件字节复用；整组预览确认保留已认可暖白铜棕风格。",
+    "technical": "JPEG decode and SHA256 PASS",
+    "acceptance": "用户待审"
+  },
+  {
+    "id": "M06",
+    "composition_review": "人工查看review/sheet-1至3全图预览；M01/D02/D05再打开原JPG检查",
+    "observation": "本轮未改图，源文件字节复用；整组预览确认保留已认可暖白铜棕风格。",
+    "technical": "JPEG decode and SHA256 PASS",
+    "acceptance": "用户待审"
+  },
+  {
+    "id": "K01",
+    "composition_review": "人工查看review/sheet-1至3全图预览；M01/D02/D05再打开原JPG检查",
+    "observation": "本轮未改图，源文件字节复用；整组预览确认保留已认可暖白铜棕风格。",
+    "technical": "JPEG decode and SHA256 PASS",
+    "acceptance": "用户待审"
+  },
+  {
+    "id": "K02",
+    "composition_review": "人工查看review/sheet-1至3全图预览；M01/D02/D05再打开原JPG检查",
+    "observation": "本轮未改图，源文件字节复用；整组预览确认保留已认可暖白铜棕风格。",
+    "technical": "JPEG decode and SHA256 PASS",
+    "acceptance": "用户待审"
+  },
+  {
+    "id": "K03",
+    "composition_review": "人工查看review/sheet-1至3全图预览；M01/D02/D05再打开原JPG检查",
+    "observation": "本轮未改图，源文件字节复用；整组预览确认保留已认可暖白铜棕风格。",
+    "technical": "JPEG decode and SHA256 PASS",
+    "acceptance": "用户待审"
+  },
+  {
+    "id": "M04",
+    "composition_review": "人工查看review/sheet-1至3全图预览；M01/D02/D05再打开原JPG检查",
+    "observation": "三个完整方形画面统一缩放，保留出水起点，标签放独立铜棕区。透视机位仍不同。",
+    "technical": "JPEG decode and SHA256 PASS",
+    "acceptance": "用户待审"
+  },
+  {
+    "id": "D01",
+    "composition_review": "人工查看review/sheet-1至3全图预览；M01/D02/D05再打开原JPG检查",
+    "observation": "三色并列完整头部；颜色各自取旧SKU层；减少同浴室背景重复。",
+    "technical": "JPEG decode and SHA256 PASS",
+    "acceptance": "用户待审"
+  },
+  {
+    "id": "D02",
+    "composition_review": "人工查看review/sheet-1至3全图预览；M01/D02/D05再打开原JPG检查",
+    "observation": "将前背/颈部视觉任务合成一页，取消重复D07/D08；底带65px大字。",
+    "technical": "JPEG decode and SHA256 PASS",
+    "acceptance": "用户待审"
+  },
+  {
+    "id": "D04",
+    "composition_review": "人工查看review/sheet-1至3全图预览；M01/D02/D05再打开原JPG检查",
+    "observation": "本轮未改图，源文件字节复用；整组预览确认保留已认可暖白铜棕风格。",
+    "technical": "JPEG decode and SHA256 PASS",
+    "acceptance": "用户待审"
+  },
+  {
+    "id": "D05",
+    "composition_review": "人工查看review/sheet-1至3全图预览；M01/D02/D05再打开原JPG检查",
+    "observation": "仅保留正向商品信息；删除售卖范围及未包含配件说明。",
+    "technical": "JPEG decode and SHA256 PASS",
+    "acceptance": "用户待审"
+  },
+  {
+    "id": "W01",
+    "composition_review": "人工查看review/sheet-1至3全图预览；M01/D02/D05再打开原JPG检查",
+    "observation": "普通档源95对应候选，完整面板与水流原点未裁掉；没有加水。",
+    "technical": "JPEG decode and SHA256 PASS",
+    "acceptance": "用户待审"
+  },
+  {
+    "id": "W02",
+    "composition_review": "人工查看review/sheet-1至3全图预览；M01/D02/D05再打开原JPG检查",
+    "observation": "混合档源97对应候选，未为了差异额外加雾；与普通的细微视觉区别仍待客户判断。",
+    "technical": "JPEG decode and SHA256 PASS",
+    "acceptance": "用户待审"
+  },
+  {
+    "id": "W03",
+    "composition_review": "人工查看review/sheet-1至3全图预览；M01/D02/D05再打开原JPG检查",
+    "observation": "喷雾档源96对应候选，六处雾束保留；未新增性能文案。",
+    "technical": "JPEG decode and SHA256 PASS",
+    "acceptance": "用户待审"
+  },
+  {
+    "id": "D06",
+    "composition_review": "人工查看review/sheet-1至3全图预览；M01/D02/D05再打开原JPG检查",
+    "observation": "本轮未改图，源文件字节复用；整组预览确认保留已认可暖白铜棕风格。",
+    "technical": "JPEG decode and SHA256 PASS",
+    "acceptance": "用户待审"
+  },
+  {
+    "id": "L01",
+    "composition_review": "人工查看review/sheet-1至3全图预览；M01/D02/D05再打开原JPG检查",
+    "observation": "13章接缝与顺序检查；长图14721高比旧18008更紧凑，减少的是重复页，非声称比参考更长。",
+    "technical": "JPEG decode and SHA256 PASS",
+    "acceptance": "用户待审"
+  }
+]

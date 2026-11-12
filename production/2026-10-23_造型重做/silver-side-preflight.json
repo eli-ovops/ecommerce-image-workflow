@@ -1,0 +1,15 @@
+{
+  "refs": [
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184345_91_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/sources/side-03.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/sources/side-01.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg"
+  ],
+  "prompt": "Precise real-product photo reconstruction, single SILVER showerhead SIDE PROFILE on plain light neutral grey studio background. Image1 is the main edit target and EXACT side silhouette/camera perspective to preserve; image2 shows opposite silver side; images3/4 show the SAME product family's continuous curved side body more clearly in dark finish and supply GEOMETRY ONLY; image5 anchors actual silver front proportions/controls only.\n\nExtract the actual silver handheld product from photo1 into a clean catalog photo, removing the hand and bathroom background. Preserve its actual capture angle and long flowing side silhouette from top head through narrowed neck into grip. The body has a visible continuous shallow S/C camber: the head-face direction is offset from the grip axis through a gently bent neck, and the shallow domed BACK sweeps continuously into the handle. The rear profile bows softly, side-wall thickness transitions smoothly. Copy the bend magnitude and turning location from the real side photographs. The head is not a constant-thickness flat disk attached to a straight coplanar pipe. Do not straighten the product, do not turn it frontal to hide the camber, and do not exaggerate into an L-shaped swan neck.\n\nFull single product fits portrait canvas with generous space around it. Maintain side view like photo1: just a narrow glimpse of the black front edge/right side and the slightly protruding lower silver selector, polished silver side/back flowing down to the grip. No invented circular back patch. Preserve original photographed head-to-handle proportions, gently rounded head rim, realistic slim ergonomic grip. Remove the photographed hose and bulky quick connector assembly at bottom; show only the product's short SILVER bare male thread (user confirmed silver), correctly proportioned. No bracket or accessories. Silver finish from real silver photos1/2/5, never dark housing from3/4. No text, no water, no people, no additional views or parts. Soft studio reflections must reveal the real curved profile, not remodel it. This is a geometry check, prioritize matching real silhouette over stylization.",
+  "at_utc": "2026-10-23T07:24:01.881558+00:00",
+  "batch_reference_read": "Prior actual full74 reading retained for same product/style scope; all3 new side photos and silver89/91/92 actually viewed in this main conversation",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "purpose": "Correct geometry before restarting old32; no old generated geometry used"
+}

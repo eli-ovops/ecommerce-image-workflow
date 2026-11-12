@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-31",
+  "owner": "root",
+  "status": "REWORK_REQUIRED_REALISM_NOT_PASSED",
+  "actual_opened": ["13 merchant original images 387-399", "actual SKU 372 376 374 originals", "372-detail.jpg native crop", "01_advertising_refined.jpg final 1600px", "source-detail-comparison.jpg", "before-after.jpg", "phone.jpg"],
+  "improved": ["Silver sidewall has clearer light/dark reflection and less brown cast", "Face now has a directional illumination gradient", "Same accepted large product angle retained"],
+  "failed_visual_targets": ["Black panel fine grain still substantially weaker than actual source372, including at enlarged crop", "Petal groove shading still reads as narrow drawn lines rather than source shallow molded channels", "Red knob appears too smooth and its highlight too idealized", "Scene remains a simple dark studio countertop and does not achieve the merchant-reference advertising atmosphere"],
+  "geometry_checks": "Reopened scene confirms same camera, rig, all nine product meshes and authored transforms/modifiers; original five meshes match v3; shell300x200x20mm.",
+  "material_change_scope": ["panel shader only", "knob shader only", "silver shell roughness only"],
+  "attempts": "Two 800px previews and one final 1600px output. First too dark, second too evenly bright. Final narrowed the reflected light and adjusted grain frequency, but source-detail gap remains.",
+  "diagnosis": "Material assignment verified: all59841 panel polygons use the intended panel material. Merely changing broad lighting/roughness/grain parameters has not resolved the source mismatch. Existing groove cross-section is a fixed appearance estimate. Geometry identity PASS cannot stand in for realism PASS.",
+  "next_step": "Do not expand or relight repeatedly. Resolve source-calibrated panel micro-normal and groove edge shading at a fixed close-up first; if this requires changing the actual groove cross-section, surface the conflict with the current same-mesh constraint before modifying geometry.",
+  "no_ai_product_pixels": true,
+  "no_text_watermark_water_people_needles": true,
+  "customer_acceptance": "UNKNOWN",
+  "actual_runtime_model": "UNKNOWN"
+}

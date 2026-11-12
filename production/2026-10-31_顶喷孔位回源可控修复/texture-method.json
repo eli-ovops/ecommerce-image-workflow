@@ -1,0 +1,20 @@
+{
+  "source": "372-front-rectified.jpg derived from original372",
+  "purpose": "Non-color normal-height approximation only, not albedo or emission",
+  "large_scale_illumination_removed": "24px Gaussian high pass at2400x1600",
+  "photo_circle_exclusion_radius_m": [
+    0.0026,
+    0.0033
+  ],
+  "red_knob_exclusion_radius_m": [
+    0.014,
+    0.017
+  ],
+  "planar_registration": {
+    "x0_px": 903,
+    "y0_px": 590.6,
+    "x_pixels_per_m": 6089.108910891089,
+    "y_pixels_per_m": 6009.90099009901
+  },
+  "limitations": "Photographic shading remains in high frequency; not measured height. Circle registration is approximate; visual double-image check required."
+}

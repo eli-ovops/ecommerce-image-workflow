@@ -1,0 +1,712 @@
+{
+  "created_at": "2026-11-04T12:29:19.370222+08:00",
+  "expected": {
+    "photos": 36,
+    "videos": 3,
+    "total": 39
+  },
+  "passed": 39,
+  "total_bytes": 214702365,
+  "purpose": "保存用户提供的方形三键花洒实拍原始素材，供后续商品核对和制作使用",
+  "source": "用户指定的 Downloads 原文件",
+  "retention": "用户素材原件副本，受保护，不清理；Downloads 原件未删除",
+  "verification": "逐文件来源与存档 SHA-256 和大小比对；照片 PIL verify；视频 ffmpeg 读取元数据，未连续播放",
+  "files": [
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_457_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_457_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 4962975,
+      "source_mtime": "2026-11-04T04:19:01.407191+00:00",
+      "archive_mtime": "2026-11-04T04:19:01.407191+00:00",
+      "source_sha256": "328d1ac2a392b6bc2c60e6963e389e566c727c8d20565a9b05b20749852c5b6d",
+      "archive_sha256": "328d1ac2a392b6bc2c60e6963e389e566c727c8d20565a9b05b20749852c5b6d",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_458_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_458_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 4975084,
+      "source_mtime": "2026-11-04T04:19:00.752974+00:00",
+      "archive_mtime": "2026-11-04T04:19:00.752974+00:00",
+      "source_sha256": "a323f0b82933c9a7837c2ab342b2c9e7fa5f82ab4933377b109680e48330c3f3",
+      "archive_sha256": "a323f0b82933c9a7837c2ab342b2c9e7fa5f82ab4933377b109680e48330c3f3",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_459_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_459_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 4889292,
+      "source_mtime": "2026-11-04T04:19:00.209900+00:00",
+      "archive_mtime": "2026-11-04T04:19:00.209900+00:00",
+      "source_sha256": "d33bd5cfcabd624394321b8b5473eb78997769e4c115f7320abb4535cb0a8b7c",
+      "archive_sha256": "d33bd5cfcabd624394321b8b5473eb78997769e4c115f7320abb4535cb0a8b7c",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_460_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_460_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 4736053,
+      "source_mtime": "2026-11-04T04:18:59.503627+00:00",
+      "archive_mtime": "2026-11-04T04:18:59.503627+00:00",
+      "source_sha256": "f7356abee20db328f1871053b1f2b7de39cbec905da9dd958f0983de3b4c7dad",
+      "archive_sha256": "f7356abee20db328f1871053b1f2b7de39cbec905da9dd958f0983de3b4c7dad",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_461_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_461_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 4762534,
+      "source_mtime": "2026-11-04T04:18:58.933746+00:00",
+      "archive_mtime": "2026-11-04T04:18:58.933746+00:00",
+      "source_sha256": "152edb4a562c00192545c27da99f2557c4632720b6cd29802c897729cff8b2c8",
+      "archive_sha256": "152edb4a562c00192545c27da99f2557c4632720b6cd29802c897729cff8b2c8",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        4032,
+        3024
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_462_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_462_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 6763443,
+      "source_mtime": "2026-11-04T04:19:02.135634+00:00",
+      "archive_mtime": "2026-11-04T04:19:02.135634+00:00",
+      "source_sha256": "fdd9bc6e0adfe00e585c44e341a44ab151d94a50112d9ee45d32cbd3f6533135",
+      "archive_sha256": "fdd9bc6e0adfe00e585c44e341a44ab151d94a50112d9ee45d32cbd3f6533135",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_463_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_463_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 8214891,
+      "source_mtime": "2026-11-04T04:19:01.434247+00:00",
+      "archive_mtime": "2026-11-04T04:19:01.434247+00:00",
+      "source_sha256": "04efd96bae0e3753647d7498b2fc6fefc522f42ea30055b418afeacdb15af4f5",
+      "archive_sha256": "04efd96bae0e3753647d7498b2fc6fefc522f42ea30055b418afeacdb15af4f5",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_464_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_464_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 8558946,
+      "source_mtime": "2026-11-04T04:19:00.444787+00:00",
+      "archive_mtime": "2026-11-04T04:19:00.444787+00:00",
+      "source_sha256": "da3eb8f6b5d91a130751145d9312faa30f4b7da5130eb2732c4572e2cfde17dc",
+      "archive_sha256": "da3eb8f6b5d91a130751145d9312faa30f4b7da5130eb2732c4572e2cfde17dc",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_465_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_465_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 5295146,
+      "source_mtime": "2026-11-04T04:18:57.919176+00:00",
+      "archive_mtime": "2026-11-04T04:18:57.919176+00:00",
+      "source_sha256": "cc7768f87383fff2937b32b6ef10fb51a874ca3d363549af900713f9fd33cfbb",
+      "archive_sha256": "cc7768f87383fff2937b32b6ef10fb51a874ca3d363549af900713f9fd33cfbb",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_466_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_466_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 6600227,
+      "source_mtime": "2026-11-04T04:18:59.423984+00:00",
+      "archive_mtime": "2026-11-04T04:18:59.423984+00:00",
+      "source_sha256": "48b4123077b78f3f4f890c42183f3fb4c833a5531f528475c36b981c88b079e2",
+      "archive_sha256": "48b4123077b78f3f4f890c42183f3fb4c833a5531f528475c36b981c88b079e2",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_467_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_467_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 6788865,
+      "source_mtime": "2026-11-04T04:18:57.074435+00:00",
+      "archive_mtime": "2026-11-04T04:18:57.074435+00:00",
+      "source_sha256": "132f41837240a76c0091eae96a4fd5fd19593ff196f8e3d3ece0804da117477e",
+      "archive_sha256": "132f41837240a76c0091eae96a4fd5fd19593ff196f8e3d3ece0804da117477e",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_468_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_468_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 5869351,
+      "source_mtime": "2026-11-04T04:18:58.650320+00:00",
+      "archive_mtime": "2026-11-04T04:18:58.650320+00:00",
+      "source_sha256": "9c63adc8201694ec7b8745dfd6d5ed3e6735e661273dbc4750538ade4b68dec6",
+      "archive_sha256": "9c63adc8201694ec7b8745dfd6d5ed3e6735e661273dbc4750538ade4b68dec6",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_469_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_469_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 5103246,
+      "source_mtime": "2026-11-04T04:18:58.335768+00:00",
+      "archive_mtime": "2026-11-04T04:18:58.335768+00:00",
+      "source_sha256": "b4d65376327f669bb19f116c5c5de662dd0c29fd68b80cfe05d6b0efd47a83a8",
+      "archive_sha256": "b4d65376327f669bb19f116c5c5de662dd0c29fd68b80cfe05d6b0efd47a83a8",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_470_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_470_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 5461160,
+      "source_mtime": "2026-11-04T04:18:56.283444+00:00",
+      "archive_mtime": "2026-11-04T04:18:56.283444+00:00",
+      "source_sha256": "53eed8f5a7f3ed59e63019f22d49f89261bb41328ffb9341a0483bc012a420ff",
+      "archive_sha256": "53eed8f5a7f3ed59e63019f22d49f89261bb41328ffb9341a0483bc012a420ff",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_471_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_471_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 4933077,
+      "source_mtime": "2026-11-04T04:18:57.686706+00:00",
+      "archive_mtime": "2026-11-04T04:18:57.686706+00:00",
+      "source_sha256": "18aa3f6f5c2d3322d777c954c9ad34bf308dd1cb6c3a0e5d46e1d73ddb590cb1",
+      "archive_sha256": "18aa3f6f5c2d3322d777c954c9ad34bf308dd1cb6c3a0e5d46e1d73ddb590cb1",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_472_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_472_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 5245680,
+      "source_mtime": "2026-11-04T04:18:57.332971+00:00",
+      "archive_mtime": "2026-11-04T04:18:57.332971+00:00",
+      "source_sha256": "42db56973b0f030bcee7a829af6fa288e88fe6e616b86f204c0e69e9d9068891",
+      "archive_sha256": "42db56973b0f030bcee7a829af6fa288e88fe6e616b86f204c0e69e9d9068891",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_473_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_473_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 4962891,
+      "source_mtime": "2026-11-04T04:18:56.756919+00:00",
+      "archive_mtime": "2026-11-04T04:18:56.756919+00:00",
+      "source_sha256": "bc3753ddf8e50726f3e989adadf2db17912e20ebd0c4d607b2c882e7a2dabb41",
+      "archive_sha256": "bc3753ddf8e50726f3e989adadf2db17912e20ebd0c4d607b2c882e7a2dabb41",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_474_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_474_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 4976582,
+      "source_mtime": "2026-11-04T04:18:56.200726+00:00",
+      "archive_mtime": "2026-11-04T04:18:56.200726+00:00",
+      "source_sha256": "392305f938dede2caddcfb5ad9ada22775ecd6d3bc704fcd75185b3bd42f2233",
+      "archive_sha256": "392305f938dede2caddcfb5ad9ada22775ecd6d3bc704fcd75185b3bd42f2233",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_475_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_475_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 4750653,
+      "source_mtime": "2026-11-04T04:18:55.653831+00:00",
+      "archive_mtime": "2026-11-04T04:18:55.653831+00:00",
+      "source_sha256": "0ddca9123e10754c691f35c3ae82019b38d477599346f46552fc5afa6c9c6357",
+      "archive_sha256": "0ddca9123e10754c691f35c3ae82019b38d477599346f46552fc5afa6c9c6357",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_476_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_476_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 5473390,
+      "source_mtime": "2026-11-04T04:18:55.596151+00:00",
+      "archive_mtime": "2026-11-04T04:18:55.596151+00:00",
+      "source_sha256": "538bbaa42df5b65ecc1a49c2d3408143d82c4cdc99ff4a00b2d2a0648dbff351",
+      "archive_sha256": "538bbaa42df5b65ecc1a49c2d3408143d82c4cdc99ff4a00b2d2a0648dbff351",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_477_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_477_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 4955670,
+      "source_mtime": "2026-11-04T04:18:55.018276+00:00",
+      "archive_mtime": "2026-11-04T04:18:55.018276+00:00",
+      "source_sha256": "508fb4af144aa109857c488f1ec03927d55099b729fbce66f2257cb58e848137",
+      "archive_sha256": "508fb4af144aa109857c488f1ec03927d55099b729fbce66f2257cb58e848137",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_478_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_478_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 2095363,
+      "source_mtime": "2026-11-04T04:18:54.272127+00:00",
+      "archive_mtime": "2026-11-04T04:18:54.272127+00:00",
+      "source_sha256": "875acbd4103b3fd534b3870cbeb4950ada0a9c2a06443aa646cad04b0a1991ed",
+      "archive_sha256": "875acbd4103b3fd534b3870cbeb4950ada0a9c2a06443aa646cad04b0a1991ed",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        4032,
+        3024
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_479_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_479_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 10198779,
+      "source_mtime": "2026-11-04T04:18:55.006710+00:00",
+      "archive_mtime": "2026-11-04T04:18:55.006710+00:00",
+      "source_sha256": "f6da582ed81c38690af8849d3c167ec355f4ee65d53bf197062cd53e2dd44119",
+      "archive_sha256": "f6da582ed81c38690af8849d3c167ec355f4ee65d53bf197062cd53e2dd44119",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_480_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_480_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 4115936,
+      "source_mtime": "2026-11-04T04:18:54.048745+00:00",
+      "archive_mtime": "2026-11-04T04:18:54.048745+00:00",
+      "source_sha256": "ecc17457fc019f6c80811d7e50fb0bcbbf699e0f04ca0801e3ab18cc4792fcff",
+      "archive_sha256": "ecc17457fc019f6c80811d7e50fb0bcbbf699e0f04ca0801e3ab18cc4792fcff",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_481_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_481_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 6247033,
+      "source_mtime": "2026-11-04T04:18:53.649567+00:00",
+      "archive_mtime": "2026-11-04T04:18:53.649567+00:00",
+      "source_sha256": "182ae901487493b92b014038adc49899582f56b38cc35469562d4f36fbfa7d21",
+      "archive_sha256": "182ae901487493b92b014038adc49899582f56b38cc35469562d4f36fbfa7d21",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_482_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_482_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 6231874,
+      "source_mtime": "2026-11-04T04:18:53.786325+00:00",
+      "archive_mtime": "2026-11-04T04:18:53.786325+00:00",
+      "source_sha256": "5ef7632fff80805e590090d634b49227e33c27c1135cf4aee233328c09f6a335",
+      "archive_sha256": "5ef7632fff80805e590090d634b49227e33c27c1135cf4aee233328c09f6a335",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_483_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_483_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 6406122,
+      "source_mtime": "2026-11-04T04:18:52.055624+00:00",
+      "archive_mtime": "2026-11-04T04:18:52.055624+00:00",
+      "source_sha256": "7e8bb3c00b58eb0b30681e9c41f82727c55163c1a8ff9ea39187b5d589c4bb3c",
+      "archive_sha256": "7e8bb3c00b58eb0b30681e9c41f82727c55163c1a8ff9ea39187b5d589c4bb3c",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_484_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_484_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 6497586,
+      "source_mtime": "2026-11-04T04:18:51.434688+00:00",
+      "archive_mtime": "2026-11-04T04:18:51.434688+00:00",
+      "source_sha256": "d22228bb81fbb965a7e26427fc62f10b8b714b4160d7ec6fb6ee675bed219bb3",
+      "archive_sha256": "d22228bb81fbb965a7e26427fc62f10b8b714b4160d7ec6fb6ee675bed219bb3",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_485_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_485_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 6057427,
+      "source_mtime": "2026-11-04T04:18:49.785739+00:00",
+      "archive_mtime": "2026-11-04T04:18:49.785739+00:00",
+      "source_sha256": "4f7181b787baf75c2865f4e5400dfa5b2463003073bec0d6f43d5cc912114dd0",
+      "archive_sha256": "4f7181b787baf75c2865f4e5400dfa5b2463003073bec0d6f43d5cc912114dd0",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_486_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_486_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 4824593,
+      "source_mtime": "2026-11-04T04:18:52.966449+00:00",
+      "archive_mtime": "2026-11-04T04:18:52.966449+00:00",
+      "source_sha256": "ae83863300f56edb8c58c3f699763c433692ae5354828e1a28ad7d1f102f6d36",
+      "archive_sha256": "ae83863300f56edb8c58c3f699763c433692ae5354828e1a28ad7d1f102f6d36",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_487_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_487_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 8023287,
+      "source_mtime": "2026-11-04T04:18:50.730915+00:00",
+      "archive_mtime": "2026-11-04T04:18:50.730915+00:00",
+      "source_sha256": "96153b930bf3c762fad4070bfb4d6c3ea19384a2508b8bfbd786cac4af326bf4",
+      "archive_sha256": "96153b930bf3c762fad4070bfb4d6c3ea19384a2508b8bfbd786cac4af326bf4",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_488_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_488_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 8196614,
+      "source_mtime": "2026-11-04T04:18:52.837084+00:00",
+      "archive_mtime": "2026-11-04T04:18:52.837084+00:00",
+      "source_sha256": "a01f7833de9c9f09df5b0805ac24d43de209c640b26f0871ffba6d92345100a6",
+      "archive_sha256": "a01f7833de9c9f09df5b0805ac24d43de209c640b26f0871ffba6d92345100a6",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_489_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_489_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 5782245,
+      "source_mtime": "2026-11-04T04:18:50.563338+00:00",
+      "archive_mtime": "2026-11-04T04:18:50.563338+00:00",
+      "source_sha256": "b00a28d2ed71cb1ab36abbbfa0e0cd232808290cdd72529c8589177e5e36324c",
+      "archive_sha256": "b00a28d2ed71cb1ab36abbbfa0e0cd232808290cdd72529c8589177e5e36324c",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_490_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_490_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 6061165,
+      "source_mtime": "2026-11-04T04:18:51.300606+00:00",
+      "archive_mtime": "2026-11-04T04:18:51.300606+00:00",
+      "source_sha256": "f15307f6cf377384548212678cba966cf80e814fda983a30bb5c04d8878b4051",
+      "archive_sha256": "f15307f6cf377384548212678cba966cf80e814fda983a30bb5c04d8878b4051",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_491_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_491_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 6137023,
+      "source_mtime": "2026-11-04T04:18:49.793334+00:00",
+      "archive_mtime": "2026-11-04T04:18:49.793334+00:00",
+      "source_sha256": "428d571da6fb791685cc7c2421dc2f31ba99f08fff505e75fd384af698a2b5d0",
+      "archive_sha256": "428d571da6fb791685cc7c2421dc2f31ba99f08fff505e75fd384af698a2b5d0",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/微信图片_20261104121549_492_2.jpg",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/照片/微信图片_20261104121549_492_2.jpg",
+      "kind": "照片",
+      "status": "PASS",
+      "bytes": 7173116,
+      "source_mtime": "2026-11-04T04:18:52.375434+00:00",
+      "archive_mtime": "2026-11-04T04:18:52.375434+00:00",
+      "source_sha256": "8f294e6d0044d02a4f7fab090d30638a4275fcf2ece765e401c1c34370a0141a",
+      "archive_sha256": "8f294e6d0044d02a4f7fab090d30638a4275fcf2ece765e401c1c34370a0141a",
+      "byte_match": true,
+      "format": "JPEG",
+      "dimensions": [
+        5712,
+        4284
+      ],
+      "media_check": "PIL verify passed"
+    },
+    {
+      "source": "/Users/USER/Downloads/f6280a17b3e980f861ec8825ecf309cb.mp4",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/视频/f6280a17b3e980f861ec8825ecf309cb.mp4",
+      "kind": "视频",
+      "status": "PASS",
+      "bytes": 1377678,
+      "source_mtime": "2026-11-04T04:15:59.638936+00:00",
+      "archive_mtime": "2026-11-04T04:15:59.638936+00:00",
+      "source_sha256": "5e306bbe151d609de510bf070f29578c0f66537c3e5a3a360f478c6c6cb06f45",
+      "archive_sha256": "5e306bbe151d609de510bf070f29578c0f66537c3e5a3a360f478c6c6cb06f45",
+      "byte_match": true,
+      "media_check": "ffmpeg 读取到视频元数据；未连续播放",
+      "duration": "00:00:21.30",
+      "video_stream": "Stream #0:0[0x1](und): Video: hevc (Main) (hvc1 / 0x31637668), yuv420p(tv, bt709), 720x1280, 464 kb/s, 30 fps, 30 tbr, 600 tbn (default)",
+      "audio_stream": "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 46 kb/s (default)"
+    },
+    {
+      "source": "/Users/USER/Downloads/283d9fa86ca4642e5cb8557cd6e50d66.mp4",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/视频/283d9fa86ca4642e5cb8557cd6e50d66.mp4",
+      "kind": "视频",
+      "status": "PASS",
+      "bytes": 638155,
+      "source_mtime": "2026-11-04T04:15:59.312078+00:00",
+      "archive_mtime": "2026-11-04T04:15:59.312078+00:00",
+      "source_sha256": "d03f7ba449529475034b179c7486e580dfdcdf8c4bdfa9c4d880370660523235",
+      "archive_sha256": "d03f7ba449529475034b179c7486e580dfdcdf8c4bdfa9c4d880370660523235",
+      "byte_match": true,
+      "media_check": "ffmpeg 读取到视频元数据；未连续播放",
+      "duration": "00:00:10.30",
+      "video_stream": "Stream #0:0[0x1](und): Video: hevc (Main) (hvc1 / 0x31637668), yuv420p(tv, bt709), 720x1280, 440 kb/s, 30 fps, 30 tbr, 600 tbn (default)",
+      "audio_stream": "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 48 kb/s (default)"
+    },
+    {
+      "source": "/Users/USER/Downloads/400ef31dcf6b0524837a0a091910a567.mp4",
+      "archive": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍原件20261104/视频/400ef31dcf6b0524837a0a091910a567.mp4",
+      "kind": "视频",
+      "status": "PASS",
+      "bytes": 359213,
+      "source_mtime": "2026-11-04T04:15:59.224347+00:00",
+      "archive_mtime": "2026-11-04T04:15:59.224347+00:00",
+      "source_sha256": "1ab7d67507bbb7dcf73ea28a3197b5ade3428bf636ab6060cfb344be1a1c1a72",
+      "archive_sha256": "1ab7d67507bbb7dcf73ea28a3197b5ade3428bf636ab6060cfb344be1a1c1a72",
+      "byte_match": true,
+      "media_check": "ffmpeg 读取到视频元数据；未连续播放",
+      "duration": "00:00:03.63",
+      "video_stream": "Stream #0:0[0x1](und): Video: hevc (Main) (hvc1 / 0x31637668), yuv420p(tv, bt709), 720x1280, 735 kb/s, 30 fps, 30 tbr, 600 tbn (default)",
+      "audio_stream": "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, mono, fltp, 46 kb/s (default)"
+    }
+  ]
+}

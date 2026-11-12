@@ -1,0 +1,18 @@
+{
+  "before": {
+    "side_ROI_RGB250_fraction": 0.23220869565217392,
+    "side_ROI_median_RGB": [
+      89.0,
+      92.0,
+      97.0
+    ]
+  },
+  "after": {
+    "side_ROI_RGB250_fraction": 0.0,
+    "side_ROI_median_RGB": [
+      74.0,
+      74.0,
+      72.0
+    ]
+  }
+}

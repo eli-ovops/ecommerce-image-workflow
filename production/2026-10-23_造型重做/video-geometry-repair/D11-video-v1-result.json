@@ -1,0 +1,11 @@
+{
+  "native": "/Users/USER/.codex/generated_images/01a16319-d848-71d0-95e1-72970644c800/exec-93d5bc68-a9b6-4b8f-a8f5-233c90cd756d.png",
+  "saved": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/D11-video-v1.png",
+  "sha256": "dd31bf3b60469f9a9eaef2f60de0d545ad360e5208efd2091f25e0309a1eae38",
+  "dimensions": [
+    899,
+    1749
+  ],
+  "status": "REJECTED_PERSON_MESH_AND_MODE_KEY",
+  "tool": "builtin image_gen"
+}

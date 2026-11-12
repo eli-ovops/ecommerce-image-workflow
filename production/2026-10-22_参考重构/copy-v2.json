@@ -1,0 +1,1073 @@
+{
+  "diagnosis": "A：依74参考映射的实际32图面任务及用户确认事实重构；短文字分层服务不同视觉任务，不统一套用标题加三标签。",
+  "date": "2026-10-22",
+  "status": "文案已备，需与实际成图配对核验，不等于风格/商品或用户验收通过",
+  "route": {
+    "target_model": "gpt-6.1-sol",
+    "target_effort": "medium",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN"
+  },
+  "sources": [
+    "production/2026-10-22_参考重构/reference-map.md",
+    "production/2026-10-22_参考重构/商品事实与替代表达.md",
+    "products/主推花洒/商品事实与制图要求.md",
+    "production/2026-10-22_制作简报.md"
+  ],
+  "merges": {
+    "D02": "D01",
+    "D09": "D11",
+    "D10": "D07",
+    "V07": "V01"
+  },
+  "usage_rules": [
+    "各blocks为分区文字，不能无差别平铺到同一画面；intentional_blank明确不渲染任何字。",
+    "M01无字；K01—03只有颜色与单花洒；D01下段与D11人物停顿不补字。",
+    "水型名称必须与已核对的实际水型配对，01—03只是阅读编号，不表示切档循环顺序。",
+    "文字少的静物/人物页保留视觉停顿，不以新增功效句填满。",
+    "不写材质、尺寸、接口、品牌证件、性能数字、售后和未确认用途。"
+  ],
+  "facts_gaps": [
+    "SIL007—012逐张三水型对应待制图Owner核对；不足以判定时具体图片暂不挂档位名。",
+    "未独立测试连续伸缩动作与清垢效果；除垢文案仅用户说明机制与静态按压状态。",
+    "黑色与枪灰色为干态外观证据，SKU页不作各色水流或除垢实测声明。"
+  ],
+  "assets": [
+    {
+      "id": "M01",
+      "reference_ids": [
+        "A038"
+      ],
+      "visual_task": "无字白底完整单品",
+      "headline": "",
+      "subline": "",
+      "blocks": [],
+      "facts_basis": "商品事实文件“银色实拍中观察到的外观”：SIL001—004覆盖正背与两侧；制图按原图核对比例及外部形状，不据反光推材质。",
+      "layout_notes": "所有文字层为空；不添加角标。"
+    },
+    {
+      "id": "M02",
+      "reference_ids": [
+        "R001",
+        "R009"
+      ],
+      "visual_task": "棕金斜托盘广告，分层底标题与局部窗",
+      "headline": "",
+      "subline": "",
+      "blocks": [
+        {
+          "role": "title_band",
+          "text": "三档出水",
+          "position": "底部主标题带"
+        },
+        {
+          "role": "secondary_band",
+          "text": "手动按压除垢",
+          "position": "底部次标题带"
+        },
+        {
+          "role": "detail_label",
+          "text": "中央红钮",
+          "position": "红钮小窗"
+        },
+        {
+          "role": "detail_label",
+          "text": "下方切档",
+          "position": "下键小窗"
+        }
+      ],
+      "facts_basis": "用户确认常规出水、喷雾出水、混合出水及下方按键切档；SIL007—012具体档位对应须由制作Owner核对，不宣称定量性能。 用户确认中央红色按钮手动按压，短小红色塑料针辅助清理出水孔水垢；SIL005/006为未按和按住局部证据记录，不能作为清垢效果前后测试。",
+      "layout_notes": "标题带承担两级阅读；不另加促销角贴。"
+    },
+    {
+      "id": "M03",
+      "reference_ids": [
+        "A034"
+      ],
+      "visual_task": "冷蓝正背双主体及除垢小窗",
+      "headline": "",
+      "subline": "",
+      "blocks": [
+        {
+          "role": "primary_strip",
+          "text": "三档出水",
+          "position": ""
+        },
+        {
+          "role": "secondary_strip",
+          "text": "按压红钮 辅助除垢",
+          "position": ""
+        },
+        {
+          "role": "inset_label",
+          "text": "手动按压",
+          "position": ""
+        }
+      ],
+      "facts_basis": "商品事实文件“银色实拍中观察到的外观”：SIL001—004覆盖正背与两侧；制图按原图核对比例及外部形状，不据反光推材质。 用户确认常规出水、喷雾出水、混合出水及下方按键切档；SIL007—012具体档位对应须由制作Owner核对，不宣称定量性能。 用户确认中央红色按钮手动按压，短小红色塑料针辅助清理出水孔水垢；SIL005/006为未按和按住局部证据记录，不能作为清垢效果前后测试。",
+      "layout_notes": "彩色底条保留参考层级；正背不标为两款。"
+    },
+    {
+      "id": "M04",
+      "reference_ids": [
+        "R002",
+        "A036"
+      ],
+      "visual_task": "大手持下键动作与左侧三小水型窗",
+      "headline": "按下方按键切档",
+      "subline": "",
+      "blocks": [
+        {
+          "role": "window_label",
+          "text": "常规出水",
+          "position": ""
+        },
+        {
+          "role": "window_label",
+          "text": "喷雾出水",
+          "position": ""
+        },
+        {
+          "role": "window_label",
+          "text": "混合出水",
+          "position": ""
+        }
+      ],
+      "facts_basis": "用户确认常规出水、喷雾出水、混合出水及下方按键切档；SIL007—012具体档位对应须由制作Owner核对，不宣称定量性能。",
+      "layout_notes": "水型名各入对应小窗，大主体不再叠三标签。"
+    },
+    {
+      "id": "M05",
+      "reference_ids": [
+        "A035"
+      ],
+      "visual_task": "大面板按红钮与右侧操作列",
+      "headline": "按压中央红钮",
+      "subline": "短小红针辅助清理出水孔",
+      "blocks": [
+        {
+          "role": "action_label",
+          "text": "手动按压",
+          "position": ""
+        },
+        {
+          "role": "location_label",
+          "text": "中央红钮",
+          "position": ""
+        },
+        {
+          "role": "mechanism_label",
+          "text": "短小红针",
+          "position": ""
+        }
+      ],
+      "facts_basis": "用户确认中央红色按钮手动按压，短小红色塑料针辅助清理出水孔水垢；SIL005/006为未按和按住局部证据记录，不能作为清垢效果前后测试。",
+      "layout_notes": "三词对应图示位置，不使用效果/材料图标。"
+    },
+    {
+      "id": "M06",
+      "reference_ids": [
+        "R008"
+      ],
+      "visual_task": "左人物情境与右白底所售单品",
+      "headline": "",
+      "subline": "",
+      "blocks": [
+        {
+          "role": "sku_title",
+          "text": "银色",
+          "position": "右白栏"
+        },
+        {
+          "role": "sku_subtitle",
+          "text": "单花洒",
+          "position": "右白栏"
+        }
+      ],
+      "facts_basis": "制作简报确认M001合成人物及手持场景授权；人物场景只作情境，不是真人试用或性能证据。 用户确认银色、黑色、枪灰色；分别依银色12张、BLK001—005、GMT001—006本色实拍还原；实际销售为单花洒。",
+      "layout_notes": "左侧场景无字；右侧只做单品对应。"
+    },
+    {
+      "id": "M07",
+      "reference_ids": [
+        "R004"
+      ],
+      "visual_task": "黑金大头截边与真实水束",
+      "headline": "",
+      "subline": "",
+      "blocks": [
+        {
+          "role": "title_band",
+          "text": "三档出水",
+          "position": "底部红金条"
+        },
+        {
+          "role": "small_caption",
+          "text": "下方按键切换",
+          "position": "标题带次级"
+        }
+      ],
+      "facts_basis": "用户确认常规出水、喷雾出水、混合出水及下方按键切档；SIL007—012具体档位对应须由制作Owner核对，不宣称定量性能。",
+      "layout_notes": "以水流与硬高光为主；不加内部结构说明。"
+    },
+    {
+      "id": "M08",
+      "reference_ids": [
+        "R012"
+      ],
+      "visual_task": "白底三竖卡详情导航",
+      "headline": "看清花洒的三处要点",
+      "subline": "",
+      "blocks": [
+        {
+          "role": "card_title",
+          "text": "三档出水",
+          "position": "卡1"
+        },
+        {
+          "role": "card_caption",
+          "text": "常规 · 喷雾 · 混合",
+          "position": "卡1"
+        },
+        {
+          "role": "card_title",
+          "text": "下方按键",
+          "position": "卡2"
+        },
+        {
+          "role": "card_caption",
+          "text": "切换出水档位",
+          "position": "卡2"
+        },
+        {
+          "role": "card_title",
+          "text": "中央红钮",
+          "position": "卡3"
+        },
+        {
+          "role": "card_caption",
+          "text": "手动按压辅助除垢",
+          "position": "卡3"
+        }
+      ],
+      "facts_basis": "用户确认常规出水、喷雾出水、混合出水及下方按键切档；SIL007—012具体档位对应须由制作Owner核对，不宣称定量性能。 用户确认中央红色按钮手动按压，短小红色塑料针辅助清理出水孔水垢；SIL005/006为未按和按住局部证据记录，不能作为清垢效果前后测试。",
+      "layout_notes": "这是索引卡，不加入优于其他商品的优势标题。"
+    },
+    {
+      "id": "K01",
+      "reference_ids": [
+        "A002",
+        "A005"
+      ],
+      "visual_task": "单色SKU识别",
+      "headline": "银色",
+      "subline": "单花洒",
+      "blocks": [],
+      "facts_basis": "用户确认银色、黑色、枪灰色；分别依银色12张、BLK001—005、GMT001—006本色实拍还原；实际销售为单花洒。",
+      "layout_notes": "仅这两处文字；无功能标签或参数角贴。"
+    },
+    {
+      "id": "K02",
+      "reference_ids": [
+        "A003"
+      ],
+      "visual_task": "单色SKU识别",
+      "headline": "黑色",
+      "subline": "单花洒",
+      "blocks": [],
+      "facts_basis": "用户确认银色、黑色、枪灰色；分别依银色12张、BLK001—005、GMT001—006本色实拍还原；实际销售为单花洒。",
+      "layout_notes": "仅这两处文字；无功能标签或参数角贴。"
+    },
+    {
+      "id": "K03",
+      "reference_ids": [
+        "A004"
+      ],
+      "visual_task": "单色SKU识别",
+      "headline": "枪灰色",
+      "subline": "单花洒",
+      "blocks": [],
+      "facts_basis": "用户确认银色、黑色、枪灰色；分别依银色12张、BLK001—005、GMT001—006本色实拍还原；实际销售为单花洒。",
+      "layout_notes": "仅这两处文字；无功能标签或参数角贴。"
+    },
+    {
+      "id": "D01",
+      "reference_ids": [
+        "A006",
+        "A007"
+      ],
+      "visual_task": "上时尚越框首屏，下人物横幅停顿",
+      "headline": "",
+      "subline": "",
+      "blocks": [
+        {
+          "role": "headline_line_1",
+          "text": "三档出水",
+          "position": "上段"
+        },
+        {
+          "role": "headline_line_2",
+          "text": "银色手持花洒",
+          "position": "上段"
+        },
+        {
+          "role": "support",
+          "text": "下方按键切换档位",
+          "position": "上段"
+        },
+        {
+          "role": "intentional_blank",
+          "text": "",
+          "position": "下段横幅人物"
+        }
+      ],
+      "facts_basis": "用户确认常规出水、喷雾出水、混合出水及下方按键切档；SIL007—012具体档位对应须由制作Owner核对，不宣称定量性能。 制作简报确认M001合成人物及手持场景授权；人物场景只作情境，不是真人试用或性能证据。",
+      "layout_notes": "D02已合并；下段不放短文与标签，保留低密度人物阅读。"
+    },
+    {
+      "id": "D03",
+      "reference_ids": [
+        "A008"
+      ],
+      "visual_task": "错落三色相册",
+      "headline": "三种颜色 各有外观",
+      "subline": "",
+      "blocks": [
+        {
+          "role": "color_label",
+          "text": "银色",
+          "position": ""
+        },
+        {
+          "role": "color_label",
+          "text": "黑色",
+          "position": ""
+        },
+        {
+          "role": "color_label",
+          "text": "枪灰色",
+          "position": ""
+        }
+      ],
+      "facts_basis": "用户确认银色、黑色、枪灰色；分别依银色12张、BLK001—005、GMT001—006本色实拍还原；实际销售为单花洒。",
+      "layout_notes": "颜色名沿对应单品分布，勿新增社交数据。"
+    },
+    {
+      "id": "D04",
+      "reference_ids": [
+        "A009",
+        "A010"
+      ],
+      "visual_task": "浴室前后景与下部短细节带",
+      "headline": "日常淋浴 手持呈现",
+      "subline": "",
+      "blocks": [],
+      "facts_basis": "制作简报确认M001合成人物及手持场景授权；人物场景只作情境，不是真人试用或性能证据。 商品事实文件“银色实拍中观察到的外观”：SIL001—004覆盖正背与两侧；制图按原图核对比例及外部形状，不据反光推材质。",
+      "layout_notes": "副文为空；下方银侧壁/手部水滴短横幅完全无字，不写肤感功效。"
+    },
+    {
+      "id": "D05",
+      "reference_ids": [
+        "A011",
+        "R017"
+      ],
+      "visual_task": "不等大五格索引",
+      "headline": "从水型看到外观",
+      "subline": "",
+      "blocks": [
+        {
+          "role": "large_card",
+          "text": "常规出水",
+          "position": ""
+        },
+        {
+          "role": "small_card",
+          "text": "出水孔细节",
+          "position": ""
+        },
+        {
+          "role": "small_card",
+          "text": "中央红钮",
+          "position": ""
+        },
+        {
+          "role": "bottom_card",
+          "text": "下方切档按键",
+          "position": ""
+        },
+        {
+          "role": "bottom_card",
+          "text": "侧背外观",
+          "position": ""
+        }
+      ],
+      "facts_basis": "商品事实文件“银色实拍中观察到的外观”：SIL001—004覆盖正背与两侧；制图按原图核对比例及外部形状，不据反光推材质。 用户确认常规出水、喷雾出水、混合出水及下方按键切档；SIL007—012具体档位对应须由制作Owner核对，不宣称定量性能。 用户确认中央红色按钮手动按压，短小红色塑料针辅助清理出水孔水垢；SIL005/006为未按和按住局部证据记录，不能作为清垢效果前后测试。",
+      "layout_notes": "大卡水型标签须先核对；五格只放名称，不为每格补功效句。"
+    },
+    {
+      "id": "D06",
+      "reference_ids": [
+        "A012",
+        "A013",
+        "R007"
+      ],
+      "visual_task": "出水起点微距与低角度侧壁短幅",
+      "headline": "近看出水的起点",
+      "subline": "",
+      "blocks": [
+        {
+          "role": "mode_index",
+          "text": "常规出水",
+          "position": ""
+        },
+        {
+          "role": "mode_index",
+          "text": "喷雾出水",
+          "position": ""
+        },
+        {
+          "role": "mode_index",
+          "text": "混合出水",
+          "position": ""
+        },
+        {
+          "role": "intentional_blank",
+          "text": "",
+          "position": "底部低机位短幅"
+        }
+      ],
+      "facts_basis": "用户确认常规出水、喷雾出水、混合出水及下方按键切档；SIL007—012具体档位对应须由制作Owner核对，不宣称定量性能。 商品事实文件“银色实拍中观察到的外观”：SIL001—004覆盖正背与两侧；制图按原图核对比例及外部形状，不据反光推材质。",
+      "layout_notes": "三档作章节索引，不能将单幅未标定水流同时贴成三档。无比较线数字。"
+    },
+    {
+      "id": "D07",
+      "reference_ids": [
+        "A014",
+        "A015",
+        "R025",
+        "A020",
+        "R020",
+        "R021",
+        "R005"
+      ],
+      "visual_task": "大头手持定位及两按钮分工双卡",
+      "headline": "切档按键 在下方",
+      "subline": "",
+      "blocks": [
+        {
+          "role": "pointer_label",
+          "text": "下方按键",
+          "position": "大图仅指下键"
+        },
+        {
+          "role": "mode_list",
+          "text": "常规出水 / 喷雾出水 / 混合出水",
+          "position": "大图旁列"
+        },
+        {
+          "role": "dual_card_title",
+          "text": "下方按键",
+          "position": "双卡左"
+        },
+        {
+          "role": "dual_card_text",
+          "text": "切换出水档位",
+          "position": "双卡左"
+        },
+        {
+          "role": "dual_card_title",
+          "text": "中央红钮",
+          "position": "双卡右"
+        },
+        {
+          "role": "dual_card_text",
+          "text": "手动按压辅助除垢",
+          "position": "双卡右"
+        }
+      ],
+      "facts_basis": "用户确认常规出水、喷雾出水、混合出水及下方按键切档；SIL007—012具体档位对应须由制作Owner核对，不宣称定量性能。 用户确认中央红色按钮手动按压，短小红色塑料针辅助清理出水孔水垢；SIL005/006为未按和按住局部证据记录，不能作为清垢效果前后测试。",
+      "layout_notes": "D10并入此页；双卡等权展示不同用途，不用VS，不再重复三档标签。"
+    },
+    {
+      "id": "D08",
+      "reference_ids": [
+        "A016",
+        "A017",
+        "A018",
+        "R023"
+      ],
+      "visual_task": "黑卡逆光三水型与蓝色过渡",
+      "headline": "",
+      "subline": "",
+      "blocks": [
+        {
+          "role": "black_card",
+          "text": "01 常规出水",
+          "position": ""
+        },
+        {
+          "role": "black_card",
+          "text": "02 喷雾出水",
+          "position": ""
+        },
+        {
+          "role": "black_card",
+          "text": "03 混合出水",
+          "position": ""
+        },
+        {
+          "role": "bridge_title",
+          "text": "下方按键 切换三档",
+          "position": "底部浅蓝短过渡"
+        }
+      ],
+      "facts_basis": "用户确认常规出水、喷雾出水、混合出水及下方按键切档；SIL007—012具体档位对应须由制作Owner核对，不宣称定量性能。",
+      "layout_notes": "01—03为展示编号，不是未经核实的按键循环顺序；不写水型功效。"
+    },
+    {
+      "id": "D11",
+      "reference_ids": [
+        "A021",
+        "R026",
+        "A019",
+        "R019"
+      ],
+      "visual_task": "上段明亮回眸主景，下段无字举臂人物停顿",
+      "headline": "",
+      "subline": "",
+      "blocks": [
+        {
+          "role": "intentional_blank",
+          "text": "",
+          "position": "下段无字人物停顿"
+        },
+        {
+          "role": "intentional_blank",
+          "text": "",
+          "position": "上段明亮回眸"
+        }
+      ],
+      "facts_basis": "制作简报确认M001合成人物及手持场景授权；人物场景只作情境，不是真人试用或性能证据。 用户确认常规出水、喷雾出水、混合出水及下方按键切档；SIL007—012具体档位对应须由制作Owner核对，不宣称定量性能。",
+      "layout_notes": "D09并入下段；上51%为A021/R026回眸主景，下49%为A019/R019无字人物停顿；整页允许完全无字，保持两段姿态构图不同。不能画顶喷套装。"
+    },
+    {
+      "id": "D12",
+      "reference_ids": [
+        "A022"
+      ],
+      "visual_task": "正背同尺度双列外观",
+      "headline": "正面与背面",
+      "subline": "",
+      "blocks": [
+        {
+          "role": "column_title",
+          "text": "正面",
+          "position": ""
+        },
+        {
+          "role": "column_caption",
+          "text": "黑色面板 · 中央红钮",
+          "position": ""
+        },
+        {
+          "role": "column_title",
+          "text": "背面",
+          "position": ""
+        },
+        {
+          "role": "column_caption",
+          "text": "银色背壳轮廓",
+          "position": ""
+        }
+      ],
+      "facts_basis": "商品事实文件“银色实拍中观察到的外观”：SIL001—004覆盖正背与两侧；制图按原图核对比例及外部形状，不据反光推材质。",
+      "layout_notes": "两列同款同尺度、等亮度；不作尺寸或优劣对比。"
+    },
+    {
+      "id": "D13",
+      "reference_ids": [
+        "A023",
+        "A037"
+      ],
+      "visual_task": "右完整单品与左外部部位放大卡",
+      "headline": "外部细节 逐处看清",
+      "subline": "",
+      "blocks": [
+        {
+          "role": "detail_label",
+          "text": "出水孔",
+          "position": ""
+        },
+        {
+          "role": "detail_label",
+          "text": "中央红色按钮",
+          "position": ""
+        },
+        {
+          "role": "detail_label",
+          "text": "下方切档按键",
+          "position": ""
+        }
+      ],
+      "facts_basis": "商品事实文件“银色实拍中观察到的外观”：SIL001—004覆盖正背与两侧；制图按原图核对比例及外部形状，不据反光推材质。 用户确认常规出水、喷雾出水、混合出水及下方按键切档；SIL007—012具体档位对应须由制作Owner核对，不宣称定量性能。 用户确认中央红色按钮手动按压，短小红色塑料针辅助清理出水孔水垢；SIL005/006为未按和按住局部证据记录，不能作为清垢效果前后测试。",
+      "layout_notes": "三名称沿细线连接真实外部位置；不写分层、过滤或内部名称。"
+    },
+    {
+      "id": "D14",
+      "reference_ids": [
+        "A024",
+        "A025",
+        "A026"
+      ],
+      "visual_task": "三步操作与两种按压状态",
+      "headline": "手动按压 辅助除垢",
+      "subline": "",
+      "blocks": [
+        {
+          "role": "step",
+          "text": "01 找到中央红钮",
+          "position": ""
+        },
+        {
+          "role": "step",
+          "text": "02 用手指按住",
+          "position": ""
+        },
+        {
+          "role": "step",
+          "text": "03 观察对应孔位",
+          "position": ""
+        },
+        {
+          "role": "state_label",
+          "text": "未按压",
+          "position": ""
+        },
+        {
+          "role": "state_label",
+          "text": "按住状态",
+          "position": ""
+        },
+        {
+          "role": "mechanism_caption",
+          "text": "按住红钮时，短小红针从对应出水孔伸出",
+          "position": ""
+        }
+      ],
+      "facts_basis": "用户确认中央红色按钮手动按压，短小红色塑料针辅助清理出水孔水垢；SIL005/006为未按和按住局部证据记录，不能作为清垢效果前后测试。",
+      "layout_notes": "两状态仅说明按压，不写清洁前后；不补释放回缩步骤或全部孔统一伸出。"
+    },
+    {
+      "id": "D15",
+      "reference_ids": [
+        "A027"
+      ],
+      "visual_task": "背面大景及侧壁浮窗",
+      "headline": "换个角度 看清外观",
+      "subline": "",
+      "blocks": [
+        {
+          "role": "main_label",
+          "text": "背面整体",
+          "position": ""
+        },
+        {
+          "role": "inset_label",
+          "text": "侧壁轮廓",
+          "position": ""
+        },
+        {
+          "role": "detail_label",
+          "text": "头部曲面",
+          "position": ""
+        },
+        {
+          "role": "detail_label",
+          "text": "头柄衔接",
+          "position": ""
+        },
+        {
+          "role": "detail_label",
+          "text": "银色表面",
+          "position": ""
+        }
+      ],
+      "facts_basis": "商品事实文件“银色实拍中观察到的外观”：SIL001—004覆盖正背与两侧；制图按原图核对比例及外部形状，不据反光推材质。",
+      "layout_notes": "仅依A027呈现冷蓝几何台阶上的背面大景与侧壁浮窗，不沿用R031金水面。已有细节文字仅在实际对应局部出现，不要求新增三窗；不称一体成型或金属工艺。"
+    },
+    {
+      "id": "D16",
+      "reference_ids": [
+        "A028",
+        "R032",
+        "R006"
+      ],
+      "visual_task": "大手持切档与步骤小窗",
+      "headline": "切换出水 看这里",
+      "subline": "",
+      "blocks": [
+        {
+          "role": "step",
+          "text": "找到下方按键",
+          "position": ""
+        },
+        {
+          "role": "step",
+          "text": "按下切档按键",
+          "position": ""
+        },
+        {
+          "role": "step",
+          "text": "选择出水档位",
+          "position": ""
+        },
+        {
+          "role": "small_window",
+          "text": "常规 / 喷雾 / 混合",
+          "position": ""
+        }
+      ],
+      "facts_basis": "用户确认常规出水、喷雾出水、混合出水及下方按键切档；SIL007—012具体档位对应须由制作Owner核对，不宣称定量性能。",
+      "layout_notes": "步骤讲操作位置，不写一次按下对应哪档、不暗示第四档或冲厕用途。"
+    },
+    {
+      "id": "D17",
+      "reference_ids": [
+        "A029",
+        "A030",
+        "A031"
+      ],
+      "visual_task": "斜握柄与完整头部石材静物",
+      "headline": "",
+      "subline": "",
+      "blocks": [
+        {
+          "role": "large_word",
+          "text": "手持",
+          "position": ""
+        },
+        {
+          "role": "large_word",
+          "text": "下方切档",
+          "position": ""
+        },
+        {
+          "role": "large_word",
+          "text": "中央按压除垢",
+          "position": ""
+        },
+        {
+          "role": "small_caption",
+          "text": "银色手柄外观",
+          "position": ""
+        },
+        {
+          "role": "intentional_blank",
+          "text": "",
+          "position": "底部完整头部静置段"
+        }
+      ],
+      "facts_basis": "商品事实文件“银色实拍中观察到的外观”：SIL001—004覆盖正背与两侧；制图按原图核对比例及外部形状，不据反光推材质。 用户确认常规出水、喷雾出水、混合出水及下方按键切档；SIL007—012具体档位对应须由制作Owner核对，不宣称定量性能。 用户确认中央红色按钮手动按压，短小红色塑料针辅助清理出水孔水垢；SIL005/006为未按和按住局部证据记录，不能作为清垢效果前后测试。",
+      "layout_notes": "左三条大字取代测试数字；下段不再加标题，石材静物不表现撞击。"
+    },
+    {
+      "id": "D18",
+      "reference_ids": [
+        "A032",
+        "A033",
+        "R034"
+      ],
+      "visual_task": "白底完整单品与2列3行已知信息",
+      "headline": "商品信息",
+      "subline": "",
+      "blocks": [
+        {
+          "role": "part_label",
+          "text": "中央红钮",
+          "position": ""
+        },
+        {
+          "role": "part_label",
+          "text": "下方切档按键",
+          "position": ""
+        },
+        {
+          "role": "info_cell",
+          "text": "名称｜三档手持花洒",
+          "position": ""
+        },
+        {
+          "role": "info_cell",
+          "text": "颜色｜银色 / 黑色 / 枪灰色",
+          "position": ""
+        },
+        {
+          "role": "info_cell",
+          "text": "出水档位｜常规 / 喷雾 / 混合",
+          "position": ""
+        },
+        {
+          "role": "info_cell",
+          "text": "下方按键｜切换出水档位",
+          "position": ""
+        },
+        {
+          "role": "info_cell",
+          "text": "中央红钮｜手动按压辅助除垢",
+          "position": ""
+        },
+        {
+          "role": "info_cell",
+          "text": "销售范围｜单花洒，不含软管和支架",
+          "position": ""
+        }
+      ],
+      "facts_basis": "用户确认银色、黑色、枪灰色；分别依银色12张、BLK001—005、GMT001—006本色实拍还原；实际销售为单花洒。 用户确认常规出水、喷雾出水、混合出水及下方按键切档；SIL007—012具体档位对应须由制作Owner核对，不宣称定量性能。 用户确认中央红色按钮手动按压，短小红色塑料针辅助清理出水孔水垢；SIL005/006为未按和按住局部证据记录，不能作为清垢效果前后测试。",
+      "layout_notes": "恰好六项信息，名称为描述名而非注册型号；部位线无测量端点和尺寸数字。"
+    },
+    {
+      "id": "V01",
+      "reference_ids": [
+        "R003",
+        "R013",
+        "R015",
+        "R018",
+        "R014",
+        "R030"
+      ],
+      "visual_task": "暖木人物水流、细节窗及短章节桥",
+      "headline": "",
+      "subline": "",
+      "blocks": [
+        {
+          "role": "scene_heading",
+          "text": "日常淋浴 手持呈现",
+          "position": "上部场景"
+        },
+        {
+          "role": "detail_label",
+          "text": "中央红钮",
+          "position": "下部小窗1"
+        },
+        {
+          "role": "detail_label",
+          "text": "下方按键",
+          "position": "下部小窗2"
+        },
+        {
+          "role": "detail_label",
+          "text": "侧面轮廓",
+          "position": "下部小窗3"
+        },
+        {
+          "role": "bridge_title",
+          "text": "三档出水",
+          "position": "合并V07短桥"
+        },
+        {
+          "role": "bridge_pill",
+          "text": "下方切档",
+          "position": "短桥"
+        },
+        {
+          "role": "bridge_pill",
+          "text": "中央按压除垢",
+          "position": "短桥"
+        }
+      ],
+      "facts_basis": "制作简报确认M001合成人物及手持场景授权；人物场景只作情境，不是真人试用或性能证据。 商品事实文件“银色实拍中观察到的外观”：SIL001—004覆盖正背与两侧；制图按原图核对比例及外部形状，不据反光推材质。 用户确认常规出水、喷雾出水、混合出水及下方按键切档；SIL007—012具体档位对应须由制作Owner核对，不宣称定量性能。 用户确认中央红色按钮手动按压，短小红色塑料针辅助清理出水孔水垢；SIL005/006为未按和按住局部证据记录，不能作为清垢效果前后测试。",
+      "layout_notes": "V07并入此页；场景和短桥是不同段落，不能把所有文字堆到人物身边。"
+    },
+    {
+      "id": "V02",
+      "reference_ids": [
+        "R022"
+      ],
+      "visual_task": "干态人物时尚页与前景商品",
+      "headline": "",
+      "subline": "",
+      "blocks": [
+        {
+          "role": "oversize_title",
+          "text": "下方切档",
+          "position": "左侧大棕字"
+        },
+        {
+          "role": "support",
+          "text": "按键靠近手柄",
+          "position": ""
+        }
+      ],
+      "facts_basis": "制作简报确认M001合成人物及手持场景授权；人物场景只作情境，不是真人试用或性能证据。 用户确认常规出水、喷雾出水、混合出水及下方按键切档；SIL007—012具体档位对应须由制作Owner核对，不宣称定量性能。",
+      "layout_notes": "不再加三档标签；人物托腮与前景商品保留干态时尚节奏。"
+    },
+    {
+      "id": "V03",
+      "reference_ids": [
+        "R027",
+        "R029"
+      ],
+      "visual_task": "暗底完整正侧背错落曲面",
+      "headline": "从正面 看到侧背",
+      "subline": "",
+      "blocks": [
+        {
+          "role": "view_label",
+          "text": "正面",
+          "position": ""
+        },
+        {
+          "role": "view_label",
+          "text": "侧面",
+          "position": ""
+        },
+        {
+          "role": "view_label",
+          "text": "背面",
+          "position": ""
+        }
+      ],
+      "facts_basis": "商品事实文件“银色实拍中观察到的外观”：SIL001—004覆盖正背与两侧；制图按原图核对比例及外部形状，不据反光推材质。",
+      "layout_notes": "引线仅标外观视角；禁止材料层名与内部结构。"
+    },
+    {
+      "id": "V04",
+      "reference_ids": [
+        "R024",
+        "R028"
+      ],
+      "visual_task": "沙纹面板按压特写及底部短操作卡",
+      "headline": "中央红钮 手动按压",
+      "subline": "",
+      "blocks": [
+        {
+          "role": "step_card",
+          "text": "找到红钮",
+          "position": ""
+        },
+        {
+          "role": "step_card",
+          "text": "手指按住",
+          "position": ""
+        },
+        {
+          "role": "step_card",
+          "text": "观察孔位",
+          "position": ""
+        },
+        {
+          "role": "mechanism_caption",
+          "text": "短小红针辅助清理出水孔",
+          "position": ""
+        }
+      ],
+      "facts_basis": "用户确认中央红色按钮手动按压，短小红色塑料针辅助清理出水孔水垢；SIL005/006为未按和按住局部证据记录，不能作为清垢效果前后测试。",
+      "layout_notes": "沙纹只是背景；无污垢恐吓、病菌或清除效果前后。"
+    },
+    {
+      "id": "V05",
+      "reference_ids": [
+        "R033",
+        "R031"
+      ],
+      "visual_task": "岩石舞台完整大单品，局部金水面倒影与下三细节窗",
+      "headline": "银色手持花洒",
+      "subline": "",
+      "blocks": [
+        {
+          "role": "part_label",
+          "text": "中央红钮",
+          "position": ""
+        },
+        {
+          "role": "part_label",
+          "text": "下方按键",
+          "position": ""
+        }
+      ],
+      "facts_basis": "商品事实文件“银色实拍中观察到的外观”：SIL001—004覆盖正背与两侧；制图按原图核对比例及外部形状，不据反光推材质。 用户确认常规出水、喷雾出水、混合出水及下方按键切档；SIL007—012具体档位对应须由制作Owner核对，不宣称定量性能。 用户确认中央红色按钮手动按压，短小红色塑料针辅助清理出水孔水垢；SIL005/006为未按和按住局部证据记录，不能作为清垢效果前后测试。",
+      "layout_notes": "R033岩石舞台为主，R031局部金水面倒影及下三细节窗为补充，不含软管。主标题短，已有部位标注必要时才出现；细节窗可无字，不新增文案。无尺寸线、工艺或耐摔承诺。"
+    },
+    {
+      "id": "V06",
+      "reference_ids": [
+        "R010",
+        "R011",
+        "R016",
+        "R035"
+      ],
+      "visual_task": "夜蓝空间、白底六格图鉴及买前问答",
+      "headline": "",
+      "subline": "",
+      "blocks": [
+        {
+          "role": "section_title",
+          "text": "外观图鉴",
+          "position": "白底图鉴上方"
+        },
+        {
+          "role": "grid_label",
+          "text": "正面",
+          "position": ""
+        },
+        {
+          "role": "grid_label",
+          "text": "背面",
+          "position": ""
+        },
+        {
+          "role": "grid_label",
+          "text": "侧面",
+          "position": ""
+        },
+        {
+          "role": "grid_label",
+          "text": "面板孔位",
+          "position": ""
+        },
+        {
+          "role": "grid_label",
+          "text": "下方按键",
+          "position": ""
+        },
+        {
+          "role": "grid_label",
+          "text": "中央红钮",
+          "position": ""
+        },
+        {
+          "role": "faq_q",
+          "text": "有哪些颜色？",
+          "position": ""
+        },
+        {
+          "role": "faq_a",
+          "text": "银色、黑色、枪灰色",
+          "position": ""
+        },
+        {
+          "role": "faq_q",
+          "text": "怎样切换出水？",
+          "position": ""
+        },
+        {
+          "role": "faq_a",
+          "text": "按下方按键切换三档出水",
+          "position": ""
+        },
+        {
+          "role": "faq_q",
+          "text": "出售哪些物品？",
+          "position": ""
+        },
+        {
+          "role": "faq_a",
+          "text": "单花洒，不含软管和支架",
+          "position": ""
+        }
+      ],
+      "facts_basis": "商品事实文件“银色实拍中观察到的外观”：SIL001—004覆盖正背与两侧；制图按原图核对比例及外部形状，不据反光推材质。 用户确认银色、黑色、枪灰色；分别依银色12张、BLK001—005、GMT001—006本色实拍还原；实际销售为单花洒。 用户确认常规出水、喷雾出水、混合出水及下方按键切档；SIL007—012具体档位对应须由制作Owner核对，不宣称定量性能。",
+      "layout_notes": "顶部夜蓝空间无品牌机构字；问答紧随真实网格，保持信息层级，不新增配送和质保。"
+    }
+  ]
+}

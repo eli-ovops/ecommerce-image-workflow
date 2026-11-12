@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "reviewer": "root",
+  "reviewed_at": "2026-10-24T21:45:55.156279+08:00",
+  "candidate_sha256": "96a3f6edf6602683cc23971aa27e8472c1d3be5d6d67d863eaf426a219a441cc",
+  "jpg_sha256": "804d78355570e63742635754d1c28481f0e0004fb462753c7965514e7c0348fd",
+  "appearance_source_sha256": [
+    "6de02f19793c568c799762525475cd0241af1b9c41487580383be4efbd2a1fa2",
+    "9f6e724d9fc0e01a0670fbd1964d4a3e2e32d985447bcdb99fc98fe147526eb1",
+    "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90"
+  ],
+  "checks": {
+    "photo_appearance": "PASS",
+    "geometry": "PASS",
+    "reference_style": "PASS",
+    "copy": "PASS",
+    "no_model": "PASS",
+    "export": "PASS"
+  },
+  "finding": "实际打开v002原生、最终1254 JPG、SIL001/SIL002/SIL004、v010a辅助侧视及A034。两列完整正背面，前视孔环未见v001明显抹连；红钮/下银键保留，背面无圆斑，前后颈部收束与实拍视觉方向相近；短裸螺纹银色。82%等比留白，标题和正背标签不遮产品。",
+  "retained": "A034前背并置、银色反光和面板辨识",
+  "deviation": "只保留完整前背两视图，取消喷枪/水流/六档及性能；背景改简白",
+  "limitations": "人工外观检查，无逐孔精确映射、跨视角物理标定或客户接受证据。"
+}

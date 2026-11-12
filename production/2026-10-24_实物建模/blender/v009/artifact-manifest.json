@@ -1,0 +1,75 @@
+{
+  "version": "v009",
+  "files": [
+    {
+      "path": "v009/REVISION.md",
+      "bytes": 3624,
+      "sha256": "25b40c4a79e2d64764fd7ea3bcbdf16a4b099c1d6ef621ac7a1b41f7f7b6f300"
+    },
+    {
+      "path": "v009/evidence/construction-domains.jpg",
+      "bytes": 107175,
+      "sha256": "b6c3695b60f2784397d61ce9e16be8a0b8a0c6cfb3813ccc80af9d3839e5c796"
+    },
+    {
+      "path": "v009/evidence/geometry-check.json",
+      "bytes": 1255,
+      "sha256": "44512db0025b4877abea87d10e524c6e4a67446ab14e1f910b8b0bfb917d4b9d"
+    },
+    {
+      "path": "v009/evidence/reopen-check.json",
+      "bytes": 4009,
+      "sha256": "85f9e253497e94b1f05566e6afdc9528b936add9440dba3bd0e4ca5bc75927f9"
+    },
+    {
+      "path": "v009/evidence/v005-same-camera-before.jpg",
+      "bytes": 105790,
+      "sha256": "b3403d94e5aec64b3d4e28f6518af3780252919426a49f28f4f18f98925147d4"
+    },
+    {
+      "path": "v009/evidence/v005-v009-head-comparison.jpg",
+      "bytes": 202632,
+      "sha256": "0739cd7a86a3e7481c5800efdddf649435d9bd6c67242eaf6b56a6279bad7290"
+    },
+    {
+      "path": "v009/renders/head_oblique_back.jpg",
+      "bytes": 92841,
+      "sha256": "0f5cee8893fc783e8f70e1c85092155f9f4951067d76520c13f23c00d7a55bd3"
+    },
+    {
+      "path": "v009/renders/head_oblique_front.jpg",
+      "bytes": 107037,
+      "sha256": "78026194c11529bf5b276979dafd3dc6a91e7e0a52ca5ffcbb3d281f397ba0bb"
+    },
+    {
+      "path": "v009/renders/strict_side.jpg",
+      "bytes": 81482,
+      "sha256": "ea283a17aad54fc19c52763b99c9a993b02ec7f4a2b9d2c6e77088f008a182eb"
+    },
+    {
+      "path": "v009/shower_black_clay_v009.blend",
+      "bytes": 955545,
+      "sha256": "863d5a96d757d958ee568a7b0857ab1a543ece4738a38a7098dd576723a04548"
+    },
+    {
+      "path": "v009/v009-side-and-head-review.jpg",
+      "bytes": 164451,
+      "sha256": "26d1469ae24518e6d50b8935a0ec38775e77ba0f4ce15125326f62cb2a6b3987"
+    },
+    {
+      "path": "build_model-v009.py",
+      "bytes": 10466,
+      "sha256": "cb47717dbc3652af0c275a25170a9ca6dff1edd723250906c53ab9e084aef1ae"
+    },
+    {
+      "path": "parameters-v009.json",
+      "bytes": 2831,
+      "sha256": "91e082be8c6ff9672f5b7d66bbaaa6ca9c297889faa4bbeb6616aa7007759b0a"
+    },
+    {
+      "path": "verify-v009.py",
+      "bytes": 3111,
+      "sha256": "343ce31563b8f774b940da98441e5e0ab4c7c1825a84945283dbc06b63a01372"
+    }
+  ]
+}

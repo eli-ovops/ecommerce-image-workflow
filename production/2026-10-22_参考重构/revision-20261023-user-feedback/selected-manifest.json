@@ -1,0 +1,313 @@
+[
+  {
+    "id": "M03",
+    "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/final/M03.png",
+    "sha256": "de436674c3ed7ed97b27c181f1d690ed2358ac51f22b060d1524bff503233842",
+    "actual_dimensions": [
+      1254,
+      1254
+    ],
+    "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/M03-userfix-v1-prompt.txt",
+    "tool_references": [
+      "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/M03.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184344_90_2.jpg",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/主图/主图_01.jpg"
+    ],
+    "fresh_generation": false,
+    "reference_ids": [
+      "A034"
+    ],
+    "qa_status": "PASS_WITH_LIMITATIONS"
+  },
+  {
+    "id": "D12",
+    "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/final/D12.png",
+    "sha256": "49a7288331e23b1a5dd44d0cd2956c4ba77b4860473d60c5e5dda3c15d11e4f3",
+    "actual_dimensions": [
+      1115,
+      1410
+    ],
+    "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/D12-userfix-v1-prompt.txt",
+    "tool_references": [
+      "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/D12.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184344_90_2.jpg",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_17.jpg"
+    ],
+    "fresh_generation": false,
+    "reference_ids": [
+      "A022"
+    ],
+    "qa_status": "PASS_WITH_LIMITATIONS"
+  },
+  {
+    "id": "D14",
+    "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/final/D14.png",
+    "sha256": "f9049f57d1a5047a786dc5f5752a00b41cbdca589b40e51c2de4d4ca0238e022",
+    "actual_dimensions": [
+      977,
+      1610
+    ],
+    "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/D14-userfix-v1-prompt.txt",
+    "tool_references": [
+      "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/D14.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184344_90_2.jpg",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_19.jpg"
+    ],
+    "fresh_generation": false,
+    "reference_ids": [
+      "A024",
+      "A025",
+      "A026"
+    ],
+    "qa_status": "PASS_WITH_LIMITATIONS"
+  },
+  {
+    "id": "D15",
+    "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/final/D15.png",
+    "sha256": "b7cce21f4383a993270078f52d1db06fe55521b41e33e6ea60b6e6718ff7114d",
+    "actual_dimensions": [
+      1059,
+      1486
+    ],
+    "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/D15-userfix-v1-prompt.txt",
+    "tool_references": [
+      "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/D15.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184344_90_2.jpg",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_22.jpg"
+    ],
+    "fresh_generation": false,
+    "reference_ids": [
+      "A027"
+    ],
+    "qa_status": "PASS_WITH_LIMITATIONS"
+  },
+  {
+    "id": "V06",
+    "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/final/V06.png",
+    "sha256": "b528ec6851b2cd570c9f56dd234fc8f0dde3ecc30ff8e48790462b6fb2020bb8",
+    "actual_dimensions": [
+      910,
+      1729
+    ],
+    "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/V06-userfix-v1-prompt.txt",
+    "tool_references": [
+      "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/V06.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184344_90_2.jpg",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/01_微信参考原图/R035_服务_售后与水效标识.jpg"
+    ],
+    "fresh_generation": false,
+    "reference_ids": [
+      "R010",
+      "R011",
+      "R016",
+      "R035"
+    ],
+    "qa_status": "PASS_WITH_LIMITATIONS"
+  },
+  {
+    "id": "M08",
+    "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/final/M08.png",
+    "sha256": "6e0f3d975098083c0627623dfaced06dbbf826787d29609bea62611a859707db",
+    "actual_dimensions": [
+      1216,
+      1294
+    ],
+    "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/M08-userfix-v1-prompt.txt",
+    "tool_references": [
+      "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/M08.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/01_微信参考原图/R012_总览_三大优势.jpg",
+      "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184402_99_2.jpg",
+      "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg"
+    ],
+    "fresh_generation": false,
+    "reference_ids": [
+      "R012"
+    ],
+    "qa_status": "PASS_WITH_LIMITATIONS"
+  },
+  {
+    "id": "D08",
+    "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/final/D08.png",
+    "sha256": "157ab9a78d43f11daa9b6bfaf8d6ce6fbc9f28f7c45bdfd4667b05722abecb43",
+    "actual_dimensions": [
+      978,
+      1608
+    ],
+    "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/D08-userfix-v2-prompt.txt",
+    "tool_references": [
+      "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/D08-userfix-v1.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+      "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/K01.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_11.jpg",
+      "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/annotations/feedback-02.png"
+    ],
+    "fresh_generation": false,
+    "reference_ids": [
+      "A016",
+      "A017",
+      "A018",
+      "R023"
+    ],
+    "qa_status": "PASS_WITH_LIMITATIONS"
+  },
+  {
+    "id": "M07",
+    "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/final/M07.png",
+    "sha256": "0dad1f942969ce34dedb5fd4f60a217cc7f7dcc635e5b7d27e1488394a0ed13e",
+    "actual_dimensions": [
+      1254,
+      1254
+    ],
+    "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/M07-userfix-v2-prompt.txt",
+    "tool_references": [
+      "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/M07-userfix-v1.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+      "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184402_99_2.jpg",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/01_微信参考原图/R004_卖点_增压结构示意.jpg"
+    ],
+    "fresh_generation": false,
+    "reference_ids": [
+      "R004"
+    ],
+    "qa_status": "PASS_WITH_LIMITATIONS"
+  },
+  {
+    "id": "D01",
+    "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/final/D01.png",
+    "sha256": "0f7e65a4e1a2b9c4470ee7e09a9655e9cd676a1b170398bf23b30f21a22aafa4",
+    "actual_dimensions": [
+      899,
+      1748
+    ],
+    "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/D01-userfix-v1-prompt.txt",
+    "tool_references": [
+      "/Volumes/EXTERNAL/电商 作图工作流/models/M001/master-v1.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/K01.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_01.jpg",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_02.jpg"
+    ],
+    "fresh_generation": true,
+    "reference_ids": [
+      "A006",
+      "A007"
+    ],
+    "qa_status": "PASS_WITH_LIMITATIONS"
+  },
+  {
+    "id": "M04",
+    "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/final/M04.png",
+    "sha256": "79f03d08f8abac376519aa85eae6208a39bcc1d760adb0c158e159a500bb0288",
+    "actual_dimensions": [
+      1254,
+      1254
+    ],
+    "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/M04-userfix-v6-prompt.txt",
+    "tool_references": [
+      "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/M04-userfix-v5.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/annotations/feedback-02.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/主图/主图_03.jpg",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/01_微信参考原图/R002_功能_四档出水.jpg"
+    ],
+    "fresh_generation": false,
+    "reference_ids": [
+      "R002",
+      "A036"
+    ],
+    "qa_status": "PASS_WITH_LIMITATIONS"
+  },
+  {
+    "id": "M06",
+    "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/final/M06.png",
+    "sha256": "6cb407f8c6a59cd6c2f8a54eed09a36e700631bc153b0084201c53c3f63a38b9",
+    "actual_dimensions": [
+      1254,
+      1254
+    ],
+    "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/M06-userfix-v4-prompt.txt",
+    "tool_references": [
+      "/Volumes/EXTERNAL/电商 作图工作流/models/M001/master-v1.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/K01.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/01_微信参考原图/R008_SKU_场景与单品.jpg",
+      "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184402_99_2.jpg"
+    ],
+    "fresh_generation": true,
+    "reference_ids": [
+      "R008"
+    ],
+    "qa_status": "PASS_WITH_LIMITATIONS"
+  },
+  {
+    "id": "D04",
+    "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/final/D04.png",
+    "sha256": "17c68b8255d73423b35cbdaddc07c60371316a8580f9a312f8b7759e42487c10",
+    "actual_dimensions": [
+      942,
+      1670
+    ],
+    "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/D04-userfix-v2-prompt.txt",
+    "tool_references": [
+      "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/D04-userfix-v1.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_05.jpg"
+    ],
+    "fresh_generation": true,
+    "reference_ids": [
+      "A009",
+      "A010"
+    ],
+    "qa_status": "PASS_WITH_LIMITATIONS",
+    "generation_method": "Fresh portrait base D04-userfix-v1 followed by one product-only lower detail edit"
+  },
+  {
+    "id": "D05",
+    "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/final/D05.png",
+    "sha256": "d3b35aac2edc0ac4527fad792c11338cecaf3964191f5d5683913c6970421920",
+    "actual_dimensions": [
+      1030,
+      1527
+    ],
+    "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/D05-userfix-v1-prompt.txt",
+    "tool_references": [
+      "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/D05.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+      "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184402_99_2.jpg",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_06.jpg",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/01_微信参考原图/R017_长图_五大优势拼版.jpg"
+    ],
+    "fresh_generation": false,
+    "reference_ids": [
+      "A011",
+      "R017"
+    ],
+    "qa_status": "PASS_WITH_LIMITATIONS",
+    "generation_method": "Local water edit"
+  },
+  {
+    "id": "D06",
+    "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/final/D06.png",
+    "sha256": "eb3d3fe3bca3a87ba43b605daa7f6ae1b3f52ef8bf94979b10092ab0d648c06d",
+    "actual_dimensions": [
+      1064,
+      1479
+    ],
+    "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/D06-userfix-v1-prompt.txt",
+    "tool_references": [
+      "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/D06.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+      "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184402_99_2.jpg",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_07.jpg",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_08.jpg"
+    ],
+    "fresh_generation": false,
+    "reference_ids": [
+      "A012",
+      "A013",
+      "R007"
+    ],
+    "qa_status": "PASS_WITH_LIMITATIONS",
+    "generation_method": "Local water edit"
+  }
+]

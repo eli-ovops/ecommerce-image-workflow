@@ -1,0 +1,224 @@
+{
+  "state": "PARTIAL_BLOCKED_BY_IMAGEGEN_CONNECTION_ERRORS",
+  "completed_candidates": [
+    387,
+    388,
+    389
+  ],
+  "unchanged": [
+    391,
+    392,
+    394,
+    395,
+    396
+  ],
+  "pending": [
+    390,
+    393,
+    397,
+    398,
+    399
+  ],
+  "images": [
+    {
+      "id": 387,
+      "file": "JPG/387.jpg",
+      "status": "新候选：文字已改，商品细节待返工",
+      "purpose": "宽幅大面板／充沛水量／细密喷面",
+      "note": "主商品叶瓣纹变成斜向网格，盲圆点丢失明显，细节窗与主商品纹样不一致；实物忠实度未通过。文案和黑金版式已更新。",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "b00c76410966c570507d25743590825cf3e07012ba278dc41ba044d501c24636",
+      "changed": true,
+      "planned_copy": "“宽幅大面板”“充沛大水量”“细密喷面”“银色”“约30×20cm”",
+      "customer_acceptance": "UNKNOWN"
+    },
+    {
+      "id": 388,
+      "file": "JPG/388.jpg",
+      "status": "新候选：文字已改，商品细节待返工",
+      "purpose": "丰沛雨幕",
+      "note": "下方商品纹样仍有断裂/错位；上方接头未连接管件，悬置感需复核。水幕仍有珠链感，逐孔起点UNKNOWN。文案更新清楚。",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "942c67a83a867547547bc252a7526f1006731938599110ab689fe11bd006e9e6",
+      "changed": true,
+      "planned_copy": "“丰沛雨幕”“安装出水示意”“长方形顶喷”“约30×20cm”",
+      "customer_acceptance": "UNKNOWN"
+    },
+    {
+      "id": 389,
+      "file": "JPG/389.jpg",
+      "status": "新候选：文字已改，商品细节待返工",
+      "purpose": "宽幅雨幕／畅淋",
+      "note": "左下商品右半部纹样出现明显重叠杂乱，实物忠实度未通过。水流有串珠感，逐孔起点UNKNOWN；冷蓝场景和新卖点可审阅。",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "d65be213e11e3e20d5fd1c320c440cdf1ff47e707e08a1d8ec695d7ca5278a50",
+      "changed": true,
+      "planned_copy": "“宽幅”“雨幕”“畅淋”“约30×20cm”“安装出水示意”“银色长方形顶喷”",
+      "customer_acceptance": "UNKNOWN"
+    },
+    {
+      "id": 390,
+      "file": "context-old/390.jpg",
+      "status": "待完成：此处仅展示旧版",
+      "purpose": "大面板／充沛出水／畅爽雨淋",
+      "note": "本次生成连接失败，无返回产物；新文案已备好。",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "11922963939f7d584cfd6fdc803e4454e37a006a78ffafbfc82c8bdad8d378f4",
+      "changed": false,
+      "planned_copy": "“长方形大面板”“约30×20cm”“充沛出水 畅爽雨淋”“安装出水示意”",
+      "customer_acceptance": "UNKNOWN"
+    },
+    {
+      "id": 391,
+      "file": "context-old/391.jpg",
+      "status": "原版保留，无需修改",
+      "purpose": "淋浴体验（保留）",
+      "note": "沿用上一轮审阅记录；本次未重绘，原有几何/水流限制继续保留。",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "cb07a70efb9a1144de1a1084b59714f9c09ae06bb1ec368cf6bccecea9dfe102",
+      "changed": false,
+      "planned_copy": "原版不变",
+      "customer_acceptance": "UNKNOWN"
+    },
+    {
+      "id": 392,
+      "file": "context-old/392.jpg",
+      "status": "原版保留，无需修改",
+      "purpose": "提拉清洁功能（保留）",
+      "note": "沿用上一轮审阅记录；本次未重绘，原有几何/水流限制继续保留。",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "2acda0e1e249bf24560a1b84bc98b93e4b89d71eafe865b0907bd3cc1175701f",
+      "changed": false,
+      "planned_copy": "原版不变",
+      "customer_acceptance": "UNKNOWN"
+    },
+    {
+      "id": 393,
+      "file": "context-old/393.jpg",
+      "status": "待完成：此处仅展示旧版",
+      "purpose": "空气增压／绵密雨幕／喷面接口",
+      "note": "本次生成连接失败，无返回产物；新文案已备好。",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "f2723c8f10d6e5d9016679d003ea217417bf057341555f3ebadafea3e78b529f",
+      "changed": false,
+      "planned_copy": "“空气增压 绵密雨幕”“细密喷面 连接便捷”“喷面细节”“接头细节”“安装出水示意”",
+      "customer_acceptance": "UNKNOWN"
+    },
+    {
+      "id": 394,
+      "file": "context-old/394.jpg",
+      "status": "原版保留，无需修改",
+      "purpose": "竖版淋浴体验（保留）",
+      "note": "沿用上一轮审阅记录；本次未重绘，原有几何/水流限制继续保留。",
+      "size": [
+        941,
+        1672
+      ],
+      "sha256": "21c1ea124b8d8fc897fe1a315caaa3bd1e69f5d92561aa7d163bb4340e3cc783",
+      "changed": false,
+      "planned_copy": "原版不变",
+      "customer_acceptance": "UNKNOWN"
+    },
+    {
+      "id": 395,
+      "file": "context-old/395.jpg",
+      "status": "原版保留，无需修改",
+      "purpose": "竖版提拉清洁（保留）",
+      "note": "沿用上一轮审阅记录；本次未重绘，原有几何/水流限制继续保留。",
+      "size": [
+        941,
+        1672
+      ],
+      "sha256": "989100e4e8c0a73bca7e654a27075b13810c6f5646d62a41f37b5e5d0690d214",
+      "changed": false,
+      "planned_copy": "原版不变",
+      "customer_acceptance": "UNKNOWN"
+    },
+    {
+      "id": 396,
+      "file": "context-old/396.jpg",
+      "status": "原版保留，无需修改",
+      "purpose": "喷面、红钮、银边、接头、尺寸、短针六细节（保留）",
+      "note": "沿用上一轮审阅记录；本次未重绘，原有几何/水流限制继续保留。",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "31d88716429e473f563efcafa82afae026775812dd76cbfcd61125b703c2d11b",
+      "changed": false,
+      "planned_copy": "原版不变",
+      "customer_acceptance": "UNKNOWN"
+    },
+    {
+      "id": 397,
+      "file": "context-old/397.jpg",
+      "status": "待完成：此处仅展示旧版",
+      "purpose": "空气增压／绵密雨幕／30×20×2cm",
+      "note": "本次生成连接失败，无返回产物；新文案已备好。",
+      "size": [
+        992,
+        1586
+      ],
+      "sha256": "9a1d74014856ec47cd2d7b791ead0da825f8bc5d9546054e0ab4675848daedf5",
+      "changed": false,
+      "planned_copy": "“空气增压”“畅享绵密雨幕”“安装出水示意”“约30×20×2cm”",
+      "customer_acceptance": "UNKNOWN"
+    },
+    {
+      "id": 398,
+      "file": "context-old/398.jpg",
+      "status": "待完成：此处仅展示旧版",
+      "purpose": "角度可调／连接与背部",
+      "note": "服务连续失败后停止，本张未调用生成；新文案已备好。",
+      "size": [
+        940,
+        1673
+      ],
+      "sha256": "2949735c0b6a2b98bf7fed34ee575908031edad7a4841ffa9d44d77ba337fa09",
+      "changed": false,
+      "planned_copy": "“角度随需调”“淋浴更自在”“接头开口”“背部外观”",
+      "customer_acceptance": "UNKNOWN"
+    },
+    {
+      "id": 399,
+      "file": "context-old/399.jpg",
+      "status": "待完成：此处仅展示旧版",
+      "purpose": "宽幅大面板／充沛出水",
+      "note": "服务连续失败后停止，本张未调用生成；新文案已备好。",
+      "size": [
+        940,
+        1672
+      ],
+      "sha256": "a701e3dd4e617d1483b1d003ce494e51d7099595ece159c6ebbf16978f4e3eb3",
+      "changed": false,
+      "planned_copy": "“宽幅大面板 畅享淋浴”“充沛出水 舒展沐浴”“约30×20cm”",
+      "customer_acceptance": "UNKNOWN"
+    }
+  ],
+  "runtime_model": "UNKNOWN",
+  "new_generations": 3,
+  "failed_requests": 4,
+  "not_submitted_compact_jobs": true,
+  "abandoned_overlay_script_executed": false
+}

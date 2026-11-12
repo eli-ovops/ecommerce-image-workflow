@@ -1,0 +1,109 @@
+{
+  "source_id": "A039",
+  "width": 790,
+  "height": 25920,
+  "no_content_omitted": true,
+  "read_order": "page ascending, each page columns left to right, each column top to bottom",
+  "pages": [
+    {
+      "path": "references/2026-10-22_首批参考/previews/A039_长详情_可读分页_01.png",
+      "source_id": "A039",
+      "source_path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情.jpg",
+      "column_pixel_ranges": [
+        {
+          "x0": 0,
+          "y0": 0,
+          "x1": 790,
+          "y1": 2160
+        },
+        {
+          "x0": 0,
+          "y0": 2160,
+          "x1": 790,
+          "y1": 4320
+        },
+        {
+          "x0": 0,
+          "y0": 4320,
+          "x1": 790,
+          "y1": 6480
+        }
+      ]
+    },
+    {
+      "path": "references/2026-10-22_首批参考/previews/A039_长详情_可读分页_02.png",
+      "source_id": "A039",
+      "source_path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情.jpg",
+      "column_pixel_ranges": [
+        {
+          "x0": 0,
+          "y0": 6480,
+          "x1": 790,
+          "y1": 8640
+        },
+        {
+          "x0": 0,
+          "y0": 8640,
+          "x1": 790,
+          "y1": 10800
+        },
+        {
+          "x0": 0,
+          "y0": 10800,
+          "x1": 790,
+          "y1": 12960
+        }
+      ]
+    },
+    {
+      "path": "references/2026-10-22_首批参考/previews/A039_长详情_可读分页_03.png",
+      "source_id": "A039",
+      "source_path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情.jpg",
+      "column_pixel_ranges": [
+        {
+          "x0": 0,
+          "y0": 12960,
+          "x1": 790,
+          "y1": 15120
+        },
+        {
+          "x0": 0,
+          "y0": 15120,
+          "x1": 790,
+          "y1": 17280
+        },
+        {
+          "x0": 0,
+          "y0": 17280,
+          "x1": 790,
+          "y1": 19440
+        }
+      ]
+    },
+    {
+      "path": "references/2026-10-22_首批参考/previews/A039_长详情_可读分页_04.png",
+      "source_id": "A039",
+      "source_path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情.jpg",
+      "column_pixel_ranges": [
+        {
+          "x0": 0,
+          "y0": 19440,
+          "x1": 790,
+          "y1": 21600
+        },
+        {
+          "x0": 0,
+          "y0": 21600,
+          "x1": 790,
+          "y1": 23760
+        },
+        {
+          "x0": 0,
+          "y0": 23760,
+          "x1": 790,
+          "y1": 25920
+        }
+      ]
+    }
+  ]
+}

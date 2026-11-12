@@ -1,0 +1,244 @@
+{
+  "schema_version": 1,
+  "experiment_id": "SILVER-PILOT-001",
+  "production_state": "PAUSED",
+  "date": "2026-10-24",
+  "baseline_acceptance": null,
+  "sources": [
+    {
+      "id": "SIL001",
+      "kind": "real_photo",
+      "sku": "silver",
+      "file": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+        "sha256": "6de02f19793c568c799762525475cd0241af1b9c41487580383be4efbd2a1fa2"
+      },
+      "suitability": "NOT_REVIEWED_FOR_NEW_PILOT"
+    },
+    {
+      "id": "SIL002",
+      "kind": "real_photo",
+      "sku": "silver",
+      "file": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184344_90_2.jpg",
+        "sha256": "9f6e724d9fc0e01a0670fbd1964d4a3e2e32d985447bcdb99fc98fe147526eb1"
+      },
+      "suitability": "NOT_REVIEWED_FOR_NEW_PILOT"
+    },
+    {
+      "id": "SIL003",
+      "kind": "real_photo",
+      "sku": "silver",
+      "file": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184345_91_2.jpg",
+        "sha256": "8d41d23e8e762b1e9208796587c36db70ea8e452ee2e3fdd3604f97c7f40dd60"
+      },
+      "suitability": "NOT_REVIEWED_FOR_NEW_PILOT"
+    },
+    {
+      "id": "SIL004",
+      "kind": "real_photo",
+      "sku": "silver",
+      "file": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg",
+        "sha256": "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90"
+      },
+      "suitability": "NOT_REVIEWED_FOR_NEW_PILOT"
+    },
+    {
+      "id": "SIL005",
+      "kind": "real_photo",
+      "sku": "silver",
+      "file": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+        "sha256": "0b388756f0ee2e35630dac7789237153d390fa8aaab8f58f6e2643d4181be21d"
+      },
+      "suitability": "NOT_REVIEWED_FOR_NEW_PILOT"
+    },
+    {
+      "id": "SIL006",
+      "kind": "real_photo",
+      "sku": "silver",
+      "file": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184355_94_2.jpg",
+        "sha256": "10dcfb2cad17faf397a03e0587da0ad19c76229fe801e090fee527a3fbc1a412"
+      },
+      "suitability": "NOT_REVIEWED_FOR_NEW_PILOT"
+    },
+    {
+      "id": "SIL007",
+      "kind": "real_photo",
+      "sku": "silver",
+      "file": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184357_95_2.jpg",
+        "sha256": "4aee9c3464d2f590ce6e7c08da656ab36093a0976a51560d0e7706b568c412db"
+      },
+      "suitability": "NOT_REVIEWED_FOR_NEW_PILOT"
+    },
+    {
+      "id": "SIL008",
+      "kind": "real_photo",
+      "sku": "silver",
+      "file": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184358_96_2.jpg",
+        "sha256": "071b041a0c14ced993d33df9598611fd0e7ea9cb0e65892de6b6969d901fb140"
+      },
+      "suitability": "NOT_REVIEWED_FOR_NEW_PILOT"
+    },
+    {
+      "id": "SIL009",
+      "kind": "real_photo",
+      "sku": "silver",
+      "file": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184359_97_2.jpg",
+        "sha256": "4a812b7e8b033a403a65d5d7fc8ef6ef49515410b6196e953c16aafcf71a1693"
+      },
+      "suitability": "NOT_REVIEWED_FOR_NEW_PILOT"
+    },
+    {
+      "id": "SIL010",
+      "kind": "real_photo",
+      "sku": "silver",
+      "file": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184400_98_2.jpg",
+        "sha256": "97ee7ce1dd84ba8e93cbce28ee5ecf94d1da5e29fba0aa064759f6eb2bed502e"
+      },
+      "suitability": "NOT_REVIEWED_FOR_NEW_PILOT"
+    },
+    {
+      "id": "SIL011",
+      "kind": "real_photo",
+      "sku": "silver",
+      "file": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184402_99_2.jpg",
+        "sha256": "22287ec426ebc7f449beeda0a3d64c24631e4ccc75d7bf4fb7a6abb9d1e8781c"
+      },
+      "suitability": "NOT_REVIEWED_FOR_NEW_PILOT"
+    },
+    {
+      "id": "SIL012",
+      "kind": "real_photo",
+      "sku": "silver",
+      "file": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184403_100_2.jpg",
+        "sha256": "c471d115285f03079202e30954acc36370c29d10c482ef3eeb77f5fda47a84a6"
+      },
+      "suitability": "NOT_REVIEWED_FOR_NEW_PILOT"
+    }
+  ],
+  "assets": [
+    {
+      "id": "E01",
+      "role": "商品轮廓",
+      "geometry_route": "photo_locked",
+      "geometry_source_ids": [
+        "SIL001",
+        "SIL002",
+        "SIL003",
+        "SIL004"
+      ],
+      "producer": null,
+      "has_water": false,
+      "has_person": false,
+      "local_repairs": 0,
+      "candidate": null,
+      "protected_baseline": null,
+      "protected_mask": null,
+      "client_jpg": null,
+      "export_review": null,
+      "checks": {
+        "geometry": null,
+        "mask_scope": null,
+        "reference_style": null,
+        "copy": null
+      }
+    },
+    {
+      "id": "E02",
+      "role": "三档水流",
+      "geometry_route": "photo_locked",
+      "geometry_source_ids": [
+        "SIL001",
+        "SIL009",
+        "SIL010",
+        "SIL011",
+        "SIL012"
+      ],
+      "producer": null,
+      "has_water": true,
+      "has_person": false,
+      "local_repairs": 0,
+      "candidate": null,
+      "protected_baseline": null,
+      "protected_mask": null,
+      "client_jpg": null,
+      "export_review": null,
+      "checks": {
+        "geometry": null,
+        "mask_scope": null,
+        "reference_style": null,
+        "copy": null,
+        "water": null
+      }
+    },
+    {
+      "id": "E03",
+      "role": "M001干态手持",
+      "geometry_route": "photo_locked",
+      "geometry_source_ids": [
+        "SIL001",
+        "SIL003",
+        "SIL004"
+      ],
+      "producer": null,
+      "has_water": false,
+      "has_person": true,
+      "local_repairs": 0,
+      "candidate": null,
+      "protected_baseline": null,
+      "protected_mask": null,
+      "client_jpg": null,
+      "export_review": null,
+      "checks": {
+        "geometry": null,
+        "mask_scope": null,
+        "reference_style": null,
+        "copy": null,
+        "person": null
+      }
+    }
+  ],
+  "capabilities": {
+    "fixed_seed": false,
+    "controlnet": false,
+    "automatic_water_detection": "NOT_IMPLEMENTED",
+    "automatic_skin_detection": "NOT_IMPLEMENTED",
+    "protected_pixel_comparison": true
+  },
+  "water_rules": {
+    "normal": "实拍确认的有效孔完整均匀出水",
+    "mist": "已标定六点，必须6/6；坐标映射尚未建立",
+    "mixed": "常规水束与六点喷雾，孔口起点可区分"
+  },
+  "trial_metrics": {
+    "customer_accepted_images": 0,
+    "generation_calls_this_pilot": 0,
+    "actual_minutes": null,
+    "first_pass_rate": null
+  },
+  "new_files_this_task": [
+    "workflow/生产实验.md",
+    "workflow/experiment.json",
+    "tools/release_gate.py",
+    "tools/tests/test_release_gate.py",
+    "workflow/gate-baseline-check.json"
+  ],
+  "modified_existing_files": [
+    "AGENTS.md"
+  ],
+  "preserved": "All existing media and archives; no production image created or modified",
+  "source_catalog": {
+    "path": "products/主推花洒/银色/manifest.json",
+    "sha256": "d5ce66af6abf10f85b8748c53d037f573e3e753ffcc5b7505b4931a6e0dc91a5"
+  }
+}

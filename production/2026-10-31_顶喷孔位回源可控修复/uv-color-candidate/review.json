@@ -1,0 +1,16 @@
+{
+  "status": "STOPPED_FIRST_UV_COLOR_CANDIDATE_VISUAL_FAIL",
+  "visual_review": {
+    "opened": [
+      "399-preview.jpg",
+      "399-detail.jpg"
+    ],
+    "leaf_clarity": "Improved: narrow almond outlines readable; photographic highlights remain baked.",
+    "material": "FAIL: black panel washed to pale gray, red knob pink, grain too bright; not actual product appearance.",
+    "hole_alignment": "96 photo dark-center anchors continuously warped. Sampled detail shows single black openings but some concentric/offset cup contours remain. Not a full pixel-level alignment PASS.",
+    "advertising_quality": "FAIL: silver edge brighter but broad overillumination washes black/gold set; lower stage overly bright, upper architectural shape awkward."
+  },
+  "geometry": "Product mesh vertex and face hashes unchanged from previously checked source; no new topology edits. See geometry-unchanged.json.",
+  "scope": "One new color/roughness candidate only. No392, nohighres, noAI redraw, no subsequent correction. Older attempts preserved.",
+  "model_runtime": "UNKNOWN"
+}

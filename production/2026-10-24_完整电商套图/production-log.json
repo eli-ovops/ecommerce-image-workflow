@@ -1,0 +1,461 @@
+{
+  "requested_model": "gpt-6-astra",
+  "requested_effort": "high",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "rules": [
+    "PERMISSIONS-2026-10-14-v1",
+    "ROUTING-2026-10-24-v5",
+    "TOKEN-BUDGET-2026-10-24-v1"
+  ],
+  "reference_full_read_reuse": "production/2026-10-22_参考重构/reference-map.md:31–37",
+  "generation_budget": 6,
+  "calls": [
+    {
+      "id": "warm-room",
+      "tool": "builtin_image_gen",
+      "purpose": "environment only, no product generation",
+      "actual_call": {
+        "prompt": "Create a photorealistic premium bathroom advertising BACKGROUND ONLY, no products, no people, no hands, no shower heads, no hoses, no plumbing fixtures, no text or logos. Square image. Warm honey oak vertical wall panels on left, creamy travertine stone, subtle horizontal warm concealed light at ceiling, large dark smoked glass panel behind, understated modern luxury. Lower middle has a broad low travertine ledge, empty and clean, extending toward camera, not a pedestal crowded by objects. Left two thirds has rich dimensional bathroom atmosphere, right third a pale quiet wall. Soft warm window lighting from upper left. Strong depth and commercial magazine photography with real material texture, warm brown shadows, neutral clean highlights. No towels, bottles, plants, props. The scene will be composited with a separate real product and typography later; do not generate any product.",
+        "transparent_background": false
+      },
+      "tool_output_path": "/Users/USER/.codex/generated_images/01a16d07-b34d-7ff3-afe5-dfc839dd6cb1/exec-81cf5a8f-9f1e-4a4b-a5e0-ea4a62e20831.png",
+      "project_native": "production/2026-10-24_完整电商套图/generated/warm-room-native.png",
+      "sha256": "769cbb7ed6e0b541d3b560cdbfc1199583348126394abf60437d2f72160293d8",
+      "status": "SUCCEEDED",
+      "visually_viewed": true
+    },
+    {
+      "id": "blue-room",
+      "tool": "builtin_image_gen",
+      "purpose": "environment only, no product generation",
+      "actual_call": {
+        "prompt": "Photorealistic commercial bathroom advertising environment ONLY. Portrait 4:5 image. No people, hands, shower head, plumbing, hose, fixtures, bottles, text, logos or products. Modern ice blue and white bathroom interior with curved architectural wall on the left, tall translucent ribbed blue glass on right, cool white stone shelves, subtle diagonal daylight through a high window. A broad low white stone ledge at bottom, entirely empty. Elegant depth, premium editorial photograph, pale blue ceiling and upper left are quiet for a large headline. Center-right is an open medium blue backdrop intended for a separate silver product. Strong blue-white color structure, crisp natural texture, luminous reflections, clean commercial visual, not a blank gradient. Keep plenty of depth but simple geometry. No props.",
+        "transparent_background": false
+      },
+      "tool_output_path": "/Users/USER/.codex/generated_images/01a16d07-b34d-7ff3-afe5-dfc839dd6cb1/exec-12468603-5ca4-4d47-9964-da73a1496ee4.png",
+      "project_native": "production/2026-10-24_完整电商套图/generated/blue-room-native.png",
+      "sha256": "4859560dcfc9b87a85f147be6e2ed8cd1e336e142ef16031bbe74e5bfb9d7c1f",
+      "status": "SUCCEEDED",
+      "visually_viewed": true
+    },
+    {
+      "id": "sand",
+      "tool": "builtin_image_gen",
+      "purpose": "environment only, no product generation",
+      "actual_call": {
+        "prompt": "Create a photorealistic premium ecommerce advertising BACKGROUND ONLY, no product or person, no text, no logo. Portrait 4:5. Warm bronze desert sand with fine rippling wind grooves, low horizontal dunes, luminous hazy pale golden sunset sky in upper quarter. Rich deep cocoa shadows in lower sand and glowing sunlit copper ridges, abstract refined sand texture rather than travel scenery. Large clean central sloping sand plane open for separately composited product. Light from upper right. Detailed natural sand, cinematic warm commercial lighting. No rocks, cacti, water, hands, shower heads, pipes, bottles, props, symbols or claims.",
+        "transparent_background": false
+      },
+      "tool_output_path": "/Users/USER/.codex/generated_images/01a16d07-b34d-7ff3-afe5-dfc839dd6cb1/exec-8627737a-b0ad-4194-8d71-1ea06e01e206.png",
+      "project_native": "production/2026-10-24_完整电商套图/generated/sand-native.png",
+      "sha256": "4bfebf75048f5c15b894b54e5400d38d41d7240e4b267f708cf527de843c4147",
+      "status": "SUCCEEDED",
+      "visually_viewed": true
+    },
+    {
+      "id": "stone",
+      "tool": "builtin_image_gen",
+      "purpose": "environment only, no product generation",
+      "actual_call": {
+        "prompt": "Photorealistic luxury ecommerce still-life BACKGROUND ONLY. Square composition, no objects or products, no text, no people, no hands, no shower heads, no plumbing. Cool gray blue fine-grained stone slab occupies lower two thirds, slightly angled diagonally upward from bottom left to upper right. Broad smooth stone surface fully empty and usable for a separately composited single product. Rear upper third is dark slate blue with gentle out-of-focus diagonal architectural shadow. Side light from upper left creates crisp edge definition and softly grazes stone grain, high-end product photography. A few layered low stone planes at bottom corners only, not broken rocks, no debris, no cracks, no water, no props. Clean broad negative space upper left for headline. Refined light-dark tonal structure, realistic commercial photograph, not a flat gray gradient.",
+        "transparent_background": false
+      },
+      "tool_output_path": "/Users/USER/.codex/generated_images/01a16d07-b34d-7ff3-afe5-dfc839dd6cb1/exec-d650d974-e3c9-4a44-9541-3f02fb6e6cc4.png",
+      "project_native": "production/2026-10-24_完整电商套图/generated/stone-native.png",
+      "sha256": "24459482d5d1c742ff68b43556601393f96ab2a863833881e6d851daded5c9f5",
+      "status": "SUCCEEDED",
+      "visually_viewed": true
+    }
+  ],
+  "product_source_policy": "Existing photo-guided generated product layers are composited; NOT original photo pixels. Water and pressed-state windows use products/ original photos, no AI redraw.",
+  "in_flight": [],
+  "actual_targeted_reference_view_evidence": [
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/first-refs.jpg",
+      "sha256": "ff442a8e38f7bbc15af77003533b8b499e228e8becff3e8bfecc0a683d0d94a9"
+    },
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/refs-functions1.jpg",
+      "sha256": "4a40289e33658f2dd7d0afc8b3967c60d7a8c6a01f1c28e48903b6cc35b667d8"
+    },
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/refs-water.jpg",
+      "sha256": "0427ecd3edf52688c69455e3a03a7728d40ced99457a943227f248b9a737a0cc"
+    },
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/refs-detail.jpg",
+      "sha256": "c0db2becab0d21eeb72e9b773ac7df64b026ba1fb54f7e92c038b1309567312d"
+    },
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/refs-closing.jpg",
+      "sha256": "64b9b2d651b5dfca26e654d83c4d53dd0b52bfa7639cfd4ad8c4e533bab7781a"
+    }
+  ],
+  "actual_product_photo_view_evidence": [
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/sku-photos.jpg",
+      "sha256": "64d3f0e21dac2dea1af5b83da2089ffd3678a4c380adcdf4d3fadef6d5657c69"
+    },
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/actual-states.jpg",
+      "sha256": "6d283aaeacc875b3ab508d1117341a9a939d57b10bd1d1b9cf99e412afb14623"
+    },
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/side-for-atlas.jpg",
+      "sha256": "17046b53fa463c62723b2744ef108c2d0c1730289844e4973033c7b0c9b46919"
+    }
+  ],
+  "source_verification": {
+    "path": "production/2026-10-24_完整电商套图/generated/source-verification.json",
+    "sha256": "80b2b08fda4621d4401d65975979588457db6b7b443fc645840a693aff9fd140"
+  },
+  "selected_outputs": [
+    {
+      "id": "D01",
+      "output": {
+        "path": "production/2026-10-24_完整电商套图/generated/D01-v004.jpg",
+        "sha256": "f311f4c1b7c5e2ce1306775bfc78da1df4161fb26ada457b2470562298aadbd7"
+      },
+      "dims": [
+        1600,
+        2000
+      ]
+    },
+    {
+      "id": "D02",
+      "output": {
+        "path": "production/2026-10-24_完整电商套图/generated/D02-v004.jpg",
+        "sha256": "f0330b30c3299e914b9cf7161f4d118574c976979369aa00b8f625d756b5fcad"
+      },
+      "dims": [
+        1600,
+        2000
+      ]
+    },
+    {
+      "id": "D03",
+      "output": {
+        "path": "production/2026-10-24_完整电商套图/generated/D03-v004.jpg",
+        "sha256": "3d5e0489dc32cb65a3855b0b778163c0721ed1a2dc27762f80c571b5c477f956"
+      },
+      "dims": [
+        1600,
+        2100
+      ]
+    },
+    {
+      "id": "D04",
+      "output": {
+        "path": "production/2026-10-24_完整电商套图/generated/D04-v005.jpg",
+        "sha256": "90e89ccac56e54344f0510f4276313eebad5e01608d7215c2a759a4ddda314b2"
+      },
+      "dims": [
+        1600,
+        2200
+      ]
+    },
+    {
+      "id": "D05",
+      "output": {
+        "path": "production/2026-10-24_完整电商套图/generated/D05-v004.jpg",
+        "sha256": "618adc5619f1038cc749bb0cfdcb72e68fcd304d025f2aa87ae535858628bf8c"
+      },
+      "dims": [
+        1600,
+        2000
+      ]
+    },
+    {
+      "id": "D06",
+      "output": {
+        "path": "production/2026-10-24_完整电商套图/generated/D06-v004.jpg",
+        "sha256": "92e8491d279f398e000985bb877eeab74dd968918146a5d662b62f62b2a561eb"
+      },
+      "dims": [
+        1600,
+        2100
+      ]
+    },
+    {
+      "id": "D07",
+      "output": {
+        "path": "production/2026-10-24_完整电商套图/generated/D07-v005.jpg",
+        "sha256": "fdadda3cecd7894fd10d71d95bca3387bbee58d720b4b08bf9bf4b57509b5a2a"
+      },
+      "dims": [
+        1600,
+        2000
+      ]
+    },
+    {
+      "id": "D08",
+      "output": {
+        "path": "production/2026-10-24_完整电商套图/generated/D08-v005.jpg",
+        "sha256": "a9187afb2772bca58d55d9461b3e7c69d6569674ada71243803d79990e1a7abe"
+      },
+      "dims": [
+        1600,
+        2000
+      ]
+    },
+    {
+      "id": "D09",
+      "output": {
+        "path": "production/2026-10-24_完整电商套图/generated/D09-v005.jpg",
+        "sha256": "41a2fe9e0b0ac352520c0b48f9d3b4530390cee1dc97253d92217ca3450f72bf"
+      },
+      "dims": [
+        1600,
+        2400
+      ]
+    },
+    {
+      "id": "K01",
+      "output": {
+        "path": "production/2026-10-24_完整电商套图/generated/K01-v004.jpg",
+        "sha256": "058effb60918b6c2b876bb7511065d0728e12fe0a82692bc229e842959faae6f"
+      },
+      "dims": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "id": "K02",
+      "output": {
+        "path": "production/2026-10-24_完整电商套图/generated/K02-v004.jpg",
+        "sha256": "8030bec9b6abe8c095a8c2be730c2626974471293b0732be8b58574c70bb4c36"
+      },
+      "dims": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "id": "K03",
+      "output": {
+        "path": "production/2026-10-24_完整电商套图/generated/K03-v004.jpg",
+        "sha256": "6de1428957bd7ed28210eea231a3e11e0b468ba0f9039ee53503bdcc1041ffa6"
+      },
+      "dims": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "id": "L01",
+      "output": {
+        "path": "production/2026-10-24_完整电商套图/generated/L01-v001.jpg",
+        "sha256": "59854d3d475ec9a2c961a9a56037588d623a626542e424b57e84072d028fbf67"
+      },
+      "dims": [
+        800,
+        9400
+      ]
+    },
+    {
+      "id": "L02",
+      "output": {
+        "path": "production/2026-10-24_完整电商套图/generated/L02-v001.jpg",
+        "sha256": "5aa287d2971b473b7de42b989c8e05b0eaca37265a6f6f0437abd6da53888dd6"
+      },
+      "dims": [
+        800,
+        4240
+      ]
+    },
+    {
+      "id": "M01",
+      "output": {
+        "path": "production/2026-10-24_完整电商套图/generated/M01-reused.jpg",
+        "sha256": "d7a6e607ba7923f56eb39c720d57ab061fd36a25bc73d159369235ee122b68b2"
+      },
+      "dims": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "M02",
+      "output": {
+        "path": "production/2026-10-24_完整电商套图/generated/M02-reused.jpg",
+        "sha256": "5258d1ad36ba0bcb22c33a3978d5b9195b1d2ea7552a5ba01fb64ebc28e5a6b4"
+      },
+      "dims": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "M03",
+      "output": {
+        "path": "production/2026-10-24_完整电商套图/generated/M03-reused.jpg",
+        "sha256": "c803a8450a87190ea4bdc7b8c070cb4b5a2a8fe0d750168dccecdb92a6c2bd61"
+      },
+      "dims": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "M04",
+      "output": {
+        "path": "production/2026-10-24_完整电商套图/generated/M04-v005.jpg",
+        "sha256": "9cdc93f57a92ed5cf848dadd68e7560253f1ccd9b3cb7c78658ba24b5115a561"
+      },
+      "dims": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "id": "M05",
+      "output": {
+        "path": "production/2026-10-24_完整电商套图/generated/M05-v004.jpg",
+        "sha256": "76b948d7f8ad21b60bc010ad971ea1e14ef0d1f3448133c8788d5fecaf82db2d"
+      },
+      "dims": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "id": "M06",
+      "output": {
+        "path": "production/2026-10-24_完整电商套图/generated/M06-v005.jpg",
+        "sha256": "103c9445021ce6c903b09c57251546cc153a7408546f4eaf80b95ba87199a5e1"
+      },
+      "dims": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "id": "M07",
+      "output": {
+        "path": "production/2026-10-24_完整电商套图/generated/M07-reused.jpg",
+        "sha256": "f51d6e5ce1ce4fbd8ba3257e7274f1456ab3146f462bf1a7e21c8c3c7080a13b"
+      },
+      "dims": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "M08",
+      "output": {
+        "path": "production/2026-10-24_完整电商套图/generated/M08-v004.jpg",
+        "sha256": "9f022222d2a4c8621469d6ea519e83747f0926b43af80d282eec7bdb870b54a3"
+      },
+      "dims": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "id": "W01",
+      "output": {
+        "path": "production/2026-10-24_完整电商套图/generated/W01-v004.jpg",
+        "sha256": "a8079558546f73e6109c0153e1eba37f924d9230870a4120d430d92ecb2591b3"
+      },
+      "dims": [
+        1600,
+        2000
+      ]
+    },
+    {
+      "id": "W02",
+      "output": {
+        "path": "production/2026-10-24_完整电商套图/generated/W02-v004.jpg",
+        "sha256": "dcfebc97ae515ead96c47f2733f976d6a885ee2635b76672fd9ea583780d74b1"
+      },
+      "dims": [
+        1600,
+        2000
+      ]
+    }
+  ],
+  "source_derivations": [
+    {
+      "child": {
+        "path": "production/2026-10-24_完整电商套图/generated/rear-source-crop.png",
+        "sha256": "0ff3aa6ac3ffce8f606de96469899996b4da2bfdd1b7f5b81092f2d5f88e4f69"
+      },
+      "parent": {
+        "path": "production/2026-10-24_实拍主导续作/generated/R06-v002-native.png",
+        "sha256": "2187eb5dfff71d66686d40736240218e838a2af749a9341f00b26a05007ca4f6"
+      },
+      "operation": "crop only",
+      "crop_box": [
+        665,
+        58,
+        1135,
+        1157
+      ]
+    },
+    {
+      "child": {
+        "path": "production/2026-10-24_完整电商套图/generated/silver-head-macro.png",
+        "sha256": "84f3b782e50a27bc7f4ee7b41d4e9ae95c1e5aeea0b184463accd0a0f985a3c3"
+      },
+      "parent": {
+        "path": "production/2026-10-24_完整电商套图/generated/silver-cutout-v003.png",
+        "sha256": "6bd26eb1336ef7bedaef9a2bcf67f2d26d0179dac255c2cc246cf5d8e9f27b54"
+      },
+      "operation": "crop upper58% height, no product redraw",
+      "crop_box": [
+        0,
+        0,
+        475,
+        682
+      ]
+    }
+  ],
+  "upstream_generation_evidence": [
+    {
+      "path": "production/2026-10-24_实拍主导主图/production-log.json",
+      "sha256": "df427fb0c149939f4647ad6ea1d2108e1e6f587b9d49cc7d40a5b7177896d459"
+    },
+    {
+      "path": "production/2026-10-24_实拍主导主图/image-manifest.json",
+      "sha256": "df406004b77605b8714d01a1af13091a2282da978e38e247e45fe6351054ff75"
+    },
+    {
+      "path": "production/2026-10-24_实拍主导续作/production-log.json",
+      "sha256": "23d5a05e57131c871611f9fc4953c3f356563febb05f69c38d6c9b32e3674a54"
+    },
+    {
+      "path": "production/2026-10-24_实拍主导续作/image-manifest.json",
+      "sha256": "9021b6b7edd4c564fb6f112969be3612b64a1f83ca43fb2767728cad4aaf7080"
+    },
+    {
+      "path": "production/2026-10-24_参考广告主图/production-log.json",
+      "sha256": "94190c8c5338b48117d2b5c4a3bd29bfdc8d6b443074efa99f35ad87ea9c45cc"
+    },
+    {
+      "path": "production/2026-10-24_参考广告主图/image-manifest.json",
+      "sha256": "fc8dbcc8589fdcd14dee8be1bccf6b97b1751e501eae0e30063c6a150953b5d7"
+    }
+  ],
+  "revisions": [
+    "Initial cutout v001 failed due readonly Pillow buffer; v002 actual floodfill; root found shadow remnants; v003 alpha-only thread/background and 1px outer-edge cleanup reused globally.",
+    "M06 added large left scene product and smaller right SKU; D01 product raised to ledge.",
+    "M04/D04/D07 removed internal production explanations from consumer copy.",
+    "D09 top3 windows changed to contain complete front/rear and original side body crop; lower content unchanged.",
+    "D08 increased primary product prominence; no geometry redraw."
+  ],
+  "production_state": "FROZEN_CANDIDATES_AWAITING_ROOT_FINAL_QA",
+  "generation_count": 4,
+  "disk_receipt": {
+    "generated_approx_MiB": 183,
+    "filesystem_available": "1.6TiB",
+    "capacity_percent": 15,
+    "action": "Retained all source, prior and evidentiary intermediate files; no deletion."
+  },
+  "self_review": {
+    "scope": "All 22 selected independent designs via actual full image or labelled full-frame contact views; revised areas full readable crop; 12 long-image joins actually viewed. Root separately opens final JPGs and references.",
+    "claim_limit": "Internal visual review is not user/customer acceptance, industrial geometry matching or exact generated-nozzle mapping.",
+    "water_policy": "Actual water/pressed-state source photos with uniform crops only, no individual mode assignment."
+  }
+}

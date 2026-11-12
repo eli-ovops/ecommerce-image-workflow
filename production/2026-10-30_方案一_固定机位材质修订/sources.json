@@ -1,0 +1,17 @@
+[
+  {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-30_方案一_铜棕重构/铜棕代表图.blend",
+    "sha256": "a9689b31c499115552f032e4171a5b2cf719c4548bb6d9ad15b53460de25e11f",
+    "use": "native editable scene"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/结构基准20261027/原件/微信图片_20261027161234_348_2.jpg",
+    "sha256": "5de2ef8512ef69e1ca5113d0c4742ce473b6a1783f90dfe90b8673437e4d8d9a",
+    "use": "visual reference only; no photo pixels in render"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/结构基准20261027/原件/微信图片_20261027161143_339_2.jpg",
+    "sha256": "3cd5202fa1d5229a9a0ea3813852b408c8e255e634bf7c80c64e950a03f3a8f8",
+    "use": "visual reference only; no photo pixels in render"
+  }
+]

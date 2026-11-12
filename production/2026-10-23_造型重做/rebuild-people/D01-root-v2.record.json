@@ -1,0 +1,24 @@
+{
+  "id": "D01",
+  "prompt": "Precise LOCAL PRODUCT ONLY correction to image1, preserve every pixel of both women identity/face/skin/hair/clothing/poses/hand/typography/blue layout/two scenes, no skin editing. ONLY rebuild upper large showerhead blackFACE interior surface that contains broken/mergedwhiteports and grayclosedloops aroundredcenter. Actualphoto2 is exact physical pattern: lowflush uniform circular whiteeyelets spaced distinct/clean, each with one rounddarkcenter; continuousmatte blackspace, fineblackoutermicroholerings, redraisedcenter ring unchanged; NOgrayblob/closedcaps/twinnedbrokeneyelets/streaks/whitepillars. Keep upperchrome outer silhouette/headangle/shallowSneck/grip and lowerbutton asimage1; don'tmoveproduct/person. Do nottouch lower scene. End actualsilverbarethread retained. Never turn circularhead into differentproduct. Alltext unchanged.",
+  "referenced_image_paths": [
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/D01-rebuild-v1.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/silver-side-v1.png"
+  ],
+  "actual_viewed_related_originals": [
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/D01-rebuild-v1.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/silver-side-v1.png"
+  ],
+  "date": "2026-10-23",
+  "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+  "status": "RECOVERED_AFTER_CRASH_QA_PENDING",
+  "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/D01-root-v2.png",
+  "raw_output": "/Users/USER/.codex/generated_images/01a16319-d848-71d0-95e1-72970644c800/exec-fb75c27c-9560-4e5a-a75f-0767f905c793.png",
+  "sha256": "d74bbf2fad5a6dc83f3a2452b2fa76c53d1c9fa9216f9f2ff2ee57641ed85099",
+  "actual_dimensions": [
+    900,
+    1748
+  ]
+}

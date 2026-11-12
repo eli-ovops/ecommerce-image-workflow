@@ -1,0 +1,1640 @@
+{
+  "date": "2026-10-24",
+  "goal": "完整无模特电商套图，74参考全量适用任务去重覆盖，不以3张试稿结题。",
+  "reference_read_receipt": "production/2026-10-22_参考重构/reference-map.md:31-37",
+  "total_reference_entries": 74,
+  "independent_image_count": 22,
+  "long_combinations": 2,
+  "entries": [
+    {
+      "reference_id": "R001",
+      "original_scene": "棕金托盘上的斜置整套",
+      "original_layout": "斜轴大主体、四角贴片、底部双标题带",
+      "source_slots": [
+        "M02"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "M02"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "可改编；取消软管支架和赠送贴，换正背侧局部角标；增压/耐摔/速发无依据",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "M02",
+          "finding": "暖金斜托盘、大幅斜向主体、局部小窗及底部双色标题带；保留R001明暗与层级，取消配件及促销承诺。复用已审JPG。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "R002",
+      "original_scene": "手持方头切档示范",
+      "original_layout": "右侧巨幅主体、左列四个水型小窗",
+      "source_slots": [
+        "M04"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "M04"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "可改编；四档改三档，去喷枪",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "M04",
+          "finding": "暖棕左右分栏、三档名称卡与一张真实出水照片；没有把照片绑定某一档，底带只写出水实拍。v005删除制作解释。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "R003",
+      "original_scene": "暖木浴室人物喷淋",
+      "original_layout": "上部人物、右中文字、底部肤感特写横带",
+      "source_slots": [
+        "V01"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D04",
+        "M06"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。 人物改为商品主体，保留场景光色和版式关系；原人像/身体作用不进入成品。",
+      "source_prohibitions": "可改编；不写增压、养肤、SPA功效；底条换水滴可见外观",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D04",
+          "finding": "两条黑框真实出水照片、蓝色01/02序号条、独立三档名称；照片只标实拍视角，底文改为下方按键切换三档。"
+        },
+        {
+          "id": "M06",
+          "finding": "暖浴室占左侧主要面积，斜向大商品与右侧白底小单品形成主次；继承R008场景/单品并栏，人物已取消。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "R004",
+      "original_scene": "黑金空间斜向产品及蓝光内部",
+      "original_layout": "大头截边、横向水束、底部红金标题条",
+      "source_slots": [
+        "M07"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "M07"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "视觉可改编；禁内部增压结构、证书和保证退款，水束按实拍",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "M07",
+          "finding": "黑金光带、大面板斜向商品、红金底标题与红钮细节窗；用可见外观替代原内部特效/证件。复用已审JPG。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "R005",
+      "original_scene": "两名人物左右对照",
+      "original_layout": "左亮右灰、斜底说明牌",
+      "source_slots": [
+        "D10"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D05"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "原参考低水压/竞品性能比较无依据，合并入D07双按钮识别。",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D05",
+          "finding": "下方按键大近景配右侧三步操作和分工卡；不照搬六档、旋转拨片、安装支架或皮肤机制。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "R006",
+      "original_scene": "卫生间清洁与喷枪细节",
+      "original_layout": "厕所占上部、下部背面+手指按键、小标卡",
+      "source_slots": [
+        "D16"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D05"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "结构可改编；无喷枪功能，不画冲厕/测试次数；换真实切档操作",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D05",
+          "finding": "下方按键大近景配右侧三步操作和分工卡；不照搬六档、旋转拨片、安装支架或皮肤机制。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "R007",
+      "original_scene": "贴近面板的斜向出水",
+      "original_layout": "几乎全画幅微距、底部半透明文字带",
+      "source_slots": [
+        "D06"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D04"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "可改编；去尺寸孔径，不复制方形头",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D04",
+          "finding": "两条黑框真实出水照片、蓝色01/02序号条、独立三档名称；照片只标实拍视角，底文改为下方按键切换三档。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "R008",
+      "original_scene": "人物体验与白底SKU并排",
+      "original_layout": "左约三分之二场景、右窄白栏单品+字",
+      "source_slots": [
+        "M06"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "M06"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "可改编；右栏单花洒无支架，去增压热水器加压字",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "M06",
+          "finding": "暖浴室占左侧主要面积，斜向大商品与右侧白底小单品形成主次；继承R008场景/单品并栏，人物已取消。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "R009",
+      "original_scene": "棕金托盘套装广告",
+      "original_layout": "与R001相同",
+      "source_slots": [
+        "M02"
+      ],
+      "disposition": "DUPLICATE_MERGED",
+      "outputs": [
+        "M02"
+      ],
+      "reason": "R001重复来源，合并至M02。",
+      "source_prohibitions": "可改编；与R001相同限制，不能计为新增独特设计",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "M02",
+          "finding": "暖金斜托盘、大幅斜向主体、局部小窗及底部双色标题带；保留R001明暗与层级，取消配件及促销承诺。复用已审JPG。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "R010",
+      "original_scene": "蓝调夜景品牌建筑",
+      "original_layout": "上部天空大留白、中部斜屋檐、底部两栏服务",
+      "source_slots": [
+        "V06"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D09"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "结构可改编；不伪造工厂门店品牌/客服/发货承诺",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D09",
+          "finding": "六格外观图鉴与六项已知事实卡；v005上排为完整正面、背面及侧面实拍，下面保留孔位/按键/红钮。无未知参数。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "R011",
+      "original_scene": "六格高端室内拼贴",
+      "original_layout": "大标题、2×3场景网格、底部图标说明",
+      "source_slots": [
+        "V06"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D09"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "结构可改编；禁品牌官方正品/质保/配送；不暗示工厂",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D09",
+          "finding": "六格外观图鉴与六项已知事实卡；v005上排为完整正面、背面及侧面实拍，下面保留孔位/按键/红钮。无未知参数。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "R012",
+      "original_scene": "三张竖卡优势总览",
+      "original_layout": "白底居中标题、等宽三卡、浅金底签",
+      "source_slots": [
+        "M08"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "M08"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "可改编；不沿用通用接口规格或增压能力",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "M08",
+          "finding": "暖棕三竖卡与统一大标题，分别展示三档、下方按键、中央红钮；按压卡采用实拍，不推导清洁效果。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "R013",
+      "original_scene": "暖浴室人物首屏",
+      "original_layout": "人物居右、巨大斜水束占左、底部嵌入下节卡片",
+      "source_slots": [
+        "V01"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D04",
+        "M06"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。 人物改为商品主体，保留场景光色和版式关系；原人像/身体作用不进入成品。",
+      "source_prohibitions": "可改编；去低水压推荐、增压功效；水源接口出画",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D04",
+          "finding": "两条黑框真实出水照片、蓝色01/02序号条、独立三档名称；照片只标实拍视角，底文改为下方按键切换三档。"
+        },
+        {
+          "id": "M06",
+          "finding": "暖浴室占左侧主要面积，斜向大商品与右侧白底小单品形成主次；继承R008场景/单品并栏，人物已取消。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "R014",
+      "original_scene": "棕黑渐变标题过渡段",
+      "original_layout": "中轴两行标题、胶囊、下双列文字",
+      "source_slots": [
+        "V07"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "L02"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "可改编；去专利/新品年份/四功能/AIR技术",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "L02",
+          "finding": "M02、M04、M08、W01、W02组成暖棕路线；裁掉M08重复上标题，商品/操作内容保留。已打开全长总览及4处接缝。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "R015",
+      "original_scene": "大幅水流与证书台面",
+      "original_layout": "上三分之二斜向出水、底三分之一小图群",
+      "source_slots": [
+        "V01"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D04",
+        "M06"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。 人物改为商品主体，保留场景光色和版式关系；原人像/身体作用不进入成品。",
+      "source_prohibitions": "结构可改编；全部证书检测图标禁用，替代为可见外观",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D04",
+          "finding": "两条黑框真实出水照片、蓝色01/02序号条、独立三档名称；照片只标实拍视角，底文改为下方按键切换三档。"
+        },
+        {
+          "id": "M06",
+          "finding": "暖浴室占左侧主要面积，斜向大商品与右侧白底小单品形成主次；继承R008场景/单品并栏，人物已取消。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "R016",
+      "original_scene": "白底问题页",
+      "original_layout": "上棕色气泡、中央问题、下2×2灰图警示",
+      "source_slots": [
+        "V06"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D09"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "结构可改编；不编竞品伤身/故障问题、不制造健康恐惧",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D09",
+          "finding": "六格外观图鉴与六项已知事实卡；v005上排为完整正面、背面及侧面实拍，下面保留孔位/按键/红钮。无未知参数。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "R017",
+      "original_scene": "棕金五块功能拼版",
+      "original_layout": "左上高卡、右上下两卡、下方两横卡",
+      "source_slots": [
+        "D05"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D03"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "可改编；去机械增压/耐摔/材质/接口承诺",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D03",
+          "finding": "冷蓝五窗细节，出水大窗配红钮/白孔小窗及双底窗；大小窗关系清楚。水流直接使用SIL009原照片。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "R018",
+      "original_scene": "斜水流照片与标题",
+      "original_layout": "上约2/3照片，下白区黑棕两行标题小字",
+      "source_slots": [
+        "V01"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D04",
+        "M06"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。 人物改为商品主体，保留场景光色和版式关系；原人像/身体作用不进入成品。",
+      "source_prohibitions": "可改编；删0.3mm/40%/黑科技",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D04",
+          "finding": "两条黑框真实出水照片、蓝色01/02序号条、独立三档名称；照片只标实拍视角，底文改为下方按键切换三档。"
+        },
+        {
+          "id": "M06",
+          "finding": "暖浴室占左侧主要面积，斜向大商品与右侧白底小单品形成主次；继承R008场景/单品并栏，人物已取消。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "R019",
+      "original_scene": "侧脸闭眼淋浴体验",
+      "original_layout": "无字满幅人物侧脸、顶部水滴",
+      "source_slots": [
+        "D09"
+      ],
+      "disposition": "EXCLUDED_PORTRAIT",
+      "outputs": [],
+      "reason": "此项原为人物/肤感停顿；用户取消模特，不生成该人像任务。浴室光色可并入D01，不声称保留人物构图。",
+      "source_prohibitions": "可改编；不写功效，不复现不合适裸露",
+      "coverage_status": "PENDING_FINAL_VISUAL_CHECK"
+    },
+    {
+      "reference_id": "R020",
+      "original_scene": "新旧肤感比较",
+      "original_layout": "两张近景横排、下两行说明",
+      "source_slots": [
+        "D10"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D05"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "AIR与刺痛/亲肤暗示无依据；用真实两按钮分工替代。",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D05",
+          "finding": "下方按键大近景配右侧三步操作和分工卡；不照搬六档、旋转拨片、安装支架或皮肤机制。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "R021",
+      "original_scene": "上下横条水流比较",
+      "original_layout": "棕底白框、上亮下灰两条",
+      "source_slots": [
+        "D10"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D05"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "新旧强弱比较无依据；合并入D07双按钮区，两格等亮度。",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D05",
+          "finding": "下方按键大近景配右侧三步操作和分工卡；不照搬六档、旋转拨片、安装支架或皮肤机制。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "R022",
+      "original_scene": "干态人物与手持商品",
+      "original_layout": "左大字+前景商品、右人物托腮、台面落点",
+      "source_slots": [
+        "V02"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "M06"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。 人物改为商品主体，保留场景光色和版式关系；原人像/身体作用不进入成品。",
+      "source_prohibitions": "可改编；四改三、去国旗，商品保持真比例",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "M06",
+          "finding": "暖浴室占左侧主要面积，斜向大商品与右侧白底小单品形成主次；继承R008场景/单品并栏，人物已取消。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "R023",
+      "original_scene": "四模式纵向条卡",
+      "original_layout": "白底四棕色圆角横窗、左产品右标题",
+      "source_slots": [
+        "D08"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D04"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "可改编；删第四喷枪，正常水量",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D04",
+          "finding": "两条黑框真实出水照片、蓝色01/02序号条、独立三档名称；照片只标实拍视角，底文改为下方按键切换三档。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "R024",
+      "original_scene": "水垢痛点三栏",
+      "original_layout": "警示标题+下三列灰度照片",
+      "source_slots": [
+        "V04"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "W01"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "结构可改编；删硬水健康危害/寿命断言，不能捏造堵塞前后",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "W01",
+          "finding": "夕阳沙纹、大面板特写、暖色粗标题及真实按压操作小窗；借鉴R024/28暖景，未制造水垢前后或健康危害。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "R025",
+      "original_scene": "浅灰短文字桥",
+      "original_layout": "左对齐两行标题+细说明、大留白",
+      "source_slots": [
+        "D07"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D05"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "可改编；删116mm/媲美顶喷/润护",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D05",
+          "finding": "下方按键大近景配右侧三步操作和分工卡；不照搬六档、旋转拨片、安装支架或皮肤机制。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "R026",
+      "original_scene": "明亮白浴室回眸人物",
+      "original_layout": "人物居右回头、左上手持与斜水束",
+      "source_slots": [
+        "D11"
+      ],
+      "disposition": "EXCLUDED_PORTRAIT",
+      "outputs": [],
+      "reason": "此项原为人物/肤感停顿；用户取消模特，不生成该人像任务。浴室光色可并入D01，不声称保留人物构图。",
+      "source_prohibitions": "可改编；不把毛巾人物当实测",
+      "coverage_status": "PENDING_FINAL_VISUAL_CHECK"
+    },
+    {
+      "reference_id": "R027",
+      "original_scene": "黑底蓝紫爆炸科技图",
+      "original_layout": "面板前后错层、斜金光线、水花、底部三标签",
+      "source_slots": [
+        "V03"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D06",
+        "M07"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "视觉可改编；禁虚构内部、机械增压和材质分层；底签写可见部位",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D06",
+          "finding": "冷蓝侧背展示，大背面加三局部小窗，实际侧照约束曲面；背壳没有额外圆斑或喷枪结构，没有过滤内部示意。"
+        },
+        {
+          "id": "M07",
+          "finding": "黑金光带、大面板斜向商品、红金底标题与红钮细节窗；用可见外观替代原内部特效/证件。复用已审JPG。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "R028",
+      "original_scene": "沙地暖景面板特写",
+      "original_layout": "上标题、中巨头、底白卡动作示意",
+      "source_slots": [
+        "V04"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "W01"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "可改编；不揉捏孔、不写抗菌抗老化/硅胶已核",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "W01",
+          "finding": "夕阳沙纹、大面板特写、暖色粗标题及真实按压操作小窗；借鉴R024/28暖景，未制造水垢前后或健康危害。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "R029",
+      "original_scene": "黑金镀层卷起剖面",
+      "original_layout": "中央卷层巨物、引线、下红车",
+      "source_slots": [
+        "V03"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D06",
+        "M07"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "视觉可改编；禁航空级/瑞士/ABS及镀层顺序/耐刮证明",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D06",
+          "finding": "冷蓝侧背展示，大背面加三局部小窗，实际侧照约束曲面；背壳没有额外圆斑或喷枪结构，没有过滤内部示意。"
+        },
+        {
+          "id": "M07",
+          "finding": "黑金光带、大面板斜向商品、红金底标题与红钮细节窗；用可见外观替代原内部特效/证件。复用已审JPG。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "R030",
+      "original_scene": "深棕配件标题短屏",
+      "original_layout": "左标题、下两组大数字",
+      "source_slots": [
+        "V07"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "L02"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "结构可改编；不售软管，1.5m/2m禁用，原标题与正文冲突不可沿袭",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "L02",
+          "finding": "M02、M04、M08、W01、W02组成暖棕路线；裁掉M08重复上标题，商品/操作内容保留。已打开全长总览及4处接缝。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "R031",
+      "original_scene": "金水面盘绕软管",
+      "original_layout": "中间大曲线主体、下三微距窗",
+      "source_slots": [
+        "V05"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "W02"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "视觉可改编；删软管/拉伸/防爆/承重场景",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "W02",
+          "finding": "棕金岩石舞台、斜向单品及深棕底部标题带；保留R033氛围与主体关系，不标未知尺寸、不含软管。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "R032",
+      "original_scene": "支架与安装步骤",
+      "original_layout": "左大主体、右三步竖排、下三功能格",
+      "source_slots": [
+        "D16"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D05"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "结构可改编；不画支架安装/粘贴/防漏/承重测试",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D05",
+          "finding": "下方按键大近景配右侧三步操作和分工卡；不照搬六档、旋转拨片、安装支架或皮肤机制。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "R033",
+      "original_scene": "岩石谷地中的正面单品",
+      "original_layout": "上标题、中央单品、两条尺寸线",
+      "source_slots": [
+        "V05"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "W02"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "可改编；不写未知116/255尺寸",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "W02",
+          "finding": "棕金岩石舞台、斜向单品及深棕底部标题带；保留R033氛围与主体关系，不标未知尺寸、不含软管。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "R034",
+      "original_scene": "深底白参数卡",
+      "original_layout": "上四枚圆徽、下2列3行表",
+      "source_slots": [
+        "D18"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D09"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "可改编；去服务承诺、ABS、4分接口、一键止水和错误尺寸栏",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D09",
+          "finding": "六格外观图鉴与六项已知事实卡；v005上排为完整正面、背面及侧面实拍，下面保留孔位/按键/红钮。无未知参数。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "R035",
+      "original_scene": "灰色品牌服务收尾",
+      "original_layout": "手托发光字、两条深卡各三图标、下水效证件",
+      "source_slots": [
+        "V06"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D09"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "结构可改编；禁品牌服务/水效证件/退换政策",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D09",
+          "finding": "六格外观图鉴与六项已知事实卡；v005上排为完整正面、背面及侧面实拍，下面保留孔位/按键/红钮。无未知参数。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A001",
+      "original_scene": "冷蓝整套图联系表",
+      "original_layout": "上排五张主图、下排四SKU，末格白底跨行",
+      "source_slots": [
+        "ASSEMBLY_OVERVIEW"
+      ],
+      "disposition": "COLLECTION",
+      "outputs": [
+        "L01",
+        "L02"
+      ],
+      "reason": "原SKU/主图总览为集合，整组预览承接，不另生图。",
+      "source_prohibitions": "合并为交付总览；去滤芯、粉色第四色、六档与假参数",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "L01",
+          "finding": "D01至D09按首屏、选色、细节、出水、切档、侧背、除垢、静物、信息收尾排序；已打开全长总览及8处接缝，未见裁字/白缝。"
+        },
+        {
+          "id": "L02",
+          "finding": "M02、M04、M08、W01、W02组成暖棕路线；裁掉M08重复上标题，商品/操作内容保留。已打开全长总览及4处接缝。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A002",
+      "original_scene": "蓝色银色SKU图",
+      "original_layout": "右大竖单品、左模式窗、外围尺寸线",
+      "source_slots": [
+        "K01"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "K01"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "可改编；去透明滤芯/六档/材质数值，SKU原则仅色名单品时将模式放公共说明页",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "K01",
+          "finding": "蓝色SKU模板、大主体右置、左侧层级字卡；银色由本SKU来源层复用，裸螺纹银色，底端白色残影已清理。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A003",
+      "original_scene": "蓝底黑色SKU",
+      "original_layout": "右黑色主体、左六窗、独立滤芯",
+      "source_slots": [
+        "K02"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "K02"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "可改编；去滤芯/参数/六档，公共模式另页",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "K02",
+          "finding": "与K01保持相同模板与字级；使用黑色SKU来源层，非银色换色。黑色螺纹与尾部边界已核。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A004",
+      "original_scene": "蓝底枪灰SKU",
+      "original_layout": "右灰色产品与左模式窗",
+      "source_slots": [
+        "K03"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "K03"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "可改编；不直接银色换色；去参考假参数/透明柄",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "K03",
+          "finding": "与K01保持相同模板与字级；使用枪灰色SKU来源层，保留本色光泽。深色螺纹与尾部边界已核。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A005",
+      "original_scene": "蓝底粉紫SKU",
+      "original_layout": "右粉紫环产品、透明珠柄、左模式窗",
+      "source_slots": [
+        "K01"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "K01"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "合并非售颜色；只借模板，粉色/珠子过滤不存在",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "K01",
+          "finding": "蓝色SKU模板、大主体右置、左侧层级字卡；银色由本SKU来源层复用，裸螺纹银色，底端白色残影已清理。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A006",
+      "original_scene": "冷蓝时尚人物首屏",
+      "original_layout": "上大标题、下圆角框、人物手部与商品越框",
+      "source_slots": [
+        "D01"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D01"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。 人物改为商品主体，保留场景光色和版式关系；原人像/身体作用不进入成品。",
+      "source_prohibitions": "可改编；去过滤功效，文字写三档/按压除垢或银色外观",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D01",
+          "finding": "冷蓝浴室首屏、大幅斜向商品、双细节底带；顶部标题留白，尾部落在台面，借鉴A006/7/9/10的场景与信息节奏，取消人物。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A007",
+      "original_scene": "冷蓝横向时尚人物",
+      "original_layout": "左人物举花洒、右留白说明，圆角底",
+      "source_slots": [
+        "D02"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D01"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。 人物改为商品主体，保留场景光色和版式关系；原人像/身体作用不进入成品。",
+      "source_prohibitions": "可改编；不用艺术品/卓越效果作验证，陈述外观",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D01",
+          "finding": "冷蓝浴室首屏、大幅斜向商品、双细节底带；顶部标题留白，尾部落在台面，借鉴A006/7/9/10的场景与信息节奏，取消人物。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A008",
+      "original_scene": "三色漂浮相册",
+      "original_layout": "三件错位斜置突破白框，底部社交图标",
+      "source_slots": [
+        "D03"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D02"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "可改编；无粉色/滤芯，去无意义社交动作图标可留版框",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D02",
+          "finding": "三色错落相册，银色居中较高、两侧错位，白框与色签可读；没有粉色/滤芯，黑色标签未裁字。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A009",
+      "original_scene": "蓝浴室产品与人物",
+      "original_layout": "大商品左前景、右下侧脸、上左文",
+      "source_slots": [
+        "D04"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D01"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。 人物改为商品主体，保留场景光色和版式关系；原人像/身体作用不进入成品。",
+      "source_prohibitions": "可改编；去过滤/增压/亲肤功效；裸接口出画",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D01",
+          "finding": "冷蓝浴室首屏、大幅斜向商品、双细节底带；顶部标题留白，尾部落在台面，借鉴A006/7/9/10的场景与信息节奏，取消人物。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A010",
+      "original_scene": "肩部水滴与接口局部",
+      "original_layout": "横幅左金属件右人物背肩",
+      "source_slots": [
+        "D04"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D01"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。 人物改为商品主体，保留场景光色和版式关系；原人像/身体作用不进入成品。",
+      "source_prohibitions": "结构可改编；所售无墙装配件；不做人体功效暗示",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D01",
+          "finding": "冷蓝浴室首屏、大幅斜向商品、双细节底带；顶部标题留白，尾部落在台面，借鉴A006/7/9/10的场景与信息节奏，取消人物。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A011",
+      "original_scene": "冷蓝五细节拼版",
+      "original_layout": "左大水流卡、右二卡、底双卡",
+      "source_slots": [
+        "D05"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D03"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "可改编；去过滤剖面/喷枪/六档旋钮",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D03",
+          "finding": "冷蓝五窗细节，出水大窗配红钮/白孔小窗及双底窗；大小窗关系清楚。水流直接使用SIL009原照片。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A012",
+      "original_scene": "白底标题和巨幅水帘",
+      "original_layout": "上三图标、中水平比较线、下满幅水流",
+      "source_slots": [
+        "D06"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D04"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "结构可改编；去500%/低压场景/止痛功效与竞品对比",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D04",
+          "finding": "两条黑框真实出水照片、蓝色01/02序号条、独立三档名称；照片只标实拍视角，底文改为下方按键切换三档。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A013",
+      "original_scene": "近水平头部向上出水",
+      "original_layout": "低机位侧厚占横幅，水纹底景",
+      "source_slots": [
+        "D06"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D04"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "可改编；不为构图把水流变柱状放大",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D04",
+          "finding": "两条黑框真实出水照片、蓝色01/02序号条、独立三档名称；照片只标实拍视角，底文改为下方按键切换三档。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A014",
+      "original_scene": "蓝色功能标题与面板上半部",
+      "original_layout": "左上两行文，下方大圆头被截断",
+      "source_slots": [
+        "D07"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D05"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "可改编；六改三、删增压技术/不刺痛",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D05",
+          "finding": "下方按键大近景配右侧三步操作和分工卡；不照搬六档、旋转拨片、安装支架或皮肤机制。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A015",
+      "original_scene": "手持面板及弧线数字",
+      "original_layout": "圆头占上部、颈部弧线1-6、右数字列",
+      "source_slots": [
+        "D07"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D05"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "可改编；不暗示旋转六档、120孔/125mm",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D05",
+          "finding": "下方按键大近景配右侧三步操作和分工卡；不照搬六档、旋转拨片、安装支架或皮肤机制。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A016",
+      "original_scene": "黑底水型两条卡",
+      "original_layout": "白外底、蓝斜角01/02、两黑窗",
+      "source_slots": [
+        "D08"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D04"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "可改编；删亲肤补水含氧字",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D04",
+          "finding": "两条黑框真实出水照片、蓝色01/02序号条、独立三档名称；照片只标实拍视角，底文改为下方按键切换三档。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A017",
+      "original_scene": "黑底三模式续卡",
+      "original_layout": "三条黑圆角卡、蓝03/04/05",
+      "source_slots": [
+        "D08"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D04"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "合并三档；脉冲/混合1/清污不可增加",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D04",
+          "finding": "两条黑框真实出水照片、蓝色01/02序号条、独立三档名称；照片只标实拍视角，底文改为下方按键切换三档。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A018",
+      "original_scene": "第六模式与蓝色文字桥",
+      "original_layout": "上黑卡、下蓝底标题副文",
+      "source_slots": [
+        "D08"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D04"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "结构可改编；去喷枪/AIR/水珠饱满功效",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D04",
+          "finding": "两条黑框真实出水照片、蓝色01/02序号条、独立三档名称；照片只标实拍视角，底文改为下方按键切换三档。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A019",
+      "original_scene": "蓝浴室正面洗发场景",
+      "original_layout": "人物居下中，花洒头上方斜置、双臂构图",
+      "source_slots": [
+        "D09"
+      ],
+      "disposition": "EXCLUDED_PORTRAIT",
+      "outputs": [],
+      "reason": "此项原为人物/肤感停顿；用户取消模特，不生成该人像任务。浴室光色可并入D01，不声称保留人物构图。",
+      "source_prohibitions": "可改编；人物非实测，水流正常范围",
+      "coverage_status": "PENDING_FINAL_VISUAL_CHECK"
+    },
+    {
+      "reference_id": "A020",
+      "original_scene": "水珠与皮肤剖面比较",
+      "original_layout": "左右两示意+中VS、蓝灰下文字卡",
+      "source_slots": [
+        "D10"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D05"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "结构可改编；禁皮肤层科学图/刺痛护肤和AIR机制",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D05",
+          "finding": "下方按键大近景配右侧三步操作和分工卡；不照搬六档、旋转拨片、安装支架或皮肤机制。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A021",
+      "original_scene": "巨幅头部顶淋人物",
+      "original_layout": "上标题、横贯头部、竖直水帘、底人物",
+      "source_slots": [
+        "D11"
+      ],
+      "disposition": "EXCLUDED_PORTRAIT",
+      "outputs": [],
+      "reason": "此项原为人物/肤感停顿；用户取消模特，不生成该人像任务。浴室光色可并入D01，不声称保留人物构图。",
+      "source_prohibitions": "可改编；删125mm/覆盖全身功效，不能把真实手持变顶喷套装",
+      "coverage_status": "PENDING_FINAL_VISUAL_CHECK"
+    },
+    {
+      "reference_id": "A022",
+      "original_scene": "蓝灰面板大小比较",
+      "original_layout": "顶部蓝气泡、两列产品和尺寸、底功能栏",
+      "source_slots": [
+        "D12"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D06"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "结构可改编；禁止125/75mm、竞品堵塞与性能差",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D06",
+          "finding": "冷蓝侧背展示，大背面加三局部小窗，实际侧照约束曲面；背壳没有额外圆斑或喷枪结构，没有过滤内部示意。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A023",
+      "original_scene": "蓝色滤芯爆炸结构",
+      "original_layout": "右大商品、左分层过滤板与箭头",
+      "source_slots": [
+        "D13"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D06"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "视觉可改编；不画滤芯/细菌阻隔/净水健康，无透明柄",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D06",
+          "finding": "冷蓝侧背展示，大背面加三局部小窗，实际侧照约束曲面；背壳没有额外圆斑或喷枪结构，没有过滤内部示意。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A024",
+      "original_scene": "滤芯时间序列与水杯比较",
+      "original_layout": "上三根滤芯123、下两杯前后",
+      "source_slots": [
+        "D14"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D07"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "结构可改编；无过滤寿命/除氯实验/污水变清水",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D07",
+          "finding": "三步横条与两张原生未按/按压照片；短红针状态来自SIL005/6。v005底文仅保留手动按压辅助清理出水孔。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A025",
+      "original_scene": "大面板手指揉孔",
+      "original_layout": "上标题、右三图标、下手指大近景",
+      "source_slots": [
+        "D14"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D07"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "可改编；不用揉孔、硅胶/抗菌/久用不堵",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D07",
+          "finding": "三步横条与两张原生未按/按压照片；短红针状态来自SIL005/6。v005底文仅保留手动按压辅助清理出水孔。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A026",
+      "original_scene": "软孔按压示意横卡",
+      "original_layout": "上手柄局部、下白示意卡与蓝底条",
+      "source_slots": [
+        "D14"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D07"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "结构可改编；禁抗菌/回弹/抗老化；短针按实际94图",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D07",
+          "finding": "三步横条与两张原生未按/按压照片；短红针状态来自SIL005/6。v005底文仅保留手动按压辅助清理出水孔。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A027",
+      "original_scene": "蓝色喷枪背面双角度",
+      "original_layout": "标题上方、背面大圆盘与侧厚浮窗",
+      "source_slots": [
+        "D15"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D06"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "视觉可改编；无喷枪喷口和清污水流",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D06",
+          "finding": "冷蓝侧背展示，大背面加三局部小窗，实际侧照约束曲面；背壳没有额外圆斑或喷枪结构，没有过滤内部示意。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A028",
+      "original_scene": "四种清洁场景",
+      "original_layout": "白圆角底、2×2图卡、蓝色脚签",
+      "source_slots": [
+        "D16"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D05"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "结构可改编；不画喷枪冲厕/拖把等未支持用途",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D05",
+          "finding": "下方按键大近景配右侧三步操作和分工卡；不照搬六档、旋转拨片、安装支架或皮肤机制。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A029",
+      "original_scene": "手柄与测试数字",
+      "original_layout": "右斜柄出画、左三巨大蓝数字",
+      "source_slots": [
+        "D17"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D08"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "可改编；禁ABS、耐摔硬度循环测试",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D08",
+          "finding": "灰蓝岩石台面斜置大单品、上部大标题与两细节底窗；无撞击/耐摔/材质/尺寸承诺。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A030",
+      "original_scene": "撞裂地面与安装标题",
+      "original_layout": "上冲击特写、下白标题",
+      "source_slots": [
+        "D17"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D08"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "视觉可改编；不画撞碎地面耐摔证明、不承诺99%安装",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D08",
+          "finding": "灰蓝岩石台面斜置大单品、上部大标题与两细节底窗；无撞击/耐摔/材质/尺寸承诺。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A031",
+      "original_scene": "透明手柄接口大特写",
+      "original_layout": "蓝圆角底、斜向手柄、左上图标、右下气泡",
+      "source_slots": [
+        "D17"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D08"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "可改编；无滤芯透明柄、4分/99%/防漏承诺",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D08",
+          "finding": "灰蓝岩石台面斜置大单品、上部大标题与两细节底窗；无撞击/耐摔/材质/尺寸承诺。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A032",
+      "original_scene": "白底尺寸图",
+      "original_layout": "竖单品居中、上标题、左右尺寸线",
+      "source_slots": [
+        "D18"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D09"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "可改编；不写125/270等未知数字",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D09",
+          "finding": "六格外观图鉴与六项已知事实卡；v005上排为完整正面、背面及侧面实拍，下面保留孔位/按键/红钮。无未知参数。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A033",
+      "original_scene": "六格产品信息卡",
+      "original_layout": "浅灰圆角矩形、2列3行文字",
+      "source_slots": [
+        "D18"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D09"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "可改编；材质/接口未知不能填，不使用大面板增压防漏",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D09",
+          "finding": "六格外观图鉴与六项已知事实卡；v005上排为完整正面、背面及侧面实拍，下面保留孔位/按键/红钮。无未知参数。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A034",
+      "original_scene": "蓝色正背双主体广告",
+      "original_layout": "双头叠置、右喷枪浮窗、底红黄黑横条",
+      "source_slots": [
+        "M03"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "M03"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "可改编；删680%/净水/喷枪与过滤芯",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "M03",
+          "finding": "冷蓝竖纹背景、正背双主体、红钮细节窗及底部模式条；背壳无多余喷枪/圆斑，银色螺纹。复用已审JPG。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A035",
+      "original_scene": "方形除垢近景",
+      "original_layout": "面板占下2/3、手指从右入、右三标",
+      "source_slots": [
+        "M05"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "M05"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "可改编；删硅胶抗菌与长期不堵等",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "M05",
+          "finding": "蓝白面板大近景、粗标题与真实按压小窗；下方切档、中央手动除垢分工明确，没有把红钮写成档位开关。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A036",
+      "original_scene": "方形模式概览",
+      "original_layout": "左巨大面板+弧数字、右6小窗",
+      "source_slots": [
+        "M04"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "M04"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "可改编；六改三、去原旋转拨片；不新增模式",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "M04",
+          "finding": "暖棕左右分栏、三档名称卡与一张真实出水照片；没有把照片绑定某一档，底带只写出水实拍。v005删除制作解释。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A037",
+      "original_scene": "方形过滤结构",
+      "original_layout": "右直立商品+左分层芯、上标题",
+      "source_slots": [
+        "D13"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "D06"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "结构可改编；过滤芯/除菌/水质健康全禁，保留左右信息关系",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "D06",
+          "finding": "冷蓝侧背展示，大背面加三局部小窗，实际侧照约束曲面；背壳没有额外圆斑或喷枪结构，没有过滤内部示意。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A038",
+      "original_scene": "纯白无字单品",
+      "original_layout": "竖向三分之四单品居中、四周白留白",
+      "source_slots": [
+        "M01"
+      ],
+      "disposition": "ADAPTED_OR_MERGED",
+      "outputs": [
+        "M01"
+      ],
+      "reason": "按旧槽位的独立视觉任务去重，实际视觉须在最终图面再次核验；保留构图/光色/字级，未知商品事实不继承。",
+      "source_prohibitions": "可直接改编视觉；换真实不透明柄和黑面红钮",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "M01",
+          "finding": "白底完整单品，头颈连续、银色裸螺纹可见；保留A038单主体与留白。复用已审JPG，当前字节一致。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    },
+    {
+      "reference_id": "A039",
+      "original_scene": "完整蓝白长详情",
+      "original_layout": "人物首屏→三色→体验→功能索引→水流→模式→体验→外观/清洁→握柄→信息收尾，28切片",
+      "source_slots": [
+        "ASSEMBLY_DETAIL_SCROLL"
+      ],
+      "disposition": "COLLECTION",
+      "outputs": [
+        "L01"
+      ],
+      "reason": "原详情合集为集合，由冷蓝完整长图承接。",
+      "source_prohibitions": "整体可改编；所有禁止功能改为本商品真实模块，非原封复制宣称",
+      "coverage_status": "CHECKED_IN_CURRENT_SUITE",
+      "actual_output_observations": [
+        {
+          "id": "L01",
+          "finding": "D01至D09按首屏、选色、细节、出水、切档、侧背、除垢、静物、信息收尾排序；已打开全长总览及8处接缝，未见裁字/白缝。"
+        }
+      ],
+      "scope_of_check": "适用视觉任务经去重和事实替换后的承接检查；不是逐张复刻或原参考功能/结构真实性认可。"
+    }
+  ],
+  "water_mapping_user_answer": "暂不确定：保留三档名称，实拍不标具体档位",
+  "customer_acceptance": "UNKNOWN",
+  "reviewed_at": "2026-10-24T23:37:47+08:00"
+}

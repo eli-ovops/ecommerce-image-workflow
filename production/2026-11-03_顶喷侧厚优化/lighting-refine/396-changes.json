@@ -1,0 +1,36 @@
+{
+  "modified_windows": [
+    "face-pattern",
+    "reset-knob",
+    "full-reset-product"
+  ],
+  "preserved": [
+    "main-title",
+    "silver-side",
+    "connector-opening",
+    "real382-short-pins"
+  ],
+  "labels": "Same wording, rebuilt independent text in three corrected windows",
+  "photo_source": "Original372 rectified photograph",
+  "pin_state": "No added red pins; reset views only",
+  "boxes": [
+    [
+      24,
+      232,
+      463,
+      658
+    ],
+    [
+      480,
+      232,
+      916,
+      658
+    ],
+    [
+      25,
+      1094,
+      461,
+      1609
+    ]
+  ]
+}

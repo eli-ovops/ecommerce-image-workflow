@@ -1,0 +1,288 @@
+{
+  "created_at": "2026-11-04T12:51:54.121846+08:00",
+  "description": "用户提供的方形三键花洒竞品电商参考图片",
+  "count": 20,
+  "verification": "源文件与副本逐项 SHA-256 比对一致；副本逐项完整解码",
+  "files": [
+    {
+      "filename": "微信图片_20261104124257_493_2.jpg",
+      "source": "/Users/USER/Downloads/微信图片_20261104124257_493_2.jpg",
+      "saved_as": "原图/微信图片_20261104124257_493_2.jpg",
+      "bytes": 170235,
+      "sha256": "2dfa93af5ac902b9322d0ec63f793e9b638c38ab3b49ad1b7ae21e84fdffa621",
+      "source_copy_match": true,
+      "decoded": true,
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "filename": "微信图片_20261104124257_494_2.jpg",
+      "source": "/Users/USER/Downloads/微信图片_20261104124257_494_2.jpg",
+      "saved_as": "原图/微信图片_20261104124257_494_2.jpg",
+      "bytes": 210301,
+      "sha256": "701d6835bd2b8e4d322ba6cd1cadc12c98c642050d6121470a1ce1726dc863a1",
+      "source_copy_match": true,
+      "decoded": true,
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "filename": "微信图片_20261104124257_495_2.jpg",
+      "source": "/Users/USER/Downloads/微信图片_20261104124257_495_2.jpg",
+      "saved_as": "原图/微信图片_20261104124257_495_2.jpg",
+      "bytes": 143163,
+      "sha256": "46aa850995005c65077aa3b41d98bc8375b648529f909c54bf441ac3b8c22f45",
+      "source_copy_match": true,
+      "decoded": true,
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "filename": "微信图片_20261104124257_496_2.jpg",
+      "source": "/Users/USER/Downloads/微信图片_20261104124257_496_2.jpg",
+      "saved_as": "原图/微信图片_20261104124257_496_2.jpg",
+      "bytes": 177301,
+      "sha256": "d94a33c63d414a0203c855e2b2c4e00d1729d88fb53c47afb1431dfcc543bb2a",
+      "source_copy_match": true,
+      "decoded": true,
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "filename": "微信图片_20261104124257_497_2.jpg",
+      "source": "/Users/USER/Downloads/微信图片_20261104124257_497_2.jpg",
+      "saved_as": "原图/微信图片_20261104124257_497_2.jpg",
+      "bytes": 346151,
+      "sha256": "18bc16533ed2a4aad747b71139325d50768119873e72dc417c73057d30ac7a79",
+      "source_copy_match": true,
+      "decoded": true,
+      "format": "JPEG",
+      "dimensions": [
+        1300,
+        1300
+      ]
+    },
+    {
+      "filename": "微信图片_20261104124257_498_2.jpg",
+      "source": "/Users/USER/Downloads/微信图片_20261104124257_498_2.jpg",
+      "saved_as": "原图/微信图片_20261104124257_498_2.jpg",
+      "bytes": 348981,
+      "sha256": "90a67bc0c10e494ece827383ea2bad514293cb2ae3cd9b5b948ee2d0a196090c",
+      "source_copy_match": true,
+      "decoded": true,
+      "format": "JPEG",
+      "dimensions": [
+        1300,
+        1300
+      ]
+    },
+    {
+      "filename": "微信图片_20261104124257_499_2.jpg",
+      "source": "/Users/USER/Downloads/微信图片_20261104124257_499_2.jpg",
+      "saved_as": "原图/微信图片_20261104124257_499_2.jpg",
+      "bytes": 179873,
+      "sha256": "cfcccb8ea8e807b90900b7e0fd7c64fbef6cd332478cbaa0889636257b19b2d5",
+      "source_copy_match": true,
+      "decoded": true,
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "filename": "微信图片_20261104124257_500_2.jpg",
+      "source": "/Users/USER/Downloads/微信图片_20261104124257_500_2.jpg",
+      "saved_as": "原图/微信图片_20261104124257_500_2.jpg",
+      "bytes": 218746,
+      "sha256": "79c76a5246f92007d334c60d0657bcdf4584e2f706a68e2284e4412327f76231",
+      "source_copy_match": true,
+      "decoded": true,
+      "format": "JPEG",
+      "dimensions": [
+        790,
+        1197
+      ]
+    },
+    {
+      "filename": "微信图片_20261104124257_501_2.jpg",
+      "source": "/Users/USER/Downloads/微信图片_20261104124257_501_2.jpg",
+      "saved_as": "原图/微信图片_20261104124257_501_2.jpg",
+      "bytes": 96608,
+      "sha256": "b7e56b42160f538328093362377d2016767feae475684c9d94cbea94e393ab8f",
+      "source_copy_match": true,
+      "decoded": true,
+      "format": "JPEG",
+      "dimensions": [
+        790,
+        498
+      ]
+    },
+    {
+      "filename": "微信图片_20261104124257_502_2.jpg",
+      "source": "/Users/USER/Downloads/微信图片_20261104124257_502_2.jpg",
+      "saved_as": "原图/微信图片_20261104124257_502_2.jpg",
+      "bytes": 217621,
+      "sha256": "b57fc8ed86bf256158d3c175b7d672873b4deb762fee17f54c9b003e8e181818",
+      "source_copy_match": true,
+      "decoded": true,
+      "format": "JPEG",
+      "dimensions": [
+        790,
+        1275
+      ]
+    },
+    {
+      "filename": "微信图片_20261104124257_503_2.jpg",
+      "source": "/Users/USER/Downloads/微信图片_20261104124257_503_2.jpg",
+      "saved_as": "原图/微信图片_20261104124257_503_2.jpg",
+      "bytes": 288148,
+      "sha256": "1e11a9ec730c9cf371364d5fd3c047b157d60192ccab444176b226ce757cf759",
+      "source_copy_match": true,
+      "decoded": true,
+      "format": "JPEG",
+      "dimensions": [
+        790,
+        1441
+      ]
+    },
+    {
+      "filename": "微信图片_20261104124257_504_2.jpg",
+      "source": "/Users/USER/Downloads/微信图片_20261104124257_504_2.jpg",
+      "saved_as": "原图/微信图片_20261104124257_504_2.jpg",
+      "bytes": 221220,
+      "sha256": "e39758f7a6656d3052f59c0c75f6816c30951e39481997c0dc4176332a861f94",
+      "source_copy_match": true,
+      "decoded": true,
+      "format": "JPEG",
+      "dimensions": [
+        790,
+        1169
+      ]
+    },
+    {
+      "filename": "微信图片_20261104124257_505_2.jpg",
+      "source": "/Users/USER/Downloads/微信图片_20261104124257_505_2.jpg",
+      "saved_as": "原图/微信图片_20261104124257_505_2.jpg",
+      "bytes": 224219,
+      "sha256": "7b4866976951a5e3a3c085e0f24ac1357f1bf1e410ecf7a439c8fb6894664865",
+      "source_copy_match": true,
+      "decoded": true,
+      "format": "JPEG",
+      "dimensions": [
+        790,
+        1415
+      ]
+    },
+    {
+      "filename": "微信图片_20261104124257_506_2.jpg",
+      "source": "/Users/USER/Downloads/微信图片_20261104124257_506_2.jpg",
+      "saved_as": "原图/微信图片_20261104124257_506_2.jpg",
+      "bytes": 234990,
+      "sha256": "44bdc310f412290e21d03a53a7805f1ff755f66cf1703bf4fda608b96f0e45d2",
+      "source_copy_match": true,
+      "decoded": true,
+      "format": "JPEG",
+      "dimensions": [
+        790,
+        1323
+      ]
+    },
+    {
+      "filename": "微信图片_20261104124257_507_2.jpg",
+      "source": "/Users/USER/Downloads/微信图片_20261104124257_507_2.jpg",
+      "saved_as": "原图/微信图片_20261104124257_507_2.jpg",
+      "bytes": 239808,
+      "sha256": "a367c56815f827d37141b364ebdcfa7c16d9bfe3dc4e3de126f37ad17db955fd",
+      "source_copy_match": true,
+      "decoded": true,
+      "format": "JPEG",
+      "dimensions": [
+        790,
+        1401
+      ]
+    },
+    {
+      "filename": "微信图片_20261104124257_508_2.jpg",
+      "source": "/Users/USER/Downloads/微信图片_20261104124257_508_2.jpg",
+      "saved_as": "原图/微信图片_20261104124257_508_2.jpg",
+      "bytes": 178124,
+      "sha256": "f78a4029c87af3498bdc22ff179daaae723b5d48775d8b7d5382293749309b87",
+      "source_copy_match": true,
+      "decoded": true,
+      "format": "JPEG",
+      "dimensions": [
+        790,
+        934
+      ]
+    },
+    {
+      "filename": "微信图片_20261104124257_509_2.jpg",
+      "source": "/Users/USER/Downloads/微信图片_20261104124257_509_2.jpg",
+      "saved_as": "原图/微信图片_20261104124257_509_2.jpg",
+      "bytes": 191404,
+      "sha256": "a85ee7b1d15d21705cff4ab796ab476d09a7f5faadea74df60f85ae51166f6a9",
+      "source_copy_match": true,
+      "decoded": true,
+      "format": "JPEG",
+      "dimensions": [
+        790,
+        1194
+      ]
+    },
+    {
+      "filename": "微信图片_20261104124257_510_2.jpg",
+      "source": "/Users/USER/Downloads/微信图片_20261104124257_510_2.jpg",
+      "saved_as": "原图/微信图片_20261104124257_510_2.jpg",
+      "bytes": 115342,
+      "sha256": "00b56cb80e005370c19cf13044e4897520bea8cd4c36610f71818123955a79eb",
+      "source_copy_match": true,
+      "decoded": true,
+      "format": "JPEG",
+      "dimensions": [
+        790,
+        702
+      ]
+    },
+    {
+      "filename": "微信图片_20261104124257_511_2.jpg",
+      "source": "/Users/USER/Downloads/微信图片_20261104124257_511_2.jpg",
+      "saved_as": "原图/微信图片_20261104124257_511_2.jpg",
+      "bytes": 47818,
+      "sha256": "0885150e43a3cf72ab407249e03932e8037aca7817c6b7c87a1b3b1ff3a5ad4d",
+      "source_copy_match": true,
+      "decoded": true,
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "filename": "微信图片_20261104124257_512_2.jpg",
+      "source": "/Users/USER/Downloads/微信图片_20261104124257_512_2.jpg",
+      "saved_as": "原图/微信图片_20261104124257_512_2.jpg",
+      "bytes": 143289,
+      "sha256": "91bcb164b947e1eb3d360d674b2848045b9b7f630a78a42375263bda2bc2cf2c",
+      "source_copy_match": true,
+      "decoded": true,
+      "format": "JPEG",
+      "dimensions": [
+        800,
+        800
+      ]
+    }
+  ]
+}

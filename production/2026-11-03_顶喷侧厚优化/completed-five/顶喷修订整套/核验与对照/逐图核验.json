@@ -1,0 +1,41 @@
+{
+  "status": "REVISION_COMPLETE_FOR_REVIEW",
+  "updated_ids": [
+    387,
+    392,
+    395,
+    396,
+    399
+  ],
+  "latest_change_ids": [
+    392,
+    395
+  ],
+  "previous_three_byte_preserved": [
+    387,
+    396,
+    399
+  ],
+  "checks": {
+    "original372_376_holes_and_blind_circles": "Single photo face preserved; no generated replacement holes",
+    "housing": "Unchanged auxiliary300x200x20mm shell; visible continuous sidewall",
+    "knob": "Shallow reset disc; orange-red original372 surface",
+    "state_separation": "Main product explicitly labeled reset; real382 crop explicitly labeled after-pull short-pin photo; no invented full-panel pins",
+    "layout": "Square392 and portrait395; blackgold diagonal composition, large product, circular detail; unsupported original claims excluded",
+    "visual_review": "Opened392/395 final full images; five-image390px overview; native face/knob/side detail",
+    "ora_recomposition": {
+      "387": true,
+      "392": true,
+      "395": true,
+      "396": true,
+      "399": true
+    }
+  },
+  "remaining_issues": [
+    "Silver sidewall reflections remain somewhat uniform and rendered; not claimed photograph-level realism",
+    "Main face retains original baked photo lighting",
+    "Actual pull stroke/full raised-pin state remains unmeasured; final design deliberately shows only authentic local evidence",
+    "Customer acceptance UNKNOWN"
+  ],
+  "scope": "389 original Muse WEBP/GPT PNG preserved; all non-updated image bytes preserved; no publishing"
+}

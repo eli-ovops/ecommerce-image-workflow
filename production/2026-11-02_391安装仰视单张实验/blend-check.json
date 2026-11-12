@@ -1,0 +1,13 @@
+{
+  "checks": {
+    "shell_vertices_topology_unchanged": true,
+    "single_photo_face_polygon": true,
+    "old_perforated_panel_absent": true,
+    "94_independent_water_curve_objects": true,
+    "uncertain2_outlets_absent": true,
+    "photo_texture_packed": true
+  },
+  "shell_hash": "84aff485c8d5a7562d2b1cbde5b89c92b4871d7d42dc36ef66ebdc83a5b8a15a",
+  "source_shell_hash": "84aff485c8d5a7562d2b1cbde5b89c92b4871d7d42dc36ef66ebdc83a5b8a15a",
+  "limitations": "Checks do not validate actual installed connector, real water flow, photographic realism or factory hole count."
+}

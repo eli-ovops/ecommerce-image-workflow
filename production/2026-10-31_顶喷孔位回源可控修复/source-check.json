@@ -1,0 +1,1158 @@
+{
+  "checks": {
+    "96_original_candidate_holes_open": true,
+    "132_original_blind_circles_closed": true,
+    "all_sampled_leaf_centers_closed": true,
+    "panel_manifold": true,
+    "shell300x200x20": true
+  },
+  "circle_tests": [
+    {
+      "id": "R00C00",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R00C01",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R00C02",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R00C03",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R00C04",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R00C05",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R00C06",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R00C07",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R00C08",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R00C09",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R00C10",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R00C11",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R00C12",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R01C00",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R01C01",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R01C02",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R01C03",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R01C04",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R01C05",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R01C06",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R01C07",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R01C08",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R01C09",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R01C10",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R01C11",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R01C12",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R01C13",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R02C00",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R02C01",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R02C02",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R02C03",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R02C04",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R02C05",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R02C06",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R02C07",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R02C08",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R02C09",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R02C10",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R02C11",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R02C12",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R03C00",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R03C01",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R03C02",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R03C03",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R03C04",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R03C05",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R03C06",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R03C07",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R03C08",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R03C09",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R03C10",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R03C11",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R03C12",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R03C13",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R04C00",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R04C01",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R04C02",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R04C03",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R04C04",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R04C05",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R04C06",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R04C07",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R04C08",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R04C09",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R04C10",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R04C11",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R04C12",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R05C00",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R05C01",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R05C02",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R05C03",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R05C04",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R05C05",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R05C06",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R05C07",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R05C08",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R05C09",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R05C10",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R05C11",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R05C12",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R05C13",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R06C00",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R06C01",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R06C02",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R06C03",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R06C04",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R06C05",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R06C06",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R06C07",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R06C08",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R06C09",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R06C10",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R06C11",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R06C12",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R07C00",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R07C01",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R07C02",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R07C03",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R07C04",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R07C05",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R07C06",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R07C07",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R07C08",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R07C09",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R07C10",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R07C11",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R07C12",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R07C13",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R08C00",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R08C01",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R08C02",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R08C03",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R08C04",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R08C05",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R08C07",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R08C08",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R08C09",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R08C10",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R08C11",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R08C12",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R09C00",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R09C01",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R09C02",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R09C03",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R09C04",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R09C05",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R09C06",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R09C07",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R09C08",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R09C09",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R09C10",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R09C11",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R09C12",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R09C13",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R10C00",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R10C01",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R10C02",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R10C03",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R10C04",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R10C05",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R10C06",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R10C07",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R10C08",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R10C09",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R10C10",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R10C11",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R10C12",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R11C00",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R11C01",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R11C02",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R11C03",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R11C04",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R11C05",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R11C06",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R11C07",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R11C08",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R11C09",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R11C10",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R11C11",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R11C12",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R11C13",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R12C00",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R12C01",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R12C02",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R12C03",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R12C04",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R12C05",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R12C06",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R12C07",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R12C08",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R12C09",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R12C10",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R12C11",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R12C12",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R13C00",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R13C01",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R13C02",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R13C03",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R13C04",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R13C05",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R13C06",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R13C07",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R13C08",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R13C09",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R13C10",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R13C11",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R13C12",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R13C13",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R14C00",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R14C01",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R14C02",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R14C03",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R14C04",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R14C05",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R14C06",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R14C07",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R14C08",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R14C09",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R14C10",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R14C11",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R14C12",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R15C00",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R15C01",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R15C02",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R15C03",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R15C04",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R15C05",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R15C06",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R15C07",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R15C08",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R15C09",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R15C10",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R15C11",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R15C12",
+      "kind": "BLIND_DOT",
+      "hit_panel": true
+    },
+    {
+      "id": "R15C13",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R16C00",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R16C01",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R16C02",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R16C03",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R16C04",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R16C05",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R16C06",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R16C07",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R16C08",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R16C09",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R16C10",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R16C11",
+      "kind": "HOLE",
+      "hit_panel": false
+    },
+    {
+      "id": "R16C12",
+      "kind": "HOLE",
+      "hit_panel": false
+    }
+  ],
+  "leaf_center_samples": 500,
+  "dimensions_mm": [
+    300.00001192092896,
+    200.00000298023224,
+    19.999999552965164
+  ],
+  "limits": "Photo candidate classification and regularized positions; not factory truth or photogrammetry. Leaf center ray test plus deterministic cutter recipe, not an image-semantic guarantee. Normal texture cannot create through holes, but apparent false holes still require visual review."
+}

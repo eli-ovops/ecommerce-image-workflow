@@ -1,0 +1,84 @@
+{
+  "tool": "builtin_image_gen",
+  "native_sha256": "6348a81ecd252344d8cd10d1a81edea6f3f9a859b2c48293abddc7d226180eba",
+  "prompt_sha256": "2213a2f2c08ab4b36be800efa22ab5ecdabcc868df52bb188a201403780ccb9f",
+  "appearance_source_sha256": [
+    "6de02f19793c568c799762525475cd0241af1b9c41487580383be4efbd2a1fa2",
+    "8d41d23e8e762b1e9208796587c36db70ea8e452ee2e3fdd3604f97c7f40dd60",
+    "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90"
+  ],
+  "actual_call": {
+    "id": "R01_fix",
+    "kind": "targeted_edit",
+    "request_file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导主图/prompts/tool-requests.json",
+    "request_key": "R01_fix",
+    "actual_referenced_image_paths": [
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导主图/generated/R01-v001-native.png",
+        "sha256": "5bbd06f22dc44c16a38b1a018978b121155a51cf7f20a2fc2c2da4d885da7fd2",
+        "role": "edit target R01-v001"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+        "sha256": "6de02f19793c568c799762525475cd0241af1b9c41487580383be4efbd2a1fa2",
+        "role": "actual appearance SIL001"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184345_91_2.jpg",
+        "sha256": "8d41d23e8e762b1e9208796587c36db70ea8e452ee2e3fdd3604f97c7f40dd60",
+        "role": "actual side SIL003"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg",
+        "sha256": "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90",
+        "role": "actual opposite side SIL004"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v010a/renders/strict_side.jpg",
+        "sha256": "87b0d943d94882adf26b46b88b1a52d0012f9780aedac3d6c571d7fcff1b4eeb",
+        "role": "auxiliary curvature v010a only"
+      }
+    ],
+    "additional_actually_viewed_not_passed": [
+      "SIL002",
+      "SIL005",
+      "A038"
+    ],
+    "tool_output_path": "/Users/USER/.codex/generated_images/01a16d07-b34d-7ff3-afe5-dfc839dd6cb1/exec-bb1a0aa0-95d2-43ef-8786-35739ce6c01b.png",
+    "saved_native": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导主图/generated/R01-v002-native.png",
+    "native_sha256": "6348a81ecd252344d8cd10d1a81edea6f3f9a859b2c48293abddc7d226180eba",
+    "actual_dimensions": [
+      1254,
+      1254
+    ],
+    "output_actually_viewed": true,
+    "transparent_background": false
+  },
+  "local_repair": {
+    "file": {
+      "path": "production/2026-10-24_实拍主导主图/generated/R01-v003-composite.png",
+      "sha256": "dd8c54d386ada0bd7406e75075014297c35ed622a1c81bbd3760ed2c4e3d2665"
+    },
+    "mask": {
+      "path": "production/2026-10-24_实拍主导主图/generated/R01-roi-composite-mask.png",
+      "sha256": "7f4e1ccd6b4cd33de3b070ce09afc6299aea4b057767cec045bce1670ec86902"
+    },
+    "tool_patch": {
+      "path": "production/2026-10-24_实拍主导主图/generated/R01-roi-tool-native.png",
+      "sha256": "130aa9482d8ed22d4a18ec03f35d3cfc61496b03923aeac2d7b0836b98d2da98"
+    },
+    "evidence": {
+      "path": "production/2026-10-24_实拍主导主图/generated/R01-roi-evidence.json",
+      "sha256": "ce82223c47fcd40a49ee45c426b64d5beb5f36e442981cb57c4dc25526d89be4"
+    },
+    "base_sha256": "6348a81ecd252344d8cd10d1a81edea6f3f9a859b2c48293abddc7d226180eba",
+    "tool": "builtin_image_gen",
+    "additional_photo_reference": "SIL005 actual nozzle closeup used to produce the ROI repair patch"
+  },
+  "batch_log": {
+    "path": "production/2026-10-24_实拍主导主图/production-log.json",
+    "sha256": "df427fb0c149939f4647ad6ea1d2108e1e6f587b9d49cc7d40a5b7177896d459"
+  },
+  "hard_shape_lock": false,
+  "note": "Actual referenced real photographs are primary; 3D side secondary. Patch-composited full images are explicitly not native full-frame tool outputs."
+}

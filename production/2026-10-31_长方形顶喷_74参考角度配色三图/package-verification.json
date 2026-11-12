@@ -1,0 +1,108 @@
+[
+  {
+    "file": "JPG.zip",
+    "bytes": 1159904,
+    "sha256": "39ef6f095c0153a99295076cce8d7f3cefc63502f26088105afde153840519e3",
+    "count": 3,
+    "CRC_and_all_member_SHA256": "PASS",
+    "members": [
+      {
+        "file": "01_warm_front.jpg",
+        "sha256": "422d400aafca424a60f070cf5452f5a6d1c7e5bff1539b406b97e49cb41ee81f"
+      },
+      {
+        "file": "02_blue_side.jpg",
+        "sha256": "e2d3fdb9500ad7a492d5a009597b587898e30fac8a78af627c59e487ae338794"
+      },
+      {
+        "file": "03_dark_back.jpg",
+        "sha256": "5cc77ab8c48993c75670532a671f3625bc6a5049e7893f9ac7cd7f0b953026d4"
+      }
+    ]
+  },
+  {
+    "file": "editable-source.zip",
+    "bytes": 14002158,
+    "sha256": "1419703da14b97f3f5cf3fca134456ffa552ddbac550aaf2f47ec297288e0ebc",
+    "count": 19,
+    "CRC_and_all_member_SHA256": "PASS",
+    "members": [
+      {
+        "file": "01_warm_front.jpg",
+        "sha256": "422d400aafca424a60f070cf5452f5a6d1c7e5bff1539b406b97e49cb41ee81f"
+      },
+      {
+        "file": "02_blue_side.jpg",
+        "sha256": "e2d3fdb9500ad7a492d5a009597b587898e30fac8a78af627c59e487ae338794"
+      },
+      {
+        "file": "03_dark_back.jpg",
+        "sha256": "5cc77ab8c48993c75670532a671f3625bc6a5049e7893f9ac7cd7f0b953026d4"
+      },
+      {
+        "file": "01_warm_front.blend",
+        "sha256": "aa0c96cad937c9d5fbba8b852f569e6d289f0746429a1d55effc655777984d6e"
+      },
+      {
+        "file": "02_blue_side.blend",
+        "sha256": "12c2edaf9c3c061ecf8b78db251c5e483597227136a6cb4e66fb5123e1cdf96a"
+      },
+      {
+        "file": "03_dark_back.blend",
+        "sha256": "c04e00068d0ccaf17097659fa3347b65f087f6f3976894d69c81f816e63e8c71"
+      },
+      {
+        "file": "input.blend",
+        "sha256": "e6f21c5367ab5bc03f7a0f47b03c0f9d42bc9822902bcb9bb33f94d34125f386"
+      },
+      {
+        "file": "商品基线_v3.blend",
+        "sha256": "05b80b0ebc072c1a01cdf597c08f16e33d8033eb3771a9fe48dc2c18a0079905"
+      },
+      {
+        "file": "render.py",
+        "sha256": "b78ada6c69b36e9dd63a7c948d300e7b4e403feda6abd1cdd3a1aa4143ab94ec"
+      },
+      {
+        "file": "verify.py",
+        "sha256": "8d84e1b1f6e2023c175f1cf0311c0cb3d12a378c2c0a89eaa99cbc522464ad29"
+      },
+      {
+        "file": "package.py",
+        "sha256": "6e14878b5cd33a1e44536c7b6ee8708941cb2669284755c9460367d39e78624a"
+      },
+      {
+        "file": "README.md",
+        "sha256": "187e0b0097c2670994a2cd09715331676b2120e3cff719516d6a92a300f84b3a"
+      },
+      {
+        "file": "reference-and-source-receipt.json",
+        "sha256": "72d803e37b3837322e05eea3e3adcae8ed6413a8f25dd3040ec7dd7128cab446"
+      },
+      {
+        "file": "reopened-scene-verification.json",
+        "sha256": "570b6421f5a9c83bc77db7ef17b200389a46174572afd26dfb4e4e9a279f7b36"
+      },
+      {
+        "file": "visual-review.json",
+        "sha256": "18f769a994d543dee405eec7a6a6e09d26f50120d646a52c68fa7ff2ed5c31e8"
+      },
+      {
+        "file": "source-contact.jpg",
+        "sha256": "178812b4bd61bac6f6d1049c3300ddab1becfac7f962985959360a2857c45225"
+      },
+      {
+        "file": "overview.jpg",
+        "sha256": "6349f06eae9cf22741a12856f36af15149cf124720f4a3a15a69c17589eb6893"
+      },
+      {
+        "file": "phone-review.jpg",
+        "sha256": "930b73682d95a6c09a441901b21f0842d74411c028460fb7f6fc88c169828e00"
+      },
+      {
+        "file": "detail-200pct.jpg",
+        "sha256": "ba23c1ccb94dbaa874c72b7143bd495cdd4e86eaa6d7801405fc694f8e035fde"
+      }
+    ]
+  }
+]

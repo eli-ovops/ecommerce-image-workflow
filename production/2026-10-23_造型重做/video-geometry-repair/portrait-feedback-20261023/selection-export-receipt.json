@@ -1,0 +1,91 @@
+{
+  "status": "PORTRAIT_REPAIRED_CANDIDATE_USER_REVIEW_PENDING",
+  "selected": [
+    {
+      "id": "D04",
+      "native_source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/portrait-feedback-20261023/D04-portrait-new-person.png",
+      "native_sha256": "d07c9ec50b59cf697f1ec538e8a5cb3d583c28ae635753c3e2818d6781acfcb0",
+      "jpg_sha256": "858a36c25c52a55764ccc23aebdb6dbeeda0f352b1c510869df0e689609e76ae",
+      "dimensions": [
+        941,
+        1670
+      ]
+    },
+    {
+      "id": "D11",
+      "native_source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/portrait-feedback-20261023/D11-portrait-new-person.png",
+      "native_sha256": "f3458900986918bdb29060f8c827a1c423299d8a2febadf6f232832f7ea6b8d6",
+      "jpg_sha256": "9d8aff56e4a37cc053e22145c36d8de32a37e43ff6bbb3510ab5ad900c1813bf",
+      "dimensions": [
+        899,
+        1749
+      ]
+    }
+  ],
+  "unchanged_30_jpg_hashes": {
+    "M01": "368f48389b9713591e8bdcfb1994448f8e5fc33d2dc7fdd77b0703b4d28c133e",
+    "M02": "3308b2b347ad3a44712e5e47dac11858e93aa65835173cabc594089e74ec6428",
+    "M03": "716500db5220f481f550438ac2c41f53db59bb8d764019ae0fbca200224dd173",
+    "M04": "ea7d90e73c712139afc9b78b0555b59bbd0d80251f3ae732eb048e572a206fe8",
+    "M05": "d88e0bbf47c72d391bfde4de54a40687d460c109789f3430312a295c22b101ef",
+    "M06": "c827daf01b17a6b3576a9c2285bc86e1bf0c72c5c29ed54dca346f44ffaea7c8",
+    "M07": "f612d086c43a89204af872219e4258696d664384ace5b7b82a863fc2eb3765a2",
+    "M08": "d17902da2b4772fe159b0fae167f4036679dd9987f54f34aeafdba1c70d30bfd",
+    "K01": "d5573f412eb6f3ef851e7eed77f1d020b5cf378b895a87e4ab9b590516b75281",
+    "K02": "c77349aba245717f8e10f7dda97ea6f282ab27b3cdefdf71750a3cc4950f4dc2",
+    "K03": "46fbc6ab7a7f0139e18a28baad0196b3a508613b1aa380424848846c81f6a3e0",
+    "D01": "36fcf40bf844d7b70ad7141562e0e551a95449175a50dae48935c1a23ef0dd69",
+    "D03": "42c99a9e40aa1f5cb816c75d67065724fab9b5b4ced2c408056afa51bffcbc03",
+    "D05": "7a23a64a8f6e4f6308ce7dd9c33941429d8564d489b6478827b799a6271a74b9",
+    "D06": "a2775268f12ea8603ca3703d3276e79b9e9e53aad0495200f697ff0193d13ed5",
+    "D07": "e91899fad776655133645fa7cea4142e9431564ac6c4449460b17151fa111807",
+    "D08": "0f3dd3c1e88121a3d2acfda9823303dea791d11efa8caa097354d72d537ae9d5",
+    "D12": "c823866e8bd95fc896279c7e21b4abe2591b923a154f15a35845bc333ae5b96a",
+    "D13": "8e7e6794b147e55c215a5c91680b487f4e62721ff67caf7736513d95050fe974",
+    "D14": "e9e0b4baf1182f3276994020fd9ce4b9623cdb720af9f9514374979fe23a36a0",
+    "D15": "e9bd2ee30c2c1c450c3c2f402c2968c6bc8fa9acb26a22acc37e430ffe25b2c5",
+    "D16": "7e41bdb4cc1a7d5a0bf550a3206a36bf2fbeff32a50da73ea0c2533d1afbd446",
+    "D17": "28bcdd19efb9ac433d8e1fc3eaf76df8f4f4e1547f35c1349e3e690dfbf262a7",
+    "D18": "d4046c5f50886f7bda6c9270599ba8729d1116b1561b0d2986f986bd6dd50607",
+    "V01": "4b235a0541de5300134fc5c986a47a30f12c41be4d3843a7146172a35df7b1d9",
+    "V02": "2960507e2003aeead6a576be9b71351b74cabc2a3d87f2f241ae4347c35d7750",
+    "V03": "afd8e5719b05a3f176ff5a6ac6fa113c5c45426064656b916fbebd754faf83fa",
+    "V04": "190253105c74839c4635132ffb3693c7cb8e44034673cc7dcee8f241daaf4099",
+    "V05": "ee959d08be8bcbb7e6fbc95fbb0d4c263b55af55acac0788da80c408567320b7",
+    "V06": "8957332d585378587ec56b841b5fc0fdb9e660e37cc34e75167a830a2cd16336"
+  },
+  "full_archive": {
+    "path": "花洒_人物与水流修订_JPG.zip",
+    "sha256": "04eb670496281b6d04a95698267d4f9c2ccdf8aead27cfa49317713062439e34",
+    "bytes": 26774453,
+    "file_count": 34
+  },
+  "mini_archive": {
+    "path": "video-geometry-repair/portrait-feedback-20261023/人物修正2张_JPG.zip",
+    "sha256": "73b9c189714cf2585e2ef3666de168116b73960ad3970c89d000292ccf6cee37",
+    "file_count": 2
+  },
+  "assembly_review": "PASS_WITH_LIMITATIONS",
+  "user_acceptance": "PENDING",
+  "unresolved": [
+    "V01 person surface under water film UNKNOWN",
+    "M03/D15/V01/V06 low confidence geometry suspects retained"
+  ],
+  "assembly_review_evidence": {
+    "status": "PASS_WITH_LIMITATIONS",
+    "actual_viewed": [
+      "exports/JPG/D04.jpg",
+      "exports/JPG/D11.jpg",
+      "previews/overview_02.jpg",
+      "previews/overview_03.jpg",
+      "video-geometry-repair/portrait-feedback-20261023/assembly-QC-D04.jpg",
+      "video-geometry-repair/portrait-feedback-20261023/assembly-QC-D11.jpg"
+    ],
+    "findings": "导出JPG人物肤理、下颌和领口未新增明显缺陷；两张总览和两处组合长图上下衔接完整，当前修订已合入。",
+    "archive_current_exports_sha256_match": true,
+    "client_files": 34,
+    "client_format": "JPG only",
+    "browser_rendering": "NOT_PERFORMED; file links statically verified, actual exported images visually reviewed",
+    "user_acceptance": "PENDING"
+  }
+}

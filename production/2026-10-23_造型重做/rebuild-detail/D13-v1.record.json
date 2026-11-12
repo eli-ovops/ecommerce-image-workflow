@@ -1,0 +1,28 @@
+{
+  "id": "D13",
+  "prompt": "Fresh finished Chinese ecommerce design; exact SILVER real showerhead, chrome gently domed back, continuous shallow S camber head-neck-grip and smoothly varying thickness, slight face/grip direction difference. Match actual side photo and cleaned pure side, not straight coplanar paddle nor sharp L. Black round face with MANY FLAT flush white annular outlets and outer black microhole rings; red raised center descaling ring with centerhole, lower oval silver selector. Silver bare male thread, no hose/quickconnector/stand/brand/flag/certificates/specs/material claims/internals. No gray circular backpatch. Real own SKU photos define the physical product; style refs define layout/color only. Crisp precise Chinese. Portrait790:1007. Layout style ref1/2 cool blue large fullproduct onright occupying65%height, black bold two-line upperleft headline '外部细节 逐处看清'. Replace original unknown internal layers with THREE rectangular separate EXTERNAL closeup cards stacked left: flush white outlet detail label'出水孔', center red ring label'中央红色按钮', lower oval selector label'下方切档按键'. Thin delicate leaders connect each card to correct external spot on right full actual product. Strong photographic realism/cleanmistblue background, opaque lightbluecards, no explodingparts/filters/healthicons. Frame complete curved handle/head and silverbarethread. Enough threequarter side to see sweep.",
+  "referenced_image_paths": [
+    "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_18.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/主图/主图_04.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/silver-side-v1.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/sources/side-03.jpg"
+  ],
+  "actual_viewed_related_originals": [
+    "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_18.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/主图/主图_04.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/silver-side-v1.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/sources/side-03.jpg"
+  ],
+  "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+  "date": "2026-10-23",
+  "status": "INDEPENDENT_QA_PENDING",
+  "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D13-v1.png",
+  "raw_output": "/Users/USER/.codex/generated_images/01a16319-d848-71d0-95e1-72970644c800/exec-f3bdfdfc-298f-4f5f-a45b-910895fc4e64.png",
+  "sha256": "27823c1bda1039a04eb63966d8c7d8390ff66533d1578b971ca7db5a81daeb58",
+  "actual_dimensions": [
+    1112,
+    1415
+  ]
+}

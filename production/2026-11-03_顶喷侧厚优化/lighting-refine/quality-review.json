@@ -1,0 +1,33 @@
+{
+  "status": "THREE_IMPROVED_REVIEW_CANDIDATES_TWO_UNRESOLVED",
+  "updated": [
+    387,
+    396,
+    399
+  ],
+  "preserved_unresolved": [
+    392,
+    395
+  ],
+  "visual_review": {
+    "387": "Continuous sidewall with reduced blown highlights; orange-red shallow knob; closer contact shadow; some composite appearance remains",
+    "399": "Continuous gray/silver sidewall; orange-red knob; tighter shadow; original photographic face lighting remains baked",
+    "396": "Three corrected windows use original372 photo and current native shell; no added red pins; true382 short-pin detail unchanged"
+  },
+  "392_395_reason": {
+    "source_382": "Hand obscures knob/upper panel; frame does not contain complete unobstructed silver product; outer SKU cannot be confirmed from this shot",
+    "missing": "Confirmed pull stroke, complete raised-pin state and unobstructed whole silver product in pulled state",
+    "decision": "Keep previous image unchanged; do not replace with reset texture or invent red pin positions; unchanged does not mean accepted"
+  },
+  "396_preserved_pixel_checks": {
+    "main_title": true,
+    "silver_side": true,
+    "connector": true,
+    "actual_short_pins": true
+  },
+  "native_geometry_verified": "native-reopen-verification.json",
+  "limited_highlight_measure": "highlight-check.json; selected sidewall ROI only, not full material realism score",
+  "customer_acceptance": "UNKNOWN",
+  "actual_runtime_model": "UNKNOWN",
+  "failed_candidate": "review/396-rejected-patch-v1.jpg has rectangular seams and is excluded"
+}

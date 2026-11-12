@@ -1,0 +1,22 @@
+[
+  {
+    "source": "/Volumes/EXTERNAL/电商 作图工作流/products/长方形拉钮顶喷/原始实拍20261030/微信图片_20261030154107_372_2.jpg",
+    "saved": "sources/372-original.jpg",
+    "sha256": "c1f3664cc110b85d819bf6609f54b6f10b2943127dad85c3833c1f125443d017"
+  },
+  {
+    "source": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-31_同款商户电商参考/微信图片_20261031133902_393_2.jpg",
+    "saved": "sources/393-reference.jpg",
+    "sha256": "b4935504e1c1ea05b81e65dfe4c7a3618f373fa51cf4ee4dc971b58cf0f02515"
+  },
+  {
+    "source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_顶喷13张整批返修/assets/warm-bath.png",
+    "saved": "sources/approved-scene.png",
+    "sha256": "c8412234e491ab53e661e9038bc4b039f714e393c1690e6331574bcf0b2bed6d"
+  },
+  {
+    "source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_391安装仰视单张实验/single-photo-face.png",
+    "saved": "sources/single-photo-face.png",
+    "sha256": "ddc1c3c2bf720b3b5fd0311294b23d2b5eee4db56a0e1b48b2fe4e01d899d4cf"
+  }
+]

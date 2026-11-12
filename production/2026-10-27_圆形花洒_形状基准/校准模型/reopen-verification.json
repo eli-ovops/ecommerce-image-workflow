@@ -1,0 +1,65 @@
+{
+  "reopened_successfully": true,
+  "blender_version": "5.2.2 LTS",
+  "source_blend": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/圆形红钮花洒_银色形状校准_v1.blend",
+  "sha256": "5e67a1e60ed6a7063159e60618af20b3ae4fe725d9cd07dabce1301e0af63ce7",
+  "all_views_from_same_reopened_file": true,
+  "rendered_jpg_files": [
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/审查图/01_正面.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/审查图/02_背面.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/审查图/03_右侧.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/审查图/04_左侧.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/审查图/05_前斜.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/审查图/06_后斜.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/审查图/07_头颈局部.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/审查图/08_圆盘顶边.jpg"
+  ],
+  "model_dimensions_mm": {
+    "01 Continuous calibrated exterior": [
+      129.992,
+      40.027,
+      267.153
+    ],
+    "02 Continuous black face and selector surround": [
+      124.999,
+      12.414,
+      161.759
+    ],
+    "03 White nozzles - 144 mapped positions": [
+      102.9,
+      10.76,
+      103.6
+    ],
+    "04 Nozzle dark recesses": [
+      100.6,
+      10.04,
+      101.3
+    ],
+    "05 Peripheral micro hole mouths - simplified 3 x 100": [
+      123.3,
+      12.081,
+      122.695
+    ],
+    "06 Red descaling actuator": [
+      19.4,
+      4.0,
+      19.4
+    ],
+    "07 Separate silver selector": [
+      21.199,
+      4.531,
+      27.0
+    ],
+    "08 White connector core - standard UNKNOWN": [
+      20.4,
+      20.4,
+      9.667
+    ],
+    "09 Simplified visible thread - not engineering thread": [
+      21.6,
+      21.6,
+      8.567
+    ]
+  },
+  "dimensions_are_physical_measurements": false
+}

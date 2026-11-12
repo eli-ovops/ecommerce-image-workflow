@@ -1,0 +1,105 @@
+{
+  "archive": "editable-source.zip",
+  "bytes": 11712005,
+  "count": 24,
+  "CRC_member_SHA256": "PASS",
+  "archive_sha256": "5c5c05b20ca50265d40b956b9d2e45802ac4db0ef75677b4417682137d61f6bc",
+  "members": [
+    {
+      "file": "upright-advertising.jpg",
+      "sha256": "6383d22c3ee7c3d53aac979f92ad9f88a581b1ec55c643ea0d5f2faba8b774e1"
+    },
+    {
+      "file": "upright-advertising.blend",
+      "sha256": "0bd2e8c5f13491eb38611456b50fc0fddc8ae4a65363bccb9914f4b7dc739b89"
+    },
+    {
+      "file": "advertising.blend",
+      "sha256": "14aad83f36fefcecf9d5215a1d0b847e51c2b31bc28e0beda414f62ad9ff3c98"
+    },
+    {
+      "file": "input.blend",
+      "sha256": "aa0c96cad937c9d5fbba8b852f569e6d289f0746429a1d55effc655777984d6e"
+    },
+    {
+      "file": "长方形拉钮顶喷_v3.blend",
+      "sha256": "05b80b0ebc072c1a01cdf597c08f16e33d8033eb3771a9fe48dc2c18a0079905"
+    },
+    {
+      "file": "baseline_recipe.py",
+      "sha256": "545186a22c4fe13e57de1ff7e8df0bbbdb12c3a959c0fe47e6811bc1f318256e"
+    },
+    {
+      "file": "build_scene.py",
+      "sha256": "7beca65fd0994bf26111d6cb4adb39215b2b1ee92b14ff4febe5752221089058"
+    },
+    {
+      "file": "refine_scene.py",
+      "sha256": "c951eca00c0f4271c29f218d05fbd14b137037f81d2bd683efe65cb4afd63668"
+    },
+    {
+      "file": "render_detail.py",
+      "sha256": "57f4dcd1768bb5aa3edfe7ac663f8ed98e9a7df170a9a294e5701546e1b4733a"
+    },
+    {
+      "file": "verify.py",
+      "sha256": "3bd380853c3ed1b42e9a04f02721e57a3545603a7c2d1dd7b6d47d25f0385e7c"
+    },
+    {
+      "file": "package.py",
+      "sha256": "c0a9bcbc35142043fdbb418780ad82ac34b93e83b785ceec4ed608346556323b"
+    },
+    {
+      "file": "hole-map.csv",
+      "sha256": "d9da92ec0680a79f483149ae41701ef7aa65f0a90c465b6fcc680ac3c2ff720e"
+    },
+    {
+      "file": "README.md",
+      "sha256": "e7522b7dfedebc0ff3ac33460c9dde187d55355a92b38d10247816a7588d47a7"
+    },
+    {
+      "file": "source-receipt.json",
+      "sha256": "241b626cfc20e6f292fc3bc666c0312b89d7505414af0f8c573f95b43b25a8ce"
+    },
+    {
+      "file": "geometry-verification.json",
+      "sha256": "3ced0bb04517a2860f8d492a8ba1ddeef7576bcbc8095b7c4a16203e046f772f"
+    },
+    {
+      "file": "visual-review.json",
+      "sha256": "004ea24568ab75aa9498bdcf6ec44f3f117678a84d370a7c0f963655ae8c9eae"
+    },
+    {
+      "file": "phone.jpg",
+      "sha256": "14a1403d9885fba397de93781e80bab4516ca31ae0d6b3dce59a2d6b6541f63d"
+    },
+    {
+      "file": "final-200pct.jpg",
+      "sha256": "b18f278dc113008274cec7b841808d9647eba2c66229fc27cb42ad5a123b05ae"
+    },
+    {
+      "file": "panel-detail-final.jpg",
+      "sha256": "e0f13f3aa36289d2d8c9bc7d286b4fc7402960cc1b49f6aaa089d31696ce07f7"
+    },
+    {
+      "file": "372-native-detail.jpg",
+      "sha256": "cdd51f993dcc9a9a84bed732c6b7b81c2aff3dbfd000c1a8da515beed4b92dde"
+    },
+    {
+      "file": "382-native-detail.jpg",
+      "sha256": "7422767bbe925e9ae9a88f44e54f58ca30e73e6e9a119cf03e0e589cdfc72a2c"
+    },
+    {
+      "file": "372-approx75mm-field.jpg",
+      "sha256": "52c53ffa6b741dcbff9524078ab0bc440f217f87c4e4105057a14a2ec4059ed8"
+    },
+    {
+      "file": "source-scale-comparison.jpg",
+      "sha256": "4b11565f18f4a6138e206dc09bb6878100ece87a262ba78f7056a194ab3ebd84"
+    },
+    {
+      "file": "reference-comparison.jpg",
+      "sha256": "a512e8808de2697a6d2b27d729eaabb7a58b3f753f7ec300784efb572d626069"
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "date": "2026-11-03",
+  "owner": "existing sole visual owner",
+  "runtime_model": "UNKNOWN",
+  "generation_tool": "image_gen.imagegen",
+  "successful_calls": 11,
+  "failed_calls_this_round": 0,
+  "changed": [
+    387,
+    388,
+    389,
+    390,
+    393,
+    396,
+    397,
+    398,
+    399
+  ],
+  "unchanged": [
+    391,
+    392,
+    394,
+    395
+  ],
+  "all13_present": true,
+  "dimension_images": [
+    397
+  ],
+  "descaling_headline_images": [
+    392,
+    395
+  ],
+  "geometry_acceptance": "NOT_PASSED",
+  "water_origin_accuracy": "UNKNOWN",
+  "images": [
+    {
+      "id": 387,
+      "changed": true,
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "29444898659919c9b4af4f5251305b14110e92f3011ad738f8cbf87c7e49ea73",
+      "decode": true,
+      "original_file_identical": false,
+      "purpose": "大面板／大水量／细密喷面",
+      "findings": "已移除尺寸、除垢标题和红针小窗。黑金构图保留。主面板局部叶纹断裂和黑色杂点仍明显，小窗也有一处黑色异物状伪影；产品细节未通过。",
+      "status": "REVIEW_CANDIDATE_PRODUCT_DETAIL_NOT_ACCEPTED",
+      "copy_review": "manual pass: size only on 397; descaling headings only on 392 and 395",
+      "dimensions_visible": false,
+      "descaling_headline": false,
+      "whole_image_viewed": true,
+      "detail_200pct_viewed": true,
+      "reference_pair_viewed": true,
+      "customer_acceptance": "UNKNOWN"
+    },
+    {
+      "id": 388,
+      "changed": true,
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "d6bfef0c771bcec826c958fb3ece411caf88f58570a19d83aca77a57568eab48",
+      "decode": true,
+      "original_file_identical": false,
+      "purpose": "丰沛雨幕／畅快淋浴",
+      "findings": "已去尺寸与除垢，保留上大下小和红边白字。下方纹样部分断裂，红钮偏深；水幕仍有规则珠链感，逐孔真实性UNKNOWN。",
+      "status": "REVIEW_CANDIDATE_PRODUCT_DETAIL_NOT_ACCEPTED",
+      "copy_review": "manual pass: size only on 397; descaling headings only on 392 and 395",
+      "dimensions_visible": false,
+      "descaling_headline": false,
+      "whole_image_viewed": true,
+      "detail_200pct_viewed": true,
+      "reference_pair_viewed": true,
+      "customer_acceptance": "UNKNOWN"
+    },
+    {
+      "id": 389,
+      "changed": true,
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "65f467f777f54bbc8cd6805ef25362016f2b009ca82236b28a7b4e2d5c62a561",
+      "decode": true,
+      "original_file_identical": false,
+      "purpose": "宽幅雨幕／舒展畅淋",
+      "findings": "已去尺寸与除垢，并回源修正首次重复商品名。原冷蓝场景和主次保留；左下纹样比上一批杂乱候选改善，但孔序仍非实拍硬锁，水束偏规则。",
+      "status": "REVIEW_CANDIDATE_PRODUCT_DETAIL_NOT_ACCEPTED",
+      "copy_review": "manual pass: size only on 397; descaling headings only on 392 and 395",
+      "dimensions_visible": false,
+      "descaling_headline": false,
+      "whole_image_viewed": true,
+      "detail_200pct_viewed": true,
+      "reference_pair_viewed": true,
+      "customer_acceptance": "UNKNOWN"
+    },
+    {
+      "id": 390,
+      "changed": true,
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "9e4e52a9b3a6bf57807b03d7289b29e38cb08ff1ebc128b20d8c158dae7b345f",
+      "decode": true,
+      "original_file_identical": false,
+      "purpose": "充沛出水／畅爽雨淋",
+      "findings": "已去尺寸与除垢，并回源修正首次左下多余管件。墨绿场景保留；纹样及孔序仍有近似，红钮偏深，上方中央水束与红钮投影重叠，真实起点UNKNOWN。",
+      "status": "REVIEW_CANDIDATE_PRODUCT_DETAIL_NOT_ACCEPTED",
+      "copy_review": "manual pass: size only on 397; descaling headings only on 392 and 395",
+      "dimensions_visible": false,
+      "descaling_headline": false,
+      "whole_image_viewed": true,
+      "detail_200pct_viewed": true,
+      "reference_pair_viewed": true,
+      "customer_acceptance": "UNKNOWN"
+    },
+    {
+      "id": 391,
+      "changed": false,
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "cb07a70efb9a1144de1a1084b59714f9c09ae06bb1ec368cf6bccecea9dfe102",
+      "decode": true,
+      "original_file_identical": true,
+      "purpose": "淋浴体验（原版保留）",
+      "findings": "原JPG字节未改。沿用上一轮局部面板变形及生成水花限制，不当真人试用或性能证据。",
+      "status": "REVIEW_CANDIDATE_PRODUCT_DETAIL_NOT_ACCEPTED",
+      "copy_review": "manual pass: size only on 397; descaling headings only on 392 and 395",
+      "dimensions_visible": false,
+      "descaling_headline": false,
+      "whole_image_viewed": true,
+      "detail_200pct_viewed": false,
+      "reference_pair_viewed": false,
+      "customer_acceptance": "UNKNOWN"
+    },
+    {
+      "id": 392,
+      "changed": false,
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "2acda0e1e249bf24560a1b84bc98b93e4b89d71eafe865b0907bd3cc1175701f",
+      "decode": true,
+      "original_file_identical": true,
+      "purpose": "提拉清洁（原版保留）",
+      "findings": "原JPG字节未改，真实短针小窗保留。主面板暗红点与完整提拉状态对应UNKNOWN，孔纹未精确复现。",
+      "status": "REVIEW_CANDIDATE_PRODUCT_DETAIL_NOT_ACCEPTED",
+      "copy_review": "manual pass: size only on 397; descaling headings only on 392 and 395",
+      "dimensions_visible": false,
+      "descaling_headline": true,
+      "whole_image_viewed": true,
+      "detail_200pct_viewed": false,
+      "reference_pair_viewed": false,
+      "customer_acceptance": "UNKNOWN"
+    },
+    {
+      "id": 393,
+      "changed": true,
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "3f7b3cd0d8c46130333e0c67e30c7d847a6cb83d844029c2715c0ce0a4100562",
+      "decode": true,
+      "original_file_identical": false,
+      "purpose": "空气增压／绵密雨幕／喷面接口",
+      "findings": "采用用户确认的同款卖点，保留完整商品，不画内部剖面和节水对比。新图管件为银色，暖石格栅场景延续；生成面板与开口微距不是实拍像素，水流仍有珠链感。",
+      "status": "REVIEW_CANDIDATE_PRODUCT_DETAIL_NOT_ACCEPTED",
+      "copy_review": "manual pass: size only on 397; descaling headings only on 392 and 395",
+      "dimensions_visible": false,
+      "descaling_headline": false,
+      "whole_image_viewed": true,
+      "detail_200pct_viewed": true,
+      "reference_pair_viewed": true,
+      "customer_acceptance": "UNKNOWN"
+    },
+    {
+      "id": 394,
+      "changed": false,
+      "size": [
+        941,
+        1672
+      ],
+      "sha256": "21c1ea124b8d8fc897fe1a315caaa3bd1e69f5d92561aa7d163bb4340e3cc783",
+      "decode": true,
+      "original_file_identical": true,
+      "purpose": "竖版淋浴体验（原版保留）",
+      "findings": "原JPG字节未改。沿用上一轮人物、水花和局部纹样限制。",
+      "status": "REVIEW_CANDIDATE_PRODUCT_DETAIL_NOT_ACCEPTED",
+      "copy_review": "manual pass: size only on 397; descaling headings only on 392 and 395",
+      "dimensions_visible": false,
+      "descaling_headline": false,
+      "whole_image_viewed": true,
+      "detail_200pct_viewed": false,
+      "reference_pair_viewed": false,
+      "customer_acceptance": "UNKNOWN"
+    },
+    {
+      "id": 395,
+      "changed": false,
+      "size": [
+        941,
+        1672
+      ],
+      "sha256": "989100e4e8c0a73bca7e654a27075b13810c6f5646d62a41f37b5e5d0690d214",
+      "decode": true,
+      "original_file_identical": true,
+      "purpose": "竖版提拉清洁（原版保留）",
+      "findings": "原JPG字节未改，真实短针窗保留；主面板红点不能证明完整实际拉出状态，原有问题保留。",
+      "status": "REVIEW_CANDIDATE_PRODUCT_DETAIL_NOT_ACCEPTED",
+      "copy_review": "manual pass: size only on 397; descaling headings only on 392 and 395",
+      "dimensions_visible": false,
+      "descaling_headline": true,
+      "whole_image_viewed": true,
+      "detail_200pct_viewed": false,
+      "reference_pair_viewed": false,
+      "customer_acceptance": "UNKNOWN"
+    },
+    {
+      "id": 396,
+      "changed": true,
+      "size": [
+        940,
+        1673
+      ],
+      "sha256": "2d2226b6312557b9171525059703690ba24b6ffe1da860c3ca1873e68cdcd8f1",
+      "decode": true,
+      "original_file_identical": false,
+      "purpose": "喷面／红钮／侧边／接口／大面板／短针",
+      "findings": "原尺寸卡改为宽幅大面板，尺寸已去。短针空窗插入原始实拍裁片，提供真实两层ORA。其余生成卡片不能当实拍；大面板孔序及红钮深度仍近似。",
+      "status": "REVIEW_CANDIDATE_PRODUCT_DETAIL_NOT_ACCEPTED",
+      "copy_review": "manual pass: size only on 397; descaling headings only on 392 and 395",
+      "dimensions_visible": false,
+      "descaling_headline": false,
+      "whole_image_viewed": true,
+      "detail_200pct_viewed": true,
+      "reference_pair_viewed": true,
+      "customer_acceptance": "UNKNOWN"
+    },
+    {
+      "id": 397,
+      "changed": true,
+      "size": [
+        941,
+        1672
+      ],
+      "sha256": "21312d75bd9d683bb5757c2619b9fbdb1d129b513076669b9ddb220476ac5368",
+      "decode": true,
+      "original_file_identical": false,
+      "purpose": "唯一规格图：约30×20×2cm",
+      "findings": "本套唯一尺寸标注，尺寸只写一处。保留暖石格栅和侧厚近景，无内部结构示意。上下面板纹样仍有交叠，生成水流不能证明真实流量。",
+      "status": "REVIEW_CANDIDATE_PRODUCT_DETAIL_NOT_ACCEPTED",
+      "copy_review": "manual pass: size only on 397; descaling headings only on 392 and 395",
+      "dimensions_visible": true,
+      "descaling_headline": false,
+      "whole_image_viewed": true,
+      "detail_200pct_viewed": true,
+      "reference_pair_viewed": true,
+      "customer_acceptance": "UNKNOWN"
+    },
+    {
+      "id": 398,
+      "changed": true,
+      "size": [
+        941,
+        1672
+      ],
+      "sha256": "b398a38e1caa9b757277a92d9dc1c5a649f692d3bcf109db3c1038dbe5e42438",
+      "decode": true,
+      "original_file_identical": false,
+      "purpose": "可调角度／接头／背部",
+      "findings": "依据用户同款卖点确认增加方向箭头，不写360度或性能对比；无尺寸。主喷面缩小时可看，200%可见明显密集纹样交叠，接头细节属生成近似。",
+      "status": "REVIEW_CANDIDATE_PRODUCT_DETAIL_NOT_ACCEPTED",
+      "copy_review": "manual pass: size only on 397; descaling headings only on 392 and 395",
+      "dimensions_visible": false,
+      "descaling_headline": false,
+      "whole_image_viewed": true,
+      "detail_200pct_viewed": true,
+      "reference_pair_viewed": true,
+      "customer_acceptance": "UNKNOWN"
+    },
+    {
+      "id": 399,
+      "changed": true,
+      "size": [
+        940,
+        1673
+      ],
+      "sha256": "f08d2d2d184c5530ebc4bf99a9b4cd17abc2143ce30d512803a0534cdcaab348",
+      "decode": true,
+      "original_file_identical": false,
+      "purpose": "大面板／大水量／舒展空间",
+      "findings": "已去除尺寸及除垢标题，保留黑金斜轴静态商品。文字比其它图更接近参考衬线风格；主面板局部断纹、多余孔和红钮偏深仍待返工。",
+      "status": "REVIEW_CANDIDATE_PRODUCT_DETAIL_NOT_ACCEPTED",
+      "copy_review": "manual pass: size only on 397; descaling headings only on 392 and 395",
+      "dimensions_visible": false,
+      "descaling_headline": false,
+      "whole_image_viewed": true,
+      "detail_200pct_viewed": true,
+      "reference_pair_viewed": true,
+      "customer_acceptance": "UNKNOWN"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+const fs=require('fs'),path=require('path'),sharp=require('/Users/USER/.local/share/deepseek-harness/node_modules/sharp');const out=path.join(__dirname,'B_红钮细节_整头近景.jpg');if(fs.existsSync(out))throw new Error('Preserve existing JPG');sharp(fs.readFileSync(path.join(__dirname,'B-editable.svg'))).jpeg({quality:96,chromaSubsampling:'4:4:4'}).toFile(out).then(console.log);

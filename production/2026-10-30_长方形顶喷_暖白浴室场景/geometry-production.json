@@ -1,0 +1,1397 @@
+{
+  "base": {
+    "Connector_dark_cavity_backing_ESTIMATED": {
+      "mesh": "d5a212140afc2ed3b2e4ac720705fbcc04f5452f27b93f30d1312e4d9d411336",
+      "matrix_local": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "materials": [
+        "Connector dark inner ring — visible appearance only"
+      ],
+      "modifiers": []
+    },
+    "Connector_dark_inner_ring_ESTIMATED": {
+      "mesh": "5fedbfde716e6a99a347caa8178bd20e6ec653432b64311ab7235e245b5a6287",
+      "matrix_local": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "materials": [
+        "Connector dark inner ring — visible appearance only"
+      ],
+      "modifiers": []
+    },
+    "Connector_open_metal_envelope_ESTIMATED": {
+      "mesh": "86a804385c98247f00eb73d60ab78db7ed08e0429b2d0612da9e0279367e1b34",
+      "matrix_local": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "materials": [
+        "Silver — appearance from 373_377"
+      ],
+      "modifiers": []
+    },
+    "Connector_visible_screen_ESTIMATED_pitch_not_spec": {
+      "mesh": "df9dcddd89791230a9da11712bd219fcfa877bbe5819c973e5696ee130e68f61",
+      "matrix_local": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "materials": [
+        "Screen visible metallic appearance — material UNKNOWN"
+      ],
+      "modifiers": []
+    },
+    "Housing_300x200x20": {
+      "mesh": "f3e2f848f1cbfa8247e75502b548b5cbe2c341f03aff99195a0eefe41f7ebfd8",
+      "matrix_local": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "materials": [
+        "Silver — appearance from 373_377"
+      ],
+      "modifiers": []
+    },
+    "Observed_white_protective_cap": {
+      "mesh": "70daf757a5a06cd88b27692faa65b2992002e230456893edf69bb1be0a4f2bfd",
+      "matrix_local": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "materials": [
+        "White protective cap — thread hidden"
+      ],
+      "modifiers": []
+    },
+    "Outward_pull_knob_concave_face": {
+      "mesh": "0fb8b0ed4b08716e9495d39a66e6535db8c04d2db46ed02b87e8c51451c6fde1",
+      "matrix_local": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "materials": [
+        "Red knob saturated satin — source 372"
+      ],
+      "modifiers": []
+    },
+    "Rear_connector_visible_envelope_UNCONFIRMED_thread": {
+      "mesh": "40b3018a54ca5c929e5f734b85eef5db535bab850f3b28a4a51427dba0f206b3",
+      "matrix_local": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "materials": [
+        "Silver — appearance from 373_377"
+      ],
+      "modifiers": []
+    },
+    "Recessed_panel_with_true_through_holes": {
+      "mesh": "c37abd3ecb1c4678142754f5716a822f552f9d7984e41086b4671bec7e34bf45",
+      "matrix_local": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "materials": [
+        "Panel fine matte grain — source 372 376 382",
+        null
+      ],
+      "modifiers": [
+        [
+          "BEVEL",
+          5.999999848427251e-05,
+          2
+        ]
+      ]
+    }
+  },
+  "views": {
+    "05_浴室安装全貌": {
+      "product": {
+        "Connector_dark_cavity_backing_ESTIMATED": {
+          "mesh": "d5a212140afc2ed3b2e4ac720705fbcc04f5452f27b93f30d1312e4d9d411336",
+          "matrix_local": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "materials": [
+            "Connector dark inner ring — visible appearance only"
+          ],
+          "modifiers": []
+        },
+        "Connector_dark_inner_ring_ESTIMATED": {
+          "mesh": "5fedbfde716e6a99a347caa8178bd20e6ec653432b64311ab7235e245b5a6287",
+          "matrix_local": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "materials": [
+            "Connector dark inner ring — visible appearance only"
+          ],
+          "modifiers": []
+        },
+        "Connector_open_metal_envelope_ESTIMATED": {
+          "mesh": "86a804385c98247f00eb73d60ab78db7ed08e0429b2d0612da9e0279367e1b34",
+          "matrix_local": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "materials": [
+            "Silver — appearance from 373_377"
+          ],
+          "modifiers": []
+        },
+        "Connector_visible_screen_ESTIMATED_pitch_not_spec": {
+          "mesh": "df9dcddd89791230a9da11712bd219fcfa877bbe5819c973e5696ee130e68f61",
+          "matrix_local": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "materials": [
+            "Screen visible metallic appearance — material UNKNOWN"
+          ],
+          "modifiers": []
+        },
+        "Housing_300x200x20": {
+          "mesh": "f3e2f848f1cbfa8247e75502b548b5cbe2c341f03aff99195a0eefe41f7ebfd8",
+          "matrix_local": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "materials": [
+            "Silver — appearance from 373_377"
+          ],
+          "modifiers": []
+        },
+        "Observed_white_protective_cap": {
+          "mesh": "70daf757a5a06cd88b27692faa65b2992002e230456893edf69bb1be0a4f2bfd",
+          "matrix_local": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "materials": [
+            "White protective cap — thread hidden"
+          ],
+          "modifiers": []
+        },
+        "Outward_pull_knob_concave_face": {
+          "mesh": "0fb8b0ed4b08716e9495d39a66e6535db8c04d2db46ed02b87e8c51451c6fde1",
+          "matrix_local": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "materials": [
+            "Red knob saturated satin — source 372"
+          ],
+          "modifiers": []
+        },
+        "Rear_connector_visible_envelope_UNCONFIRMED_thread": {
+          "mesh": "40b3018a54ca5c929e5f734b85eef5db535bab850f3b28a4a51427dba0f206b3",
+          "matrix_local": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "materials": [
+            "Silver — appearance from 373_377"
+          ],
+          "modifiers": []
+        },
+        "Recessed_panel_with_true_through_holes": {
+          "mesh": "c37abd3ecb1c4678142754f5716a822f552f9d7984e41086b4671bec7e34bf45",
+          "matrix_local": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "materials": [
+            "Panel fine matte grain — source 372 376 382",
+            null
+          ],
+          "modifiers": [
+            [
+              "BEVEL",
+              5.999999848427251e-05,
+              2
+            ]
+          ]
+        }
+      },
+      "rigid_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.0,
+          8.742277657347586e-08,
+          0.0
+        ],
+        [
+          0.0,
+          -8.742277657347586e-08,
+          -1.0,
+          2.1500000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "camera": [
+        [
+          0.8919700384140015,
+          0.173445463180542,
+          0.4174998104572296,
+          0.3700000047683716
+        ],
+        [
+          0.45209449529647827,
+          -0.34220319986343384,
+          -0.8237156867980957,
+          -0.7200000286102295
+        ],
+        [
+          2.5244915491384745e-08,
+          0.9234790802001953,
+          -0.38364875316619873,
+          1.6699999570846558
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "product_source": "商品输入_同网格磨砂去盖接口.blend",
+      "method": "Direct Blender product rendering; no AI product pixels; only shared rigid positioning"
+    },
+    "06_安装喷面与红钮": {
+      "product": {
+        "Connector_dark_cavity_backing_ESTIMATED": {
+          "mesh": "d5a212140afc2ed3b2e4ac720705fbcc04f5452f27b93f30d1312e4d9d411336",
+          "matrix_local": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "materials": [
+            "Connector dark inner ring — visible appearance only"
+          ],
+          "modifiers": []
+        },
+        "Connector_dark_inner_ring_ESTIMATED": {
+          "mesh": "5fedbfde716e6a99a347caa8178bd20e6ec653432b64311ab7235e245b5a6287",
+          "matrix_local": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "materials": [
+            "Connector dark inner ring — visible appearance only"
+          ],
+          "modifiers": []
+        },
+        "Connector_open_metal_envelope_ESTIMATED": {
+          "mesh": "86a804385c98247f00eb73d60ab78db7ed08e0429b2d0612da9e0279367e1b34",
+          "matrix_local": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "materials": [
+            "Silver — appearance from 373_377"
+          ],
+          "modifiers": []
+        },
+        "Connector_visible_screen_ESTIMATED_pitch_not_spec": {
+          "mesh": "df9dcddd89791230a9da11712bd219fcfa877bbe5819c973e5696ee130e68f61",
+          "matrix_local": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "materials": [
+            "Screen visible metallic appearance — material UNKNOWN"
+          ],
+          "modifiers": []
+        },
+        "Housing_300x200x20": {
+          "mesh": "f3e2f848f1cbfa8247e75502b548b5cbe2c341f03aff99195a0eefe41f7ebfd8",
+          "matrix_local": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "materials": [
+            "Silver — appearance from 373_377"
+          ],
+          "modifiers": []
+        },
+        "Observed_white_protective_cap": {
+          "mesh": "70daf757a5a06cd88b27692faa65b2992002e230456893edf69bb1be0a4f2bfd",
+          "matrix_local": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "materials": [
+            "White protective cap — thread hidden"
+          ],
+          "modifiers": []
+        },
+        "Outward_pull_knob_concave_face": {
+          "mesh": "0fb8b0ed4b08716e9495d39a66e6535db8c04d2db46ed02b87e8c51451c6fde1",
+          "matrix_local": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "materials": [
+            "Red knob saturated satin — source 372"
+          ],
+          "modifiers": []
+        },
+        "Rear_connector_visible_envelope_UNCONFIRMED_thread": {
+          "mesh": "40b3018a54ca5c929e5f734b85eef5db535bab850f3b28a4a51427dba0f206b3",
+          "matrix_local": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "materials": [
+            "Silver — appearance from 373_377"
+          ],
+          "modifiers": []
+        },
+        "Recessed_panel_with_true_through_holes": {
+          "mesh": "c37abd3ecb1c4678142754f5716a822f552f9d7984e41086b4671bec7e34bf45",
+          "matrix_local": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "materials": [
+            "Panel fine matte grain — source 372 376 382",
+            null
+          ],
+          "modifiers": [
+            [
+              "BEVEL",
+              5.999999848427251e-05,
+              2
+            ]
+          ]
+        }
+      },
+      "rigid_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.0,
+          8.742277657347586e-08,
+          0.0
+        ],
+        [
+          0.0,
+          -8.742277657347586e-08,
+          -1.0,
+          2.1500000953674316
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "camera": [
+        [
+          0.8980627059936523,
+          0.3052877187728882,
+          0.3166745603084564,
+          0.1599999964237213
+        ],
+        [
+          0.43986743688583374,
+          -0.6232958436012268,
+          -0.6465438008308411,
+          -0.27000001072883606
+        ],
+        [
+          5.19223775086175e-08,
+          0.7199317216873169,
+          -0.6940448880195618,
+          1.8799999952316284
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "product_source": "商品输入_同网格磨砂去盖接口.blend",
+      "method": "Direct Blender product rendering; no AI product pixels; only shared rigid positioning"
+    },
+    "07_浴室台面背部接口": {
+      "product": {
+        "Connector_dark_cavity_backing_ESTIMATED": {
+          "mesh": "d5a212140afc2ed3b2e4ac720705fbcc04f5452f27b93f30d1312e4d9d411336",
+          "matrix_local": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "materials": [
+            "Connector dark inner ring — visible appearance only"
+          ],
+          "modifiers": []
+        },
+        "Connector_dark_inner_ring_ESTIMATED": {
+          "mesh": "5fedbfde716e6a99a347caa8178bd20e6ec653432b64311ab7235e245b5a6287",
+          "matrix_local": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "materials": [
+            "Connector dark inner ring — visible appearance only"
+          ],
+          "modifiers": []
+        },
+        "Connector_open_metal_envelope_ESTIMATED": {
+          "mesh": "86a804385c98247f00eb73d60ab78db7ed08e0429b2d0612da9e0279367e1b34",
+          "matrix_local": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "materials": [
+            "Silver — appearance from 373_377"
+          ],
+          "modifiers": []
+        },
+        "Connector_visible_screen_ESTIMATED_pitch_not_spec": {
+          "mesh": "df9dcddd89791230a9da11712bd219fcfa877bbe5819c973e5696ee130e68f61",
+          "matrix_local": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "materials": [
+            "Screen visible metallic appearance — material UNKNOWN"
+          ],
+          "modifiers": []
+        },
+        "Housing_300x200x20": {
+          "mesh": "f3e2f848f1cbfa8247e75502b548b5cbe2c341f03aff99195a0eefe41f7ebfd8",
+          "matrix_local": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "materials": [
+            "Silver — appearance from 373_377"
+          ],
+          "modifiers": []
+        },
+        "Observed_white_protective_cap": {
+          "mesh": "70daf757a5a06cd88b27692faa65b2992002e230456893edf69bb1be0a4f2bfd",
+          "matrix_local": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "materials": [
+            "White protective cap — thread hidden"
+          ],
+          "modifiers": []
+        },
+        "Outward_pull_knob_concave_face": {
+          "mesh": "0fb8b0ed4b08716e9495d39a66e6535db8c04d2db46ed02b87e8c51451c6fde1",
+          "matrix_local": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "materials": [
+            "Red knob saturated satin — source 372"
+          ],
+          "modifiers": []
+        },
+        "Rear_connector_visible_envelope_UNCONFIRMED_thread": {
+          "mesh": "40b3018a54ca5c929e5f734b85eef5db535bab850f3b28a4a51427dba0f206b3",
+          "matrix_local": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "materials": [
+            "Silver — appearance from 373_377"
+          ],
+          "modifiers": []
+        },
+        "Recessed_panel_with_true_through_holes": {
+          "mesh": "c37abd3ecb1c4678142754f5716a822f552f9d7984e41086b4671bec7e34bf45",
+          "matrix_local": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "materials": [
+            "Panel fine matte grain — source 372 376 382",
+            null
+          ],
+          "modifiers": [
+            [
+              "BEVEL",
+              5.999999848427251e-05,
+              2
+            ]
+          ]
+        }
+      },
+      "rigid_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -0.5000000596046448,
+          0.8660253882408142,
+          0.3017147481441498
+        ],
+        [
+          0.0,
+          -0.8660253882408142,
+          -0.5000000596046448,
+          0.9420927166938782
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "camera": [
+        [
+          0.9126846194267273,
+          -0.11239628493785858,
+          0.39290446043014526,
+          0.30000001192092896
+        ],
+        [
+          0.4086647033691406,
+          0.25101837515830994,
+          -0.8774867057800293,
+          -0.3799999952316284
+        ],
+        [
+          1.3510714325093431e-08,
+          0.9614347815513611,
+          0.27503299713134766,
+          1.1799999475479126
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "product_source": "商品输入_同网格磨砂去盖接口.blend",
+      "method": "Direct Blender product rendering; no AI product pixels; only shared rigid positioning"
+    }
+  },
+  "same_product_mesh_material_slots_local_transforms_modifiers": true
+}

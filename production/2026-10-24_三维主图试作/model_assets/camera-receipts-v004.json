@@ -1,0 +1,94 @@
+[
+  {
+    "name": "front3q",
+    "camera_location": [
+      0.32863008975982666,
+      -0.6010633111000061,
+      0.15800000727176666
+    ],
+    "camera_euler_xyz_radians": [
+      1.534546971321106,
+      0.1744205504655838,
+      0.4823988974094391
+    ],
+    "orthographic_scale_m": 0.305,
+    "target": [
+      0,
+      0.017,
+      0.133
+    ],
+    "azimuth_degrees": 28,
+    "elevation_offset_m": 0.025,
+    "roll_degrees": -10,
+    "source_blend": "silver_product_v004.blend"
+  },
+  {
+    "name": "back3q",
+    "camera_location": [
+      0.4015035033226013,
+      0.5904064774513245,
+      0.15800000727176666
+    ],
+    "camera_euler_xyz_radians": [
+      1.534746527671814,
+      -0.13953673839569092,
+      2.5357437133789062
+    ],
+    "orthographic_scale_m": 0.305,
+    "target": [
+      0,
+      0.017,
+      0.133
+    ],
+    "azimuth_degrees": 145,
+    "elevation_offset_m": 0.025,
+    "roll_degrees": 8,
+    "source_blend": "silver_product_v004.blend"
+  },
+  {
+    "name": "strictside",
+    "camera_location": [
+      0.699999988079071,
+      0.017000000923871994,
+      0.13300000131130219
+    ],
+    "camera_euler_xyz_radians": [
+      1.5707963705062866,
+      -0.0,
+      1.5707963705062866
+    ],
+    "orthographic_scale_m": 0.305,
+    "target": [
+      0,
+      0.017,
+      0.133
+    ],
+    "azimuth_degrees": 90,
+    "elevation_offset_m": 0,
+    "roll_degrees": 0,
+    "source_blend": "silver_product_v004.blend"
+  },
+  {
+    "name": "buttonclose",
+    "camera_location": [
+      0.09742116928100586,
+      -0.6791876554489136,
+      0.20100000500679016
+    ],
+    "camera_euler_xyz_radians": [
+      1.5450878143310547,
+      2.728361536696866e-08,
+      0.1396263837814331
+    ],
+    "orthographic_scale_m": 0.197,
+    "target": [
+      0,
+      0.014,
+      0.183
+    ],
+    "azimuth_degrees": 8,
+    "elevation_offset_m": 0.018,
+    "roll_degrees": 0,
+    "source_blend": "silver_product_v004.blend"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "file": "JPG-13-review.zip",
+    "entries": 13,
+    "bytes": 12481529,
+    "sha256": "9fde121666222762ebb8f3d2fe25a9b116a7c3a982cee27dfd3168ca067cb8fb",
+    "crc": true,
+    "members_sha": true
+  },
+  {
+    "file": "389-dense-source.zip",
+    "entries": 32,
+    "bytes": 36179691,
+    "sha256": "f45f0dd7b19b4492a968ccb62690d1a3e3cdf3f2da9b9cf99a32f09f7ee03e29",
+    "crc": true,
+    "members_sha": true
+  }
+]

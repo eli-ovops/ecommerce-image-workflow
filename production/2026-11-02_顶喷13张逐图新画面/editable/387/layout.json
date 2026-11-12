@@ -1,0 +1,60 @@
+{
+  "text": [
+    {
+      "text": "长方形顶喷",
+      "x": 45,
+      "y": 80,
+      "size": 54,
+      "color": "#efd0a3",
+      "font": "Songti SC"
+    },
+    {
+      "text": "提拉除垢",
+      "x": 45,
+      "y": 170,
+      "size": 52,
+      "color": "#efd0a3",
+      "font": "Songti SC"
+    },
+    {
+      "text": "短针细节实拍",
+      "x": 48,
+      "y": 780,
+      "size": 34,
+      "color": "#efd0a3",
+      "font": "Songti SC"
+    },
+    {
+      "text": "银色",
+      "x": 42,
+      "y": 1085,
+      "size": 79,
+      "color": "#efd0a3",
+      "font": "Songti SC"
+    },
+    {
+      "text": "约30×20cm 大面板",
+      "x": 290,
+      "y": 1100,
+      "size": 60,
+      "color": "#efd0a3",
+      "font": "Songti SC"
+    }
+  ],
+  "transforms": [
+    {
+      "source": "product376.png",
+      "angle": 84,
+      "xy": [
+        396,
+        150
+      ],
+      "size": [
+        648,
+        885
+      ],
+      "uniform": true
+    }
+  ],
+  "note": "参考387黑金、立式整件、浅色展示台、左操作窗、底规格带。无包装/防爆/大水量承诺；382局部只标短针细节，不认定其外缘SKU。原片厚度表达不足。"
+}

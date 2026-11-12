@@ -1,0 +1,147 @@
+[
+  {
+    "file": "388-installed-source.blend",
+    "bytes": 5840315,
+    "sha256": "0270a2bbbe60c2ad5db0964bd4d21d8beb3a2fe34076a9d960fecded5e3f5794"
+  },
+  {
+    "file": "388_\u7c97\u659c\u5b57\u4f53\u4e0e\u878d\u5408_\u5ba1\u9605.jpg",
+    "bytes": 778755,
+    "sha256": "9d0f8d676542fb1485fdd4fb732be2edee1157bbe729e78e750b1844984e5f44"
+  },
+  {
+    "file": "type-200pct.jpg",
+    "bytes": 194660,
+    "sha256": "c6811ec0502a7b310f0c0eca0361cb186731320498130c4138d3e374f046c276"
+  },
+  {
+    "file": "verify-mesh.log",
+    "bytes": 428,
+    "sha256": "6acdb79fdf0a73390d1d7082ea52010432f5a9cbde148c003d20518e4f19f351"
+  },
+  {
+    "file": "preview.html",
+    "bytes": 1311,
+    "sha256": "21e816d946eb9877712bce3559ed7efaeca80d40c17ba5f755419adf7d2f7e60"
+  },
+  {
+    "file": "render.log",
+    "bytes": 433,
+    "sha256": "2d16e1c9a24fb3539951f8111757e78857df5ea3fa6ec90aa381a43b902247e2"
+  },
+  {
+    "file": "inset-layer.png",
+    "bytes": 447260,
+    "sha256": "94ff767d8750390dbde569789e96ef2e7e7d849061342d96f2fde622d2b17e51"
+  },
+  {
+    "file": "compose.py",
+    "bytes": 6562,
+    "sha256": "3ecae91074b4e30bc6d212c2765374d6eec604e113908b682431d64933b65097"
+  },
+  {
+    "file": "water-origins.json",
+    "bytes": 10872,
+    "sha256": "91c80ee4ae94ec06392bf49e06376cb5326be6dfaf271e7b890aa696e2ad0256"
+  },
+  {
+    "file": "reused-scene.png",
+    "bytes": 1913304,
+    "sha256": "6981338a6f99b0fa2136c4f822d86514a0f50e950e72b91ead94c85bbb71dcd7"
+  },
+  {
+    "file": "render_inset.py",
+    "bytes": 2591,
+    "sha256": "6cb587e15f58aec28e54ab20e2ce6b5e8272b81cd36571b55d445065b9f13c5b"
+  },
+  {
+    "file": "mesh-check.json",
+    "bytes": 631,
+    "sha256": "3c3256f7a3879d1045959cfc4d5d2d0bccf4dc4fbcd8793c6c454c9be9de5225"
+  },
+  {
+    "file": "388-editable.ora",
+    "bytes": 5541517,
+    "sha256": "738b6af47805fd4a67012df4cb1868ec745e2d5219ec05627d1231ae796e7f0a"
+  },
+  {
+    "file": "README.md",
+    "bytes": 2567,
+    "sha256": "2679b8579c3d502c7ca2545bbbbac06f0e60ad2eb09336c5f104ab1e4629a35a"
+  },
+  {
+    "file": "verify_mesh.py",
+    "bytes": 995,
+    "sha256": "a452de48be799478b69ed1bde731541d70fe056907d63ac4ff3353ec066db5b9"
+  },
+  {
+    "file": "reference388.jpg",
+    "bytes": 1074620,
+    "sha256": "151dc464c5f42ac07a9aa7c2f8eada93634fa51f6e6eb0dc8b50aa05521618a5"
+  },
+  {
+    "file": "388-inset.blend",
+    "bytes": 5807748,
+    "sha256": "f37db365672f60cb1bccbf9a2bb1dfc914211aee0286c8fb652e2c73bcc4ff4d"
+  },
+  {
+    "file": "installed-layer.png",
+    "bytes": 1180115,
+    "sha256": "bee0c9faf5b02f33ff4b63c672323688b6580e7d7e9064deb377fe0a1dbece47"
+  },
+  {
+    "file": "inset-200pct.jpg",
+    "bytes": 467990,
+    "sha256": "7e48c5285ea7e157c777982e192ab0c1478d66b34141f640dcf1c45b2376d442"
+  },
+  {
+    "file": "layout.json",
+    "bytes": 1297,
+    "sha256": "2534e51ea4bb0870986d54cefd3d37bff007b46cd20295b0c43206b0ef048aa0"
+  },
+  {
+    "file": "installed-native-render.png",
+    "bytes": 1240298,
+    "sha256": "5713bcf8f2ff98237bf586db762e488c147e904b943d5ca9ac28cab8ab3292af"
+  },
+  {
+    "file": "editable-text.svg",
+    "bytes": 1206,
+    "sha256": "30a4a10a91e44d6be3360cf5ded2ea53f98660e7493d3a74deea71a83685d3b6"
+  },
+  {
+    "file": "mobile-360.jpg",
+    "bytes": 67572,
+    "sha256": "b3df8ce5c726d3aba6a9a5c2522817fca1c828b138fb7df5e20871d6dc809630"
+  },
+  {
+    "file": "editable-base.png",
+    "bytes": 1946401,
+    "sha256": "1c4ef4fc2d6c3133131106b70708b57d2852c9da4c66943f07fe579acfe89822"
+  },
+  {
+    "file": "render-v2.log",
+    "bytes": 433,
+    "sha256": "5657d28c0cb9b1c7f73b4956f998ea0e9479d6d77b6b14043d8fc624a996c446"
+  },
+  {
+    "file": "excluded-uncertain-origins.json",
+    "bytes": 228,
+    "sha256": "d3de99ca6211a891db73423b2d615a17730b093927425ecb66a569ac2e0f23ef"
+  },
+  {
+    "file": "inset-record.json",
+    "bytes": 452,
+    "sha256": "5b9f3a34cb136c5195e3162058470b74f6aae1cd64dca7abeb54cd107e4bffeb"
+  },
+  {
+    "file": "388_\u5de6\u53c2\u8003\u53f3\u8fd4\u4fee.jpg",
+    "bytes": 1134332,
+    "sha256": "36e0548e44db2a23eba53654d8115caeab6672775ad1b1489200c0ff51a2384a"
+  },
+  {
+    "file": "inset-native-render.png",
+    "bytes": 1125867,
+    "sha256": "66a88fddf68ffd72eca1630e159d2a5b02bda547c0b4299bb18df0af90096579"
+  }
+]

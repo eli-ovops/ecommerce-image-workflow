@@ -1,0 +1,212 @@
+{
+  "id": "D08",
+  "role": "灰蓝石材曲面静物",
+  "sku": "银色",
+  "refs_actual_viewed": [
+    {
+      "id": "A029",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_24.jpg",
+      "sha256": "44d52287c3c2baf66eb3251c88b52baa1578fb8b844283f7801f7ba878b09ab4"
+    },
+    {
+      "id": "A030",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_25.jpg",
+      "sha256": "ca3662cbfa3073d2359d705f4d67e3520acb42d2fc5bc136197e92d26a217417"
+    },
+    {
+      "id": "A031",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_26.jpg",
+      "sha256": "4b84d28ac5d4d91ac9e5565962d219a18bcd106073520505f7c77d443ba134ea"
+    }
+  ],
+  "actual_inputs": [
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/stone-native.png",
+      "sha256": "24459482d5d1c742ff68b43556601393f96ab2a863833881e6d851daded5c9f5"
+    },
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/silver-cutout-v003.png",
+      "sha256": "6bd26eb1336ef7bedaef9a2bcf67f2d26d0179dac255c2cc246cf5d8e9f27b54"
+    },
+    {
+      "path": "production/2026-10-24_实拍主导主图/generated/R01-v003-composite.png",
+      "sha256": "dd8c54d386ada0bd7406e75075014297c35ed622a1c81bbd3760ed2c4e3d2665"
+    }
+  ],
+  "claims": [
+    "银色外观",
+    "握柄细节",
+    "头部侧壁"
+  ],
+  "copy": [
+    "握柄与曲面",
+    "细看银色外观",
+    "握柄细节",
+    "头部侧壁"
+  ],
+  "source_files": [
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/stone-native.png",
+      "sha256": "24459482d5d1c742ff68b43556601393f96ab2a863833881e6d851daded5c9f5"
+    },
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/silver-cutout-v003.png",
+      "sha256": "6bd26eb1336ef7bedaef9a2bcf67f2d26d0179dac255c2cc246cf5d8e9f27b54"
+    },
+    {
+      "path": "production/2026-10-24_实拍主导主图/generated/R01-v003-composite.png",
+      "sha256": "dd8c54d386ada0bd7406e75075014297c35ed622a1c81bbd3760ed2c4e3d2665"
+    }
+  ],
+  "source_layers": [
+    {
+      "resampled_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/b6f87c997225cad3.png",
+        "sha256": "100775bac8f2d879d344a85415192589e2be7f8a97310919da3c5c461557c531"
+      },
+      "source": {
+        "path": "production/2026-10-24_完整电商套图/generated/stone-native.png",
+        "sha256": "24459482d5d1c742ff68b43556601393f96ab2a863833881e6d851daded5c9f5"
+      },
+      "exif_display_size": [
+        1254,
+        1254
+      ],
+      "source_crop": [
+        0,
+        250,
+        1254,
+        1254
+      ],
+      "uniform_scale": 1.5637450199203187,
+      "scaled_crop_offset": [
+        180,
+        0
+      ],
+      "destination": [
+        0,
+        0,
+        1600,
+        1570
+      ],
+      "operation": "uniform cover crop; source RGB retained through resampling",
+      "source_kind": "new_generated_empty_environment"
+    },
+    {
+      "source": {
+        "path": "production/2026-10-24_完整电商套图/generated/silver-cutout-v003.png",
+        "sha256": "6bd26eb1336ef7bedaef9a2bcf67f2d26d0179dac255c2cc246cf5d8e9f27b54"
+      },
+      "uniform_scale": 1.0638297872340425,
+      "rotation_deg": 65,
+      "destination_top_left": [
+        126,
+        482
+      ],
+      "resampled_size": [
+        1347,
+        986
+      ],
+      "operation": "alpha composite existing product RGB, no recolor or local geometry edits",
+      "source_kind": "derived_alpha_or_crop_of_photo_guided_generated_product"
+    },
+    {
+      "resampled_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/f7937ca603320311.png",
+        "sha256": "80805d0afc8a1b5b4dc5225ea15fc061ba33da2d5ce16c56d1ec347573fdf501"
+      },
+      "source": {
+        "path": "production/2026-10-24_实拍主导主图/generated/R01-v003-composite.png",
+        "sha256": "dd8c54d386ada0bd7406e75075014297c35ed622a1c81bbd3760ed2c4e3d2665"
+      },
+      "exif_display_size": [
+        1254,
+        1254
+      ],
+      "source_crop": [
+        550,
+        710,
+        710,
+        1120
+      ],
+      "uniform_scale": 4.4375,
+      "scaled_crop_offset": [
+        0,
+        777
+      ],
+      "destination": [
+        60,
+        1625,
+        710,
+        265
+      ],
+      "operation": "uniform cover crop; source RGB retained through resampling",
+      "source_kind": "photo_guided_generated_product_or_composite"
+    },
+    {
+      "resampled_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/ac28f878d73a4b32.png",
+        "sha256": "4ffba4212f181b4c72d7eceaa58ba609cfd91e389e6e1307802d652c4640c0ba"
+      },
+      "source": {
+        "path": "production/2026-10-24_实拍主导主图/generated/R01-v003-composite.png",
+        "sha256": "dd8c54d386ada0bd7406e75075014297c35ed622a1c81bbd3760ed2c4e3d2665"
+      },
+      "exif_display_size": [
+        1254,
+        1254
+      ],
+      "source_crop": [
+        690,
+        100,
+        865,
+        480
+      ],
+      "uniform_scale": 4.057142857142857,
+      "scaled_crop_offset": [
+        0,
+        638
+      ],
+      "destination": [
+        830,
+        1625,
+        710,
+        265
+      ],
+      "operation": "uniform cover crop; source RGB retained through resampling",
+      "source_kind": "photo_guided_generated_product_or_composite"
+    }
+  ],
+  "transform": "See source_layers; all photo transforms uniform scaling/cropping; no nonuniform product stretch",
+  "output": {
+    "path": "production/2026-10-24_完整电商套图/generated/D08-v005.jpg",
+    "sha256": "a9187afb2772bca58d55d9461b3e7c69d6569674ada71243803d79990e1a7abe"
+  },
+  "working": {
+    "path": "production/2026-10-24_完整电商套图/generated/D08-v005.png",
+    "sha256": "6ffd3d201e20cabd3d45b2d4f34fecd9a0b3f902fe83d5931b36e50fa311db9f"
+  },
+  "dims": [
+    1600,
+    2000
+  ],
+  "notes": "石材仅广告环境，完整商品已验生成层旋转/等比复用；无跌落、材质、接口或耐久性能暗示",
+  "status": "AWAITING_INDEPENDENT_VISUAL_REVIEW",
+  "refs": [
+    {
+      "id": "A029",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_24.jpg",
+      "sha256": "44d52287c3c2baf66eb3251c88b52baa1578fb8b844283f7801f7ba878b09ab4"
+    },
+    {
+      "id": "A030",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_25.jpg",
+      "sha256": "ca3662cbfa3073d2359d705f4d67e3520acb42d2fc5bc136197e92d26a217417"
+    },
+    {
+      "id": "A031",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_26.jpg",
+      "sha256": "4b84d28ac5d4d91ac9e5565962d219a18bcd106073520505f7c77d443ba134ea"
+    }
+  ]
+}

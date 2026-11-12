@@ -1,0 +1,15 @@
+{
+  "id": 396,
+  "source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-30_长方形拉钮顶喷_完整建模/382-native-detail.jpg",
+  "source_sha256": "7422767bbe925e9ae9a88f44e54f58ca30e73e6e9a119cf03e0e589cdfc72a2c",
+  "box": [
+    495,
+    1185,
+    905,
+    1595
+  ],
+  "method": "uniform fit crop into deliberately empty window; no AI input or text covering",
+  "ora_crc": true,
+  "ora_recomposition": true,
+  "lossless_pixels_outside_photo_unchanged": true
+}

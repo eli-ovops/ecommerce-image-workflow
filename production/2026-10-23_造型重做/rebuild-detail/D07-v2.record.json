@@ -1,0 +1,24 @@
+{
+  "id": "D07",
+  "prompt": "Precisely edit image1, keep exact tall canvas, shallow-S product geometry+chrome+hand+face/redcenter/lowerbutton, blue ribbedbackground, BOTH lower2buttoncards/text and short top blue pill unchanged. REMOVE the wrong huge black text '6功能出水 淋浴新体验'. Replace in same area ONLY huge black '三档出水' and below smaller '下方按键切换', no 6 anywhere. Rightthree little waterphotocircles are not needed; DELETE all three circlephotos and replace this midright area with three simple OPAQUE blue text-only indexpills '常规出水' '喷雾出水' '混合出水' evenlystacked. Keep bigpure side view onright unobstructed. No flowingwater anywhere now. Preserve actualwhite annular lowflat eyelets, correct silver barethread. Allredtips in bottompressedcard remain short andfew. Do notaddanyclaims or extratext.",
+  "referenced_image_paths": [
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D07-v1.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/silver-side-v1.png"
+  ],
+  "actual_viewed_related_originals": [
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D07-v1.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/silver-side-v1.png"
+  ],
+  "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+  "date": "2026-10-23",
+  "status": "RECOVERED_AFTER_CRASH_QA_PENDING",
+  "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D07-v2.png",
+  "raw_output": "/Users/USER/.codex/generated_images/01a16319-d848-71d0-95e1-72970644c800/exec-9b13bb92-2c7f-460d-b927-c5597d862b0f.png",
+  "sha256": "3d03d714dfff26bdcee96f92285734fbd4b795fb8d58a07477ef40e673be7453",
+  "actual_dimensions": [
+    876,
+    1795
+  ]
+}

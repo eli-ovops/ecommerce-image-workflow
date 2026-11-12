@@ -1,0 +1,46 @@
+{
+  "model": "v006",
+  "pre_render_geometry_check": {
+    "ring_pair_count": 256,
+    "axis": [
+      0.0,
+      0.9912921786308289,
+      0.13168083131313324
+    ],
+    "straight_wall_axial_distance_min_max_mm": [
+      17.69999448970127,
+      17.700006558799608
+    ],
+    "maximum_vector_error_from_axis_times17_7_mm": 2.9387447367069095e-05,
+    "lower_body_original_vertex_count": 16384,
+    "lower_body_current_vertex_count": 16384,
+    "lower_body_max_xyz_difference_m": 1.4901161193847656e-08,
+    "face_ngons": 0,
+    "face_triangle_count": 512
+  },
+  "topology": [
+    {
+      "name": "01 Head body - true cylindrical wall plus separate shallow rear cap",
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0
+    },
+    {
+      "name": "02 Original handle and lower neck - unchanged below135mm",
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0
+    },
+    {
+      "name": "03 Planar removable face panel",
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0
+    }
+  ],
+  "limitations": [
+    "Head and root are intersecting exterior components at this local-correction stage; not a manufacturing assembly",
+    "Rear cap7mm and axial18.5mm are provisional; hand/camera affects apparent thickness",
+    "Only the requested cylindrical sidewall correction is under review; prior whole-model rejection remains"
+  ]
+}

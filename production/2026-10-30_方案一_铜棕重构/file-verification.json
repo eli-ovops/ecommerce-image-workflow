@@ -1,0 +1,42 @@
+{
+  "jpeg_decode": "PASS",
+  "size": [
+    1600,
+    1600
+  ],
+  "outputs": {
+    "\u94dc\u68d5\u4ee3\u8868\u56fe.blend": {
+      "bytes": 18949372,
+      "sha256": "a9689b31c499115552f032e4171a5b2cf719c4548bb6d9ad15b53460de25e11f"
+    },
+    "review-connector-200.jpg": {
+      "bytes": 24704,
+      "sha256": "5da3284a5f7809a0b903c565e5ea1c52e9c31501677c0659c5e512f39f320081"
+    },
+    "review-panel-200.jpg": {
+      "bytes": 76086,
+      "sha256": "512d3cb28688ec5f054d8e739ac11259c1c11143b5e68a954edf73c210804b35"
+    },
+    "render.py": {
+      "bytes": 5651,
+      "sha256": "b1c51c2b27771cbaf6e89e125d529fb1c3cca347e746d5564932ed56c14c92c8"
+    },
+    "review-neck-200.jpg": {
+      "bytes": 52308,
+      "sha256": "7db8b3c3898e31d35f35dd948cc2d39e0823f7145edea1fb093e16ada6e2f4f0"
+    },
+    "verify.py": {
+      "bytes": 784,
+      "sha256": "6adacf0d4281855088392ecfe0f5299af0533fac1201be2cfc9c20d96fb83510"
+    },
+    "\u94dc\u68d5\u4ee3\u8868\u56fe.jpg": {
+      "bytes": 321467,
+      "sha256": "5541e53becb0da81dec2ee93d13180f4914fc1ce577962ffcb8e54efd30ec5ba"
+    },
+    "draft.jpg": {
+      "bytes": 114583,
+      "sha256": "b0d8d0733230aa3da71f54b1191517651059d8a825ea8c5da5737efc6d55d358"
+    }
+  },
+  "total_bytes": 19555616
+}

@@ -1,0 +1,18 @@
+{
+  "reopen_success": true,
+  "blend_sha256": "d533e49e3d6d5aeb33b5899a276fce04550859d780ae6e8e0af4e1651ac33008",
+  "version": "5.2.2 LTS",
+  "engine": "CYCLES",
+  "resolution": [
+    1600,
+    1600
+  ],
+  "exposure": -0.800000011920929,
+  "lights": [
+    "Large left softbox",
+    "Right strip reflection",
+    "Top fill"
+  ],
+  "external_images": [],
+  "mesh_count": 11
+}

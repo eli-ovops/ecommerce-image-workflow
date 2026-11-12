@@ -1,0 +1,66 @@
+{
+  "id": "M01",
+  "role": "银色白底完整单品",
+  "sku": "银色",
+  "refs_actual_viewed": [
+    {
+      "id": "A038",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/主图/主图_05.jpg",
+      "sha256": "32584bc1f2be07bc6e076cbbe6c24c70b11d949244e035918567de9977591ab4"
+    }
+  ],
+  "review_reuse": "same approved current batch prior final visual review; no regeneration",
+  "source_files": [
+    {
+      "path": "production/2026-10-24_实拍主导主图/final/R01.jpg",
+      "sha256": "d7a6e607ba7923f56eb39c720d57ab061fd36a25bc73d159369235ee122b68b2"
+    }
+  ],
+  "actual_inputs": [
+    {
+      "path": "production/2026-10-24_实拍主导主图/final/R01.jpg",
+      "sha256": "d7a6e607ba7923f56eb39c720d57ab061fd36a25bc73d159369235ee122b68b2"
+    }
+  ],
+  "source_layers": [
+    {
+      "source": {
+        "path": "production/2026-10-24_实拍主导主图/final/R01.jpg",
+        "sha256": "d7a6e607ba7923f56eb39c720d57ab061fd36a25bc73d159369235ee122b68b2"
+      },
+      "operation": "byte-identical JPG copy",
+      "source_kind": "previous_reviewed_final_JPG"
+    }
+  ],
+  "claims": [
+    "银色",
+    "单花洒"
+  ],
+  "copy": "Reused unchanged; see upstream manifest approved_copy",
+  "output": {
+    "path": "production/2026-10-24_完整电商套图/generated/M01-reused.jpg",
+    "sha256": "d7a6e607ba7923f56eb39c720d57ab061fd36a25bc73d159369235ee122b68b2"
+  },
+  "working": {
+    "path": "production/2026-10-24_完整电商套图/generated/M01-reused.jpg",
+    "sha256": "d7a6e607ba7923f56eb39c720d57ab061fd36a25bc73d159369235ee122b68b2"
+  },
+  "dims": [
+    1254,
+    1254
+  ],
+  "transform": "byte copy, no recompression",
+  "notes": "复用当前已验JPG，不引用10/23失败旧商品",
+  "upstream_manifest": {
+    "path": "production/2026-10-24_实拍主导主图/image-manifest.json",
+    "sha256": "df406004b77605b8714d01a1af13091a2282da978e38e247e45fe6351054ff75"
+  },
+  "status": "REUSED_AWAITING_PACKAGE_CHECK",
+  "refs": [
+    {
+      "id": "A038",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/主图/主图_05.jpg",
+      "sha256": "32584bc1f2be07bc6e076cbbe6c24c70b11d949244e035918567de9977591ab4"
+    }
+  ]
+}

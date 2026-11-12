@@ -1,0 +1,21 @@
+{
+  "reviewer": "/root/blender_product_model",
+  "reviewed_at": "2026-10-24T22:25:44.200046+08:00",
+  "outputs": {
+    "AD01": {
+      "path": "production/2026-10-24_参考广告主图/final/AD01.jpg",
+      "sha256": "5258d1ad36ba0bcb22c33a3978d5b9195b1d2ea7552a5ba01fb64ebc28e5a6b4"
+    },
+    "AD02": {
+      "path": "production/2026-10-24_参考广告主图/final/AD02.jpg",
+      "sha256": "c803a8450a87190ea4bdc7b8c070cb4b5a2a8fe0d750168dccecdb92a6c2bd61"
+    },
+    "AD03": {
+      "path": "production/2026-10-24_参考广告主图/final/AD03.jpg",
+      "sha256": "f51d6e5ce1ce4fbd8ba3257e7274f1456ab3146f462bf1a7e21c8c3c7080a13b"
+    }
+  },
+  "status": "NO_MUST_FIX_FOUND",
+  "finding": "实际打开AD01/03最终JPG，及v004接入中文后的AD02最终JPG：大字/底带/窗节奏保留参考广告层级，字不遮商品，AD02三处补孔无额外邻孔；本轮收口。",
+  "limits": "制作Owner第二遍实际审图，root已另行实际审图；不是逐孔精密匹配或用户接受。"
+}

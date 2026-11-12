@@ -1,0 +1,165 @@
+{
+  "id": "D07",
+  "role": "手动除垢步骤与原生按压状态",
+  "sku": "银色",
+  "refs_actual_viewed": [
+    {
+      "id": "A024",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_19.jpg",
+      "sha256": "5e8e8e5d4b5a20eb1866e2746a0a8dc5795e11c43414e1dca1e2e97edc1b0cdd"
+    },
+    {
+      "id": "A025",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_20.jpg",
+      "sha256": "3f746d882e83ad3646d5fd6a8638414dd425c0e03a3b2c5962406d0f1143888e"
+    },
+    {
+      "id": "A026",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_21.jpg",
+      "sha256": "fef953c92593aa7192faf6522ace726912f253276891ce03f1d0c82fe0b43455"
+    }
+  ],
+  "actual_inputs": [
+    {
+      "path": "products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+      "sha256": "0b388756f0ee2e35630dac7789237153d390fa8aaab8f58f6e2643d4181be21d"
+    },
+    {
+      "path": "products/主推花洒/银色/原图/微信图片_20261022184355_94_2.jpg",
+      "sha256": "10dcfb2cad17faf397a03e0587da0ad19c76229fe801e090fee527a3fbc1a412"
+    }
+  ],
+  "claims": [
+    "中央红钮手动按压除垢",
+    "未按压状态",
+    "按住中央红钮"
+  ],
+  "copy": [
+    "手动按压除垢",
+    "找到中央红钮，按住后观察孔位",
+    "01",
+    "找到红钮",
+    "02",
+    "手动按住",
+    "03",
+    "观察孔位",
+    "未按压状态",
+    "按住中央红钮",
+    "按压中央红钮",
+    "辅助清理出水孔"
+  ],
+  "source_files": [
+    {
+      "path": "products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+      "sha256": "0b388756f0ee2e35630dac7789237153d390fa8aaab8f58f6e2643d4181be21d"
+    },
+    {
+      "path": "products/主推花洒/银色/原图/微信图片_20261022184355_94_2.jpg",
+      "sha256": "10dcfb2cad17faf397a03e0587da0ad19c76229fe801e090fee527a3fbc1a412"
+    }
+  ],
+  "source_layers": [
+    {
+      "resampled_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/64da30f467fc334c.png",
+        "sha256": "0c5e17e161009d10739842d7e623d1ab4066f80bab19a865c43ab083c216c5cd"
+      },
+      "source": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+        "sha256": "0b388756f0ee2e35630dac7789237153d390fa8aaab8f58f6e2643d4181be21d"
+      },
+      "exif_display_size": [
+        4284,
+        5712
+      ],
+      "source_crop": [
+        0,
+        0,
+        4284,
+        5000
+      ],
+      "uniform_scale": 0.21,
+      "scaled_crop_offset": [
+        95,
+        0
+      ],
+      "destination": [
+        65,
+        560,
+        710,
+        1050
+      ],
+      "operation": "uniform cover crop; source RGB retained through resampling",
+      "source_kind": "original_real_photo",
+      "photo_id": "SIL005",
+      "ai_redraw": false
+    },
+    {
+      "resampled_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/a23e6ada31e3d977.png",
+        "sha256": "3de5afd359b736670a8ab200a8fddc9816f1ae2434573b85159f25aafd9413a0"
+      },
+      "source": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184355_94_2.jpg",
+        "sha256": "10dcfb2cad17faf397a03e0587da0ad19c76229fe801e090fee527a3fbc1a412"
+      },
+      "exif_display_size": [
+        4284,
+        5712
+      ],
+      "source_crop": [
+        0,
+        0,
+        4284,
+        5000
+      ],
+      "uniform_scale": 0.21,
+      "scaled_crop_offset": [
+        95,
+        0
+      ],
+      "destination": [
+        825,
+        560,
+        710,
+        1050
+      ],
+      "operation": "uniform cover crop; source RGB retained through resampling",
+      "source_kind": "original_real_photo",
+      "photo_id": "SIL006",
+      "ai_redraw": false
+    }
+  ],
+  "transform": "See source_layers; all photo transforms uniform scaling/cropping; no nonuniform product stretch",
+  "output": {
+    "path": "production/2026-10-24_完整电商套图/generated/D07-v005.jpg",
+    "sha256": "fdadda3cecd7894fd10d71d95bca3387bbee58d720b4b08bf9bf4b57509b5a2a"
+  },
+  "working": {
+    "path": "production/2026-10-24_完整电商套图/generated/D07-v005.png",
+    "sha256": "fc55b399c8dd9b3d46e172df4f8295c65b61a193f0fa5be7d34506df7ed31d46"
+  },
+  "dims": [
+    1600,
+    2000
+  ],
+  "notes": "A024状态排布、A025大面板、A026上下细节方法；过滤/耐久/永久不堵文案不采用；只复用SIL005/006原照",
+  "status": "AWAITING_INDEPENDENT_VISUAL_REVIEW",
+  "refs": [
+    {
+      "id": "A024",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_19.jpg",
+      "sha256": "5e8e8e5d4b5a20eb1866e2746a0a8dc5795e11c43414e1dca1e2e97edc1b0cdd"
+    },
+    {
+      "id": "A025",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_20.jpg",
+      "sha256": "3f746d882e83ad3646d5fd6a8638414dd425c0e03a3b2c5962406d0f1143888e"
+    },
+    {
+      "id": "A026",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_21.jpg",
+      "sha256": "fef953c92593aa7192faf6522ace726912f253276891ce03f1d0c82fe0b43455"
+    }
+  ]
+}

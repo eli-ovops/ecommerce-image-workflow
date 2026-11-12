@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-30",
+  "final_images_actually_viewed": ["05_浴室安装全貌_v2.jpg", "06_安装喷面与红钮.jpg", "07_浴室台面背部接口.jpg"],
+  "additional_actual_views": ["手机宽度审阅.jpg", "原照与场景对照_左实拍右渲染.jpg", "喷面与红钮原尺寸局部.jpg", "376原始实拍完整预览；374和两张去盖原照复用本会话已实看记录"],
+  "product_review": {
+    "source_identity": "PASS：同一v3原五网格加上一轮四个估建接口部件，保存重开后网格/材质/局部变换/修改器一致",
+    "dimensions": "用户确认壳体300×200×20mm；模型本地包络复核PASS，不是实物测量",
+    "visible_check": "整体长方形比例、厚边、红钮相对位置、花瓣纹与静态状态保持；本轮无新逐孔或精密槽深验收",
+    "remaining": ["面板颗粒反差和花瓣槽边立体感弱于实拍", "红钮仍略浅且过于平整", "镜面背壳比实拍更理想化", "去盖接口内圈和网面沿用估建，精确规格/尺寸/材质/性能UNKNOWN"]
+  },
+  "composition_review": {
+    "05": "完整商品居上，壁龛与墙面构成浴室情境；安装杆部分被商品遮挡，连结仅作场景示意；原背景重叠面黑缝已在v2消除并实看高清成图",
+    "06": "大喷面与静态红钮近景，带墙面和场景固定盘；远端和近端有景深，非全部孔纹等锐度测量图",
+    "07": "商品靠墙放置，毛巾及无品牌洗浴瓶提供日常尺度；正面朝墙，不模拟正在使用；内圈及网面在原尺寸可辨",
+    "mobile": "三张360px缩略已实际查看，主体和主题可辨；细微纹理与接口网面须看原尺寸",
+    "remaining": ["浴室与道具仍有明显CG感", "场景是新建渲染，并非用户真实浴室或真实使用拍摄", "台面接触按模型包络安排，非实际安装/负载验证"]
+  },
+  "status": {
+    "render_and_geometry_identity": "PASS",
+    "photoreal_acceptance": "NOT_PASS",
+    "physical_installation_fit": "NOT_RUN",
+    "waterflow_or_pull_demo": "NOT_DONE",
+    "customer_acceptance": "UNKNOWN",
+    "publication": "NOT_DONE"
+  },
+  "old_assets": "原始素材、模型、旧图和预览均保留"
+}

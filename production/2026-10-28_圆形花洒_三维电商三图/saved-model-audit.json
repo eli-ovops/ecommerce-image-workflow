@@ -1,0 +1,20 @@
+{
+  "A": {
+    "reopened": true,
+    "product_mesh_topology_equal": true,
+    "common_rigid_transform_max_matrix_difference": 9.215595994649384e-10,
+    "external_images": []
+  },
+  "B": {
+    "reopened": true,
+    "product_mesh_topology_equal": true,
+    "common_rigid_transform_max_matrix_difference": 1.4889877109069971e-08,
+    "external_images": []
+  },
+  "C": {
+    "reopened": true,
+    "product_mesh_topology_equal": true,
+    "common_rigid_transform_max_matrix_difference": 9.215595994649384e-10,
+    "external_images": []
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "id": "L02",
+  "role": "暖棕详情长图",
+  "sku": "银色",
+  "children": [
+    "M02",
+    "M04",
+    "M08",
+    "W01",
+    "W02"
+  ],
+  "source_layers": [
+    {
+      "id": "M02",
+      "source": {
+        "path": "production/2026-10-24_完整电商套图/generated/M02-reused.jpg",
+        "sha256": "5258d1ad36ba0bcb22c33a3978d5b9195b1d2ea7552a5ba01fb64ebc28e5a6b4"
+      },
+      "source_crop": null,
+      "uniform_scale": 0.6379585326953748,
+      "destination": [
+        0,
+        0,
+        800,
+        800
+      ],
+      "source_kind": "photo_guided_generated_product_or_composite"
+    },
+    {
+      "id": "M04",
+      "source": {
+        "path": "production/2026-10-24_完整电商套图/generated/M04-v005.jpg",
+        "sha256": "9cdc93f57a92ed5cf848dadd68e7560253f1ccd9b3cb7c78658ba24b5115a561"
+      },
+      "source_crop": null,
+      "uniform_scale": 0.5,
+      "destination": [
+        0,
+        800,
+        800,
+        800
+      ],
+      "source_kind": "photo_guided_generated_product_or_composite"
+    },
+    {
+      "id": "M08",
+      "source": {
+        "path": "production/2026-10-24_完整电商套图/generated/M08-v004.jpg",
+        "sha256": "9f022222d2a4c8621469d6ea519e83747f0926b43af80d282eec7bdb870b54a3"
+      },
+      "source_crop": [
+        0,
+        320,
+        1600,
+        1600
+      ],
+      "uniform_scale": 0.5,
+      "destination": [
+        0,
+        1600,
+        800,
+        640
+      ],
+      "source_kind": "photo_guided_generated_product_or_composite"
+    },
+    {
+      "id": "W01",
+      "source": {
+        "path": "production/2026-10-24_完整电商套图/generated/W01-v004.jpg",
+        "sha256": "a8079558546f73e6109c0153e1eba37f924d9230870a4120d430d92ecb2591b3"
+      },
+      "source_crop": null,
+      "uniform_scale": 0.5,
+      "destination": [
+        0,
+        2240,
+        800,
+        1000
+      ],
+      "source_kind": "photo_guided_generated_product_or_composite"
+    },
+    {
+      "id": "W02",
+      "source": {
+        "path": "production/2026-10-24_完整电商套图/generated/W02-v004.jpg",
+        "sha256": "dcfebc97ae515ead96c47f2733f976d6a885ee2635b76672fd9ea583780d74b1"
+      },
+      "source_crop": null,
+      "uniform_scale": 0.5,
+      "destination": [
+        0,
+        3240,
+        800,
+        1000
+      ],
+      "source_kind": "photo_guided_generated_product_or_composite"
+    }
+  ],
+  "source_files": [
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/M02-reused.jpg",
+      "sha256": "5258d1ad36ba0bcb22c33a3978d5b9195b1d2ea7552a5ba01fb64ebc28e5a6b4"
+    },
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/M04-v005.jpg",
+      "sha256": "9cdc93f57a92ed5cf848dadd68e7560253f1ccd9b3cb7c78658ba24b5115a561"
+    },
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/M08-v004.jpg",
+      "sha256": "9f022222d2a4c8621469d6ea519e83747f0926b43af80d282eec7bdb870b54a3"
+    },
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/W01-v004.jpg",
+      "sha256": "a8079558546f73e6109c0153e1eba37f924d9230870a4120d430d92ecb2591b3"
+    },
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/W02-v004.jpg",
+      "sha256": "dcfebc97ae515ead96c47f2733f976d6a885ee2635b76672fd9ea583780d74b1"
+    }
+  ],
+  "actual_inputs": [
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/M02-reused.jpg",
+      "sha256": "5258d1ad36ba0bcb22c33a3978d5b9195b1d2ea7552a5ba01fb64ebc28e5a6b4"
+    },
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/M04-v005.jpg",
+      "sha256": "9cdc93f57a92ed5cf848dadd68e7560253f1ccd9b3cb7c78658ba24b5115a561"
+    },
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/M08-v004.jpg",
+      "sha256": "9f022222d2a4c8621469d6ea519e83747f0926b43af80d282eec7bdb870b54a3"
+    },
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/W01-v004.jpg",
+      "sha256": "a8079558546f73e6109c0153e1eba37f924d9230870a4120d430d92ecb2591b3"
+    },
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/W02-v004.jpg",
+      "sha256": "dcfebc97ae515ead96c47f2733f976d6a885ee2635b76672fd9ea583780d74b1"
+    }
+  ],
+  "refs_actual_viewed": [
+    "R001",
+    "R002",
+    "R012",
+    "R028",
+    "R033"
+  ],
+  "claims": "Inherited from listed children, no new claims",
+  "copy": "Inherited from children",
+  "output": {
+    "path": "production/2026-10-24_完整电商套图/generated/L02-v001.jpg",
+    "sha256": "5aa287d2971b473b7de42b989c8e05b0eaca37265a6f6f0437abd6da53888dd6"
+  },
+  "dims": [
+    800,
+    4240
+  ],
+  "transform": "Uniform width800; no product redraw; L02 M08 redundant top headline removed by crop",
+  "notes": "冷蓝与暖棕路线分别串联；L01首屏→颜色→细节→出水→切档→外观→除垢→静物→信息；L02主角→出水→双键→按压→静物收尾",
+  "status": "AWAITING_INDEPENDENT_VISUAL_REVIEW",
+  "refs": [
+    "R001",
+    "R002",
+    "R012",
+    "R028",
+    "R033"
+  ]
+}

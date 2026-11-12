@@ -1,0 +1,37 @@
+{
+  "stage": "three_samples_user_review_pending",
+  "root_actual_views": [
+    "A_暖白三档主图.jpg",
+    "B_深色质感主图.jpg",
+    "C_双控细节.jpg"
+  ],
+  "visual_review": {
+    "shape": "Same accepted editable 3D source; no product AI redraw. Not precise measured truth.",
+    "typography": "Bold italic title paths readable, margins separated from head; C labels point to appropriate controls.",
+    "sources_opened": [
+      "339 front",
+      "351 selector macro",
+      "material-refine final",
+      "R001",
+      "R004",
+      "R028"
+    ],
+    "limits": [
+      "Simple studio space, less scene richness than initial ecommerce photos",
+      "Panel micrograin and neck highlights still have visible CG character",
+      "No flow or operation efficacy validation"
+    ]
+  },
+  "package_verification": {
+    "jpg_members": 3,
+    "jpg_bytes": 1033545,
+    "source_members": 29,
+    "source_bytes": 74385765,
+    "crc_both": true,
+    "all_local_member_sha_match": true
+  },
+  "browser_preview": "Not verified: native file URL blocked by browser policy; no workaround attempted. Actual JPGs opened via local image tool.",
+  "customer_acceptance": "UNKNOWN",
+  "model_runtime": "UNKNOWN",
+  "cleanup": "Originals and working sources retained; no deletion."
+}

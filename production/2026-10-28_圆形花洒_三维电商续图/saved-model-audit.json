@@ -1,0 +1,23 @@
+{
+  "D": {
+    "reopened": true,
+    "product_mesh_topology_equal": true,
+    "common_rigid_transform_max_matrix_difference": 9.215595994649384e-10,
+    "rigid_rotation_orthogonality_error": 5.329070518200751e-15,
+    "external_images": []
+  },
+  "E": {
+    "reopened": true,
+    "product_mesh_topology_equal": true,
+    "common_rigid_transform_max_matrix_difference": 1.1468409510939637e-07,
+    "rigid_rotation_orthogonality_error": 1.2434497875801753e-14,
+    "external_images": []
+  },
+  "F": {
+    "reopened": true,
+    "product_mesh_topology_equal": true,
+    "common_rigid_transform_max_matrix_difference": 9.215595994649384e-10,
+    "rigid_rotation_orthogonality_error": 5.329070518200751e-15,
+    "external_images": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-24",
+  "version": "v010a",
+  "status": "LOCAL_NECK_CORRECTION_READY_FOR_REVIEW",
+  "owner": "blender_product_model",
+  "reviewer": "root",
+  "request": "这个地方也不对。你看看我发给你的视频。",
+  "input_record": "neck-video-feedback/feedback.json",
+  "root_actually_viewed": [
+    "renders/strict_side.jpg",
+    "renders/head_oblique_back.jpg",
+    "evidence/v009-v010a-strict_side-local.jpg",
+    "evidence/v009-v010a-head_oblique_back-local.jpg"
+  ],
+  "root_findings": [
+    "Strict side contour no longer contains the short abrupt rear shoulder above the lower switch",
+    "Rear oblique transition shows a broader continuous head-to-neck surface",
+    "Inner side boundary remains visible; no whole-model physical accuracy or user acceptance claimed"
+  ],
+  "technical_evidence_read": "blender/v010a/evidence/reopen-and-preservation.json",
+  "preservation_from_independent_reopen": {
+    "cylinder_wall_vertices": 3281,
+    "wall_exactly_unchanged": true,
+    "lower_body_vertices": 16384,
+    "lower_body_exactly_unchanged": true
+  },
+  "root_file_hash_verified": "e3de47e1ddd7ee4741d2a698e8fb22078839297c0834f6bad32af4b4341d4a97",
+  "jpg_decode_verified": [
+    {
+      "path": "renders/strict_side.jpg",
+      "dimensions": [
+        1000,
+        1200
+      ]
+    },
+    {
+      "path": "renders/head_oblique_back.jpg",
+      "dimensions": [
+        1000,
+        1200
+      ]
+    },
+    {
+      "path": "evidence/v009-v010a-strict_side-local.jpg",
+      "dimensions": [
+        870,
+        835
+      ]
+    },
+    {
+      "path": "evidence/v009-v010a-head_oblique_back-local.jpg",
+      "dimensions": [
+        1500,
+        665
+      ]
+    }
+  ],
+  "native_ui_verified": "Blender title and URL show shower_black_clay_v010a.blend; full right orthographic side displayed via selection and frame. Only viewport/selection changed; frozen file was not saved again.",
+  "user_acceptance": "NOT_RECEIVED",
+  "whole_product_geometry": "NOT_ACCEPTED; previous overall rejection remains",
+  "ecommerce_production": "PAUSED",
+  "routing": {
+    "target": "existing gpt-6-astra/high worker",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN"
+  },
+  "preservation": "All original videos/photos, old models, and this revision retained. New video copies and sampled frames are modeling evidence, no asset deletion."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "D06",
+  "prompt": "Precise edit image1. Keep exacttitle '近看出水的起点', mainlarge regularwatermacro, bottomwordlesslowangle thinchrome headwall+curvedgripwater image. REMOVE the THREE photo cards justunder blue indices (normal/mist/mixed littleheads), KEEP ONLY their 3 smallblue textindexpills '常规出水' '喷雾出水' '混合出水' over white, with a clean narrowwhite gap then the unchangedlarge regularwatermacro. Reduce eliminated space and redistribute to moregenerous mainmacro+bottomshortlandscape preserving portraitapprox790:1100. In mainmacro ensure fine transparent separatedwater from ALL whiteoutlets over entireblackface inclrearandtop/bottom rows; redcenter and tinyblackouterholes remainDRY. No mistandmixed illustrations onthisindexpage. Do not addwhite solidnozzlecolumns, labels/claims/specifications. Existingflatlow whiteeyelets, actualsilvercurvedgeometry unchanged.",
+  "referenced_image_paths": [
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D06-v1.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184402_99_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/silver-side-v1.png"
+  ],
+  "actual_viewed_related_originals": [
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D06-v1.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184402_99_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/silver-side-v1.png"
+  ],
+  "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+  "date": "2026-10-23",
+  "status": "RECOVERED_AFTER_CRASH_QA_PENDING",
+  "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D06-v2.png",
+  "raw_output": "/Users/USER/.codex/generated_images/01a16319-d848-71d0-95e1-72970644c800/exec-3cbd9d81-4041-4a7d-b026-283b45e8cffc.png",
+  "sha256": "80a532b6a2ea07aaa8fba26b66c07fd8bdc2826979ddbb380fdc6ff233f21d1d",
+  "actual_dimensions": [
+    1063,
+    1479
+  ]
+}

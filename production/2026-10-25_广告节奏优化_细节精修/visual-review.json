@@ -1,0 +1,110 @@
+[
+  {
+    "id": "M05",
+    "review": "未改图复用前版接触表及视觉审查",
+    "finding": "用户认可代表图，字节不变复用",
+    "customer_acceptance": "待审"
+  },
+  {
+    "id": "M01",
+    "review": "未改图复用前版接触表及视觉审查",
+    "finding": "加大商品与模式标题；仅对现有生成商品层等比放置，无新几何重绘",
+    "customer_acceptance": "待审"
+  },
+  {
+    "id": "M02",
+    "review": "未改图复用前版接触表及视觉审查",
+    "finding": "生成操作示意，不作为实际按压测试证据",
+    "customer_acceptance": "待审"
+  },
+  {
+    "id": "M03",
+    "review": "未改图复用前版接触表及视觉审查",
+    "finding": "原始实拍裁切，无红针重绘；未显示原拍摄房间",
+    "customer_acceptance": "待审"
+  },
+  {
+    "id": "M06",
+    "review": "未改图复用前版接触表及视觉审查",
+    "finding": "托盘仅为布景，售卖范围为单花洒",
+    "customer_acceptance": "待审"
+  },
+  {
+    "id": "K01",
+    "review": "未改图复用前版接触表及视觉审查",
+    "finding": "各SKU独立现有生成商品层；等高等比例，底部自然出画",
+    "customer_acceptance": "待审"
+  },
+  {
+    "id": "K02",
+    "review": "未改图复用前版接触表及视觉审查",
+    "finding": "各SKU独立现有生成商品层；等高等比例，底部自然出画",
+    "customer_acceptance": "待审"
+  },
+  {
+    "id": "K03",
+    "review": "未改图复用前版接触表及视觉审查",
+    "finding": "各SKU独立现有生成商品层；等高等比例，底部自然出画",
+    "customer_acceptance": "待审"
+  },
+  {
+    "id": "M04",
+    "review": "原JPG实际打开复核",
+    "finding": "删除三档名称重复副标题，头部压缩110px；三档原图不重绘",
+    "customer_acceptance": "待审"
+  },
+  {
+    "id": "D01",
+    "review": "原JPG实际打开复核",
+    "finding": "删除上方重复色名；三款同800px高度、370px栏居中，头缘至少10px栏内余量；下柄自然裁切；顶部空白收紧",
+    "customer_acceptance": "待审"
+  },
+  {
+    "id": "D02",
+    "review": "原JPG实际打开复核",
+    "finding": "删除泛化副标题与重复按键底条；只保留正背主题、标签与商品，头部空白收紧100px",
+    "customer_acceptance": "待审"
+  },
+  {
+    "id": "D04",
+    "review": "未改图复用前版接触表及视觉审查",
+    "finding": "两张原实拍，不改变孔位红针；非清洁效果前后对比",
+    "customer_acceptance": "待审"
+  },
+  {
+    "id": "D05",
+    "review": "未改图复用前版接触表及视觉审查",
+    "finding": "按用户最新纠正删除售卖范围及未包含说明；仅保留颜色、三档、切档与除垢正向信息",
+    "customer_acceptance": "待审"
+  },
+  {
+    "id": "W01",
+    "review": "未改图复用前版接触表及视觉审查",
+    "finding": "对应实拍95；现有生成水型图片不重绘。真实孔位/水流仍待客户复核",
+    "customer_acceptance": "待审"
+  },
+  {
+    "id": "W02",
+    "review": "未改图复用前版接触表及视觉审查",
+    "finding": "对应实拍97；现有生成水型图片不重绘。真实孔位/水流仍待客户复核",
+    "customer_acceptance": "待审"
+  },
+  {
+    "id": "W03",
+    "review": "未改图复用前版接触表及视觉审查",
+    "finding": "对应实拍96；现有生成水型图片不重绘。真实孔位/水流仍待客户复核",
+    "customer_acceptance": "待审"
+  },
+  {
+    "id": "D06",
+    "review": "未改图复用前版接触表及视觉审查",
+    "finding": "原实拍面板裁切，保留真实孔位",
+    "customer_acceptance": "待审"
+  },
+  {
+    "id": "L01",
+    "review": "由已核13张图按原顺序同步串接，未增加新内容",
+    "finding": "同步D01与D02新图；13章主题次序保持",
+    "customer_acceptance": "待审"
+  }
+]

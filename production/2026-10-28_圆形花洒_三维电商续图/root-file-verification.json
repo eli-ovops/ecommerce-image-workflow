@@ -1,0 +1,100 @@
+{
+  "jpg": [
+    {
+      "file": "A_暖白三档主图.jpg",
+      "size": [
+        1600,
+        1600
+      ],
+      "format": "JPEG",
+      "sha256": "ceb09cb93e7f648963c32549ea7ddfecac8513ecb49594df3db2681c404960aa"
+    },
+    {
+      "file": "B_深色质感主图.jpg",
+      "size": [
+        1600,
+        1600
+      ],
+      "format": "JPEG",
+      "sha256": "b318a162ab61a5fb061abf98cca6622a7486a6cdcd1a204f7015d4799bc21a13"
+    },
+    {
+      "file": "C_双控细节.jpg",
+      "size": [
+        1600,
+        1600
+      ],
+      "format": "JPEG",
+      "sha256": "3720d12fa48fe6c7ed80d5bb6a5253caac2db534392a2a0566d02824667f3400"
+    },
+    {
+      "file": "D_侧面弧度.jpg",
+      "size": [
+        1600,
+        1600
+      ],
+      "format": "JPEG",
+      "sha256": "3f162e86574b6b40ed33f6f5c8ac2c07c350a92d731212f558fe3dba47d755b8"
+    },
+    {
+      "file": "E_银色背面.jpg",
+      "size": [
+        1600,
+        1600
+      ],
+      "format": "JPEG",
+      "sha256": "0c22b7937d6d0508845934358d984ba1665a0960d85ddd4ebc11a1ecb0ba8144"
+    },
+    {
+      "file": "F_中央红钮细节.jpg",
+      "size": [
+        1600,
+        1600
+      ],
+      "format": "JPEG",
+      "sha256": "940357128de7b921ce92e1c6ddd89b84e2251270ef7d997939bc352870af4151"
+    }
+  ],
+  "packages": [
+    {
+      "file": "圆形花洒_三维六图_JPG.zip",
+      "members": 6,
+      "bytes": 2006687,
+      "sha256": "d8d16ebf4ec8d455e471cbfa1f9a80f0ce5b51b7150ba19dc531b8784fb26fa2",
+      "crc": true,
+      "all_members_match_local": true
+    },
+    {
+      "file": "三维续图_可编辑源.zip",
+      "members": 30,
+      "bytes": 75109697,
+      "sha256": "a8a9da779634294d4ca265944347bc28c937f1658588454faf93ca6e4950adbb",
+      "crc": true,
+      "all_members_match_local": true
+    }
+  ],
+  "ABC_unchanged": true,
+  "source_audit_record": {
+    "D": {
+      "reopened": true,
+      "product_mesh_topology_equal": true,
+      "common_rigid_transform_max_matrix_difference": 9.215595994649384e-10,
+      "rigid_rotation_orthogonality_error": 5.329070518200751e-15,
+      "external_images": []
+    },
+    "E": {
+      "reopened": true,
+      "product_mesh_topology_equal": true,
+      "common_rigid_transform_max_matrix_difference": 1.1468409510939637e-07,
+      "rigid_rotation_orthogonality_error": 1.2434497875801753e-14,
+      "external_images": []
+    },
+    "F": {
+      "reopened": true,
+      "product_mesh_topology_equal": true,
+      "common_rigid_transform_max_matrix_difference": 9.215595994649384e-10,
+      "rigid_rotation_orthogonality_error": 5.329070518200751e-15,
+      "external_images": []
+    }
+  }
+}

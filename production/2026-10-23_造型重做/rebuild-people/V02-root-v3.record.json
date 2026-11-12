@@ -1,0 +1,27 @@
+{
+  "id": "V02",
+  "prompt": "Exact local black-FACE replacement in image1. KEEP ALL other pixels/geometry/camera/layout/Chinese/background/hands/people/skin/hair. Treat gray/dark sealed circular blobs and brokenwhite residues among ports as UNWANTED OBJECTS, erase ALL of those completely. Rebuild black face interior with clean regular evenly spaced SMALL white circular low flat annuli, each ONE tidy round dark tiny center, continuous matte BLACK spacing. Actualphoto2 gives real face;photo3 clearer same-model face pattern only, never its black shell. No ghost/doubled eyelets, NO dark gray rings/caps/droplets/blobs between true white eyelets, no irregular tornwhite or high cylinders. Red centralraisedring withcenterhole and surroundingoutermicroholeblackcircles preserved. SILVER shell/selector/curved neck/thread completely unchanged; no newstructure. Whites lowflush realistic originalsize. No water/words/otherparts added. Only foreground product blackface replacement. Woman's skin/facialidentity/hair/hand/pose and hugeChinese/wholelayout EXACTLY untouched.",
+  "refs": [
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/V02-rebuild-v2.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185739_102_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/silver-side-v1.png"
+  ],
+  "actual_viewed_related_originals": [
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/V02-rebuild-v2.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185739_102_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/silver-side-v1.png"
+  ],
+  "batch_read_record": "same74 actual record inherited BATCH-REF-20261023-v1",
+  "date": "2026-10-23",
+  "strategy": "Replace blackface with clean uniform real ring ports; anatomy and curvature locked",
+  "status": "QA_PENDING",
+  "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/V02-root-v3.png",
+  "raw_output": "/Users/USER/.codex/generated_images/01a16319-d848-71d0-95e1-72970644c800/exec-a9d5605a-510a-4be1-9bdf-a2b6be91a28c.png",
+  "sha256": "6152c8167fec88045fc5347c709f686588ac3888741f1cf6fee6a428e31d8782",
+  "actual_dimensions": [
+    1034,
+    1521
+  ]
+}

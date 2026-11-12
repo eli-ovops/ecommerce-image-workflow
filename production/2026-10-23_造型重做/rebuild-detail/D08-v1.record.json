@@ -1,0 +1,28 @@
+{
+  "id": "D08",
+  "prompt": "Fresh finished Chinese ecommerce design; exact SILVER real showerhead, chrome gently domed back, continuous shallow S camber head-neck-grip and smoothly varying thickness, slight face/grip direction difference. Match actual side photo and cleaned pure side, not straight coplanar paddle nor sharp L. Black round face with MANY FLAT flush white annular outlets and outer black microhole rings; red raised center descaling ring with centerhole, lower oval silver selector. Silver bare male thread, no hose/quickconnector/stand/brand/flag/certificates/specs/material claims/internals. No gray circular backpatch. Real own SKU photos define the physical product; style refs define layout/color only. Crisp precise Chinese. Actual regular water is dense fine transparent separated streams from ALL effective WHITE outlet positions across entire face, no half dry sector; outer tiny blackholes and redcenter stay dry. Fine streams start each flush white eyelet, no white solid tube; naturalphoto99 density. MIST=exactly six evenly spaced conical fine mist fans originating from six ORIGINAL ordinary-sized white eyelets marked redcircles in annotatedphoto: approx face10,2,3:30,5,7,8:30oclock. Same-sized flat white rings as neighbors, NO larger specialnozzle hardware. Allother white eyelets dry in mist. Mixed=ALL regular fine streams PLUS those SAME six distinguishable soft cones, immediately visible different roots at face, then natural blending downstream. Never redcentraljet, oversizednozzles, glow or uniform fog overlay.Portrait790:1300. Finished THREE black horizontal rounded reverse-lit photo cards stacked with slimwhitegaps: blue cornernumber01 and top-right '常规出水';02 '喷雾出水';03 '混合出水'. Same actualsilver angledcurved head toleft water toright ineach. Maincriticalfeature is FACE waterorigins not distantwhitefog; zoomheadlarge enough tocount6originalmistorigin points, 3front visible/3rear visible allphysically onface. Regular ALLeffectivewhiteoutlets. Mist exactlysix equal mistfans as annotated, keep originalring size, no newnozzle circles. Mixed show sixsoftcones rootedamongfull regularfinejets simultaneously, immediately different roots. Bottom12% pale-blue opaquechapterbridge largewhite '下方按键 切换三档'. ONLY specifiedChinese/01-03; no第四/extra modes/healthclaims.",
+  "referenced_image_paths": [
+    "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_11.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184402_99_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184403_100_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/annotations/feedback-02.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/silver-side-v1.png"
+  ],
+  "actual_viewed_related_originals": [
+    "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_11.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184402_99_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184403_100_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/annotations/feedback-02.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/silver-side-v1.png"
+  ],
+  "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+  "date": "2026-10-23",
+  "status": "INDEPENDENT_QA_PENDING",
+  "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D08-v1.png",
+  "raw_output": "/Users/USER/.codex/generated_images/01a16319-d848-71d0-95e1-72970644c800/exec-e0643e57-a83c-401a-a901-f5316338dd39.png",
+  "sha256": "d2fbd53dd1b16e7dcbafeaf0e3c040c6460a353441e259d8b4ae88c23a753287",
+  "actual_dimensions": [
+    978,
+    1608
+  ]
+}

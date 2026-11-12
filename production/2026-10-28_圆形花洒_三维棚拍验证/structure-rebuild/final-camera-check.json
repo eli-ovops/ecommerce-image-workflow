@@ -1,0 +1,1896 @@
+{
+  "reopen_success": true,
+  "white_rings_4_of_4_first_hits": 144,
+  "white_total": 144,
+  "peripheral_camera_centers_first_hit_silver": 0,
+  "peripheral_total": 300,
+  "coverage": "Final saved studio camera, 144 x 4 annulus sample points and 300 peripheral center rays; does not prove every surface pixel or all views",
+  "white_probes": [
+    {
+      "row": 1,
+      "x": -12.450000000000001,
+      "v": 50.4,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 1,
+      "x": -4.15,
+      "v": 50.4,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 1,
+      "x": 4.15,
+      "v": 50.4,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 1,
+      "x": 12.450000000000001,
+      "v": 50.4,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 2,
+      "x": -24.900000000000002,
+      "v": 43.2,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 2,
+      "x": -16.6,
+      "v": 43.2,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 2,
+      "x": -8.3,
+      "v": 43.2,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 2,
+      "x": 0.0,
+      "v": 43.2,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 2,
+      "x": 8.3,
+      "v": 43.2,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 2,
+      "x": 16.6,
+      "v": 43.2,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 2,
+      "x": 24.900000000000002,
+      "v": 43.2,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 3,
+      "x": -37.35,
+      "v": 36.0,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 3,
+      "x": -29.050000000000004,
+      "v": 36.0,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 3,
+      "x": -20.75,
+      "v": 36.0,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 3,
+      "x": -12.450000000000001,
+      "v": 36.0,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 3,
+      "x": -4.15,
+      "v": 36.0,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 3,
+      "x": 4.15,
+      "v": 36.0,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 3,
+      "x": 12.450000000000001,
+      "v": 36.0,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 3,
+      "x": 20.75,
+      "v": 36.0,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 3,
+      "x": 29.050000000000004,
+      "v": 36.0,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 3,
+      "x": 37.35,
+      "v": 36.0,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 4,
+      "x": -41.5,
+      "v": 28.8,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 4,
+      "x": -33.2,
+      "v": 28.8,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 4,
+      "x": -24.900000000000002,
+      "v": 28.8,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 4,
+      "x": -16.6,
+      "v": 28.8,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 4,
+      "x": -8.3,
+      "v": 28.8,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 4,
+      "x": 0.0,
+      "v": 28.8,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 4,
+      "x": 8.3,
+      "v": 28.8,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 4,
+      "x": 16.6,
+      "v": 28.8,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 4,
+      "x": 24.900000000000002,
+      "v": 28.8,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 4,
+      "x": 33.2,
+      "v": 28.8,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 4,
+      "x": 41.5,
+      "v": 28.8,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 5,
+      "x": -45.650000000000006,
+      "v": 21.6,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 5,
+      "x": -37.35,
+      "v": 21.6,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 5,
+      "x": -29.050000000000004,
+      "v": 21.6,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 5,
+      "x": -20.75,
+      "v": 21.6,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 5,
+      "x": -12.450000000000001,
+      "v": 21.6,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 5,
+      "x": -4.15,
+      "v": 21.6,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 5,
+      "x": 4.15,
+      "v": 21.6,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 5,
+      "x": 12.450000000000001,
+      "v": 21.6,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 5,
+      "x": 20.75,
+      "v": 21.6,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 5,
+      "x": 29.050000000000004,
+      "v": 21.6,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 5,
+      "x": 37.35,
+      "v": 21.6,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 5,
+      "x": 45.650000000000006,
+      "v": 21.6,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 6,
+      "x": -49.800000000000004,
+      "v": 14.4,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 6,
+      "x": -41.5,
+      "v": 14.4,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 6,
+      "x": -33.2,
+      "v": 14.4,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 6,
+      "x": -24.900000000000002,
+      "v": 14.4,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 6,
+      "x": -16.6,
+      "v": 14.4,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 6,
+      "x": -8.3,
+      "v": 14.4,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 6,
+      "x": 0.0,
+      "v": 14.4,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 6,
+      "x": 8.3,
+      "v": 14.4,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 6,
+      "x": 16.6,
+      "v": 14.4,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 6,
+      "x": 24.900000000000002,
+      "v": 14.4,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 6,
+      "x": 33.2,
+      "v": 14.4,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 6,
+      "x": 41.5,
+      "v": 14.4,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 6,
+      "x": 49.800000000000004,
+      "v": 14.4,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 7,
+      "x": -45.650000000000006,
+      "v": 7.2,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 7,
+      "x": -37.35,
+      "v": 7.2,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 7,
+      "x": -29.050000000000004,
+      "v": 7.2,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 7,
+      "x": -20.75,
+      "v": 7.2,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 7,
+      "x": -12.450000000000001,
+      "v": 7.2,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 7,
+      "x": 12.450000000000001,
+      "v": 7.2,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 7,
+      "x": 20.75,
+      "v": 7.2,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 7,
+      "x": 29.050000000000004,
+      "v": 7.2,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 7,
+      "x": 37.35,
+      "v": 7.2,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 7,
+      "x": 45.650000000000006,
+      "v": 7.2,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 8,
+      "x": -49.800000000000004,
+      "v": 0.0,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 8,
+      "x": -41.5,
+      "v": 0.0,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 8,
+      "x": -33.2,
+      "v": 0.0,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 8,
+      "x": -24.900000000000002,
+      "v": 0.0,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 8,
+      "x": -16.6,
+      "v": 0.0,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 8,
+      "x": 16.6,
+      "v": 0.0,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 8,
+      "x": 24.900000000000002,
+      "v": 0.0,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 8,
+      "x": 33.2,
+      "v": 0.0,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 8,
+      "x": 41.5,
+      "v": 0.0,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 8,
+      "x": 49.800000000000004,
+      "v": 0.0,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 9,
+      "x": -45.650000000000006,
+      "v": -7.2,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 9,
+      "x": -37.35,
+      "v": -7.2,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 9,
+      "x": -29.050000000000004,
+      "v": -7.2,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 9,
+      "x": -20.75,
+      "v": -7.2,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 9,
+      "x": -12.450000000000001,
+      "v": -7.2,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 9,
+      "x": 12.450000000000001,
+      "v": -7.2,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 9,
+      "x": 20.75,
+      "v": -7.2,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 9,
+      "x": 29.050000000000004,
+      "v": -7.2,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 9,
+      "x": 37.35,
+      "v": -7.2,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 9,
+      "x": 45.650000000000006,
+      "v": -7.2,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 10,
+      "x": -49.800000000000004,
+      "v": -14.4,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 10,
+      "x": -41.5,
+      "v": -14.4,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 10,
+      "x": -33.2,
+      "v": -14.4,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 10,
+      "x": -24.900000000000002,
+      "v": -14.4,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 10,
+      "x": -16.6,
+      "v": -14.4,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 10,
+      "x": -8.3,
+      "v": -14.4,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 10,
+      "x": 0.0,
+      "v": -14.4,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 10,
+      "x": 8.3,
+      "v": -14.4,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 10,
+      "x": 16.6,
+      "v": -14.4,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 10,
+      "x": 24.900000000000002,
+      "v": -14.4,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 10,
+      "x": 33.2,
+      "v": -14.4,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 10,
+      "x": 41.5,
+      "v": -14.4,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 10,
+      "x": 49.800000000000004,
+      "v": -14.4,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 11,
+      "x": -45.650000000000006,
+      "v": -21.6,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 11,
+      "x": -37.35,
+      "v": -21.6,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 11,
+      "x": -29.050000000000004,
+      "v": -21.6,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 11,
+      "x": -20.75,
+      "v": -21.6,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 11,
+      "x": -12.450000000000001,
+      "v": -21.6,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 11,
+      "x": -4.15,
+      "v": -21.6,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 11,
+      "x": 4.15,
+      "v": -21.6,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 11,
+      "x": 12.450000000000001,
+      "v": -21.6,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 11,
+      "x": 20.75,
+      "v": -21.6,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 11,
+      "x": 29.050000000000004,
+      "v": -21.6,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 11,
+      "x": 37.35,
+      "v": -21.6,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 11,
+      "x": 45.650000000000006,
+      "v": -21.6,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 12,
+      "x": -41.5,
+      "v": -28.8,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 12,
+      "x": -33.2,
+      "v": -28.8,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 12,
+      "x": -24.900000000000002,
+      "v": -28.8,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 12,
+      "x": -16.6,
+      "v": -28.8,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 12,
+      "x": -8.3,
+      "v": -28.8,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 12,
+      "x": 0.0,
+      "v": -28.8,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 12,
+      "x": 8.3,
+      "v": -28.8,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 12,
+      "x": 16.6,
+      "v": -28.8,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 12,
+      "x": 24.900000000000002,
+      "v": -28.8,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 12,
+      "x": 33.2,
+      "v": -28.8,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 12,
+      "x": 41.5,
+      "v": -28.8,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 13,
+      "x": -37.35,
+      "v": -36.0,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 13,
+      "x": -29.050000000000004,
+      "v": -36.0,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 13,
+      "x": -20.75,
+      "v": -36.0,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 13,
+      "x": -12.450000000000001,
+      "v": -36.0,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 13,
+      "x": -4.15,
+      "v": -36.0,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 13,
+      "x": 4.15,
+      "v": -36.0,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 13,
+      "x": 12.450000000000001,
+      "v": -36.0,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 13,
+      "x": 20.75,
+      "v": -36.0,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 13,
+      "x": 29.050000000000004,
+      "v": -36.0,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 13,
+      "x": 37.35,
+      "v": -36.0,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 14,
+      "x": -24.900000000000002,
+      "v": -43.2,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 14,
+      "x": -16.6,
+      "v": -43.2,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 14,
+      "x": -8.3,
+      "v": -43.2,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 14,
+      "x": 0.0,
+      "v": -43.2,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 14,
+      "x": 8.3,
+      "v": -43.2,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 14,
+      "x": 16.6,
+      "v": -43.2,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 14,
+      "x": 24.900000000000002,
+      "v": -43.2,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 15,
+      "x": -12.450000000000001,
+      "v": -50.4,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 15,
+      "x": -4.15,
+      "v": -50.4,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 15,
+      "x": 4.15,
+      "v": -50.4,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    },
+    {
+      "row": 15,
+      "x": 12.450000000000001,
+      "v": -50.4,
+      "hits": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ]
+    }
+  ],
+  "peripheral_hits": [
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel",
+    "02 Unified perforated panel"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "source_blend": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v010a/shower_black_clay_v010a.blend",
+  "source_sha256": "e3de47e1ddd7ee4741d2a698e8fb22078839297c0834f6bad32af4b4341d4a97",
+  "source_body_geometry_sha256": "f5448c7c64a8e58e70a92722a6196fb6894a92551839ccf3cd16ea9f98629a26",
+  "current_body_geometry_sha256": "f5448c7c64a8e58e70a92722a6196fb6894a92551839ccf3cd16ea9f98629a26",
+  "body_geometry_exactly_unchanged": true,
+  "nozzle_count": 144,
+  "nozzle_source": "face-source-and-holes.json",
+  "renderer": "Cycles Metal GPU",
+  "samples": 96,
+  "appearance_claim": "Silver visual shading only, no physical material or interface standard claim",
+  "routing": {
+    "target_model": "gpt-6-astra",
+    "target_effort": "high",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN",
+    "speed": "UNKNOWN"
+  }
+}

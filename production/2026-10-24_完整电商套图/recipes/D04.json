@@ -1,0 +1,193 @@
+{
+  "id": "D04",
+  "role": "真实出水章节",
+  "sku": "银色",
+  "refs_actual_viewed": [
+    {
+      "id": "A012",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_07.jpg",
+      "sha256": "169d803bde733117614618dc14199f127fe91daa180eb0d8d4d675f44acd53d0"
+    },
+    {
+      "id": "A013",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_08.jpg",
+      "sha256": "298309080a72cbc29ce18f3041f45ee9931e09a958c31a57fecce423bb4dfaa8"
+    },
+    {
+      "id": "A016",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_11.jpg",
+      "sha256": "44703903c1931a1efb3b0b2e57869679d3a1b495d84a64c84f20edafe116b8a6"
+    },
+    {
+      "id": "A017",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_12.jpg",
+      "sha256": "44250c946ff9e810b534a30797a94859550a60b9d79382d7fd04a8c607bb23ee"
+    },
+    {
+      "id": "A018",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_13.jpg",
+      "sha256": "0e4d10d99370247e604cb2aef27b918ace843a76f204074752079ccbd9f54f4d"
+    },
+    {
+      "id": "R023",
+      "path": "references/2026-10-22_首批参考/01_微信参考原图/R023_功能_四种出水分栏.jpg",
+      "sha256": "e0db0a132b9fdcdb54e34b5724a84988ff07d06ef9db26f10ce176a78384d92f"
+    }
+  ],
+  "actual_inputs": [
+    {
+      "path": "products/主推花洒/银色/原图/微信图片_20261022184357_95_2.jpg",
+      "sha256": "4aee9c3464d2f590ce6e7c08da656ab36093a0976a51560d0e7706b568c412db"
+    },
+    {
+      "path": "products/主推花洒/银色/原图/微信图片_20261022184358_96_2.jpg",
+      "sha256": "071b041a0c14ced993d33df9598611fd0e7ea9cb0e65892de6b6969d901fb140"
+    }
+  ],
+  "claims": [
+    "出水实拍",
+    "常规",
+    "喷雾",
+    "混合"
+  ],
+  "copy": [
+    "看见真实出水",
+    "常规 / 喷雾 / 混合",
+    "01",
+    "实拍",
+    "视角",
+    "02",
+    "实拍",
+    "视角",
+    "下方按键 · 切换三档"
+  ],
+  "source_files": [
+    {
+      "path": "products/主推花洒/银色/原图/微信图片_20261022184357_95_2.jpg",
+      "sha256": "4aee9c3464d2f590ce6e7c08da656ab36093a0976a51560d0e7706b568c412db"
+    },
+    {
+      "path": "products/主推花洒/银色/原图/微信图片_20261022184358_96_2.jpg",
+      "sha256": "071b041a0c14ced993d33df9598611fd0e7ea9cb0e65892de6b6969d901fb140"
+    }
+  ],
+  "source_layers": [
+    {
+      "resampled_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/1a63b240c1d1502c.png",
+        "sha256": "2f3f277d5123aba68b219e73552d1e0716e7c5717015d7cd5832bb0a2d7810a4"
+      },
+      "source": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184357_95_2.jpg",
+        "sha256": "4aee9c3464d2f590ce6e7c08da656ab36093a0976a51560d0e7706b568c412db"
+      },
+      "exif_display_size": [
+        3024,
+        4032
+      ],
+      "source_crop": [
+        0,
+        300,
+        3024,
+        3500
+      ],
+      "uniform_scale": 0.4150132275132275,
+      "scaled_crop_offset": [
+        0,
+        292
+      ],
+      "destination": [
+        255,
+        390,
+        1255,
+        745
+      ],
+      "operation": "uniform cover crop; source RGB retained through resampling",
+      "source_kind": "original_real_photo",
+      "photo_id": "SIL007",
+      "ai_redraw": false
+    },
+    {
+      "resampled_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/b29ddc87ebaf89b0.png",
+        "sha256": "e6f4a846aedb06e010a88ea4ad26fea35d7c312d6d55869c56679d04f2a44176"
+      },
+      "source": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184358_96_2.jpg",
+        "sha256": "071b041a0c14ced993d33df9598611fd0e7ea9cb0e65892de6b6969d901fb140"
+      },
+      "exif_display_size": [
+        3024,
+        4032
+      ],
+      "source_crop": [
+        0,
+        350,
+        3024,
+        3550
+      ],
+      "uniform_scale": 0.4150132275132275,
+      "scaled_crop_offset": [
+        0,
+        292
+      ],
+      "destination": [
+        255,
+        1260,
+        1255,
+        745
+      ],
+      "operation": "uniform cover crop; source RGB retained through resampling",
+      "source_kind": "original_real_photo",
+      "photo_id": "SIL008",
+      "ai_redraw": false
+    }
+  ],
+  "transform": "See source_layers; all photo transforms uniform scaling/cropping; no nonuniform product stretch",
+  "output": {
+    "path": "production/2026-10-24_完整电商套图/generated/D04-v005.jpg",
+    "sha256": "90e89ccac56e54344f0510f4276313eebad5e01608d7215c2a759a4ddda314b2"
+  },
+  "working": {
+    "path": "production/2026-10-24_完整电商套图/generated/D04-v005.png",
+    "sha256": "266baf86cdf3f7a1b72408224dc7bbea8ddf85a3c628b7dec32d266443afcd0d"
+  },
+  "dims": [
+    1600,
+    2200
+  ],
+  "notes": "01/02仅实拍视角序号；两原照均保留源水流，不生成或推定档位",
+  "status": "AWAITING_INDEPENDENT_VISUAL_REVIEW",
+  "refs": [
+    {
+      "id": "A012",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_07.jpg",
+      "sha256": "169d803bde733117614618dc14199f127fe91daa180eb0d8d4d675f44acd53d0"
+    },
+    {
+      "id": "A013",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_08.jpg",
+      "sha256": "298309080a72cbc29ce18f3041f45ee9931e09a958c31a57fecce423bb4dfaa8"
+    },
+    {
+      "id": "A016",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_11.jpg",
+      "sha256": "44703903c1931a1efb3b0b2e57869679d3a1b495d84a64c84f20edafe116b8a6"
+    },
+    {
+      "id": "A017",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_12.jpg",
+      "sha256": "44250c946ff9e810b534a30797a94859550a60b9d79382d7fd04a8c607bb23ee"
+    },
+    {
+      "id": "A018",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_13.jpg",
+      "sha256": "0e4d10d99370247e604cb2aef27b918ace843a76f204074752079ccbd9f54f4d"
+    },
+    {
+      "id": "R023",
+      "path": "references/2026-10-22_首批参考/01_微信参考原图/R023_功能_四种出水分栏.jpg",
+      "sha256": "e0db0a132b9fdcdb54e34b5724a84988ff07d06ef9db26f10ce176a78384d92f"
+    }
+  ]
+}

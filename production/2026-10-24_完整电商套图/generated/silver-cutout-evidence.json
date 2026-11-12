@@ -1,0 +1,18 @@
+{
+  "source": {
+    "path": "production/2026-10-24_实拍主导主图/generated/R01-v003-composite.png",
+    "sha256": "dd8c54d386ada0bd7406e75075014297c35ed622a1c81bbd3760ed2c4e3d2665"
+  },
+  "threshold_exterior_min_rgb": 214,
+  "crop_bbox": [
+    0,
+    0,
+    1254,
+    1254
+  ],
+  "method": "floodfill exterior only; original RGB unchanged; alpha mask; no AI product regeneration",
+  "output": {
+    "path": "production/2026-10-24_完整电商套图/generated/silver-cutout.png",
+    "sha256": "acc1925b0cc6c12b62b82a70546a47b3c779137f7eda1eb9537287197a02e163"
+  }
+}

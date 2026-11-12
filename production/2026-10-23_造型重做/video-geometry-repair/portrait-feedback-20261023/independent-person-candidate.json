@@ -1,0 +1,109 @@
+{
+  "date": "2026-10-23",
+  "owner": "geometry_redteam_main",
+  "verdict": "D04 FAIL; D11 FAIL; no selection recommended",
+  "items": [
+    {
+      "id": "D04",
+      "candidate_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/portrait-feedback-20261023/D04-portrait-composite.png",
+      "sha256": "41fab5141ca3a824ebfcab66d26ba65801992c72a5628a1fe7e9670efe5458b9",
+      "status": "FAIL",
+      "confidence": "高",
+      "problem_boxes_xyxy": [
+        [
+          545,
+          195,
+          715,
+          297
+        ],
+        [
+          535,
+          345,
+          735,
+          515
+        ],
+        [
+          595,
+          520,
+          740,
+          645
+        ]
+      ],
+      "observation": "额头、面颊、鼻翼到下颌的细节被抹成大块柔焦渐变，颈部也缺自然微细肤纹；清晰眼眉唇/头发与皮肤形成显眼锐度断层。右面颊局部明暗仍像斑块，修纹后自然度不足。",
+      "old_mesh": "旧圆环/交织网纹大幅消除，不是继续FAIL的主要原因。",
+      "sharpness_naturalness": "不足客户交付质量：皮肤模糊/蜡塑料感明显，不能以去掉鱼鳞作为充分通过条件。",
+      "before_comparison": "与before-person同脸颈裁切实际比较：原有皮肤微细信息与局部边缘细节明显减少，当前清晰五官和模糊皮肤分层更突出。",
+      "anatomy": "未发现新增必须判定的五官拓扑错误；主要问题是纹理、清晰度与融合自然度。"
+    },
+    {
+      "id": "D11",
+      "candidate_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/portrait-feedback-20261023/D11-portrait-composite.png",
+      "sha256": "7b1d6e7ec6cda8d53f1a4b244f62af83b0999d16b2e4eb1b7feef33644d56e5a",
+      "status": "FAIL",
+      "confidence": "高",
+      "problem_boxes_xyxy": [
+        [
+          465,
+          95,
+          592,
+          190
+        ],
+        [
+          440,
+          242,
+          610,
+          385
+        ],
+        [
+          560,
+          365,
+          650,
+          428
+        ],
+        [
+          295,
+          990,
+          425,
+          1070
+        ],
+        [
+          280,
+          1120,
+          470,
+          1240
+        ],
+        [
+          345,
+          1245,
+          470,
+          1325
+        ]
+      ],
+      "observation": "上格额头与两颊大片失去皮肤细节、鼻翼边缘糊化；下格面颊/下颌/颈部形成塑料般平滑渐变，在原生全幅已可辨。发际线/下颌边缘的清晰头发与模糊皮肤过渡不自然，虽未见硬直拼接线，仍有局部软化拼贴感。",
+      "old_mesh": "旧圆环/交织网纹大幅消除，不是继续FAIL的主要原因。",
+      "sharpness_naturalness": "不足客户交付质量：皮肤模糊/蜡塑料感明显，不能以去掉鱼鳞作为充分通过条件。",
+      "before_comparison": "与before-person同脸颈裁切实际比较：原有皮肤微细信息与局部边缘细节明显减少，当前清晰五官和模糊皮肤分层更突出。",
+      "anatomy": "未发现新增必须判定的五官拓扑错误；主要问题是纹理、清晰度与融合自然度。"
+    }
+  ],
+  "actual_viewed": [
+    "两当前composite原生全幅",
+    "D04-after-face.jpg",
+    "D11-upper-after-face.jpg",
+    "D11-lower-after-face.jpg",
+    "fresh-portrait-v1.png",
+    "before-person D04/D11三处同坐标脸颈内存裁切",
+    "v3-light及v2-soft D11下格内存裁切"
+  ],
+  "variant_recommendation": "没有可推荐交付的版本。D11下格v3-light比v2-soft稍保留局部明暗，但仍模糊、蜡感；仅比较此下格，未冒称完整比较所有候选。",
+  "next_action": "换用能保留自然清晰肤理的局部人物方法；不要继续以加大低通/模糊压纹；商品、水流及其他既有成果继续保持。",
+  "limits": [
+    "本轮人物视觉QA不替代商品水流保护验证；mask或层外diff不能证明人物质量",
+    "不依据算法自述判断通过，以上来自实际成品查看",
+    "不代表用户已接受"
+  ],
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "images_modified": [],
+  "temporary_files_created": []
+}

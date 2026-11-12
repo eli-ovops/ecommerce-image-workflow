@@ -1,0 +1,130 @@
+{
+  "status": "VIDEO_RECALIBRATED_CANDIDATE_USER_REVIEW_PENDING",
+  "modified_ids": [
+    "D04",
+    "D06",
+    "D11"
+  ],
+  "unchanged_jpg_count": 29,
+  "unchanged_jpg_sha256": {
+    "M01": "368f48389b9713591e8bdcfb1994448f8e5fc33d2dc7fdd77b0703b4d28c133e",
+    "M02": "3308b2b347ad3a44712e5e47dac11858e93aa65835173cabc594089e74ec6428",
+    "M03": "716500db5220f481f550438ac2c41f53db59bb8d764019ae0fbca200224dd173",
+    "M04": "ea7d90e73c712139afc9b78b0555b59bbd0d80251f3ae732eb048e572a206fe8",
+    "M05": "d88e0bbf47c72d391bfde4de54a40687d460c109789f3430312a295c22b101ef",
+    "M06": "c827daf01b17a6b3576a9c2285bc86e1bf0c72c5c29ed54dca346f44ffaea7c8",
+    "M07": "f612d086c43a89204af872219e4258696d664384ace5b7b82a863fc2eb3765a2",
+    "M08": "d17902da2b4772fe159b0fae167f4036679dd9987f54f34aeafdba1c70d30bfd",
+    "K01": "d5573f412eb6f3ef851e7eed77f1d020b5cf378b895a87e4ab9b590516b75281",
+    "K02": "c77349aba245717f8e10f7dda97ea6f282ab27b3cdefdf71750a3cc4950f4dc2",
+    "K03": "46fbc6ab7a7f0139e18a28baad0196b3a508613b1aa380424848846c81f6a3e0",
+    "D01": "36fcf40bf844d7b70ad7141562e0e551a95449175a50dae48935c1a23ef0dd69",
+    "D03": "42c99a9e40aa1f5cb816c75d67065724fab9b5b4ced2c408056afa51bffcbc03",
+    "D05": "7a23a64a8f6e4f6308ce7dd9c33941429d8564d489b6478827b799a6271a74b9",
+    "D07": "e91899fad776655133645fa7cea4142e9431564ac6c4449460b17151fa111807",
+    "D08": "0f3dd3c1e88121a3d2acfda9823303dea791d11efa8caa097354d72d537ae9d5",
+    "D12": "c823866e8bd95fc896279c7e21b4abe2591b923a154f15a35845bc333ae5b96a",
+    "D13": "8e7e6794b147e55c215a5c91680b487f4e62721ff67caf7736513d95050fe974",
+    "D14": "e9e0b4baf1182f3276994020fd9ce4b9623cdb720af9f9514374979fe23a36a0",
+    "D15": "e9bd2ee30c2c1c450c3c2f402c2968c6bc8fa9acb26a22acc37e430ffe25b2c5",
+    "D16": "7e41bdb4cc1a7d5a0bf550a3206a36bf2fbeff32a50da73ea0c2533d1afbd446",
+    "D17": "28bcdd19efb9ac433d8e1fc3eaf76df8f4f4e1547f35c1349e3e690dfbf262a7",
+    "D18": "d4046c5f50886f7bda6c9270599ba8729d1116b1561b0d2986f986bd6dd50607",
+    "V01": "4b235a0541de5300134fc5c986a47a30f12c41be4d3843a7146172a35df7b1d9",
+    "V02": "2960507e2003aeead6a576be9b71351b74cabc2a3d87f2f241ae4347c35d7750",
+    "V03": "afd8e5719b05a3f176ff5a6ac6fa113c5c45426064656b916fbebd754faf83fa",
+    "V04": "190253105c74839c4635132ffb3693c7cb8e44034673cc7dcee8f241daaf4099",
+    "V05": "ee959d08be8bcbb7e6fbc95fbb0d4c263b55af55acac0788da80c408567320b7",
+    "V06": "8957332d585378587ec56b841b5fc0fdb9e660e37cc34e75167a830a2cd16336"
+  },
+  "source_sha256": {
+    "D04": "9f0d07f3c9e53e82605460dc708652cff08717c8ac8741a5439b1695423cc4a6",
+    "D06": "9222db0321db291160281eebf831b659fb951601f17d6f84550fb759c244a1bb",
+    "D11": "e1c835d445864a04cfe2efe3aa770a0a8f867bd35f0bcb5694e2aaf2063fe128"
+  },
+  "jpg_sha256": {
+    "D04": "df6e594b1099117e4f0c15b838cf2c91663da67972e54a541c2bba420c8ea078",
+    "D06": "336693ea1bfcf378e1b7933f4739cce516a9cea200a4fe141f13ef9847c08dd1",
+    "D11": "34496c3fb05666f3e8f1b6dde5bcf5785676cb7387937b1da81d8c531fb84136"
+  },
+  "archive": {
+    "path": "花洒_视频校准修订_JPG.zip",
+    "file_count": 34,
+    "bytes": 26774552,
+    "sha256": "aaa514d906897bd76c76e70fe4e5ef926d7fc4ffd35d033a2c5990b033e3f4bc"
+  },
+  "mini_archive": {
+    "path": "video-geometry-repair/本轮修正3张_JPG.zip",
+    "bytes": 1915233,
+    "sha256": "f088019e003722c7433e588f01f67f3c4998b6f599e4fdfa953aa278dc8cea7e"
+  },
+  "source_video": {
+    "received": "2026-10-23T19:16:47.762539",
+    "original": "/Users/USER/Downloads/06569f26ac30632e35c93313d72b93b2_raw.mp4",
+    "archived": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/sources/product-rotation-20261023.mp4",
+    "bytes": 23678515,
+    "sha256": "eb6dbe4e37fe1beea4ee09e63e53a047ff4dbd5c395567cbef6cdbdb8e8dcfca",
+    "purpose": "用户补拍旋转视频，真实商品轮廓与多视角校准",
+    "original_preserved": true,
+    "audio_analysis": "not requested; geometry visuals only"
+  },
+  "assembly_context_pages": [
+    {
+      "id": "D04",
+      "path": "video-geometry-repair/assembly-QC-D04.jpg",
+      "bounds": [
+        2530,
+        4132
+      ]
+    },
+    {
+      "id": "D06",
+      "path": "video-geometry-repair/assembly-QC-D06.jpg",
+      "bounds": [
+        5102,
+        6401
+      ]
+    },
+    {
+      "id": "D11",
+      "path": "video-geometry-repair/assembly-QC-D11.jpg",
+      "bounds": [
+        9119,
+        10856
+      ]
+    }
+  ],
+  "final_visual_assembly_check": "PASS_WITH_LIMITATIONS",
+  "created_or_updated_files": "Changed exports/selected natives/metadata and archive are enumerated above; source, QC and prompts retained under video-geometry-review and video-geometry-repair; previous changed assets/metadata copied under before-selection.",
+  "deleted_files": [],
+  "final_jpgs_actually_viewed": [
+    "exports/JPG/D04.jpg",
+    "exports/JPG/D06.jpg",
+    "exports/JPG/D11.jpg"
+  ],
+  "overview_pages_actually_viewed": [
+    "previews/overview_02.jpg",
+    "previews/overview_03.jpg"
+  ],
+  "assembly_context_pages_actually_viewed": [
+    "video-geometry-repair/assembly-QC-D04.jpg",
+    "video-geometry-repair/assembly-QC-D06.jpg",
+    "video-geometry-repair/assembly-QC-D11.jpg"
+  ],
+  "browser_gallery_check": {
+    "status": "NOT_PERFORMED_POLICY_BLOCKED",
+    "reason": "CUA browser URL policy rejects file: protocol; no alternate server, browser or bypass attempted",
+    "local_link_inventory": "PASS",
+    "jpg_visual_review": "PASS_WITH_LIMITATIONS"
+  },
+  "storage_scope": {
+    "review_dir_bytes": 12670755,
+    "repair_dir_bytes_before_closeout": 37008856,
+    "archived_video_bytes": 23678515,
+    "new_archive_bytes": 26774552,
+    "volume_used_percent": 19,
+    "volume_available": "about 1.5 TiB",
+    "retention": "All original sources, failed candidates, selected outputs and review evidence remain in use for delivery/recovery; no disposable cleanup identified.",
+    "deleted_files": []
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "images": [
+    {
+      "id": 387,
+      "sha256": "86ea1b15c7e8b82a86d6b7e0e06551468a5158070afbbc4284c14b19c768f4a4",
+      "size": [
+        1254,
+        1254
+      ],
+      "unchanged": true
+    },
+    {
+      "id": 388,
+      "sha256": "d6bfef0c771bcec826c958fb3ece411caf88f58570a19d83aca77a57568eab48",
+      "size": [
+        1254,
+        1254
+      ],
+      "unchanged": true
+    },
+    {
+      "id": 389,
+      "sha256": "43d775e98552d12a2389b2ed5d473f63154487034ff4cc21c0396f1c2d8b0b89",
+      "size": [
+        1254,
+        1254
+      ],
+      "unchanged": false
+    },
+    {
+      "id": 390,
+      "sha256": "9e4e52a9b3a6bf57807b03d7289b29e38cb08ff1ebc128b20d8c158dae7b345f",
+      "size": [
+        1254,
+        1254
+      ],
+      "unchanged": true
+    },
+    {
+      "id": 391,
+      "sha256": "cb07a70efb9a1144de1a1084b59714f9c09ae06bb1ec368cf6bccecea9dfe102",
+      "size": [
+        1254,
+        1254
+      ],
+      "unchanged": true
+    },
+    {
+      "id": 392,
+      "sha256": "2acda0e1e249bf24560a1b84bc98b93e4b89d71eafe865b0907bd3cc1175701f",
+      "size": [
+        1254,
+        1254
+      ],
+      "unchanged": true
+    },
+    {
+      "id": 393,
+      "sha256": "3f7b3cd0d8c46130333e0c67e30c7d847a6cb83d844029c2715c0ce0a4100562",
+      "size": [
+        1254,
+        1254
+      ],
+      "unchanged": true
+    },
+    {
+      "id": 394,
+      "sha256": "21c1ea124b8d8fc897fe1a315caaa3bd1e69f5d92561aa7d163bb4340e3cc783",
+      "size": [
+        941,
+        1672
+      ],
+      "unchanged": true
+    },
+    {
+      "id": 395,
+      "sha256": "989100e4e8c0a73bca7e654a27075b13810c6f5646d62a41f37b5e5d0690d214",
+      "size": [
+        941,
+        1672
+      ],
+      "unchanged": true
+    },
+    {
+      "id": 396,
+      "sha256": "2d2226b6312557b9171525059703690ba24b6ffe1da860c3ca1873e68cdcd8f1",
+      "size": [
+        940,
+        1673
+      ],
+      "unchanged": true
+    },
+    {
+      "id": 397,
+      "sha256": "21312d75bd9d683bb5757c2619b9fbdb1d129b513076669b9ddb220476ac5368",
+      "size": [
+        941,
+        1672
+      ],
+      "unchanged": true
+    },
+    {
+      "id": 398,
+      "sha256": "b398a38e1caa9b757277a92d9dc1c5a649f692d3bcf109db3c1038dbe5e42438",
+      "size": [
+        941,
+        1672
+      ],
+      "unchanged": true
+    },
+    {
+      "id": 399,
+      "sha256": "5c6e0ff784283fab7142d3bfea6ec2d6ebb4f9e6782d8309cc8939a47753cc73",
+      "size": [
+        940,
+        1673
+      ],
+      "unchanged": true
+    }
+  ],
+  "other12_unchanged": true,
+  "model_files": [
+    {
+      "file": "installed-dry.blend",
+      "sha256": "dd73146da4d2586ccad3b82314b4d5d53db62d5d6290508da742e91a4d87423f",
+      "unchanged": true
+    },
+    {
+      "file": "static-dry-v3.blend",
+      "sha256": "0f028525c50459bfa51c6485d3ff6ff8fc17d8fdfdace6c60318654fb71659f3",
+      "unchanged": true
+    },
+    {
+      "file": "installed-dry.png",
+      "sha256": "5f6fb4d840c421880538152bd2aacb614d2208d237f00a95e72398167df2cc43",
+      "unchanged": true
+    },
+    {
+      "file": "static-dry-v3.png",
+      "sha256": "46c1a7e3a5318c8fbef9b159fe48a15a2e13c953226a75f2bf0bcc8740722f7c",
+      "unchanged": true
+    }
+  ],
+  "product_and_text_layers_pixel_identical": [
+    "Native installed 300x200x20 shell with single photo face",
+    "Native static product same geometry",
+    "Independent editable text source"
+  ],
+  "ora_crc": true,
+  "ora_recompose_equal": true,
+  "water_placement": {
+    "size": [
+      675,
+      960
+    ],
+    "xy": [
+      65,
+      150
+    ],
+    "opacity": 0.82,
+    "occlusion_polygon": [
+      [
+        80,
+        230
+      ],
+      [
+        320,
+        335
+      ],
+      [
+        705,
+        215
+      ],
+      [
+        750,
+        1110
+      ],
+      [
+        65,
+        1110
+      ]
+    ]
+  },
+  "status": "READY_FOR_USER_REVIEW_NOT_FINAL_ACCEPTANCE",
+  "limitations": [
+    "Proximal joins still have line-like appearance",
+    "Generated water not matched one-to-one to photo hole anchors",
+    "CG reflections remain"
+  ]
+}

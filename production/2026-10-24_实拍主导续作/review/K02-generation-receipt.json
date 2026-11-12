@@ -1,0 +1,84 @@
+{
+  "tool": "builtin_image_gen",
+  "native_sha256": "b6fc8d6d5703974b1374c620efefb44556e3bf2422930bf2bb9d3ac05032f7a3",
+  "prompt_sha256": "ff2e39b842b9d98a870e0604873e9e449c34328b83d12e3d5db7717a8ee27472",
+  "appearance_source_sha256": [
+    "5f7e288bec394f38fa99f5b721b127c83a90594b15e3e38346993aae23a51f8c",
+    "7ac7a4d7c35d2a4d68c5a2afe0ec784afbe2545026943306cb3216991690af2d",
+    "cac8642c6aa599def138cf2c897385624ef6827b30142c0c8551c85cb6b5c361"
+  ],
+  "actual_call": {
+    "id": "K02",
+    "version": "v001",
+    "status": "candidate_for_independent_review",
+    "actual_call": {
+      "prompt": "Use case: product-mockup. Create one square premium real studio product PHOTOGRAPH for a single showerhead SKU, NO TEXT. Image1 is actual SKU front, images2 and3 actual opposite sides. These real photographs are the only authority for color, finish, controls, nozzle layout and shape. Image4 is an untextured clay side reference ONLY for broad continuous curvature, never its gray material or missing details. Image5 is a DIFFERENT product, STYLE ONLY for tidy near-front 3/4 catalog presentation; do not copy its product, six modes, transparent tube, filter, text or dimensions.\nReproduce the photographed actual product: round head with a definite cylindrical thickness rim and shallow curved back flowing continuously through a broad long upper-neck into the gentler lower handle. No abrupt shoulder, no straight stick glued to disc, no exaggerated gooseneck. Actual head diameter to handle length ratio. Black textured teardrop face panel with the actual dense off-white discrete circular nozzle rings and small dark center openings; retain actual spacing pattern, no smeared/fused/doubled rings. Concentric dense DARK tiny perimeter holes. Original small RED central control is a low wide flange with a smaller raised boss and dark center opening, NOT an oversized torus and no extra black pedestal. Separate lower rounded-rectangle BLACK selector exactly like this SKU's photographs. Entire actual body and short BLACK bare thread visible, no hose, connector extension, bracket, filter tube, hands, people or water. No brand/logo/icons/dimensions/material claims/certificates/text.\nComposition: single complete product upright with long axis vertical, near-front 3/4 with about15-degree yaw so the RIGHT cylindrical side edge is visible. Keep complete top and thread in view, product about76% of square frame height, centered at x60% with generous whitespace to upper-left and around edges. Minimal PURE WHITE to very pale neutral-gray seamless background, subtle contact shadow below short threaded end. Soft broad studio light, believable photographic textures and tonal falloff, crisp controls and ring centers. No artificial CG appearance. Actual GUNMETAL GRAY SKU: medium/dark metallic gray satin body and handle, noticeably lighter and more reflective than black, with fine subtle real texture and broad silver-gray highlights from actual photos. Front panel and lower selector remain BLACK, short bare thread is BLACK. Do not turn shell mirror chrome silver or matte jet black. Match real gunmetal photos.",
+      "referenced_image_paths": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/枪灰色/原图/微信图片_20261022185804_106_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/枪灰色/原图/微信图片_20261022185805_107_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/枪灰色/原图/微信图片_20261022185806_109_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v010a/renders/strict_side.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/sku/主图_08.jpg"
+      ],
+      "transparent_background": false
+    },
+    "prompt_file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导续作/prompts/K02-request.json",
+    "references": [
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/枪灰色/原图/微信图片_20261022185804_106_2.jpg",
+        "sha256": "7ac7a4d7c35d2a4d68c5a2afe0ec784afbe2545026943306cb3216991690af2d",
+        "id": "GMT001",
+        "role": "actual own-SKU appearance authority",
+        "actually_viewed": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/枪灰色/原图/微信图片_20261022185805_107_2.jpg",
+        "sha256": "5f7e288bec394f38fa99f5b721b127c83a90594b15e3e38346993aae23a51f8c",
+        "id": "GMT002",
+        "role": "actual own-SKU appearance authority",
+        "actually_viewed": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/枪灰色/原图/微信图片_20261022185806_109_2.jpg",
+        "sha256": "cac8642c6aa599def138cf2c897385624ef6827b30142c0c8551c85cb6b5c361",
+        "id": "GMT004",
+        "role": "actual own-SKU appearance authority",
+        "actually_viewed": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v010a/renders/strict_side.jpg",
+        "sha256": "87b0d943d94882adf26b46b88b1a52d0012f9780aedac3d6c571d7fcff1b4eeb",
+        "id": "v010a_side",
+        "role": "auxiliary curvature only",
+        "actually_viewed": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/sku/主图_08.jpg",
+        "sha256": "741811c6add34bc9afd0f49043a5ba262a779e81a3492d4a852cd197e3d9c6e0",
+        "id": "A004",
+        "role": "style only; source product/claims excluded",
+        "actually_viewed": true
+      }
+    ],
+    "actual_tool_output_path": "/Users/USER/.codex/generated_images/01a16d07-b34d-7ff3-afe5-dfc839dd6cb1/exec-59621637-fd9b-4b78-a3ee-8366e61101fa.png",
+    "native_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导续作/generated/K02-v001-native.png",
+    "native_sha256": "b6fc8d6d5703974b1374c620efefb44556e3bf2422930bf2bb9d3ac05032f7a3",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "output_actually_viewed": true,
+    "saved_at": "2026-10-24T21:30:25.757512+08:00",
+    "additional_viewed_not_passed": [
+      {
+        "id": "GMT003",
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/枪灰色/原图/微信图片_20261022185805_108_2.jpg",
+        "sha256": "7df2098f15a901bb0d22b9339a608f2349c8ae1a20584c9e387e41d29f889b90",
+        "actually_viewed": true
+      }
+    ],
+    "self_review": "Gunmetal is visibly lighter/more reflective than K01; lower selector/thread black per own photos. Full near-front view and white rings readable. High occupancy same as K01.",
+    "suggested_typesetting_area": "Same as K01"
+  },
+  "hard_shape_lock": false
+}

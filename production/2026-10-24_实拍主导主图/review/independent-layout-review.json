@@ -1,0 +1,25 @@
+{
+  "reviewer": "blender_product_model",
+  "reviewed_files": [
+    {
+      "path": "production/2026-10-24_实拍主导主图/final/R01.jpg",
+      "sha256": "d7a6e607ba7923f56eb39c720d57ab061fd36a25bc73d159369235ee122b68b2"
+    },
+    {
+      "path": "production/2026-10-24_实拍主导主图/working/R02-layout-v001.jpg",
+      "sha256": "2d0262fe2e872802e0d9905cc6271b1289a40c88dbb25d25b5022894ac56586f"
+    },
+    {
+      "path": "production/2026-10-24_实拍主导主图/final/R03.jpg",
+      "sha256": "707dc8ce7bcd1b69ba8aa8c7ec00033a3297dd750cbf416cfc0bd3e8406b2119"
+    }
+  ],
+  "actual_observation": "Worker actually viewed three final JPGs before only R02 label relocation; all other pixels unchanged. Root separately viewed final R02 after relocation.",
+  "findings": "Silver appearance, cylinder side and continuous head/neck readable. Repair patches show no obvious seam at normal size. R01 full item/margins, R03 intended lower-grip crop. No figures/accessories; three modes and lower-button wording accurate.",
+  "scope": "Internal visual review readiness only; not customer acceptance or exact per-hole identity",
+  "reviewed_at": "2026-10-24T21:17:58.230207+08:00",
+  "root_final_R02_review": {
+    "path": "production/2026-10-24_实拍主导主图/final/R02.jpg",
+    "sha256": "0f151260bbb504d3f0543958fe2e612ff3871dfb06140dc39f894518e3ca25d3"
+  }
+}

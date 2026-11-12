@@ -1,0 +1,82 @@
+{
+  "texts": [
+    {
+      "text": "提拉除垢",
+      "xy": [
+        470,
+        536
+      ],
+      "size": 144,
+      "italic_shear": 0.18,
+      "stroke_width": 4,
+      "outline_red": 12,
+      "outline_outer": 16,
+      "dimensional_offset": [
+        7,
+        11
+      ]
+    },
+    {
+      "text": "安装出水示意",
+      "xy": [
+        920,
+        52
+      ],
+      "size": 31,
+      "color": "#fff6e9",
+      "stroke": 1
+    },
+    {
+      "text": "红钮向外提拉",
+      "xy": [
+        665,
+        768
+      ],
+      "size": 45,
+      "color": "#fff6e9",
+      "stroke": 1
+    },
+    {
+      "text": "约30×20cm 大面板",
+      "xy": [
+        624,
+        994
+      ],
+      "size": 39,
+      "color": "#31221a",
+      "stroke": 1
+    },
+    {
+      "text": "长方形顶喷",
+      "xy": [
+        615,
+        1063
+      ],
+      "size": 83,
+      "color": "#201714",
+      "stroke": 3
+    }
+  ],
+  "inset_crop": [
+    94,
+    96,
+    806,
+    1005
+  ],
+  "inset_xy": [
+    30,
+    560
+  ],
+  "inset_size": [
+    462,
+    590
+  ],
+  "installed_scale": 1.6,
+  "installed_xy": [
+    -320,
+    -140
+  ],
+  "deleted_inset_microcopy": true,
+  "original_scene_sha": "c8412234e491ab53e661e9038bc4b039f714e393c1690e6331574bcf0b2bed6d",
+  "scene_reused_no_imagegen": true
+}

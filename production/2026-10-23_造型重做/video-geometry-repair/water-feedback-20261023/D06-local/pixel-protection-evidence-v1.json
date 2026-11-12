@@ -1,0 +1,16 @@
+{
+  "source": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-23_\u9020\u578b\u91cd\u505a/video-geometry-repair/water-feedback-20261023/before-water/D06.png",
+  "source_sha256": "9222db0321db291160281eebf831b659fb951601f17d6f84550fb759c244a1bb",
+  "size": [
+    1063,
+    1479
+  ],
+  "upper_ports": 40,
+  "lower_ports": 11,
+  "base_image_redrawn": false,
+  "outside_water_layer_changed_pixels": 0,
+  "upper_water_below_y1094": 0,
+  "red_button_upper_changed_pixels": 0,
+  "counts_are_candidates_pending_visual_QA": true,
+  "coverage_limit": "Dense lower rows retain original streams; ambiguous water-crossing candidates discarded, not claimed as individually verified holes. Independent QA required."
+}

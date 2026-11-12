@@ -1,0 +1,13 @@
+{
+  "id": "M04",
+  "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M04-fresh-v4.png",
+  "native_source": "/Users/USER/.codex/generated_images/01a16319-d848-71d0-95e1-72970644c800/exec-8f0aba35-953b-437a-83dd-37fa48e322af.png",
+  "sha256": "f2b1fa01f3aecc8c3ca7d5e6303a26d49cfcaecedd51ec5510e670d01351a0cd",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "prompt_record": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/prompts/M04-fresh-v4.json",
+  "status": "PENDING_NATIVE_QA",
+  "delivery_format": "JPG_ONLY"
+}

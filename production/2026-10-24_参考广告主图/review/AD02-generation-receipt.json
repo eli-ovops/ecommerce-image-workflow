@@ -1,0 +1,96 @@
+{
+  "tool": "builtin_image_gen",
+  "native_sha256": "bee67ca533c700bd7c2c2e2398e30cd2f89d0d52af059d10b8847d93b104b519",
+  "prompt_sha256": "6eb40714d44bc117ba77a523d626a80ddaa679a8ef43e5d44e12d3f4194a02c2",
+  "appearance_source_sha256": [
+    "0b388756f0ee2e35630dac7789237153d390fa8aaab8f58f6e2643d4181be21d",
+    "6de02f19793c568c799762525475cd0241af1b9c41487580383be4efbd2a1fa2",
+    "9f6e724d9fc0e01a0670fbd1964d4a3e2e32d985447bcdb99fc98fe147526eb1",
+    "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90"
+  ],
+  "actual_call": {
+    "id": "AD02",
+    "version": "v002",
+    "status": "candidate_partial_repair_pending_independent_review",
+    "actual_call": {
+      "prompt": "Use case: precise-object-edit. Image1 is the EDIT TARGET: preserve its established blue ecommerce advertising design and front/back overlapping composition. Images2,3,4,5 are ACTUAL PRODUCT evidence: actual SILVER BACK, actual face/controls closeup, actual front, actual side. Do not redesign the ad. Correct only the following clearly identified PRODUCT inaccuracies; no change to text-zone layout or background.\n1. BACK VIEW CORRECTION: the smaller rear-facing product at LEFT in image1 currently has a wrongly invented raised long vertical ridge/spout at its head-to-neck junction, approximately x195..285,y370..560 in1254square. This part belongs to another product and MUST BE REMOVED COMPLETELY. The real rear shell in image2 is a smooth uninterrupted shallow convex silver teardrop, its broad circular head gradually narrowing continuously into the long smooth neck/handle. No protruding rib, blade, rear nozzle, vent, seam, raised rod, spine, added component or extra control. Reconstruct this local rear head/neck surface to match image2 and actual side image5: continuous polished mirror silver with soft broad studio reflection, no physical ridge even if lit. The gray circular spot visible in actual image2 is NOT a designed feature and must NOT be copied. Back should be clean with no round mark/patch/button/sticker. Keep the left product in the same location, scale and overall silhouette and do not turn it into another front view.\n2. WHITE RING CLEANUP: in the large foreground black face and the right closeup window, each existing white nozzle should be one discrete small off-white circular/elliptical ring around one dark center opening as actual image3, not a blurred triangle, fused pair, bright slash or ghost ring. Retain existing ring center layout, spacing and amount as closely as possible; don't replace panel by a new grid. In particular remove obvious small ring smears at upper-left and middle-left of the big face. Preserve black texture, concentric outer dark-hole border, original small red low flange-and-boss control and silver lower selector. No extra large black pedestal.\nPRESERVE: blue vertical ribbed glass/window-light background, the two blue empty feature pills at right, top-right empty title zone, red-control inset position and border, dark full-width lower blank banner, foreground product pose and complete silver threaded bottom, back product pose, major front head/cylinder geometry and flowing neck, existing bright mirror silver visual finish, dry resting state. Do not move/resize title zones, change lighting scheme or add any writing. No hand/person/water/hose/holder, no gold or black SKU. Output same square entire composition. This is a product repair of image1, not a new variation; all five real-photo constraints outrank any accidental structure in edit target.",
+      "referenced_image_paths": [
+        "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_参考广告主图/generated/AD02-v001-native.png",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184344_90_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg"
+      ],
+      "transparent_background": false
+    },
+    "prompt_file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_参考广告主图/prompts/AD02-v002-request.json",
+    "references": [
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_参考广告主图/generated/AD02-v001-native.png",
+        "sha256": "3ffcf63c4acb65357b933fbfaffdd1d2801fbbb3ead8237c78e0de96e1d64b29",
+        "id": "AD02-v001",
+        "role": "edit target; preserve ad layout",
+        "actually_viewed": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184344_90_2.jpg",
+        "sha256": "9f6e724d9fc0e01a0670fbd1964d4a3e2e32d985447bcdb99fc98fe147526eb1",
+        "id": "SIL002",
+        "role": "actual back authority",
+        "actually_viewed": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+        "sha256": "0b388756f0ee2e35630dac7789237153d390fa8aaab8f58f6e2643d4181be21d",
+        "id": "SIL005",
+        "role": "actual nozzle/control closeup",
+        "actually_viewed": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+        "sha256": "6de02f19793c568c799762525475cd0241af1b9c41487580383be4efbd2a1fa2",
+        "id": "SIL001",
+        "role": "actual silver front",
+        "actually_viewed": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg",
+        "sha256": "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90",
+        "id": "SIL004",
+        "role": "actual side",
+        "actually_viewed": true
+      }
+    ],
+    "actual_tool_output_path": "/Users/USER/.codex/generated_images/01a16d07-b34d-7ff3-afe5-dfc839dd6cb1/exec-41e159ed-fff2-451e-9521-d786a80fdf26.png",
+    "native_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_参考广告主图/generated/AD02-v002-native.png",
+    "native_sha256": "bee67ca533c700bd7c2c2e2398e30cd2f89d0d52af059d10b8847d93b104b519",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "output_actually_viewed": true,
+    "self_review": "Wrong rear vertical ridge removed; rear head/neck now smooth and continuous; blue ad layout/capsules/inset/pose retained visually. A couple small bright nozzle tails remain on foreground face around455,207 and515,342 in1254 canvas. Not complete per-ring cleanup. No pixel-locked/mask guarantee; tool whole-image edit may alter other pixels.",
+    "saved_at": "2026-10-24T22:04:21.941955+08:00"
+  },
+  "hard_shape_lock": false,
+  "local_repair": {
+    "file": {
+      "path": "production/2026-10-24_参考广告主图/generated/AD02-v004-composite.png",
+      "sha256": "34229709b4a9979c5b3bfa0ea4582c6fa12ba760a21db01015238e3f4304a55a"
+    },
+    "mask": {
+      "path": "production/2026-10-24_参考广告主图/generated/AD02-v004-mask.png",
+      "sha256": "46125134b6870113d7051921979f64cfceaa8eb51bec2bdf06aa2858be2c124c"
+    },
+    "tool_patch": {
+      "path": "production/2026-10-24_参考广告主图/generated/AD02-roi-tool-native.png",
+      "sha256": "942d9ad82eadfc26805d5001db58181403984118e2d25459a2668828b9d7a439"
+    },
+    "evidence": {
+      "path": "production/2026-10-24_参考广告主图/generated/AD02-v004-evidence.json",
+      "sha256": "bc0477ffe58facae9144aba02b2be906dceb698a33bebaf2bb36d464ecf9212a"
+    },
+    "base_sha256": "bee67ca533c700bd7c2c2e2398e30cd2f89d0d52af059d10b8847d93b104b519",
+    "tool": "builtin_image_gen"
+  }
+}

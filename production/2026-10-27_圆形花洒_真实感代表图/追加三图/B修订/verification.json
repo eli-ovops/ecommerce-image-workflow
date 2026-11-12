@@ -1,0 +1,43 @@
+{
+  "status": "READY_FOR_USER_REVIEW",
+  "requested_model": "gpt-6-astra",
+  "requested_effort": "medium",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "source_photo": 339,
+  "source_copy_sha256": "3cd5202fa1d5229a9a0ea3813852b408c8e255e634bf7c80c64e950a03f3a8f8",
+  "transform": "translate(750 920) rotate(100) scale(1.38) translate(-540 -679)",
+  "imagegen_calls": 0,
+  "product_retouch": "none",
+  "layout_adjustments": 0,
+  "actual_viewed": [
+    "original339",
+    "preview.png",
+    "phone.png",
+    "B_红钮细节_整头近景.jpg"
+  ],
+  "limitations": [
+    "Static structure only; no action/performance evidence",
+    "Original silver edge reflections retained",
+    "Uniform resampling and JPEG are not literal pixel identity"
+  ],
+  "preserved": {
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/银色花洒_暖白浴室主图.jpg": "66ed25f685db7bd1a9523a6a25c501ecb336dead7f957e4cc1ed362a55c2bea4",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/A_下键切档.jpg": "3e349e25257d2a8f8fd806bd9fd0c2223b857b683f38252baf6a8cce8a1934b5",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/B_红钮细节.jpg": "768866efc4a2a762d1925972a5a668d26f59196e7c64345a4abf5a25530118c1",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/C_圆盘厚边.jpg": "84569113e08702560cbd0c44536856d3f449e4e6c8e30e92157cb17442f2b61c"
+  },
+  "user_acceptance": "PENDING",
+  "root_preview_review": "Approved for one JPEG export",
+  "jpeg": {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/B修订/B_红钮细节_整头近景.jpg",
+    "width": 1440,
+    "height": 1440,
+    "exports": 1,
+    "sha256": "85fc74d3d4af0f26c2fec3fdfc0a071483aae35068e1c1d1462684645ba61b87"
+  },
+  "crop": "Full circular face as large subject; neck continues below lower frame; no separate head/handle deformation",
+  "preserved_hashes_still_match": true,
+  "source_original": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/结构基准20261027/原件/微信图片_20261027161143_339_2.jpg",
+  "source_copy_matches": true
+}

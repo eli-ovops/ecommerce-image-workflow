@@ -1,0 +1,88 @@
+{
+  "text": [
+    {
+      "text": "从面板到接头",
+      "x": 50,
+      "y": 65,
+      "size": 76,
+      "color": "#efd0a3",
+      "font": "Heiti SC",
+      "bold": true,
+      "oblique": true,
+      "gold_gradient": true,
+      "extrusion_px": 3
+    },
+    {
+      "text": "细看顶喷外观",
+      "x": 50,
+      "y": 160,
+      "size": 68,
+      "color": "#efd0a3",
+      "font": "Heiti SC",
+      "bold": true,
+      "oblique": true,
+      "gold_gradient": true,
+      "extrusion_px": 3
+    },
+    {
+      "text": "安装出水示意",
+      "x": 50,
+      "y": 744,
+      "size": 31,
+      "color": "#efd0a3",
+      "font": "Heiti SC",
+      "bold": true,
+      "oblique": false,
+      "gold_gradient": true,
+      "extrusion_px": 3
+    },
+    {
+      "text": "面板纹样",
+      "x": 38,
+      "y": 1138,
+      "size": 40,
+      "color": "#efd0a3",
+      "font": "Heiti SC",
+      "bold": true,
+      "oblique": false,
+      "gold_gradient": true,
+      "extrusion_px": 3
+    },
+    {
+      "text": "银色侧边",
+      "x": 389,
+      "y": 1138,
+      "size": 40,
+      "color": "#efd0a3",
+      "font": "Heiti SC",
+      "bold": true,
+      "oblique": false,
+      "gold_gradient": true,
+      "extrusion_px": 3
+    },
+    {
+      "text": "接头开口",
+      "x": 740,
+      "y": 1138,
+      "size": 40,
+      "color": "#efd0a3",
+      "font": "Heiti SC",
+      "bold": true,
+      "oblique": false,
+      "gold_gradient": true,
+      "extrusion_px": 3
+    }
+  ],
+  "transforms": [
+    {
+      "source": "native-installed.png",
+      "scale": 1.6890756302521008,
+      "xy": [
+        -399,
+        49
+      ],
+      "illustration": true
+    }
+  ],
+  "note": "AIR和内部爆炸结构未经证实，未复刻；机位和水流重复。"
+}

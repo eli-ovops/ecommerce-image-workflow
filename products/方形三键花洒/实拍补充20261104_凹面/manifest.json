@@ -1,0 +1,22 @@
+[
+  {
+    "source": "/Users/USER/Downloads/微信图片_20261104145454_522_2.jpg",
+    "copy": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍补充20261104_凹面/微信图片_20261104145454_522_2.jpg",
+    "sha256": "2ab28311e8816aebd784a89127654141df193aed340dd9a47bc91ccba127abe6",
+    "source_match": true,
+    "dimensions": [
+      5712,
+      4284
+    ]
+  },
+  {
+    "source": "/Users/USER/Downloads/微信图片_20261104145456_523_2.jpg",
+    "copy": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/实拍补充20261104_凹面/微信图片_20261104145456_523_2.jpg",
+    "sha256": "b84b78ce34da97ef60fd66a742e3622791784d6f1f8fe4a59c966c0a0010a824",
+    "source_match": true,
+    "dimensions": [
+      5712,
+      4284
+    ]
+  }
+]

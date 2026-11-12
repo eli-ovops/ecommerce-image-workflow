@@ -1,0 +1,4500 @@
+{
+  "review_date": "2026-10-23",
+  "reviewer": "independent_reviewers_plus_qa_closeout",
+  "scope": "Current geometry rebuild only. Old QA is not inherited.",
+  "reviews": [
+    {
+      "id": "K01",
+      "revision": "geometry_rebuild_v1_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/K01-v1.png",
+      "sha256": "f350fbf3c5c2e46c89e5a06a0f94030e07f8d865402e8777acc649a51d51c13b",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "reference_ids": [
+        "A002"
+      ],
+      "actual_view_method": "actual_native_candidate_own_SKU_front_original_reference_and_new_side_photos",
+      "viewed_product_evidence": "银89/91",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "实际对应原参考左白字/右完整立品、蓝弧背景保留；原参数/水窗改为单SKU两行字。"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "右商品大比例完整入画，留左字区；圆头及曲柄来自本款，不复制参考直杆滤芯外形。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "雾蓝背景/浅蓝弧台、白字和各SKU自身光泽可区分。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "银色大字、单花洒小一档，左对齐，无多余字。"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "原参考多窗参数减为颜色+单花洒，按已定SKU任务删无依据6档/尺寸/材质与附件，稀疏适配明确。"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "continuous_head_neck_handle": "可见侧缘由头向颈连续内收，握柄缓弯，无明显急折或平板头直杆生硬接合。",
+        "face_handle_axis_relation": "LIMITED_VIEW_not_full_depth_angle_verification",
+        "shallow_back_arc": "LIMITED_VIEW_back_mostly_occluded",
+        "sidewall_thickness": "可见侧厚带沿头到颈平滑收窄，无新增厚度台阶。",
+        "source_basis": "new_actual_side01_02_03_plus_silver91_92_and_silver_side_master",
+        "whole_3d_validated": false
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "银色本体/下键/裸螺纹对应，红钮及中心开孔/外围密孔圈保留；白孔局部高光孔心弱，未见明确长柱或大套口，不声明精确孔数。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "银色 / 单花洒准确，无品牌证件/参数配件。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "distinct_SKU_color_display"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "当前近正面斜角仅验证可见几何，背弧和全深度夹角不可充分核，不冒充完整3D。",
+        "未测精确孔数/真实尺寸/接口规格。"
+      ],
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "K02",
+      "revision": "geometry_rebuild_v1_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/K02-v1.png",
+      "sha256": "5f3fa907b9388b98e8b0cc97499e04f18e386e46048c4276ea33e765ec52edc8",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "reference_ids": [
+        "A003"
+      ],
+      "actual_view_method": "actual_native_candidate_own_SKU_front_original_reference_and_new_side_photos",
+      "viewed_product_evidence": "黑102及新侧照",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "实际对应原参考左白字/右完整立品、蓝弧背景保留；原参数/水窗改为单SKU两行字。"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "右商品大比例完整入画，留左字区；圆头及曲柄来自本款，不复制参考直杆滤芯外形。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "雾蓝背景/浅蓝弧台、白字和各SKU自身光泽可区分。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "黑色大字、单花洒小一档，左对齐，无多余字。"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "原参考多窗参数减为颜色+单花洒，按已定SKU任务删无依据6档/尺寸/材质与附件，稀疏适配明确。"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "continuous_head_neck_handle": "可见侧缘由头向颈连续内收，握柄缓弯，无明显急折或平板头直杆生硬接合。",
+        "face_handle_axis_relation": "LIMITED_VIEW_not_full_depth_angle_verification",
+        "shallow_back_arc": "LIMITED_VIEW_back_mostly_occluded",
+        "sidewall_thickness": "可见侧厚带沿头到颈平滑收窄，无新增厚度台阶。",
+        "source_basis": "new_actual_side01_02_03_plus_silver91_92_and_silver_side_master",
+        "whole_3d_validated": false
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "黑色本体/下键/裸螺纹对应，红钮及中心开孔/外围密孔圈保留；白孔局部高光孔心弱，未见明确长柱或大套口，不声明精确孔数。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "黑色 / 单花洒准确，无品牌证件/参数配件。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "distinct_SKU_color_display"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "当前近正面斜角仅验证可见几何，背弧和全深度夹角不可充分核，不冒充完整3D。",
+        "未测精确孔数/真实尺寸/接口规格。"
+      ],
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "K03",
+      "revision": "geometry_rebuild_v1_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/K03-v1.png",
+      "sha256": "b1bfeb26b6ad14ac22963172d6d573682f80ff64d4e44c28039a9dffd7925de2",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "reference_ids": [
+        "A004"
+      ],
+      "actual_view_method": "actual_native_candidate_own_SKU_front_original_reference_and_new_side_photos",
+      "viewed_product_evidence": "枪灰106及新侧照",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "实际对应原参考左白字/右完整立品、蓝弧背景保留；原参数/水窗改为单SKU两行字。"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "右商品大比例完整入画，留左字区；圆头及曲柄来自本款，不复制参考直杆滤芯外形。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "雾蓝背景/浅蓝弧台、白字和各SKU自身光泽可区分。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "枪灰色大字、单花洒小一档，左对齐，无多余字。"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "原参考多窗参数减为颜色+单花洒，按已定SKU任务删无依据6档/尺寸/材质与附件，稀疏适配明确。"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "continuous_head_neck_handle": "可见侧缘由头向颈连续内收，握柄缓弯，无明显急折或平板头直杆生硬接合。",
+        "face_handle_axis_relation": "LIMITED_VIEW_not_full_depth_angle_verification",
+        "shallow_back_arc": "LIMITED_VIEW_back_mostly_occluded",
+        "sidewall_thickness": "可见侧厚带沿头到颈平滑收窄，无新增厚度台阶。",
+        "source_basis": "new_actual_side01_02_03_plus_silver91_92_and_silver_side_master",
+        "whole_3d_validated": false
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "枪灰色本体/下键/裸螺纹对应，红钮及中心开孔/外围密孔圈保留；白孔局部高光孔心弱，未见明确长柱或大套口，不声明精确孔数。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "枪灰色 / 单花洒准确，无品牌证件/参数配件。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "distinct_SKU_color_display"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "当前近正面斜角仅验证可见几何，背弧和全深度夹角不可充分核，不冒充完整3D。",
+        "未测精确孔数/真实尺寸/接口规格。"
+      ],
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D12",
+      "revision": "geometry_rebuild_v1_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D12-v1.png",
+      "sha256": "68f16ab422240f88a5837c4d3069cfce120bed694c98d82a1248fed2af262bea",
+      "actual_dimensions": [
+        1115,
+        1411
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "reference_ids": [
+        "A022"
+      ],
+      "actual_view_method": "actual_native_candidate_original_reference_silver89_90_91_92_and_new_side_sources",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "原A022蓝缺口大标题/深灰双栏/两级底条保留，优劣对比换本品正背。"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "两栏同尺度完整头柄/裸纹，主主体充满栏，非大小优劣。"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "冷蓝栏/深灰分隔，正背亮度相当，银反光清楚。"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "标题/正面背面/两条底文清楚，无参数。"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "由原比较高密度删参数性能字，仅保留正背外观信息。"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "正背可见头颈收腰/柄轮廓连续、背壳无圆片；此投影只能LIMITED_VIEW浅背弧与头柄深度轴角，不认定全3D。",
+        "whole_3d_validated": false
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "黑面低白孔/外孔圈/红钮银下键、干净背及银裸纹均可读，未见明确新增结构。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "准确正面与背面/两栏与底文对应。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "D12 mapped exterior visual task retained"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "未测夹角/曲率/精确孔数/规格，几何仅当前可见角度。"
+      ],
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D15",
+      "revision": "geometry_rebuild_v1_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D15-v1.png",
+      "sha256": "4116a6d138269948a342267c080bb55826a7d782c4135d950936657a885e2070",
+      "actual_dimensions": [
+        1058,
+        1486
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "reference_ids": [
+        "A027"
+      ],
+      "actual_view_method": "actual_native_candidate_original_reference_silver89_90_91_92_and_new_side_sources",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "冷蓝窗/竖纹与台阶、右大背壳保留，左侧视浮窗扩为四真实外观窗。"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "大背主体斜贯右侧、四窗辅助；比原A027提高细节密度但主从仍清楚。"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "冷蓝明亮建筑光与银反光保持，不用金水面。"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "大黑字标题及四窗小黑标签可读；‘背面整体’标签漏渲染作可见差异记录。"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "原侧喷功能转纯外观四窗，不复制喷枪/工艺承诺，增加外部细节但无新功能。"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "左小纯侧可见连续浅S和头背向颈收腰，主背浅鼓弧向颈平滑；可见厚度连续，无急鹅颈；完整3D与数值仍未知。",
+        "whole_3d_validated": false
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "背壳连续无中央片/侧喷嘴，银裸纹及壳颈可读；黑反射带不当额外结构。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "主标题及四细节标签正确，copy中的背面整体未渲染，需根接受省标签适配或只补字。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "D15 mapped exterior visual task retained"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "未测夹角/曲率/精确孔数/规格，几何仅当前可见角度。",
+        "背面整体标签漏渲染，已向root报可见差异。"
+      ],
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "V03",
+      "revision": "geometry_rebuild_v1_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/V03-v1.png",
+      "sha256": "61cbe3d2998390a213adc72afe35562b6521ae043c9e9382e0279af64afb41bf",
+      "actual_dimensions": [
+        953,
+        1650
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "reference_ids": [
+        "R027",
+        "R029"
+      ],
+      "actual_view_method": "actual_native_candidate_original_reference_silver89_90_91_92_and_new_side_sources",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "黑金斜光/蓝紫边、三视图错落保留；爆炸层改三完整实物，不画内部结构。"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "左正大/中纯侧/右背形成分层，均完整含柄与银裸纹。"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "黑底黄金斜光、蓝紫边光与银高反差贴参考。"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "巨大白标题及三白引线标签指向对应视图，无工艺字。"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "原内部/镀层参数高密度换三角度外观与三标签，保持视觉层次不虚构内部。"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "中纯侧保留91式浅S，背向颈和柄缓曲连续，可见侧厚度过渡自然；左右正背辅助，不将其投影当完整3D。",
+        "whole_3d_validated": false
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "前正面红钮右上约255,716有明确闭合暗灰伪孔/水滴状凹件，需局部清除回连续黑底；其余几何/裸纹可用。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "标题及正面/侧面/背面引线对应正确。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "V03 mapped exterior visual task retained"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "未测夹角/曲率/精确孔数/规格，几何仅当前可见角度。"
+      ],
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "M06",
+      "revision": "geometry_rebuild_people_v1_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/M06-rebuild-v1.png",
+      "sha256": "47ee91952772cd88c34bbaa1ca8b8fd8954d6177317487a539e2004e4f95501e",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "左暖木持品淋浴右白底完整品，R008左右两区保留。"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "左大场景右完整银色单品，头/手尺度自然。"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "暖木湿肤暖光对右中性白底，银反光清楚。"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "右银色/单花洒黑大字，无参考增压字。"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "一场景一SKU，不增参数/证件/附件。"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见侧厚带/头背向颈收腰连续；右斜侧握柄缓曲可见，深度轴角与全背弧LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_silver91_92_and_current_side_master_not_old_generated_K01"
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "皮肤无明显重复鱼鳞网，同人/手自然；上持品孔根常规覆盖充分，柄端出左框；右银裸纹正确。"
+      },
+      "skin_review": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "当前全原生未见明显密集闭合鱼鳞重复；随机毛孔/水滴不当失败。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "中文与本图批准主题对应，无额外档位/功效。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "mapped visual task retained"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "actual_view_method": "actual_full_native_and_targeted_face_or_product_in_memory_enlargement_original_style_refs_previously_actual_viewed_in_session",
+      "limitations": [
+        "几何仅可见投影，不声称完整3D或数值角度。",
+        "未测孔数/材质/规格，人物不作真实试用证据。"
+      ],
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D01",
+      "revision": "geometry_rebuild_people_v1_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/D01-rebuild-v1.png",
+      "sha256": "9f2fe81a4e34bd2392fdc66db5a4d508c60ee6c65a287959add06e09027562cb",
+      "actual_dimensions": [
+        900,
+        1748
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "A006上黑衣人物/商品越框、下A007白衣风发独立段保留。"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "上大人物前景花洒，下段近半屏完整持品，不缩成窗。"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "冷蓝斜几何与柔亮肤色/银边。"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "右上三档/银色/下键中文清楚，下有意无字。"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "上主信息与下低密度停顿完整，删参数性能字。"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "两持品可见侧缘及弯颈连接自然，未见急折；近正面深度仍有限。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_silver91_92_and_current_side_master_not_old_generated_K01"
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "上大面板红钮周围一整圈白孔破碎/粘连并出现灰闭合圈，需仅重建上面板；非精确孔数差异。"
+      },
+      "skin_review": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "当前全原生未见明显密集闭合鱼鳞重复；随机毛孔/水滴不当失败。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "中文与本图批准主题对应，无额外档位/功效。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "mapped visual task retained"
+      },
+      "merged_tasks_coverage": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "tasks": [
+          "D02"
+        ],
+        "reason": "下白衣风发独立无字段完整，省文为已授权适配。"
+      },
+      "actual_view_method": "actual_full_native_and_targeted_face_or_product_in_memory_enlargement_original_style_refs_previously_actual_viewed_in_session",
+      "limitations": [
+        "几何仅可见投影，不声称完整3D或数值角度。",
+        "未测孔数/材质/规格，人物不作真实试用证据。"
+      ],
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D04",
+      "revision": "geometry_rebuild_people_v1_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/D04-rebuild-v1.png",
+      "sha256": "a2e623014baefbe8f617b762dca716f303f23de[REDACTED_PHONE]a4f06fdeeed203",
+      "actual_dimensions": [
+        942,
+        1670
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "A009左前景头右人物窗景，下A010独立窄细节带保留。"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "大头/脸并列，下带微距，主从比例清楚。"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "冷蓝浴室右亮窗，银色湿润反光。"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "左上日常淋浴/手持呈现两级黑字，下无字。"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "一主景一细节段，删增压/过滤及不售支架。"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "主上及底侧角均见背壳浅弧/颈收腰，头柄缓曲连续；侧壁厚度无急台阶，完整3D未知。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_silver91_92_and_current_side_master_not_old_generated_K01"
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "新肤色连续、随机水滴无明显鱼鳞；手自然/柄出画，面板孔源与全面常规束成立；底白环无明确长塑料柱，水自身不当硬件。"
+      },
+      "skin_review": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "当前全原生未见明显密集闭合鱼鳞重复；随机毛孔/水滴不当失败。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "中文与本图批准主题对应，无额外档位/功效。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "mapped visual task retained"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "actual_view_method": "actual_full_native_and_targeted_face_or_product_in_memory_enlargement_original_style_refs_previously_actual_viewed_in_session",
+      "limitations": [
+        "几何仅可见投影，不声称完整3D或数值角度。",
+        "未测孔数/材质/规格，人物不作真实试用证据。"
+      ],
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D11",
+      "revision": "geometry_rebuild_people_v1_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/D11-rebuild-v1.png",
+      "sha256": "065c09eef5212663e212d1770d1e1902d522de845f7f8d04087546c83a42b1f7",
+      "actual_dimensions": [
+        899,
+        1750
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "A021上回眸与A019下举臂两独立无字段保留。"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "两姿态各近半屏，花洒为举臂前景，不缩小附图。"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "冷蓝浴室/白T/银边，自然柔光。"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "均有意无字，不复制125MM/性能字。"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "两姿态低密度停顿，D09独立完整。"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "头背侧厚与弯颈可见，柄接顺滑，无急鹅颈；下持品局部受手遮深度有限。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_silver91_92_and_current_side_master_not_old_generated_K01"
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "仅下段右柄尾约886,1313画内露黑底口却流水，需自然出右框或掌遮，不能封口。"
+      },
+      "skin_review": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "当前全原生未见明显密集闭合鱼鳞重复；随机毛孔/水滴不当失败。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "中文与本图批准主题对应，无额外档位/功效。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "mapped visual task retained"
+      },
+      "merged_tasks_coverage": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "tasks": [
+          "D09"
+        ],
+        "reason": "下举臂无字段近半屏完整，未变附属小窗。"
+      },
+      "actual_view_method": "actual_full_native_and_targeted_face_or_product_in_memory_enlargement_original_style_refs_previously_actual_viewed_in_session",
+      "limitations": [
+        "几何仅可见投影，不声称完整3D或数值角度。",
+        "未测孔数/材质/规格，人物不作真实试用证据。"
+      ],
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "V01",
+      "revision": "geometry_rebuild_people_v1_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/V01-rebuild-v1.png",
+      "sha256": "573be102dcec9dfbe3d677b4c4ebb37c2e360695c1a8ebb5dd102cbdfe8c1813",
+      "actual_dimensions": [
+        994,
+        1582
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "R013式左品右人斜水，上暖木中3细节下棕金独立桥。"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "人物/水大主景，三窗中带、完整短桥独立。"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "上暖木肤色，中浅金，下深棕金光弧。"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "上白大标题，下三档大标题/双胶囊准确。"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "证件/参数换3真实外细节，桥短但标题/胶囊/留白完整承接V07。"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "主持品侧厚/颈缓曲可见，第三细节窗清楚浅背弧向颈收腰；不据斜侧断言完整深度轴角。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_silver91_92_and_current_side_master_not_old_generated_K01"
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "额颊闭合多边鱼鳞网明显，放大确认，需fresh；非仅随机毛孔。其余商品/水/手可用。"
+      },
+      "skin_review": {
+        "status": "NEEDS_FIX",
+        "reason": "实际内存放大额颊闭合重复多边网纹，较clean母版强化，需fresh非叠改。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "中文与本图批准主题对应，无额外档位/功效。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "mapped visual task retained"
+      },
+      "merged_tasks_coverage": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "tasks": [
+          "V07"
+        ],
+        "reason": "独立棕金桥大标题/双胶囊/金光弧留白完整，不是页脚标签。"
+      },
+      "actual_view_method": "actual_full_native_and_targeted_face_or_product_in_memory_enlargement_original_style_refs_previously_actual_viewed_in_session",
+      "limitations": [
+        "几何仅可见投影，不声称完整3D或数值角度。",
+        "未测孔数/材质/规格，人物不作真实试用证据。"
+      ],
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "V02",
+      "revision": "geometry_rebuild_people_v1_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/V02-rebuild-v1.png",
+      "sha256": "5a0dfbb4eec542e87986b4f094c07a2eb32ced3bc43447f034460387d9f82642",
+      "actual_dimensions": [
+        1029,
+        1528
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "R022左大字/持品右人物托腮和桌面关系保留。"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "大花洒与半身人物并列，产品完整至银裸纹。"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "奶油浅底，深棕大字，柔光银反射。"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "下方/切档大字，按键靠近手柄小字，删四功能。"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "一场景两级文字，无参数配件。"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "商品左侧边缘由头向颈收腰，握柄微弯连续；近正面背弧及轴角LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_silver91_92_and_current_side_master_not_old_generated_K01"
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "额部/双颊闭合多边网纹明显，2x放大确认，需fresh；其余同人/手/银裸纹干态可用。"
+      },
+      "skin_review": {
+        "status": "NEEDS_FIX",
+        "reason": "实际内存放大额颊闭合重复多边网纹，较clean母版强化，需fresh非叠改。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "中文与本图批准主题对应，无额外档位/功效。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "mapped visual task retained"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "actual_view_method": "actual_full_native_and_targeted_face_or_product_in_memory_enlargement_original_style_refs_previously_actual_viewed_in_session",
+      "limitations": [
+        "几何仅可见投影，不声称完整3D或数值角度。",
+        "未测孔数/材质/规格，人物不作真实试用证据。"
+      ],
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "M01",
+      "revision": "qa_closeout_increment_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M01-v1.png",
+      "sha256": "f63af37ee572ef996ddb155826b6251183ba0eac834e7f1d42f78334f10daa4d",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "reference_ids": [
+        "A038"
+      ],
+      "actual_view_method": "actual_full_native_candidate_targeted_original_refs_and_silver_sources_plus_detail_enlargement_when_needed",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "白底无字完整斜立单品，对应A038"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "商品占画约9成高，完整银裸牙"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "中性白底与亮银反射"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "有意无字"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "单品低密度"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "低白环、红钮与银下键完整，未见明确碎裂/灰伪孔；当前正斜投影不验证全背弧。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "无字白底完整单品"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "M02",
+      "revision": "qa_closeout_increment_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M02-v1.png",
+      "sha256": "5b13e6dc04f10cb24ea060b9b5ab4c4ebc67402dbb3563e28f2ac7a5468c10dd",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "reference_ids": [
+        "R001",
+        "R009"
+      ],
+      "actual_view_method": "actual_full_native_candidate_targeted_original_refs_and_silver_sources_plus_detail_enlargement_when_needed",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "棕金斜托盘、左双细节窗与右主品保留R001/R009"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "右完整大商品与左窗主从清楚"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "金棕高光与银反射"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "底部两级粗黑字、左窗标签"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "原套装信息删附件改两已知功能"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "主面板红钮右上及左下各有暗灰闭合伪孔，必须清除。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "棕金斜托盘广告，分层底标题与局部窗"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "M03",
+      "revision": "qa_closeout_increment_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M03-v1.png",
+      "sha256": "d9e3ca71770fd3557e5cd643ee2601c63b3e73ea682487ead819f2210801215a",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "reference_ids": [
+        "A034"
+      ],
+      "actual_view_method": "actual_full_native_candidate_targeted_original_refs_and_silver_sources_plus_detail_enlargement_when_needed",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "冷蓝正背双立品与右按压窗对应A034"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "两完整大品及一操作窗"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "冷蓝水面、亮银清楚"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "底蓝白字两段与右手动按压标签"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "删过滤喷枪6档参数，改三档与手动除垢"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "背壳无圆patch，银裸牙、连续颈收腰可读，白孔不见明确增构；按压窗不证明清洁效果。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "冷蓝正背双主体及除垢小窗"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "M04",
+      "revision": "qa_closeout_increment_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M04-v2.png",
+      "sha256": "cd646e1cbb16d687853b67a8be4025f683bc8f4b511ee60623aa42f64ed4576f",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "reference_ids": [
+        "R002",
+        "A036"
+      ],
+      "actual_view_method": "actual_full_native_candidate_targeted_original_refs_and_silver_sources_plus_detail_enlargement_when_needed",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "R002右大持品左三水窗布局保留"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "右大完整品，三窗可辨"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "暖棕商业光"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "标题和三档白字清楚"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "三档替代原四/六档，不复制功效"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "喷雾与混合六点被画成明显加大白环及黑色凸套，偏离feedback02普通孔根部；常规右边仍有连续干白孔。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "大手持下键动作与左侧三小水型窗"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "M05",
+      "revision": "qa_closeout_increment_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M05-v1.png",
+      "sha256": "bda91eff2cf534d44b25f99c2e3a889c7100d850c0d40af367dbdb63ef281ad1",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "reference_ids": [
+        "A035"
+      ],
+      "actual_view_method": "actual_full_native_candidate_targeted_original_refs_and_silver_sources_plus_detail_enlargement_when_needed",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "A035面板微距/手按/右三图标保留"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "面板大面积，短红点可辨"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "浅蓝背景亮银黑面"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "上主副两级黑字，右三个标签"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "无自动彻底除垢等扩张"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "短小红点局部伸出，白孔为低环未见长白柱，红钮手动动作合理；柄背投影LIMITED_VIEW。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "大面板按红钮与右侧操作列"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "M07",
+      "revision": "qa_closeout_increment_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M07-v2.png",
+      "sha256": "02a5b2066de7ae1a52768555d81f20b53a30aa1694fd99c08a470cffc17bd173",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "reference_ids": [
+        "R004"
+      ],
+      "actual_view_method": "actual_full_native_candidate_targeted_original_refs_and_silver_sources_plus_detail_enlargement_when_needed",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "R004黑金斜向水流冲出画面，删除爆炸内部"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "大头柄斜轴与前景水流"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "黑金高反差、红金底标题带"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "左下大字及下键标签"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "原增压证件替换真实档位，信息降密有依据"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "白孔可见连续水束覆盖，无明显半面干孔；红钮只是前景水束掠过，无明确从中心喷出，柄端出框。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "黑金大头截边与真实水束"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "M08",
+      "revision": "qa_closeout_increment_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M08-v3.png",
+      "sha256": "2b9c475b2b3529093a66e3fd17dec165d3af1cf8658c5c04369810da179fcc03",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "reference_ids": [
+        "R012"
+      ],
+      "actual_view_method": "actual_full_native_candidate_targeted_original_refs_and_silver_sources_plus_detail_enlargement_when_needed",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "R012白底三纵卡、金底短句保留"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "三张等权主题卡"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "棕金三窗与白底"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "大标题三标签两级清楚"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "三已知操作替代参考未知接口/功效"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "左常规面板右侧多排白孔无水，存在半面干孔。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "白底三竖卡详情导航"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D01",
+      "revision": "qa_closeout_increment_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/D01-root-v2.png",
+      "sha256": "d74bbf2fad5a6dc83f3a2452b2fa76c53d1c9fa9216f9f2ff2ee57641ed85099",
+      "actual_dimensions": [
+        900,
+        1748
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "reference_ids": [
+        "A006",
+        "A007"
+      ],
+      "actual_view_method": "actual_full_native_candidate_targeted_original_refs_and_silver_sources_plus_detail_enlargement_when_needed",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "A006上黑衣人物商品前景与A007下白衣风发独立段保留"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "两人物各独立大段，下段非附窗"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "冷蓝几何和柔亮肤色"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "上右中文三层，下有意无字"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "主信息与下低密度停顿分开"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "上面板白孔碎裂粘连、灰伪孔成簇仍在，尤其红钮左上及周边。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "上时尚越框首屏，下人物横幅停顿"
+      },
+      "merged_tasks_coverage": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "tasks": [
+          "D02"
+        ],
+        "reason": "A006上黑衣人物商品前景与A007下白衣风发独立段保留；合并阅读任务保持独立完整段落。"
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING",
+      "skin_review": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "V01额颊可见闭合细纹网络；V02定向3x看轻微随机纹理，无明显密集闭合鱼鳞重复；其余保留可用肤质。"
+      }
+    },
+    {
+      "id": "D11",
+      "revision": "qa_closeout_increment_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/D11-root-v2.png",
+      "sha256": "882381ec0911637d5cc19472177f2ce73399c384302c0028a94c42800653985c",
+      "actual_dimensions": [
+        899,
+        1750
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "reference_ids": [
+        "A021",
+        "R026",
+        "A019",
+        "R019"
+      ],
+      "actual_view_method": "actual_full_native_candidate_targeted_original_refs_and_silver_sources_plus_detail_enlargement_when_needed",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "A021上回眸/A019下举臂两完整无字段"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "两姿态各半屏"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "冷蓝浴室和白衣柔光"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "有意无字"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "两低密度人物段落，不缩成小窗"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "上下常规头右侧/上缘存在大片连续干白孔，3x放大确认；下柄已自然出右框，仅此点修复通过。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "上段明亮回眸主景，下段无字举臂人物停顿"
+      },
+      "merged_tasks_coverage": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "tasks": [
+          "D09"
+        ],
+        "reason": "A021上回眸/A019下举臂两完整无字段；合并阅读任务保持独立完整段落。"
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING",
+      "skin_review": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "V01额颊可见闭合细纹网络；V02定向3x看轻微随机纹理，无明显密集闭合鱼鳞重复；其余保留可用肤质。"
+      }
+    },
+    {
+      "id": "V02",
+      "revision": "qa_closeout_increment_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/V02-rebuild-v2.png",
+      "sha256": "c3f795c3f6415f1fe51bf71042d7e676f267d8af79bf6a8a7254dbc4ed993d69",
+      "actual_dimensions": [
+        1034,
+        1521
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "reference_ids": [
+        "R022"
+      ],
+      "actual_view_method": "actual_full_native_candidate_targeted_original_refs_and_silver_sources_plus_detail_enlargement_when_needed",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "R022人物托腮和左前景干态商品保留"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "人物与商品均大比例"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "米白背景柔光亮银"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "左大棕字与右黑小标题"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "干态时尚页不额外加三档标签"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "商品红钮上方的白孔多处断裂并混入灰伪孔，需修面板。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "干态人物时尚页与前景商品"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING",
+      "skin_review": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "V01额颊可见闭合细纹网络；V02定向3x看轻微随机纹理，无明显密集闭合鱼鳞重复；其余保留可用肤质。"
+      }
+    },
+    {
+      "id": "D06",
+      "revision": "qa_closeout_increment_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D06-v2.png",
+      "sha256": "80a532b6a2ea07aaa8fba26b66c07fd8bdc2826979ddbb380fdc6ff233f21d1d",
+      "actual_dimensions": [
+        1063,
+        1479
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "reference_ids": [
+        "A012",
+        "A013",
+        "R007"
+      ],
+      "actual_view_method": "actual_full_native_candidate_targeted_original_refs_and_silver_sources_plus_detail_enlargement_when_needed",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "A012标题三索引/A013底低视角/R007主出水起点微距保留"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "主体面板近景截边，下独立横段"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "冷蓝水面与银反光"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "标题黑字，三蓝标签仅索引"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "删三水型小图，三名为索引不伪称各档实拍"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "主面板全范围白孔可见水根，红钮无明确出水；底低角度银侧壁厚度与颈缓曲可读，水束高光不当塑料柱，仍不测精确孔数。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "出水起点微距与低角度侧壁短幅"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D16",
+      "revision": "qa_closeout_increment_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D16-v2.png",
+      "sha256": "89fc0d2e127225e1fd0a356a24867e3e35ab5d6ab50d29fbfafbbe19b312d690",
+      "actual_dimensions": [
+        1116,
+        1410
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "reference_ids": [
+        "A028",
+        "R032",
+        "R006"
+      ],
+      "actual_view_method": "actual_full_native_candidate_targeted_original_refs_and_silver_sources_plus_detail_enlargement_when_needed",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "R032左大操作品右三步/下三窗结构，A028去冲厕改手持"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "大持品与三小操作步骤主从清楚"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "白底蓝条亮银"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "三步/三档蓝底白字可读"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "底三个干态图片仅档名索引，不当水型性能图"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "左主面板右上可见灰伪孔；底常规索引窗孔位碎裂/灰点明显，需修对应面板。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "大手持切档与步骤小窗"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "V03",
+      "revision": "qa_closeout_increment_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/V03-v2.png",
+      "sha256": "d38c8d573c20944817ac4b96b169ac59e62554519568f405721a9a9e3d6e3e0d",
+      "actual_dimensions": [
+        953,
+        1650
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "reference_ids": [
+        "R027",
+        "R029"
+      ],
+      "actual_view_method": "actual_full_native_candidate_targeted_original_refs_and_silver_sources_plus_detail_enlargement_when_needed",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "R027/R029黑金斜光与蓝边，内部层改三完整视角"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "三视图错落大比例"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "金斜光蓝边亮银"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "白大标题与三视角引线"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "只标正侧背不虚构内部材料"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "约255,716处暗灰闭合伪孔依然可见，旧问题未消除。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "暗底完整正侧背错落曲面"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "V04",
+      "revision": "qa_closeout_increment_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/V04-v2.png",
+      "sha256": "6c75e186733f540f76d2f1a2f76761fd7105d7f70bb2a6628f1e0e55f30fc1d2",
+      "actual_dimensions": [
+        953,
+        1651
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "reference_ids": [
+        "R024",
+        "R028"
+      ],
+      "actual_view_method": "actual_full_native_candidate_targeted_original_refs_and_silver_sources_plus_detail_enlargement_when_needed",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "R028沙纹大面板与R024三栏改操作卡"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "面板微距占大部，底三短卡"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "金沙暖光与黑面反差"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "两行大黑字与底三个动作标签"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "不含痛点恐吓/抗菌，短红针辅助表述"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "低白环带少量短红点，中央手按，底三步无过长针/自动效果；当前头部近景LIMITED_VIEW全柄深度。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "沙纹面板按压特写及底部短操作卡"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D14",
+      "revision": "qa_closeout_increment_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D14-v1.png",
+      "sha256": "54e6cabad39ffbb5f10d9b63a2cd0ea66ffe3db637064023ec3a85d56cf56d27",
+      "actual_dimensions": [
+        979,
+        1607
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "reference_ids": [
+        "A024",
+        "A025",
+        "A026"
+      ],
+      "actual_view_method": "actual_full_native_candidate_targeted_original_refs_and_silver_sources_plus_detail_enlargement_when_needed",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "A024-026上大品/中三步/下未按和按住两窗"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "上品和下孔位近景层级清楚"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "冷蓝水面、蓝标签、银反光"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "主标题与步骤/状态清楚"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "替换过滤对比为手动状态，无清垢前后功效"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "红点/短针只少量孔伸出，不做长针；低白环与外孔圈保留，非精确针数量核验。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "三步操作与两种按压状态"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "V05",
+      "revision": "qa_closeout_increment_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/V05-v1.png",
+      "sha256": "fd842ecb73a5a100612ff1a2395f34c03e45aae636c0cc2298aa042ce537c100",
+      "actual_dimensions": [
+        983,
+        1601
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "reference_ids": [
+        "R033",
+        "R031"
+      ],
+      "actual_view_method": "actual_full_native_candidate_targeted_original_refs_and_silver_sources_plus_detail_enlargement_when_needed",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "R033岩石大品舞台/R031金水倒影与下三窗保留"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "完整头柄与银裸牙，下三细节窗"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "金棕场景亮银反射"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "左短标题与两窗部位标签"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "删尺寸和配件，三个外观细节"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "白孔低环，黑面细微高光不见明确闭合灰伪孔，银裸牙及侧窗缓曲可读；正斜主图全3D未知。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "岩石舞台完整大单品，局部金水面倒影与下三细节窗"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "V01",
+      "revision": "qa_closeout_increment_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/V01-rebuild-v2.png",
+      "sha256": "20526ef95fb34dd49fff3c1549b6c2671660f30f28bc877f262e796926d74dab",
+      "actual_dimensions": [
+        995,
+        1581
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "reference_ids": [
+        "R003",
+        "R013",
+        "R015",
+        "R018",
+        "R014",
+        "R030"
+      ],
+      "actual_view_method": "actual_full_native_candidate_targeted_original_refs_and_silver_sources_plus_detail_enlargement_when_needed",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "暖木持品人物、三细节窗与底独立短桥保留"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "人物主场景与细节/桥不同段"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "暖木灯光与金黑桥"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "白大场景字/小窗标签/三档桥层级"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "V07短桥完整承接，非堆字"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "持品尾端出现编织软管，不符不售配件；额颊有可见闭合细纹网络，肤质需改善。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "暖木人物水流、细节窗及短章节桥"
+      },
+      "merged_tasks_coverage": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "tasks": [
+          "V07"
+        ],
+        "reason": "暖木持品人物、三细节窗与底独立短桥保留；合并阅读任务保持独立完整段落。"
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING",
+      "skin_review": {
+        "status": "NEEDS_FIX",
+        "reason": "V01额颊可见闭合细纹网络；V02定向3x看轻微随机纹理，无明显密集闭合鱼鳞重复；其余保留可用肤质。"
+      }
+    },
+    {
+      "id": "D03",
+      "revision": "qa_closeout_increment_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D03-v2.png",
+      "sha256": "ea3a335d283c57a5c6d1ffeb8da70a7674bffc074c099f5efe48ce24b7ca3467",
+      "actual_dimensions": [
+        1065,
+        1477
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "reference_ids": [
+        "A008"
+      ],
+      "actual_view_method": "actual_full_native_candidate_targeted_original_refs_and_silver_sources_plus_detail_enlargement_when_needed",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "A008三色越框错落与浅蓝白框保留"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "三大完整单品而非小色块"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "银/黑/枪灰高光有别，未当标准色值"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "各色短标签和底部大标题"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "仅颜色外观，无过滤/配件"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "三色面板均有暗灰闭合伪孔与白孔断裂，需分别清除，不能银色一键换色。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "错落三色相册"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D05",
+      "revision": "qa_closeout_increment_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D05-v2.png",
+      "sha256": "71433e2a3f152a9188098da410aba44c4f8bb11773efd6619ea1af8dff0b9480",
+      "actual_dimensions": [
+        1030,
+        1526
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "reference_ids": [
+        "A011",
+        "R017"
+      ],
+      "actual_view_method": "actual_full_native_candidate_targeted_original_refs_and_silver_sources_plus_detail_enlargement_when_needed",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "A011/R017左大水型、右双细节、底双窗五区保留"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "左主品大而五区主从清楚"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "冷蓝浴室和银亮反光"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "顶黑字各窗蓝标签清楚"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "过滤爆炸/增压替换孔位红钮下键侧背"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "白孔连续低环、水束可见跨全面覆盖；底侧背浅S过渡、无背圆patch、银裸牙正确；不测精确孔数。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "不等大五格索引"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D07",
+      "revision": "qa_closeout_increment_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D07-v3.png",
+      "sha256": "ff84fc951b5242d0763ff65bb4c5498f3f503359c01e4d64b1dabe3e08c66d49",
+      "actual_dimensions": [
+        876,
+        1795
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "reference_ids": [
+        "A014",
+        "A015",
+        "R025",
+        "A020",
+        "R020",
+        "R021",
+        "R005"
+      ],
+      "actual_view_method": "actual_full_native_candidate_targeted_original_refs_and_silver_sources_plus_detail_enlargement_when_needed",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "A014/15冷蓝竖纹标题大品，与D10底双操作窗完整"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "左手持正面右完整纯侧，底窗独立"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "冷蓝竖纹与中性银反光"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "三档字/蓝标签与底白字层级清楚"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "R025标题任务与R020/21/R005对比删性能，改操作位置"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "主面板红钮右上白孔粘连断裂/灰闭合伪孔，需修主面板。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "大头手持定位及两按钮分工双卡"
+      },
+      "merged_tasks_coverage": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "tasks": [
+          "D10"
+        ],
+        "reason": "A014/15冷蓝竖纹标题大品，与D10底双操作窗完整；合并阅读任务保持独立完整段落。"
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D08",
+      "revision": "qa_closeout_increment_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D08-v2.png",
+      "sha256": "7bf97ac7219389a9c6a1d6d46ebc44e457820247c1cb9e67b0bb5b5f816e2d42",
+      "actual_dimensions": [
+        978,
+        1608
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "reference_ids": [
+        "A016",
+        "A017",
+        "A018",
+        "R023"
+      ],
+      "actual_view_method": "actual_full_native_candidate_targeted_original_refs_and_silver_sources_plus_detail_enlargement_when_needed",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "A016/17/18及R023黑底连续分栏蓝角序号保留"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "三个水型近景等权完整横段"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "黑底银边和蓝标"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "01/02/03三档右白字及底按键条"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "只保留三档不复制喷枪/功效/第四档"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "第二喷雾窗除六锥雾外还从多普通孔连续发出直水束，成为混合，与喷雾档不符。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "黑卡逆光三水型与蓝色过渡"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D13",
+      "revision": "qa_closeout_increment_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D13-v2.png",
+      "sha256": "a953bce0ecb6b8852c236d95241c287f1b250e652fbdc41b434ede4a412bd92d",
+      "actual_dimensions": [
+        1111,
+        1415
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "reference_ids": [
+        "A023",
+        "A037"
+      ],
+      "actual_view_method": "actual_full_native_candidate_targeted_original_refs_and_silver_sources_plus_detail_enlargement_when_needed",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "A023/A037右大品左多层结构改三外观细节窗引线"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "右完整头柄裸牙，左三窗主从清楚"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "冷蓝背景银反光与黑面红钮清楚"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "左上两行黑字/窗下标签与引线对应"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "只外部细节不虚构过滤内部"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "主及三窗白孔低环无明确灰伪孔或长柱，银裸牙可读，正斜角LIMITED_VIEW全背弧。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "右完整单品与左外部部位放大卡"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D17",
+      "revision": "qa_closeout_increment_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D17-v2.png",
+      "sha256": "3384862e8619c57b63606e99a1775070e72c419aa59859617028b7411550ecdf",
+      "actual_dimensions": [
+        1018,
+        1545
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "reference_ids": [
+        "A029",
+        "A030",
+        "A031"
+      ],
+      "actual_view_method": "actual_full_native_candidate_targeted_original_refs_and_silver_sources_plus_detail_enlargement_when_needed",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "A029/30/31上斜大单品与下完整静物段"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "上大头柄，下横置完整单品"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "冷灰石材与银反光"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "左三条已知功能与小外观字，下有意无字"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "移除耐摔测试与接口承诺，只外观静置"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "主面板上部多处暗灰闭合伪孔，定向2x放大明确，不是高光阴影。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "斜握柄与完整头部石材静物"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D18",
+      "revision": "qa_closeout_increment_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D18-v2.png",
+      "sha256": "2154be8a2a07bfabf0e4a48ec58496882c6f9e91ceeb86ab5277244c21c76fa4",
+      "actual_dimensions": [
+        1019,
+        1544
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "reference_ids": [
+        "A032",
+        "A033",
+        "R034"
+      ],
+      "actual_view_method": "actual_full_native_candidate_targeted_original_refs_and_silver_sources_plus_detail_enlargement_when_needed",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "A032/33与R034白底单品两列三行信息格保留"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "完整单品，信息表占下三分之一"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "白底中性亮银"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "大标题/两部位引线与表格六项清楚"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "六项均已知，不含尺寸材质规格售后"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "主面板红钮左下及右上多暗灰伪孔/白孔碎裂。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "白底完整单品与2列3行已知信息"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "V06",
+      "revision": "qa_closeout_increment_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/V06-v2.png",
+      "sha256": "f522877590449f4ac5b3bc0ec47d94f43fb16e56e9a572a9b6622661243a2279",
+      "actual_dimensions": [
+        911,
+        1727
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "reference_ids": [
+        "R010",
+        "R011",
+        "R016",
+        "R035"
+      ],
+      "actual_view_method": "actual_full_native_candidate_targeted_original_refs_and_silver_sources_plus_detail_enlargement_when_needed",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "R010夜蓝空间、R011白底六格、R016/R035末尾信息卡改真实问答"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "顶部手持背面大景，下六等格与三问答"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "夜蓝暖灯/白底中性图鉴分区"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "图鉴大标题/六标签/问答层级清楚"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "不伪造机构品牌售后，只外观和买前已知问答"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "六格左下面板孔位窗大量白孔碎裂及灰伪孔，左上正面小窗同类。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "夜蓝空间、白底六格图鉴及买前问答"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "M02",
+      "revision": "qa_closeout_increment3_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M02-v2.png",
+      "sha256": "566e25acbedeb606186758baafea6b9b0aa4f61e0821f25f34f1186d638ce821",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "reference_ids": [
+        "R001",
+        "R009"
+      ],
+      "actual_view_method": "actual_native_incremental_repair_and_affected_regions_with_prior_original_refs_SKU_checks_inherited",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "棕金斜托盘、左双细节窗与右主品保留R001/R009"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "右完整大商品与左窗主从清楚"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "金棕高光与银反射"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "底部两级粗黑字、左窗标签"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "原套装信息删附件改两已知功能"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "主面板两个灰伪孔消除，低白孔黑底连续；双细节窗/银裸牙/版式保留。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "棕金斜托盘广告，分层底标题与局部窗"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING",
+      "incremental_review": "Previous unchanged reference axes/geometry/copy/merged tasks reused; edited panel and collateral changes actually inspected."
+    },
+    {
+      "id": "D01",
+      "revision": "qa_closeout_increment3_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/D01-root-v3.png",
+      "sha256": "2986e8d8f02eda136342e55da108c8b70dc8541251351a484135a7368015da86",
+      "actual_dimensions": [
+        900,
+        1748
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "reference_ids": [
+        "A006",
+        "A007"
+      ],
+      "actual_view_method": "actual_native_incremental_repair_and_affected_regions_with_prior_original_refs_SKU_checks_inherited",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "A006上黑衣人物商品前景与A007下白衣风发独立段保留"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "两人物各独立大段，下段非附窗"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "冷蓝几何和柔亮肤色"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "上右中文三层，下有意无字"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "主信息与下低密度停顿分开"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "上面板重建规则低白孔，碎孔与灰伪孔消除；人物肤质及下独立风发段保留。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "上时尚越框首屏，下人物横幅停顿"
+      },
+      "merged_tasks_coverage": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "tasks": [
+          "D02"
+        ],
+        "reason": "A006上黑衣人物商品前景与A007下白衣风发独立段保留；合并阅读任务保持独立完整段落。"
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING",
+      "skin_review": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "V01额颊可见闭合细纹网络；V02定向3x看轻微随机纹理，无明显密集闭合鱼鳞重复；其余保留可用肤质。"
+      },
+      "incremental_review": "Previous unchanged reference axes/geometry/copy/merged tasks reused; edited panel and collateral changes actually inspected."
+    },
+    {
+      "id": "V02",
+      "revision": "qa_closeout_increment3_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/V02-root-v3.png",
+      "sha256": "6152c8167fec88045fc5347c709f686588ac3888741f1cf6fee6a428e31d8782",
+      "actual_dimensions": [
+        1034,
+        1521
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "reference_ids": [
+        "R022"
+      ],
+      "actual_view_method": "actual_native_incremental_repair_and_affected_regions_with_prior_original_refs_SKU_checks_inherited",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "R022人物托腮和左前景干态商品保留"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "人物与商品均大比例"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "米白背景柔光亮银"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "左大棕字与右黑小标题"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "干态时尚页不额外加三档标签"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "面板清晰低白孔黑底，不见先前碎裂伪孔；肤质复用上次PWL。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "干态人物时尚页与前景商品"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING",
+      "skin_review": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "V01额颊可见闭合细纹网络；V02定向3x看轻微随机纹理，无明显密集闭合鱼鳞重复；其余保留可用肤质。"
+      },
+      "incremental_review": "Previous unchanged reference axes/geometry/copy/merged tasks reused; edited panel and collateral changes actually inspected."
+    },
+    {
+      "id": "V03",
+      "revision": "qa_closeout_increment3_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/V03-v3.png",
+      "sha256": "d89631d7b66d9530b23d9f9b113541de9b9c7d8f0aa4517fb87c08818998fd4f",
+      "actual_dimensions": [
+        953,
+        1650
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "reference_ids": [
+        "R027",
+        "R029"
+      ],
+      "actual_view_method": "actual_native_incremental_repair_and_affected_regions_with_prior_original_refs_SKU_checks_inherited",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "R027/R029黑金斜光与蓝边，内部层改三完整视角"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "三视图错落大比例"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "金斜光蓝边亮银"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "白大标题与三视角引线"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "只标正侧背不虚构内部材料"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "255,716处闭合暗灰圈仍明确保留；其他若干灰圈变金棕面板斑，与黑底不连续。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "暗底完整正侧背错落曲面"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING",
+      "incremental_review": "Previous unchanged reference axes/geometry/copy/merged tasks reused; edited panel and collateral changes actually inspected."
+    },
+    {
+      "id": "D16",
+      "revision": "qa_closeout_increment3_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D16-v3.png",
+      "sha256": "693fcdff9ee286f0860624faa683ae4161b6c02bd024e7e33f4de90ddd6565a2",
+      "actual_dimensions": [
+        1116,
+        1410
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "reference_ids": [
+        "A028",
+        "R032",
+        "R006"
+      ],
+      "actual_view_method": "actual_native_incremental_repair_and_affected_regions_with_prior_original_refs_SKU_checks_inherited",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "R032左大操作品右三步/下三窗结构，A028去冲厕改手持"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "大持品与三小操作步骤主从清楚"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "白底蓝条亮银"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "三步/三档蓝底白字可读"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "底三个干态图片仅档名索引，不当水型性能图"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "主面板与底三个索引窗低白孔规整，灰伪孔碎孔修复；干态三档仅索引。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "大手持切档与步骤小窗"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING",
+      "incremental_review": "Previous unchanged reference axes/geometry/copy/merged tasks reused; edited panel and collateral changes actually inspected."
+    },
+    {
+      "id": "D18",
+      "revision": "qa_closeout_increment3_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D18-v3.png",
+      "sha256": "e0e31c50edfad92f468989fa50797b6c4e6551297dbd680ba07a336a60caf1b8",
+      "actual_dimensions": [
+        1019,
+        1544
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "reference_ids": [
+        "A032",
+        "A033",
+        "R034"
+      ],
+      "actual_view_method": "actual_native_incremental_repair_and_affected_regions_with_prior_original_refs_SKU_checks_inherited",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "A032/33与R034白底单品两列三行信息格保留"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "完整单品，信息表占下三分之一"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "白底中性亮银"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "大标题/两部位引线与表格六项清楚"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "六项均已知，不含尺寸材质规格售后"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "红钮左下约434,417仍有明显灰白立体伪孔，定向3x放大确认，其他灰圈有部分残留。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "白底完整单品与2列3行已知信息"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING",
+      "incremental_review": "Previous unchanged reference axes/geometry/copy/merged tasks reused; edited panel and collateral changes actually inspected."
+    },
+    {
+      "id": "V06",
+      "revision": "qa_closeout_increment3_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/V06-v3.png",
+      "sha256": "763f3947eea7458c90057f0fdaf507517fcda12298362e3d7b3768a36a48e7d6",
+      "actual_dimensions": [
+        911,
+        1727
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "reference_ids": [
+        "R010",
+        "R011",
+        "R016",
+        "R035"
+      ],
+      "actual_view_method": "actual_native_incremental_repair_and_affected_regions_with_prior_original_refs_SKU_checks_inherited",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "R010夜蓝空间、R011白底六格、R016/R035末尾信息卡改真实问答; top now front handheld in same night scene, visible adaptation accepted with limitations."
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "顶部手持背面大景，下六等格与三问答"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "夜蓝暖灯/白底中性图鉴分区"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "图鉴大标题/六标签/问答层级清楚"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "不伪造机构品牌售后，只外观和买前已知问答"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "主品及正面/孔位窗重建低白孔，灰伪孔碎孔消除；顶部由背面变正面持品为可见适配，夜蓝大景、六格与问答任务保留。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "夜蓝空间、白底六格图鉴及买前问答"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING",
+      "incremental_review": "Previous unchanged reference axes/geometry/copy/merged tasks reused; edited panel and collateral changes actually inspected."
+    },
+    {
+      "id": "D08",
+      "revision": "qa_closeout_increment3_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D08-v3.png",
+      "sha256": "27bb3b09346bed83fd07a016a2f8e6f366e867d8cc1e45c9fc76a8da1e8f2626",
+      "actual_dimensions": [
+        978,
+        1608
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "reference_ids": [
+        "A016",
+        "A017",
+        "A018",
+        "R023"
+      ],
+      "actual_view_method": "actual_native_incremental_repair_and_affected_regions_with_prior_original_refs_SKU_checks_inherited",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "A016/17/18及R023黑底连续分栏蓝角序号保留"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "三个水型近景等权完整横段"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "黑底银边和蓝标"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "01/02/03三档右白字及底按键条"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "只保留三档不复制喷枪/功效/第四档"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "第二窗普通孔根仍有连片短直水线残留，长直束虽减少，六雾根以外孔根未完全干净，需只清孔根残线。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "黑卡逆光三水型与蓝色过渡"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING",
+      "incremental_review": "Previous unchanged reference axes/geometry/copy/merged tasks reused; edited panel and collateral changes actually inspected."
+    },
+    {
+      "id": "D03",
+      "revision": "qa_closeout_increment3_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D03-v3.png",
+      "sha256": "a51028d1953e8262c82c30fbca282fcc2ac6d759694118eeb36256b2c1c1e957",
+      "actual_dimensions": [
+        1065,
+        1477
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "reference_ids": [
+        "A008"
+      ],
+      "actual_view_method": "actual_native_incremental_repair_and_affected_regions_with_prior_original_refs_SKU_checks_inherited",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "A008三色越框错落与浅蓝白框保留"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "三大完整单品而非小色块"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "银/黑/枪灰高光有别，未当标准色值"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "各色短标签和底部大标题"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "仅颜色外观，无过滤/配件"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "三个SKU主面板多处暗灰伪孔仍留，孔根周边白碎点未全去。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "错落三色相册"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING",
+      "incremental_review": "Previous unchanged reference axes/geometry/copy/merged tasks reused; edited panel and collateral changes actually inspected."
+    },
+    {
+      "id": "D07",
+      "revision": "qa_closeout_increment3_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D07-v4.png",
+      "sha256": "99430354269ac91dabc9025234cc36278661164d706d695b88117ead287f5ad7",
+      "actual_dimensions": [
+        876,
+        1795
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "reference_ids": [
+        "A014",
+        "A015",
+        "R025",
+        "A020",
+        "R020",
+        "R021",
+        "R005"
+      ],
+      "actual_view_method": "actual_native_incremental_repair_and_affected_regions_with_prior_original_refs_SKU_checks_inherited",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "A014/15冷蓝竖纹标题大品，与D10底双操作窗完整"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "左手持正面右完整纯侧，底窗独立"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "冷蓝竖纹与中性银反光"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "三档字/蓝标签与底白字层级清楚"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "R025标题任务与R020/21/R005对比删性能，改操作位置"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "主面板重建低白孔黑底，未见灰伪孔/碎孔，完整侧面浅S与底双操作窗保留。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "大头手持定位及两按钮分工双卡"
+      },
+      "merged_tasks_coverage": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "tasks": [
+          "D10"
+        ],
+        "reason": "A014/15冷蓝竖纹标题大品，与D10底双操作窗完整；合并阅读任务保持独立完整段落。"
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING",
+      "incremental_review": "Previous unchanged reference axes/geometry/copy/merged tasks reused; edited panel and collateral changes actually inspected."
+    },
+    {
+      "id": "D17",
+      "revision": "qa_closeout_increment3_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D17-v3.png",
+      "sha256": "219330112d1a15091926d46e6939d47176b70fef684691325abe80338948e916",
+      "actual_dimensions": [
+        1018,
+        1545
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "reference_ids": [
+        "A029",
+        "A030",
+        "A031"
+      ],
+      "actual_view_method": "actual_native_incremental_repair_and_affected_regions_with_prior_original_refs_SKU_checks_inherited",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "A029/30/31上斜大单品与下完整静物段"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "上大头柄，下横置完整单品"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "冷灰石材与银反光"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "左三条已知功能与小外观字，下有意无字"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "移除耐摔测试与接口承诺，只外观静置"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "上下两品面板均规则低白环黑底，闭合灰伪孔消除，石材静物双段和银裸牙保留。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "斜握柄与完整头部石材静物"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING",
+      "incremental_review": "Previous unchanged reference axes/geometry/copy/merged tasks reused; edited panel and collateral changes actually inspected."
+    },
+    {
+      "id": "D18",
+      "revision": "qa_closeout_increment4_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D18-v4.png",
+      "sha256": "e40fc3e78ef8a747af53b7938d7e74450474a93e008a5f8a86be89ebfedf1ae4",
+      "actual_dimensions": [
+        1019,
+        1544
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "reference_ids": [
+        "A032",
+        "A033",
+        "R034"
+      ],
+      "actual_view_method": "actual_native_incremental_repair_and_affected_regions_with_prior_original_refs_SKU_checks_inherited",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "A032/33与R034白底单品两列三行信息格保留"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "完整单品，信息表占下三分之一"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "白底中性亮银"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "大标题/两部位引线与表格六项清楚"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "六项均已知，不含尺寸材质规格售后"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "434417伪孔替换正常白孔；其余为相邻低环的自然投影，未见明确独立伪孔。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "白底完整单品与2列3行已知信息"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING",
+      "incremental_review": "Previous unchanged reference axes/geometry/copy/merged tasks reused; edited panel and collateral changes actually inspected."
+    },
+    {
+      "id": "D08",
+      "revision": "qa_closeout_increment4_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D08-v4.png",
+      "sha256": "4029c2681ab701f6ccf5b491e5da0a9e8b5a125093e89b79749cd41f3610f233",
+      "actual_dimensions": [
+        978,
+        1608
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "reference_ids": [
+        "A016",
+        "A017",
+        "A018",
+        "R023"
+      ],
+      "actual_view_method": "actual_native_incremental_repair_and_affected_regions_with_prior_original_refs_SKU_checks_inherited",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "A016/17/18及R023黑底连续分栏蓝角序号保留"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "三个水型近景等权完整横段"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "黑底银边和蓝标"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "01/02/03三档右白字及底按键条"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "只保留三档不复制喷枪/功效/第四档"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "第二窗普通孔根短直残线清除，仅六点锥雾、红钮干；上下常规与混合保留。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "黑卡逆光三水型与蓝色过渡"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING",
+      "incremental_review": "Previous unchanged reference axes/geometry/copy/merged tasks reused; edited panel and collateral changes actually inspected."
+    },
+    {
+      "id": "D03",
+      "revision": "qa_closeout_increment4_20261023",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D03-v4.png",
+      "sha256": "9f0e437a531c27779bb37bd191a72195541e68429ebe26fdbef518d9aa630409",
+      "actual_dimensions": [
+        1065,
+        1477
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "reference_ids": [
+        "A008"
+      ],
+      "actual_view_method": "actual_native_incremental_repair_and_affected_regions_with_prior_original_refs_SKU_checks_inherited",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "A008三色越框错落与浅蓝白框保留"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "三大完整单品而非小色块"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "银/黑/枪灰高光有别，未当标准色值"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "各色短标签和底部大标题"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "仅颜色外观，无过滤/配件"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "黑约329447/银约592292/枪灰约865664等仍有独立暗灰闭合圈，并非每颗白环统一投影。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "错落三色相册"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING",
+      "incremental_review": "Previous unchanged reference axes/geometry/copy/merged tasks reused; edited panel and collateral changes actually inspected."
+    },
+    {
+      "id": "M08",
+      "revision": "qa_closeout_increment_M08-v4",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M08-v4.png",
+      "sha256": "e4a39c6aa3bda285e0c5f47f1e6c0358c0d5bbd454b96dbf848b5949f01b0b4d",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "reference_ids": [
+        "R012"
+      ],
+      "actual_view_method": "actual_full_native_candidate_targeted_original_refs_and_silver_sources_plus_detail_enlargement_when_needed",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "R012白底三纵卡、金底短句保留"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "三张等权主题卡"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "棕金三窗与白底"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "大标题三标签两级清楚"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "三已知操作替代参考未知接口/功效"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "左窗右侧连续孔根已见水束，无大片干孔；其余两卡保持。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "白底三竖卡详情导航"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D03",
+      "revision": "qa_closeout_increment_D03-fresh-v5",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D03-fresh-v5.png",
+      "sha256": "59c3b271f555c42a49cce72e5ad17349bc27c6e1254de33b2770fc779185151b",
+      "actual_dimensions": [
+        1065,
+        1477
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "reference_ids": [
+        "A008"
+      ],
+      "actual_view_method": "actual_native_incremental_repair_and_affected_regions_with_prior_original_refs_SKU_checks_inherited",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "A008三色越框错落与浅蓝白框保留"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "三大完整单品而非小色块"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "银/黑/枪灰高光有别，未当标准色值"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "各色短标签和底部大标题"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "仅颜色外观，无过滤/配件"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "新三SKU面板低白环规则，无明确灰伪孔碎裂；实看银89/黑102/枪灰106本色核对，光泽色差合理；浅蓝越框三完整品任务保留，三色标签位置稍改。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "错落三色相册"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING",
+      "incremental_review": "Previous unchanged reference axes/geometry/copy/merged tasks reused; edited panel and collateral changes actually inspected."
+    },
+    {
+      "id": "V01",
+      "revision": "qa_closeout_increment_V01-fresh-v3",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/V01-fresh-v3.png",
+      "sha256": "d17e45ec77cd112041b09b9701b69f601a9a939e25e6022fb1413eefe02a8e64",
+      "actual_dimensions": [
+        936,
+        1681
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "reference_ids": [
+        "R003",
+        "R013",
+        "R015",
+        "R018",
+        "R014",
+        "R030"
+      ],
+      "actual_view_method": "actual_full_native_candidate_targeted_original_refs_and_silver_sources_plus_detail_enlargement_when_needed",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "暖木持品人物、三细节窗与底独立短桥保留"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "人物主场景与细节/桥不同段"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "暖木灯光与金黑桥"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "白大场景字/小窗标签/三档桥层级"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "V07短桥完整承接，非堆字"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "中左细节窗中央红钮误为无中孔平红圆，白孔右边缘碎裂；主场景肌肤为水滴水膜，无明显闭合鱼鳞；无软管，主水根充分，侧颈自然，三窗与V07桥完整。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "暖木人物水流、细节窗及短章节桥"
+      },
+      "merged_tasks_coverage": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "tasks": [
+          "V07"
+        ],
+        "reason": "暖木持品人物、三细节窗与底独立短桥保留；合并阅读任务保持独立完整段落。"
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING",
+      "skin_review": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "Actual native and 3x crop: random water drops and films, no obvious dense closed fishscale repeats; approved M001 identity viewed."
+      }
+    },
+    {
+      "id": "M04",
+      "revision": "qa_closeout_increment_M04-v3",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M04-v3.png",
+      "sha256": "7ba07a4f20835747034cc7f940a3d3295cf2dcad58a05acbf22272f04c910050",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "reference_ids": [
+        "R002",
+        "A036"
+      ],
+      "actual_view_method": "actual_full_native_candidate_targeted_original_refs_and_silver_sources_plus_detail_enlargement_when_needed",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "R002右大持品左三水窗布局保留"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "右大完整品，三窗可辨"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "暖棕商业光"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "标题和三档白字清楚"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "三档替代原四/六档，不复制功效"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "六雾根仍有明显黑色凸套环与约普通孔1.5至2倍白口，新增硬件感；需普通白孔根雾化。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "大手持下键动作与左侧三小水型窗"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D11",
+      "revision": "qa_closeout_increment_D11-root-v3",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/D11-root-v3.png",
+      "sha256": "f52aafddae3227441a36a43233dc15777fd83425f6a28689c70bc22218e2d834",
+      "actual_dimensions": [
+        899,
+        1750
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "reference_ids": [
+        "A021",
+        "R026",
+        "A019",
+        "R019"
+      ],
+      "actual_view_method": "actual_full_native_candidate_targeted_original_refs_and_silver_sources_plus_detail_enlargement_when_needed",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "A021上回眸/A019下举臂两完整无字段"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "两姿态各半屏"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "冷蓝浴室和白衣柔光"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "有意无字"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "两低密度人物段落，不缩成小窗"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "上头右上约三分之一可见面板连续白孔仍无水，3x确认，不能用微光代水束；下柄已出框。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "上段明亮回眸主景，下段无字举臂人物停顿"
+      },
+      "merged_tasks_coverage": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "tasks": [
+          "D09"
+        ],
+        "reason": "A021上回眸/A019下举臂两完整无字段；合并阅读任务保持独立完整段落。"
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING",
+      "skin_review": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "V01额颊可见闭合细纹网络；V02定向3x看轻微随机纹理，无明显密集闭合鱼鳞重复；其余保留可用肤质。"
+      }
+    },
+    {
+      "id": "V03",
+      "revision": "qa_closeout_increment_V03-v4",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/V03-v4.png",
+      "sha256": "64cbfc64cea8230e8b4582141214a072bee6fc33bf2c0af9d13603eae49b32aa",
+      "actual_dimensions": [
+        953,
+        1650
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "reference_ids": [
+        "R027",
+        "R029"
+      ],
+      "actual_view_method": "actual_native_incremental_repair_and_affected_regions_with_prior_original_refs_SKU_checks_inherited",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "R027/R029黑金斜光与蓝边，内部层改三完整视角"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "三视图错落大比例"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "金斜光蓝边亮银"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "白大标题与三视角引线"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "只标正侧背不虚构内部材料"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "同255716暗灰闭合圈仍清楚保留，3x确认非相邻白环统一阴影。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "暗底完整正侧背错落曲面"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING",
+      "incremental_review": "Previous unchanged reference axes/geometry/copy/merged tasks reused; edited panel and collateral changes actually inspected."
+    },
+    {
+      "id": "V01",
+      "revision": "qa_closeout_increment_V01-root-v4",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/V01-root-v4.png",
+      "sha256": "f7e221ecfaa5b9154889a64eba2438570c2f4470e64d07ddb53d7a2c1867a38f",
+      "actual_dimensions": [
+        936,
+        1681
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "reference_ids": [
+        "R003",
+        "R013",
+        "R015",
+        "R018",
+        "R014",
+        "R030"
+      ],
+      "actual_view_method": "actual_full_native_candidate_targeted_original_refs_and_silver_sources_plus_detail_enlargement_when_needed",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "暖木持品人物、三细节窗与底独立短桥保留"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "人物主场景与细节/桥不同段"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "暖木灯光与金黑桥"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "白大场景字/小窗标签/三档桥层级"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "V07短桥完整承接，非堆字"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "Red-button center aperture restored. Left detail window still has disconnected white fragments and merged lower-row outlets, confirmed native and 3x; not consistent oblique ellipse projection. Only this detail window needs repair; portrait skin/water/geometry/other windows/V07 bridge retain prior PWL."
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "暖木人物水流、细节窗及短章节桥"
+      },
+      "merged_tasks_coverage": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "tasks": [
+          "V07"
+        ],
+        "reason": "暖木持品人物、三细节窗与底独立短桥保留；合并阅读任务保持独立完整段落。"
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING",
+      "skin_review": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "Actual native and 3x crop: random water drops and films, no obvious dense closed fishscale repeats; approved M001 identity viewed."
+      }
+    },
+    {
+      "id": "V03",
+      "revision": "qa_closeout_increment_V03-fresh-v5",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/V03-fresh-v5.png",
+      "sha256": "d16649c4ff5bfaa7f450cbdaa2d47d56183a6bfa81bcf68a46d82e4ae4f71752",
+      "actual_dimensions": [
+        953,
+        1651
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "reference_ids": [
+        "R027",
+        "R029"
+      ],
+      "actual_view_method": "actual_native_incremental_repair_and_affected_regions_with_prior_original_refs_SKU_checks_inherited",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "R027/R029黑金斜光与蓝边，内部层改三完整视角"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "三视图错落大比例"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "金斜光蓝边亮银"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "白大标题与三视角引线"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "只标正侧背不虚构内部材料"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "Fresh original-source rebuild: regular low white eyelets and black face, no explicit false gray holes; red annular center and lower silver key retained. Complete front/side/back with silver threads, continuous shallow S neck and clean shallow back. R027/R029 black-gold diagonal light, blue edge and three-view task retained; layout positions changed slightly. Side leader endpoint has a small visible gap, no structural or factual claim. Full 3D remains unverified."
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "暗底完整正侧背错落曲面"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING",
+      "incremental_review": "Previous unchanged reference axes/geometry/copy/merged tasks reused; edited panel and collateral changes actually inspected."
+    },
+    {
+      "id": "M04",
+      "revision": "qa_closeout_increment_M04-fresh-v4",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M04-fresh-v4.png",
+      "sha256": "f2b1fa01f3aecc8c3ca7d5e6303a26d49cfcaecedd51ec5510e670d01351a0cd",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "reference_ids": [
+        "R002",
+        "A036"
+      ],
+      "actual_view_method": "actual_full_native_candidate_targeted_original_refs_and_silver_sources_plus_detail_enlargement_when_needed",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "R002右大持品左三水窗布局保留"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "右大完整品，三窗可辨"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "暖棕商业光"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "标题和三档白字清楚"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "三档替代原四/六档，不复制功效"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "Fresh ordinary eyelet mist roots without enlarged black collars; six separated cones in middle and mixed cones plus regular streams below, regular flow visible across white outlet field. Red center has no explicit source stream. Warm brown right handheld/left three windows preserved; gold outlined card labels replace earlier white labels, visible styling adaptation within R002 task."
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "大手持下键动作与左侧三小水型窗"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D11",
+      "revision": "qa_closeout_increment_D11-root-v4",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/D11-root-v4.png",
+      "sha256": "cac9de536f4799e08efa024cb845eb8f00021ef969d1f15370ecc18cac9823dc",
+      "actual_dimensions": [
+        899,
+        1749
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "reference_ids": [
+        "A021",
+        "R026",
+        "A019",
+        "R019"
+      ],
+      "actual_view_method": "actual_full_native_candidate_targeted_original_refs_and_silver_sources_plus_detail_enlargement_when_needed",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "A021上回眸/A019下举臂两完整无字段"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "两姿态各半屏"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "冷蓝浴室和白衣柔光"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "有意无字"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "两低密度人物段落，不缩成小窗"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "Only heads changed to narrow oblique side view. Visible narrow outlet field has continuous regular-flow roots without a dry half; hidden holes cannot be verified (LIMITED_VIEW). Continuous shallow back/neck/handle curve, no abrupt L. Both independent woman scenes and lower handle exiting right remain; skin previous PWL retained."
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "上段明亮回眸主景，下段无字举臂人物停顿"
+      },
+      "merged_tasks_coverage": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "tasks": [
+          "D09"
+        ],
+        "reason": "A021上回眸/A019下举臂两完整无字段；合并阅读任务保持独立完整段落。"
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING",
+      "skin_review": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "V01额颊可见闭合细纹网络；V02定向3x看轻微随机纹理，无明显密集闭合鱼鳞重复；其余保留可用肤质。"
+      }
+    },
+    {
+      "id": "V01",
+      "revision": "qa_closeout_increment_V01-root-v5",
+      "reviewer": "qa_closeout",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/V01-root-v5.png",
+      "sha256": "6ed0fd410244c5a076d0cd824e63da81afcbaa02cc298403397f2972a5dd161a",
+      "actual_dimensions": [
+        936,
+        1680
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "reference_ids": [
+        "R003",
+        "R013",
+        "R015",
+        "R018",
+        "R014",
+        "R030"
+      ],
+      "actual_view_method": "actual_full_native_candidate_targeted_original_refs_and_silver_sources_plus_detail_enlargement_when_needed",
+      "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+      "viewed_product_evidence": "actual new side01/02/03; silver91/92; silver89/95/99; feedback02; silver-side-v1 comparison",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "暖木持品人物、三细节窗与底独立短桥保留"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "人物主场景与细节/桥不同段"
+        },
+        "color_light": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "暖木灯光与金黑桥"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "白大场景字/小窗标签/三档桥层级"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "V07短桥完整承接，非堆字"
+        }
+      },
+      "geometry_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "evidence": "可见头颈收腰与握柄缓曲连续、无急L，侧厚带转折与浅背弧仅可见角度；正面为LIMITED_VIEW。",
+        "whole_3d_validated": false,
+        "source_basis": "actual_side01_02_03_plus_silver91_92_and_current_silver_side_master"
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "Left window now a tight central red annulus with open center and about six surrounding low white eyelets; no fragmented eyelets. Main portrait water-film contrast changed despite lock request, so unchanged pixels are NOT claimed. Native and 3x collateral review shows irregular water drops/film flow-lines of varied sizes rather than regular closed fishscale repeats; PWL. Main regular water roots, continuous curved neck, no hose, other two windows and independent V07 bridge remain."
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "批准三档/手动除垢/下键信息，无规格材质证件；具体删字及索引适配见五轴。"
+      },
+      "information_difference": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "暖木人物水流、细节窗及短章节桥"
+      },
+      "merged_tasks_coverage": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "tasks": [
+          "V07"
+        ],
+        "reason": "暖木持品人物、三细节窗与底独立短桥保留；合并阅读任务保持独立完整段落。"
+      },
+      "limitations": [
+        "仅可见投影几何，未测精确孔数/尺寸/接口，用户验收PENDING。"
+      ],
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING",
+      "skin_review": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "Actual native and 3x crop: random water drops and films, no obvious dense closed fishscale repeats; approved M001 identity viewed."
+      }
+    }
+  ],
+  "batch_status": "IN_PROGRESS",
+  "user_acceptance": "PENDING",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "old_qa_counts_as_new_geometry_acceptance": false,
+  "required_geometry_checks": [
+    "continuous_head_neck_handle_curvature",
+    "face_handle_axis_relation",
+    "shallow_back_arc",
+    "sidewall_thickness_distribution"
+  ],
+  "merged_tasks_required": {
+    "D01": "D02",
+    "D07": "D10",
+    "D11": "D09",
+    "V01": "V07"
+  },
+  "support_asset_reviews": [
+    {
+      "id": "M001-clean",
+      "revision": "v1_identity_skin_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/M001-clean-v1.png",
+      "sha256": "63f31848a8028fa8e9da2fad1cd087fe44aaa1291a11c03b827bfb06302a1f66",
+      "actual_dimensions": [
+        1536,
+        1024
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "method": "actual_full_three_panels_and_face_neck_in_memory_enlargement",
+      "reason": "同一成年女性外观/黑发/脸型辨识保持，肤色较原母版连续，未见旧明显密集闭合鱼鳞重复，少量自然细纹可接受。",
+      "use_scope": "identity_skin_reference_only_not_product_geometry",
+      "user_acceptance": "PENDING"
+    }
+  ],
+  "latest_status_by_id": {
+    "K01": "PASS_WITH_LIMITATIONS",
+    "K02": "PASS_WITH_LIMITATIONS",
+    "K03": "PASS_WITH_LIMITATIONS",
+    "D12": "PASS_WITH_LIMITATIONS",
+    "D15": "PASS_WITH_LIMITATIONS",
+    "V03": "NEEDS_FIX",
+    "M06": "PASS_WITH_LIMITATIONS",
+    "D01": "NEEDS_FIX",
+    "D04": "PASS_WITH_LIMITATIONS",
+    "D11": "NEEDS_FIX",
+    "V01": "NEEDS_FIX",
+    "V02": "NEEDS_FIX"
+  },
+  "review_ownership_update": {
+    "root_QA_owner_scope": "10_main_and_6_people_plus_already_reviewed_D12_D15_V03",
+    "other_detail_independent_review_path": "rebuild-detail/independent-qa-water.json",
+    "do_not_duplicate_other_detail_reviews": true
+  },
+  "owner_adaptations": {
+    "D15_back_label_omission": "ROOT_ACCEPTED_no_fix_needed"
+  },
+  "latest_increment": "2026-10-23"
+}

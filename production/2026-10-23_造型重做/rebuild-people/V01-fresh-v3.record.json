@@ -1,0 +1,15 @@
+{
+  "id": "V01",
+  "date": "2026-10-23",
+  "status": "GENERATED_PENDING_NATIVE_QA",
+  "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/V01-fresh-v3.png",
+  "native_source": "/Users/USER/.codex/generated_images/01a16319-d848-71d0-95e1-72970644c800/exec-b961e323-ff0b-411e-a18b-6d24350f591f.png",
+  "sha256": "d17e45ec77cd112041b09b9701b69f601a9a939e25e6022fb1413eefe02a8e64",
+  "dimensions": [
+    936,
+    1681
+  ],
+  "prompt_record": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/prompts/V01-fresh-v3.json",
+  "delivery_format": "JPG_ONLY",
+  "second_generation_for_format": false
+}

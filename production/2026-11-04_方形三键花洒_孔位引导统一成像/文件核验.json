@@ -1,0 +1,36 @@
+{
+  "status": "PASS",
+  "scope": "文件可读、解码、尺寸和哈希，不代表结构精度或用户、客户验收",
+  "files": [
+    {
+      "name": "候选01_原生.png",
+      "format": "PNG",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "bytes": 1991861,
+      "sha256": "274d953254a79265164e72a8335aff3f84a2a1f9841b81a6569429a03ca19423"
+    },
+    {
+      "name": "候选02_原生.png",
+      "format": "PNG",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "bytes": 2057163,
+      "sha256": "0cbdfc75aa49ca37597f74ccd97bd0436d62179a6112b9cb47e632ad76dd593a"
+    },
+    {
+      "name": "银色主图_统一成像_审阅稿.jpg",
+      "format": "JPEG",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "bytes": 420290,
+      "sha256": "bd82adbd2423f98002f2bdaacb6bb1a6b2decd36615807464994c1049c2a4119"
+    }
+  ]
+}

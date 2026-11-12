@@ -1,0 +1,25 @@
+{
+  "source_model_sha256": "e3de47e1ddd7ee4741d2a698e8fb22078839297c0834f6bad32af4b4341d4a97",
+  "body_geometry_unchanged": true,
+  "raw_evidence": {
+    "path": "production/2026-10-24_三维主图试作/model_assets/render-receipt.json",
+    "sha256": "069a4a67a506b78dc25407cbc93a216289f74d76e05740ac1786e8d0abbc3b0f"
+  },
+  "geometry_readback_evidence": [
+    {
+      "path": "production/2026-10-24_三维主图试作/model_assets/saved-model-verification-v003.json",
+      "sha256": "684a8d143d8119b7aef2c42886cab707bdddba4f1eb28c1cd3b005d36214f2c3"
+    },
+    {
+      "path": "production/2026-10-24_三维主图试作/model_assets/saved-model-verification-v004.json",
+      "sha256": "2a8e7d95b9d1de5e3d83ebcb8831a9aa62fcc8731a16fdaff3ac584e96694076"
+    }
+  ],
+  "render_sha256": [
+    "b61f8dd59e6fc7b7d7779332eb38b04778001cfbe9c7bf46400cb7d36eebd8c6",
+    "f459d4ebb648ffad834db108cfd88f2b57d240cac77a2373c4238d6c3d317c5c",
+    "e9a42a7e466421aa206c3b4811aedac0c7d5793d22d4310140f0208c8516a16b",
+    "34fdabeead25697c930d2a89041b19fa59de630b5c7e4a95ea4c1439736cbbab"
+  ],
+  "note": "Normalized selected render receipt; actual saved/reopened geometry results and PNG/model hashes verified by root; no physical-fit claim"
+}

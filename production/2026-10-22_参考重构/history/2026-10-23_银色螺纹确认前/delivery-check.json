@@ -1,0 +1,1428 @@
+{
+  "status": "READY_FOR_USER_REVIEW_WITH_LIMITATIONS",
+  "scope": "Analyze all 74 references, merge duplicates and inapplicable content, rebuild the complete set with references as the visual core and skills auxiliary",
+  "owners": {
+    "image_production_and_reference_mapping": "/root/image_production",
+    "independent_visual_qa": "/root/silver_detail_review",
+    "copy": "/root/product_copy",
+    "packaging_and_root_review": "/root"
+  },
+  "execution_plan": "reference-map.json:actual_execution_32",
+  "expected_image_count": 32,
+  "merges": {
+    "D02": "D01",
+    "D09": "D11",
+    "D10": "D07",
+    "V07": "V01"
+  },
+  "packaging_script": "/Volumes/EXTERNAL/电商 作图工作流/tools/build_reference_delivery.py",
+  "packaging_script_syntax": "PASS",
+  "packaging_command": "python3 -B tools/build_reference_delivery.py 'production/2026-10-22_参考重构'",
+  "packaging_notes": "Keep every selected PNG and standalone JPG at native dimensions; only derivative cold and warm scrolls use uniform-width proportional downscaling with no crop or upscale. Gate exports on latest same-hash independent QA with concrete reference_fidelity records.",
+  "temporary_files": [],
+  "deleted_files": [],
+  "user_acceptance": "PENDING",
+  "root_copy_preflight": {
+    "status": "PASS",
+    "asset_count": 32,
+    "basis": "Actual reading of all copy-v2.json asset headlines, sublines, and blocks; only user-confirmed three modes, lower-key switching, central red-button manual assisted descaling, colors, and single-head sale are stated. No dimensions, brand, certification, material grade, quantitative pressure, health, accessories, or warranty claims added. Final rendered text remains subject to image QA."
+  },
+  "water_photo_visual_advisory": {
+    "owner": "/root/product_copy",
+    "coverage": "Original photos 95 through 100 actually viewed; 98/99 additionally viewed at original detail",
+    "suggested_sources": {
+      "常规出水": [
+        99
+      ],
+      "喷雾出水": [
+        96,
+        100
+      ],
+      "混合出水": [
+        95,
+        97
+      ]
+    },
+    "uncertain_source": {
+      "98": "Mixed candidate with medium confidence; not the sole source for pure regular flow"
+    },
+    "status": "VISUAL_ADVISORY_NOT_USER_LABELED_OR_PERFORMANCE_TEST",
+    "production_owner_notified": true,
+    "qa_owner_notified": true
+  },
+  "resource_checkpoint": {
+    "stage": "WARM_GROUP_28_APPROVED",
+    "ordinary_usage_allowed": true,
+    "primary_used_percent": 12,
+    "primary_window_minutes": 10080,
+    "primary_resets_at": 1793293828,
+    "secondary_window": "UNKNOWN",
+    "spend_control_reached": false,
+    "rate_limit_reached_type": null,
+    "actual_generation_model": "UNKNOWN",
+    "actual_generation_effort": "UNKNOWN",
+    "global_invisible_concurrency": "UNKNOWN",
+    "action": "Continue existing authorized single visual Owner; no purchase, reset or model change.",
+    "checked_at_utc": "2026-10-22T23:15:35.460249+00:00"
+  },
+  "root_main_group_review": {
+    "status": "PASS_WITH_LIMITATIONS",
+    "reviewed_at_utc": "2026-10-22T18:15:49.289755+00:00",
+    "method": "Actual visual reading of full uncropped 1600x1240 overview of M01 through M08; individual reference/product checks remain independently recorded in qa-review.json",
+    "overview": "previews/overview_01.jpg",
+    "overview_sha256": "c22c2cc2eb18853ad0750c786b8e8f8d89006f6403698826edd7d5b88c9951a4",
+    "source_png_sha256": {
+      "M01": "598e6aca38da8c3d3947259d6a7a328a6e0d4d9f347cae16303e7c252127368e",
+      "M02": "ffe41c8b241876d67709d1794884e9119933be5a01cb2085fbcfd3ce699068e4",
+      "M03": "ee97ef49f90f269a9dd571a0a7418ada6b7745692ea77db4edff02f62990965c",
+      "M04": "ef1337db50fcab9727dd9588961fbc2301ff7de44c6be53469e5f28f835259f2",
+      "M05": "fe7b1c626258e7591d2333e8a853da3b066ed9eaa20cff3406a559f141100a8b",
+      "M06": "75be562b53f46d88712c711d98c19e84544650f3c7c04fef0b93e11740dce931",
+      "M07": "1a6026830bb3696645794676215c52ed015d906040513f5367f9a5cb5f94ccab",
+      "M08": "e5781bed8f170b7abcd020f395a2eb09c0daf07ed3682fd62781ebccd2b5123d"
+    },
+    "findings": "White-background, diagonal warm tray, cool dual-angle, warm hand-and-three-window, cool macro, model/SKU split, dark gold and three-card tasks remain visibly distinct. Title hierarchy is legible at overview scale, main SKU silhouette and button identity are coherent, and thumbnails are not cropped. Reuse M01 remains explicit in production records; user acceptance and the complete-set review are pending."
+  },
+  "resource_checkpoints": [
+    {
+      "checked_at_utc": "2026-10-22T17:06:45.412861+00:00",
+      "source": "Codex get_usage_limits live read",
+      "ordinary_usage_allowed": true,
+      "visible_week_window_used_percent": 20,
+      "five_hour_usage": "UNKNOWN (not exposed)",
+      "global_invisible_concurrency": "UNKNOWN",
+      "visible_high_cost_executor": "/root/image_production",
+      "visible_ordinary_qa": "/root/silver_detail_review",
+      "new_high_cost_executors": 0,
+      "model_rule_version": "ROUTING-2026-10-13-v4"
+    },
+    {
+      "checked_at_utc": "2026-10-22T18:35:03.844763+00:00",
+      "source": "Codex get_usage_limits live read at SKU-stage close",
+      "ordinary_usage_allowed": true,
+      "visible_week_window_used_percent": 3,
+      "visible_primary_resets_at_epoch": 1793293828,
+      "five_hour_usage": "UNKNOWN (not exposed)",
+      "global_invisible_concurrency": "UNKNOWN",
+      "visible_high_cost_executor": "/root/image_production",
+      "visible_ordinary_qa": "/root/silver_detail_review",
+      "new_high_cost_executors": 0,
+      "model_rule_version": "ROUTING-2026-10-13-v4",
+      "note": "This is a fresh window snapshot; no inference about why it differs from the earlier reading and no reset or purchase action was taken by this task."
+    },
+    {
+      "stage": "WARM_GROUP_28_APPROVED",
+      "ordinary_usage_allowed": true,
+      "primary_used_percent": 12,
+      "primary_window_minutes": 10080,
+      "primary_resets_at": 1793293828,
+      "secondary_window": "UNKNOWN",
+      "spend_control_reached": false,
+      "rate_limit_reached_type": null,
+      "actual_generation_model": "UNKNOWN",
+      "actual_generation_effort": "UNKNOWN",
+      "global_invisible_concurrency": "UNKNOWN",
+      "action": "Continue existing authorized single visual Owner; no purchase, reset or model change.",
+      "checked_at_utc": "2026-10-22T23:15:35.460249+00:00"
+    }
+  ],
+  "pending_product_fact": {
+    "question": "Silver shower head bare male-thread color after removing hose and quick connector: black, silver, or uncertain?",
+    "status": "USER_QUESTION_PENDING",
+    "reason": "Silver originals show an attached connector obscuring the bare thread; existing generated black/silver depictions cannot establish the actual color.",
+    "production_scope": "Continue independent work; avoid adding interface color/specification copy; new layouts may naturally obscure the uncertain end. Reconcile only affected renders if new user evidence arrives.",
+    "existing_render_evidence": "UNKNOWN; no completed render is evidence of the actual thread color."
+  },
+  "root_sku_early_detail_group_review": {
+    "status": "PASS_WITH_LIMITATIONS",
+    "reviewed_at_utc": "2026-10-22T19:43:08.662247+00:00",
+    "method": "Actual full uncropped overview_02.jpg plus full native D06 v2 to distinguish low-angle water highlights from solid outlet geometry; latest selected PNGs matched passing independent QA hashes before preview export.",
+    "overview": "previews/overview_02.jpg",
+    "overview_sha256": "4b633cbce440ac303a83fe148d0e5b26e2307ba6dae5f3d220f32c6212827a46",
+    "source_png_sha256": {
+      "K01": "1601f0b8fd3bb9583e1032f47719d3c443b393c2cc1b74394d5bdd64eb452f88",
+      "K02": "a53a0230db1997fce3f97369583051cd9ecbce273b10727348a14302e38ddd37",
+      "K03": "f67cadbe92921e727cacbe0e197497104190b2955cac5e8997bce4c49fcc0179",
+      "D01": "94554ee729ee91671132256d1523a198ea50dd8e6d4763a5bbd5c572e7ef64b4",
+      "D03": "773748153e89acc4cf34ab59019c5dd2d26a5549364ef977ba07dc643eb64439",
+      "D04": "1e80135da2dabb830e79ec48bc9fd35971e6becc0d579b31c725d55298f4a9b4",
+      "D05": "a09498beb4cf2deb3dd08a95f8486e59692880677653945fbd6b659221522192",
+      "D06": "503c2382f2572428d25221f12af5282eb12811d4bb81a3a9c2a3282fabe5f1b8"
+    },
+    "findings": "Three SKU panels have coherent positions, typography and scale with distinct silver/black/gunmetal finishes. Early cold detail pages retain fashion double-scene, staggered album, window-light scene/short strip, unequal five-cell grid, and macro/low-angle hierarchy. Full D06 shows low rings and water strands rather than the earlier solid protruding nozzles. Silver bare-thread color is still UNKNOWN and must not be established from these renders; source question remains pending. Full assembled order and user acceptance are pending."
+  },
+  "root_packaging_readonly_review": {
+    "owner": "/root/product_copy",
+    "status": "PASS_WITH_FOLLOWUP_IMPLEMENTED",
+    "findings": "No determined HTML, ZIP or plan-order blocker. Explicit merged coverage checks implemented for all four merged pages. D15/V05 reference and D11 position metadata alignment completed by copy Owner; approved visible copy unchanged.",
+    "required_merged_pages": [
+      "D01",
+      "D07",
+      "D11",
+      "V01"
+    ]
+  },
+  "retained_source_integrity": {
+    "checked_at_utc": "2026-10-22T19:56:36.799238+00:00",
+    "counts": {
+      "reference_images": 74,
+      "银色": 12,
+      "黑色": 5,
+      "枪灰色": 6
+    },
+    "image_sha256_matches": 97,
+    "archive_sha256_match": true,
+    "method": "Current project copies checked against intake original-byte SHA256 records. Sources in Downloads were not required or deleted.",
+    "deleted_files": []
+  },
+  "generation_log_inventory_check": {
+    "status": "PASS_WITH_LIMITATIONS",
+    "checked_at_utc": "2026-10-23T00:28:25.079071+00:00",
+    "log_sha256": "cb3cb70097144154c1ca487321f75256e3e80a35cfd9550c721e167065a8b881",
+    "row_count": 80,
+    "generation_rows": 79,
+    "reuse_exemptions": [
+      "M01-reuse"
+    ],
+    "checks": "All generation records name 13 unique full-reference preview pages. Explicit tool-reference arrays, when present, contain 1–5 entries; logged files exist. Earlier records use source_images plus prose selection instead of a distinct passed-reference array. This metadata inventory does not substitute for actual viewing.",
+    "older_unstructured_passed_reference_rows": [
+      "M07-v1",
+      "M07-v2",
+      "M07-v3",
+      "M08-v1",
+      "M08-v2",
+      "K01-v1",
+      "K01-v2",
+      "K01-v3",
+      "K01-v4",
+      "K02-v1",
+      "K03-v1",
+      "K01-v5",
+      "K01-v6",
+      "D03-v1",
+      "D03-v2",
+      "D07-v2",
+      "D08-v1",
+      "D07-v3",
+      "D07-v4"
+    ],
+    "issues": [],
+    "calls": [
+      {
+        "call_id": "M02-v1",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 4
+      },
+      {
+        "call_id": "D01-v1",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 5
+      },
+      {
+        "call_id": "M02-v2",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 4
+      },
+      {
+        "call_id": "D01-v2",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 5
+      },
+      {
+        "call_id": "D01-v3",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 5
+      },
+      {
+        "call_id": "M03-v1",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 5
+      },
+      {
+        "call_id": "M03-v2",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 4
+      },
+      {
+        "call_id": "M03-v3",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 4
+      },
+      {
+        "call_id": "M04-v1",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 5
+      },
+      {
+        "call_id": "M04-v2",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 3
+      },
+      {
+        "call_id": "M05-v1",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 4
+      },
+      {
+        "call_id": "M06-v1",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 5
+      },
+      {
+        "call_id": "M06-v2",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 4
+      },
+      {
+        "call_id": "M07-v1",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": null
+      },
+      {
+        "call_id": "M07-v2",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": null
+      },
+      {
+        "call_id": "M07-v3",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": null
+      },
+      {
+        "call_id": "M08-v1",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": null
+      },
+      {
+        "call_id": "M08-v2",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": null
+      },
+      {
+        "call_id": "K01-v1",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": null
+      },
+      {
+        "call_id": "K01-v2",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": null
+      },
+      {
+        "call_id": "K01-v3",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": null
+      },
+      {
+        "call_id": "K01-v4",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": null
+      },
+      {
+        "call_id": "K02-v1",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": null
+      },
+      {
+        "call_id": "K03-v1",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": null
+      },
+      {
+        "call_id": "K01-v5",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": null
+      },
+      {
+        "call_id": "K01-v6",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": null
+      },
+      {
+        "call_id": "D03-v1",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": null
+      },
+      {
+        "call_id": "D03-v2",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": null
+      },
+      {
+        "call_id": "D03-v3",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 5
+      },
+      {
+        "call_id": "D03-v4",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 4
+      },
+      {
+        "call_id": "D04-v1",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 5
+      },
+      {
+        "call_id": "D04-v2",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 5
+      },
+      {
+        "call_id": "D05-v1",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 5
+      },
+      {
+        "call_id": "D05-v2",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 3
+      },
+      {
+        "call_id": "D06-v1",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 5
+      },
+      {
+        "call_id": "D06-v2",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 4
+      },
+      {
+        "call_id": "D07-v1",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 5
+      },
+      {
+        "call_id": "D07-v2",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": null
+      },
+      {
+        "call_id": "D08-v1",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": null
+      },
+      {
+        "call_id": "D07-v3",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": null
+      },
+      {
+        "call_id": "D07-v4",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": null
+      },
+      {
+        "call_id": "D11-v1",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 5
+      },
+      {
+        "call_id": "D11-v2",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 5
+      },
+      {
+        "call_id": "D12-v1",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 4
+      },
+      {
+        "call_id": "D13-v1",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 4
+      },
+      {
+        "call_id": "D12-v2",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 3
+      },
+      {
+        "call_id": "D13-v2",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 4
+      },
+      {
+        "call_id": "D12-v3",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 4
+      },
+      {
+        "call_id": "D14-v1",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 5
+      },
+      {
+        "call_id": "D12-v4",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 4
+      },
+      {
+        "call_id": "D14-v2",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 5
+      },
+      {
+        "call_id": "D15-v1",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 4
+      },
+      {
+        "call_id": "D14-v3",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 3
+      },
+      {
+        "call_id": "D14-v4",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 4
+      },
+      {
+        "call_id": "D14-v5",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 4
+      },
+      {
+        "call_id": "D16-v1",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 4
+      },
+      {
+        "call_id": "D16-v2",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 4
+      },
+      {
+        "call_id": "D17-v1",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 5
+      },
+      {
+        "call_id": "D17-v2",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 4
+      },
+      {
+        "call_id": "D18-v1",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 5
+      },
+      {
+        "call_id": "D18-v2",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 4
+      },
+      {
+        "call_id": "V01-v1",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 5
+      },
+      {
+        "call_id": "V01-v2",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 5
+      },
+      {
+        "call_id": "V02-v1",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 5
+      },
+      {
+        "call_id": "V02-v2",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 4
+      },
+      {
+        "call_id": "V03-v1",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 5
+      },
+      {
+        "call_id": "V03-v2",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 5
+      },
+      {
+        "call_id": "V03-v3",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 4
+      },
+      {
+        "call_id": "V04-v1",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 5
+      },
+      {
+        "call_id": "V04-v2",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 5
+      },
+      {
+        "call_id": "V05-v1",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 5
+      },
+      {
+        "call_id": "V04-v3",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 3
+      },
+      {
+        "call_id": "V05-v2",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 5
+      },
+      {
+        "call_id": "V05-v3",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 5
+      },
+      {
+        "call_id": "V04-v4",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 5
+      },
+      {
+        "call_id": "V06-v1",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 5
+      },
+      {
+        "call_id": "V06-v2",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 5
+      },
+      {
+        "call_id": "V06-v3",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 5
+      },
+      {
+        "call_id": "V06-v4",
+        "preview_page_count": 13,
+        "explicit_passed_reference_count": 5
+      }
+    ]
+  },
+  "root_reference_sequence_read": {
+    "checked_at_utc": "2026-10-22T20:13:05.842644+00:00",
+    "paths": [
+      "references/2026-10-22_首批参考/previews/A039_长详情_可读分页_01.png",
+      "references/2026-10-22_首批参考/previews/A039_长详情_可读分页_02.png",
+      "references/2026-10-22_首批参考/previews/A039_长详情_可读分页_03.png",
+      "references/2026-10-22_首批参考/previews/A039_长详情_可读分页_04.png"
+    ],
+    "method": "Actual full view of all four readable composite pages, reading three columns left to right in each; no image generation performed by root.",
+    "observations": "Original sequence alternates fashion portrait, staggered multi-color album, window-lit oversized product, unequal index grid, outlet macro, giant handheld key location, dark mode cards, portrait pauses, exterior and operational detail, then factual closing information. Current adaptation replaces unsupported performance, filtration, health, accessory and unknown parameter claims while retaining differentiated reading tasks. Full assembled output still pending."
+  },
+  "root_full_reference_preview_read": {
+    "checked_at_utc": "2026-10-22T20:24:53.864723+00:00",
+    "coverage": "R001–R035 / A001–A039; all 13 preview pages actually viewed in this review phase.",
+    "paths": [
+      "references/2026-10-22_首批参考/previews/微信参考_总览_01.png",
+      "references/2026-10-22_首批参考/previews/微信参考_总览_02.png",
+      "references/2026-10-22_首批参考/previews/微信参考_总览_03.png",
+      "references/2026-10-22_首批参考/previews/微信参考_总览_04.png",
+      "references/2026-10-22_首批参考/previews/微信参考_总览_05.png",
+      "references/2026-10-22_首批参考/02_鼎江压缩包/previews/contact_sheet_01.png",
+      "references/2026-10-22_首批参考/02_鼎江压缩包/previews/contact_sheet_02.png",
+      "references/2026-10-22_首批参考/02_鼎江压缩包/previews/contact_sheet_03.png",
+      "references/2026-10-22_首批参考/02_鼎江压缩包/previews/contact_sheet_04.png",
+      "references/2026-10-22_首批参考/previews/A039_长详情_可读分页_01.png",
+      "references/2026-10-22_首批参考/previews/A039_长详情_可读分页_02.png",
+      "references/2026-10-22_首批参考/previews/A039_长详情_可读分页_03.png",
+      "references/2026-10-22_首批参考/previews/A039_长详情_可读分页_04.png"
+    ],
+    "method": "Read full uncropped contact pages; A039 additionally read in full-width readable composite pagination. This root group-review preparation is not a substitute for producer per-call reading or per-image full-size reference QA.",
+    "observations": "Warm reference language includes wood bathrooms, dark gold diagonal/sand/rock stages, giant product views, short brown chapter bridges and white information cards. Cool references use geometric fashion framing, staggered album, vertical striation, uneven grids and black water-mode cards. Duplicated brand, performance, certificate and accessory imagery must remain adapted or excluded as already mapped."
+  },
+  "packaging_script_prepared_sha256": "6096978f66c6f26dbf7c4760969be34247b281d6f8917945dcdf4c0eadecf7b4",
+  "packaging_script_prepared_at_utc": "2026-10-22T22:30:24.986997+00:00",
+  "packaging_additional_checks": [
+    "Explicit passing merged-task coverage for every merged plan row",
+    "Actual source PNG and exported JPEG format assertions",
+    "Unanswered silver bare-thread color note retained in delivery README and manifest",
+    "Selected final PNG byte hashes must be unique within this 32-image batch; visual-task distinctness remains a separate visual check."
+  ],
+  "client_manifest_scope": "Article reference IDs include main and merged subtask sources, deduplicated in plan order. Merged tasks export IDs, titles and reference IDs; stale analysis-plan production_status fields are excluded.",
+  "root_mid_detail_group_review": {
+    "status": "PASS_WITH_LIMITATIONS",
+    "overview": "previews/overview_03.jpg",
+    "overview_sha256": "30e3e9f19663bcb331a93c9dfde4de235980acb4d47cb0f089bb693a15181fb0",
+    "source_png_sha256": {
+      "D07": "b22a39eff7cc361ffb4052de730d9543a2fccb0c7f10ced6172f5e65bedf5d87",
+      "D08": "c1ec89b8bc5efc3af0b22ab4023c931d4621e13b4db7503916b7c77336470676",
+      "D11": "befa88c38309a058617a3d6a6e46550fd5d8fb8f409f38b5c5fd15d492220dfa",
+      "D12": "9c7a949d0c1060cd23f37adf1d8b535b3f4c88f8b583792d3b06fc23640fb72e",
+      "D13": "da03e4ac1d4fe8204ee02032f5f0bdeeb5ac9eb4add5e6d1cf6f4a375b26a868",
+      "D14": "193b7253b4647e6eb9e4598dd78e4459cff591fa90c0000c5339c61ec5981f59",
+      "D15": "014f3f8aec2aeb30269cd69af626d386cd81dc0230815f24b31952196f6d8edc",
+      "D16": "6f11a57b3905654bedc9d3985799896208b749fb29db5a8777cad1bb94f381f2"
+    },
+    "reviewed_at_utc": "2026-10-22T22:06:04.667902+00:00",
+    "method": "Actual full original-size view of uncropped 1600x1240 overview_03.jpg after each of eight selected PNGs matched manifest and passing independent QA hashes; individual per-reference/product evidence remains in qa-review.json.",
+    "findings": "Giant handheld key-location page with independent lower dual cards, black three-mode chapter, two distinct wordless M001 scenes, equal-scale front/back columns, exterior callout stack, three-step/manual-state page, back/side double scale, and key-operation steps remain distinct. Cool blue/white light and title hierarchy are coherent without collapsing all pages into one layout. D14 back-view decoration supports the header while its five operation/state panels remain explicit. No new mandatory issue observed at group scale; full assembled joins and user acceptance remain pending."
+  },
+  "root_cold_scroll_review": {
+    "status": "PASS_WITH_LIMITATIONS",
+    "prepared_at_utc": "2026-10-22T22:34:36.630368+00:00",
+    "scroll": "exports/冷蓝白详情长图.jpg",
+    "scroll_sha256": "8571cd26254317b94bc3f72376e6e27a2d8845865d7f20dce8b305e7d24ea09a",
+    "dimensions": [
+      770,
+      19012
+    ],
+    "source_png_sha256": {
+      "D01": "94554ee729ee91671132256d1523a198ea50dd8e6d4763a5bbd5c572e7ef64b4",
+      "D03": "773748153e89acc4cf34ab59019c5dd2d26a5549364ef977ba07dc643eb64439",
+      "D04": "1e80135da2dabb830e79ec48bc9fd35971e6becc0d579b31c725d55298f4a9b4",
+      "D05": "a09498beb4cf2deb3dd08a95f8486e59692880677653945fbd6b659221522192",
+      "D06": "503c2382f2572428d25221f12af5282eb12811d4bb81a3a9c2a3282fabe5f1b8",
+      "D07": "b22a39eff7cc361ffb4052de730d9543a2fccb0c7f10ced6172f5e65bedf5d87",
+      "D08": "c1ec89b8bc5efc3af0b22ab4023c931d4621e13b4db7503916b7c77336470676",
+      "D11": "befa88c38309a058617a3d6a6e46550fd5d8fb8f409f38b5c5fd15d492220dfa",
+      "D12": "9c7a949d0c1060cd23f37adf1d8b535b3f4c88f8b583792d3b06fc23640fb72e",
+      "D13": "da03e4ac1d4fe8204ee02032f5f0bdeeb5ac9eb4add5e6d1cf6f4a375b26a868",
+      "D14": "193b7253b4647e6eb9e4598dd78e4459cff591fa90c0000c5339c61ec5981f59",
+      "D15": "014f3f8aec2aeb30269cd69af626d386cd81dc0230815f24b31952196f6d8edc",
+      "D16": "6f11a57b3905654bedc9d3985799896208b749fb29db5a8777cad1bb94f381f2",
+      "D17": "84882e0c2eb9f803b1f4a8294e54bbc3871451cf7445f3a99c4c0115195228ee",
+      "D18": "a68e9ed11f8712b26f3ae5c1f4b4a77610fe6692fd083cff19e08d5dd5ebeedf"
+    },
+    "segments": [
+      {
+        "id": "D01",
+        "top": 0,
+        "bottom": 1496
+      },
+      {
+        "id": "D03",
+        "top": 1496,
+        "bottom": 2564
+      },
+      {
+        "id": "D04",
+        "top": 2564,
+        "bottom": 3928
+      },
+      {
+        "id": "D05",
+        "top": 3928,
+        "bottom": 5069
+      },
+      {
+        "id": "D06",
+        "top": 5069,
+        "bottom": 6140
+      },
+      {
+        "id": "D07",
+        "top": 6140,
+        "bottom": 8182
+      },
+      {
+        "id": "D08",
+        "top": 8182,
+        "bottom": 9448
+      },
+      {
+        "id": "D11",
+        "top": 9448,
+        "bottom": 11398
+      },
+      {
+        "id": "D12",
+        "top": 11398,
+        "bottom": 12372
+      },
+      {
+        "id": "D13",
+        "top": 12372,
+        "bottom": 13353
+      },
+      {
+        "id": "D14",
+        "top": 13353,
+        "bottom": 14621
+      },
+      {
+        "id": "D15",
+        "top": 14621,
+        "bottom": 15701
+      },
+      {
+        "id": "D16",
+        "top": 15701,
+        "bottom": 16674
+      },
+      {
+        "id": "D17",
+        "top": 16674,
+        "bottom": 17845
+      },
+      {
+        "id": "D18",
+        "top": 17845,
+        "bottom": 19012
+      }
+    ],
+    "review_pages": [
+      {
+        "path": "qa-previews/D_00000_02200.jpg",
+        "top": 0,
+        "bottom": 2200
+      },
+      {
+        "path": "qa-previews/D_02080_04280.jpg",
+        "top": 2080,
+        "bottom": 4280
+      },
+      {
+        "path": "qa-previews/D_04160_06360.jpg",
+        "top": 4160,
+        "bottom": 6360
+      },
+      {
+        "path": "qa-previews/D_06240_08440.jpg",
+        "top": 6240,
+        "bottom": 8440
+      },
+      {
+        "path": "qa-previews/D_08320_10520.jpg",
+        "top": 8320,
+        "bottom": 10520
+      },
+      {
+        "path": "qa-previews/D_10400_12600.jpg",
+        "top": 10400,
+        "bottom": 12600
+      },
+      {
+        "path": "qa-previews/D_12480_14680.jpg",
+        "top": 12480,
+        "bottom": 14680
+      },
+      {
+        "path": "qa-previews/D_14560_16760.jpg",
+        "top": 14560,
+        "bottom": 16760
+      },
+      {
+        "path": "qa-previews/D_16640_18840.jpg",
+        "top": 16640,
+        "bottom": 18840
+      },
+      {
+        "path": "qa-previews/D_18720_19012.jpg",
+        "top": 18720,
+        "bottom": 19012
+      }
+    ],
+    "actually_viewed_pages": [
+      "qa-previews/D_00000_02200.jpg",
+      "qa-previews/D_02080_04280.jpg",
+      "qa-previews/D_04160_06360.jpg",
+      "qa-previews/D_06240_08440.jpg",
+      "qa-previews/D_08320_10520.jpg",
+      "qa-previews/D_10400_12600.jpg",
+      "qa-previews/D_12480_14680.jpg",
+      "qa-previews/D_14560_16760.jpg",
+      "qa-previews/D_16640_18840.jpg",
+      "qa-previews/D_18720_19012.jpg"
+    ],
+    "method": "Exact final packaging algorithm: uniform-width downscaling only, native aspect ratios preserved, no crop or upscale; 2200px review pages overlap by 120px.",
+    "review_observations": [
+      {
+        "range": "0–6360",
+        "finding": "Actually viewed first three original-size readable pages. D01 fashion upper scene and intentional wordless lower scene remain separate; D03 staggered three-color album, D04 window-light portrait and detail strip, D05 uneven index grid, D06 macro/low-angle strip preserve their hierarchy. Joins do not crop content, captions remain readable at exported width, and no new mandatory assembly issue observed. D06 product-state evidence remains its existing native-image QA; no measured flow claims inferred."
+      },
+      {
+        "range": "6240–19012",
+        "finding": "Actually viewed all remaining original-size readable pages (4–10), including all joins and the last information card. D07 dual-button subordinate chapter, D08 three distinct mode cards, D11 two complete M001 scenes, D12 front/back, D13 external callouts, D14 three steps plus two states, D15 back/side, D16 mode-key steps, D17 hand and still-life, and D18 six factual fields remain complete and readable. No assembly crop, missing section, accidental duplicate page or new mandatory assembly issue observed."
+      }
+    ],
+    "reviewed_at_utc": "2026-10-22T22:39:49.619991+00:00",
+    "limitations": [
+      "Product visual QA remains bounded by supplied photographs; silver bare-thread color is pending user evidence.",
+      "Generated water appearance is illustrative, not a measured performance result.",
+      "User acceptance remains pending."
+    ],
+    "canonical_export_byte_equality": "PASS",
+    "canonical_export_verified_at_utc": "2026-10-23T00:33:04.034414+00:00",
+    "visual_reinspection": false
+  },
+  "copy_metadata_alignment": {
+    "status": "PASS",
+    "copy_v2_sha256": "abc4c3c83301b3332739df50a5eb3a0a46a38cc29e5a03ce395f7a98c1bea13e",
+    "scope": "All 32 reference lists match current plan including merged reading tasks. D15/V05 reference and D11 wordless block-position metadata aligned by copy Owner; approved visible copy and pixels unchanged.",
+    "visual_retest": "NOT_REQUIRED_METADATA_ONLY"
+  },
+  "root_warm_native_review": {
+    "V01-v2": {
+      "status": "PASS_WITH_LIMITATIONS",
+      "path": "generated/V01-v2.png",
+      "sha256": "eb7a288e3f1e9a098f07df458bfa095b4062a1b661077f7ce0c58627627101f1",
+      "method": "Actually viewed complete original-resolution candidate after independent QA; final byte receipt still separate.",
+      "observations": "Warm wood scene and identity coherent, three exterior windows distinct and legible, low flat outlet rings and silver lower key readable; independent brown-gold V07 bridge retains title, two capsules and luminous arc.",
+      "limitations": "User acceptance pending; generated water is illustrative, not performance evidence.",
+      "same_byte_final": "final/V01.png",
+      "final_byte_equality": "PASS"
+    },
+    "V02-v2": {
+      "status": "PASS_WITH_LIMITATIONS",
+      "path": "generated/V02-v2.png",
+      "sha256": "51ef16fd2848c03e6673be41232bd4e7b6ba7152e8d176feeb4ea486628f1cf7",
+      "method": "Actually viewed complete original-resolution candidate after independent QA; metadata-only final byte receipt separate.",
+      "observations": "Cream neutral dry fashion portrait, large left brown title, M001 cheek-rest pose, silver foreground head and two natural hands preserve a distinct reading task; text and low outlet rings clear.",
+      "limitations": "User acceptance pending; hand-held pose is a generated commercial illustration.",
+      "same_byte_final": "final/V02.png",
+      "final_byte_equality": "PASS"
+    },
+    "V06-v4": {
+      "status": "PASS_WITH_LIMITATIONS",
+      "path": "generated/V06-v4.png",
+      "sha256": "dea0772008f21286d9b982de3b497cafded3779c3e6f1ba6a8af10d3d6301fbe",
+      "method": "Actually viewed complete original-resolution candidate; independent QA separately passed this same revision, final byte receipt pending.",
+      "observations": "Continuous silver back contour, natural dual-hand support and occluded connection end; no extra shower hardware in architecture. Six appearance cells plus three factual FAQs remain complete and readable. Upper back-view adaptation leaves front/outlet/button tasks fully represented in grid.",
+      "limitations": "Gray back mark is visual appearance only, its physical nature UNKNOWN; user acceptance pending.",
+      "same_byte_final": "final/V06.png",
+      "final_byte_equality": "PASS"
+    }
+  },
+  "storage_before_final_export": {
+    "checked_at_utc": "2026-10-22T23:08:22.975492+00:00",
+    "scope": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构",
+    "df_k": "Filesystem   1024-blocks      Used  Available Capacity iused       ifree %iused  Mounted on\n/dev/disk7s1  2000478168 352570752 1647610236    18% 2506654 [REDACTED_PHONE]    0%   /Volumes/EXTERNAL",
+    "group_inventory": {
+      "(batch-root)": {
+        "files": 10,
+        "bytes": 820273
+      },
+      "generated": {
+        "files": 67,
+        "bytes": 144900582
+      },
+      "exports": {
+        "files": 1,
+        "bytes": 5671025
+      },
+      "qa-previews": {
+        "files": 10,
+        "bytes": 5426738
+      },
+      "prompts": {
+        "files": 68,
+        "bytes": 117847
+      },
+      "final": {
+        "files": 28,
+        "bytes": 60278257
+      },
+      "previews": {
+        "files": 3,
+        "bytes": 2059520
+      }
+    },
+    "purpose": "Local export capacity and scoped artifact inventory; no deletion or space-recovery claim."
+  },
+  "approved_jpg_preexport": {
+    "status": "PASS",
+    "checked_at_utc": "2026-10-22T23:44:29.115822+00:00",
+    "count": 29,
+    "method": "Selected same-SHA QA-passed PNGs exported at native dimensions to JPEG quality 95/subsampling 0; originals unchanged. Canonical final batch assembly still pending remaining images.",
+    "assets": [
+      {
+        "id": "M01",
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "png_sha256": "598e6aca38da8c3d3947259d6a7a328a6e0d4d9f347cae16303e7c252127368e",
+        "jpg_sha256": "1a35dff85b20196141af03c20a7b3e49389eac0694a12dc751a1b1d3462ae51d"
+      },
+      {
+        "id": "M02",
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "png_sha256": "ffe41c8b241876d67709d1794884e9119933be5a01cb2085fbcfd3ce699068e4",
+        "jpg_sha256": "73e3ce778783658c9df2cbd484d8f823b6454d12b5563d735ee151b6246b4c61"
+      },
+      {
+        "id": "M03",
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "png_sha256": "ee97ef49f90f269a9dd571a0a7418ada6b7745692ea77db4edff02f62990965c",
+        "jpg_sha256": "95e61f82143d1c0ce0600f282a3ce3d3e0af67c42cdd5c169c09791700020112"
+      },
+      {
+        "id": "M04",
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "png_sha256": "ef1337db50fcab9727dd9588961fbc2301ff7de44c6be53469e5f28f835259f2",
+        "jpg_sha256": "22e9069381686af9d7fc39b66a0919beffd66134f9bce366a063588542a9da92"
+      },
+      {
+        "id": "M05",
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "png_sha256": "fe7b1c626258e7591d2333e8a853da3b066ed9eaa20cff3406a559f141100a8b",
+        "jpg_sha256": "1f55287f4bb7b45020084eecd2f8a3172dd24f55fbc2ad2d16fe7c4a86b2b90a"
+      },
+      {
+        "id": "M06",
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "png_sha256": "75be562b53f46d88712c711d98c19e84544650f3c7c04fef0b93e11740dce931",
+        "jpg_sha256": "edf9643499cf85c03a2fd546dcbd374ad20df1406260ebc4de2090166fe64fb2"
+      },
+      {
+        "id": "M07",
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "png_sha256": "1a6026830bb3696645794676215c52ed015d906040513f5367f9a5cb5f94ccab",
+        "jpg_sha256": "441d93acac5f629ef2648c6c29071753c7cc9221487aae3eefef32e3c512636e"
+      },
+      {
+        "id": "M08",
+        "dimensions": [
+          1216,
+          1293
+        ],
+        "png_sha256": "e5781bed8f170b7abcd020f395a2eb09c0daf07ed3682fd62781ebccd2b5123d",
+        "jpg_sha256": "0c5e462e0860c70f1e9d5b5279c6fa02627e52723615a8edd212e89e9c96ccfb"
+      },
+      {
+        "id": "K01",
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "png_sha256": "1601f0b8fd3bb9583e1032f47719d3c443b393c2cc1b74394d5bdd64eb452f88",
+        "jpg_sha256": "bec7cec74b2e7e8c6e9c3de465bcf0262d245c3b9cec9a5a879efbb773bb9117"
+      },
+      {
+        "id": "K02",
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "png_sha256": "a53a0230db1997fce3f97369583051cd9ecbce273b10727348a14302e38ddd37",
+        "jpg_sha256": "f4c05782af9929a2de81ca6483c4337a4321f4c6966143de500b27d03d509adb"
+      },
+      {
+        "id": "K03",
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "png_sha256": "f67cadbe92921e727cacbe0e197497104190b2955cac5e8997bce4c49fcc0179",
+        "jpg_sha256": "c93fb553d021b724de300307366572357e250a8a6b6a855c9c484fceaf1de1ce"
+      },
+      {
+        "id": "D01",
+        "dimensions": [
+          900,
+          1748
+        ],
+        "png_sha256": "94554ee729ee91671132256d1523a198ea50dd8e6d4763a5bbd5c572e7ef64b4",
+        "jpg_sha256": "a215e446b351636051c2d1d78991346695cf02770f38ea4935a69b2c144ce94b"
+      },
+      {
+        "id": "D03",
+        "dimensions": [
+          1065,
+          1477
+        ],
+        "png_sha256": "773748153e89acc4cf34ab59019c5dd2d26a5549364ef977ba07dc643eb64439",
+        "jpg_sha256": "6b684bd7b49cb7f9abaf389f03879ed3a833be18c4e8604a791be16db415ba02"
+      },
+      {
+        "id": "D04",
+        "dimensions": [
+          942,
+          1669
+        ],
+        "png_sha256": "1e80135da2dabb830e79ec48bc9fd35971e6becc0d579b31c725d55298f4a9b4",
+        "jpg_sha256": "833d85cc3a2773db48261f3f7aa1ae6d09435fa1ec448d00e9b273a2e99e6ec1"
+      },
+      {
+        "id": "D05",
+        "dimensions": [
+          1030,
+          1526
+        ],
+        "png_sha256": "a09498beb4cf2deb3dd08a95f8486e59692880677653945fbd6b659221522192",
+        "jpg_sha256": "6b85719048ba5ece74be319dec5491e15256b321081d38a38db6f2ef3697f9b5"
+      },
+      {
+        "id": "D06",
+        "dimensions": [
+          1063,
+          1479
+        ],
+        "png_sha256": "503c2382f2572428d25221f12af5282eb12811d4bb81a3a9c2a3282fabe5f1b8",
+        "jpg_sha256": "65ca8c0ea981b0a7713a9d717f3cc462bfdac0b583f9e67009ca4183ee0213c4"
+      },
+      {
+        "id": "D07",
+        "dimensions": [
+          770,
+          2042
+        ],
+        "png_sha256": "b22a39eff7cc361ffb4052de730d9543a2fccb0c7f10ced6172f5e65bedf5d87",
+        "jpg_sha256": "f2275ecd7a5485678abac11e05dcc442fab32853978e4f53e0afc8712e3f634f"
+      },
+      {
+        "id": "D08",
+        "dimensions": [
+          978,
+          1608
+        ],
+        "png_sha256": "c1ec89b8bc5efc3af0b22ab4023c931d4621e13b4db7503916b7c77336470676",
+        "jpg_sha256": "4668e2d4c7748056583a424848b033d2e0fdf915a5302d873e1bec2cc1e14c1c"
+      },
+      {
+        "id": "D11",
+        "dimensions": [
+          788,
+          1996
+        ],
+        "png_sha256": "befa88c38309a058617a3d6a6e46550fd5d8fb8f409f38b5c5fd15d492220dfa",
+        "jpg_sha256": "220b8f6ae3203b4d35afbd32ccbd11b1af9f128724dca0ac3b4b6566981b3e31"
+      },
+      {
+        "id": "D12",
+        "dimensions": [
+          1115,
+          1411
+        ],
+        "png_sha256": "9c7a949d0c1060cd23f37adf1d8b535b3f4c88f8b583792d3b06fc23640fb72e",
+        "jpg_sha256": "59f17931b198a2d7545a1d90ead0c6392ee50eeffa4024558ef44ee517e85409"
+      },
+      {
+        "id": "D13",
+        "dimensions": [
+          1111,
+          1416
+        ],
+        "png_sha256": "da03e4ac1d4fe8204ee02032f5f0bdeeb5ac9eb4add5e6d1cf6f4a375b26a868",
+        "jpg_sha256": "385a59b128fb91720f7988a666d41c33b6f992a4963896f9162f7c7ebc4e1268"
+      },
+      {
+        "id": "D14",
+        "dimensions": [
+          977,
+          1609
+        ],
+        "png_sha256": "193b7253b4647e6eb9e4598dd78e4459cff591fa90c0000c5339c61ec5981f59",
+        "jpg_sha256": "a64851496a667fe22f2d9f8cb77643b6f147a011878b27ac71e10b9583441761"
+      },
+      {
+        "id": "D15",
+        "dimensions": [
+          1059,
+          1485
+        ],
+        "png_sha256": "014f3f8aec2aeb30269cd69af626d386cd81dc0230815f24b31952196f6d8edc",
+        "jpg_sha256": "54bad0767c61647e2597353b60626b8b676a49e86789eb0255bde30309678d78"
+      },
+      {
+        "id": "D16",
+        "dimensions": [
+          1116,
+          1410
+        ],
+        "png_sha256": "6f11a57b3905654bedc9d3985799896208b749fb29db5a8777cad1bb94f381f2",
+        "jpg_sha256": "9afb4f04fc3c8b19c8fd368a959bcaef9619d39de6f7e777217fb8741ba0b29c"
+      },
+      {
+        "id": "D17",
+        "dimensions": [
+          1017,
+          1546
+        ],
+        "png_sha256": "84882e0c2eb9f803b1f4a8294e54bbc3871451cf7445f3a99c4c0115195228ee",
+        "jpg_sha256": "228748f8fdc047e3690324ccb0986d89bd933b[REDACTED_PHONE]b1ecf7af3a2c2"
+      },
+      {
+        "id": "D18",
+        "dimensions": [
+          1019,
+          1544
+        ],
+        "png_sha256": "a68e9ed11f8712b26f3ae5c1f4b4a77610fe6692fd083cff19e08d5dd5ebeedf",
+        "jpg_sha256": "4cbc9ba429a66f19b1dd6a45498e306ebc1c06a13fa5745f139a69fceba2bb2b"
+      },
+      {
+        "id": "V01",
+        "dimensions": [
+          994,
+          1582
+        ],
+        "png_sha256": "eb7a288e3f1e9a098f07df458bfa095b4062a1b661077f7ce0c58627627101f1",
+        "jpg_sha256": "535417048cd87fbfedc4cf996bdb4e45d32f890427cf0a1fa4e0f76a1b29860e"
+      },
+      {
+        "id": "V02",
+        "dimensions": [
+          1034,
+          1521
+        ],
+        "png_sha256": "51ef16fd2848c03e6673be41232bd4e7b6ba7152e8d176feeb4ea486628f1cf7",
+        "jpg_sha256": "39913ba2fd699f82e8d29c18aa68f08da67c8b271568343f2283c4b8c7c39033"
+      },
+      {
+        "id": "V03",
+        "dimensions": [
+          954,
+          1649
+        ],
+        "png_sha256": "b2a619761e3d94daaf5c99548a65603b63145185955fa11842bd9bb589e9a91b",
+        "jpg_sha256": "81b0ceafa8f96ea7d3453771328239794941a553d81dafb447f4d2a71f0ea764"
+      }
+    ],
+    "canonical_export_byte_equality": "PASS"
+  },
+  "image_count": 32,
+  "checks": {
+    "reference_mapping_inventory": "PASS",
+    "same_hash_independent_visual_qa": "PASS",
+    "selected_png_byte_uniqueness": "PASS",
+    "native_exports_and_long_images": "PASS",
+    "archive_crc_inventory_and_local_links": "PASS",
+    "four_group_visual_presentation": "PASS_WITH_LIMITATIONS",
+    "both_long_scroll_full_reading": "PASS_WITH_LIMITATIONS",
+    "prior_review_byte_equality": "PASS",
+    "source_retention": "PASS"
+  },
+  "archive": {
+    "path": "花洒参考重构_交付.zip",
+    "file_count": 73,
+    "bytes": 93958598,
+    "sha256": "881bfc1939f346954d2f7832d57de07c743f8018e10539f614183ed021bb1770"
+  },
+  "root_review_pages": [
+    {
+      "path": "qa-previews/D_00000_02200.jpg",
+      "scroll": "exports/冷蓝白详情长图.jpg",
+      "top": 0,
+      "bottom": 2200
+    },
+    {
+      "path": "qa-previews/D_02080_04280.jpg",
+      "scroll": "exports/冷蓝白详情长图.jpg",
+      "top": 2080,
+      "bottom": 4280
+    },
+    {
+      "path": "qa-previews/D_04160_06360.jpg",
+      "scroll": "exports/冷蓝白详情长图.jpg",
+      "top": 4160,
+      "bottom": 6360
+    },
+    {
+      "path": "qa-previews/D_06240_08440.jpg",
+      "scroll": "exports/冷蓝白详情长图.jpg",
+      "top": 6240,
+      "bottom": 8440
+    },
+    {
+      "path": "qa-previews/D_08320_10520.jpg",
+      "scroll": "exports/冷蓝白详情长图.jpg",
+      "top": 8320,
+      "bottom": 10520
+    },
+    {
+      "path": "qa-previews/D_10400_12600.jpg",
+      "scroll": "exports/冷蓝白详情长图.jpg",
+      "top": 10400,
+      "bottom": 12600
+    },
+    {
+      "path": "qa-previews/D_12480_14680.jpg",
+      "scroll": "exports/冷蓝白详情长图.jpg",
+      "top": 12480,
+      "bottom": 14680
+    },
+    {
+      "path": "qa-previews/D_14560_16760.jpg",
+      "scroll": "exports/冷蓝白详情长图.jpg",
+      "top": 14560,
+      "bottom": 16760
+    },
+    {
+      "path": "qa-previews/D_16640_18840.jpg",
+      "scroll": "exports/冷蓝白详情长图.jpg",
+      "top": 16640,
+      "bottom": 18840
+    },
+    {
+      "path": "qa-previews/D_18720_19012.jpg",
+      "scroll": "exports/冷蓝白详情长图.jpg",
+      "top": 18720,
+      "bottom": 19012
+    },
+    {
+      "path": "qa-previews/V_00000_02200.jpg",
+      "scroll": "exports/暖金补充长图.jpg",
+      "top": 0,
+      "bottom": 2200
+    },
+    {
+      "path": "qa-previews/V_02080_04280.jpg",
+      "scroll": "exports/暖金补充长图.jpg",
+      "top": 2080,
+      "bottom": 4280
+    },
+    {
+      "path": "qa-previews/V_04160_06360.jpg",
+      "scroll": "exports/暖金补充长图.jpg",
+      "top": 4160,
+      "bottom": 6360
+    },
+    {
+      "path": "qa-previews/V_06240_07939.jpg",
+      "scroll": "exports/暖金补充长图.jpg",
+      "top": 6240,
+      "bottom": 7939
+    }
+  ],
+  "root_prior_review_reuse": {
+    "status": "PASS",
+    "checked_at_utc": "2026-10-23T00:33:04.034414+00:00",
+    "groups": [
+      {
+        "review": "root_main_group_review",
+        "overview": "previews/overview_01.jpg",
+        "byte_and_source_equality": "PASS",
+        "visual_reinspection": false
+      },
+      {
+        "review": "root_sku_early_detail_group_review",
+        "overview": "previews/overview_02.jpg",
+        "byte_and_source_equality": "PASS",
+        "visual_reinspection": false
+      },
+      {
+        "review": "root_mid_detail_group_review",
+        "overview": "previews/overview_03.jpg",
+        "byte_and_source_equality": "PASS",
+        "visual_reinspection": false
+      }
+    ],
+    "cold_scroll": "Exact JPEG and all15 PNG source hashes unchanged; reuse prior complete 10-page reading."
+  },
+  "root_last_group_review": {
+    "status": "PASS_WITH_LIMITATIONS",
+    "reviewed_at_utc": "2026-10-23T00:33:04.034414+00:00",
+    "overview": "previews/overview_04.jpg",
+    "overview_sha256": "91179a552de1ccdb483f5f1218045c96b89fd38ff5dc06e0e9da6279ec1b2003",
+    "source_png_sha256": {
+      "D17": "84882e0c2eb9f803b1f4a8294e54bbc3871451cf7445f3a99c4c0115195228ee",
+      "D18": "a68e9ed11f8712b26f3ae5c1f4b4a77610fe6692fd083cff19e08d5dd5ebeedf",
+      "V01": "eb7a288e3f1e9a098f07df458bfa095b4062a1b661077f7ce0c58627627101f1",
+      "V02": "51ef16fd2848c03e6673be41232bd4e7b6ba7152e8d176feeb4ea486628f1cf7",
+      "V03": "b2a619761e3d94daaf5c99548a65603b63145185955fa11842bd9bb589e9a91b",
+      "V04": "5694aa1485d19ed281afb6af20808c0b2304deb37425944d0f20c1cd9bbb6f59",
+      "V05": "6bd048e7489f61054dc2112f4d2928528b15a76d33b4eb92835e295c383b4af2",
+      "V06": "dea0772008f21286d9b982de3b497cafded3779c3e6f1ba6a8af10d3d6301fbe"
+    },
+    "method": "Actually viewed complete original-resolution 1600x1240 overview after canonical export.",
+    "observations": "Eight distinct tasks remain visible: cold diagonal handle/still-life, factual information, warm wood M001 with independent V07 chapter, dry cheek-rest fashion portrait, dark full front-side-back views, sunset-sand manual red-button operation, rock/gold-water exterior windows, and night-room back-view plus six appearance cells/FAQ. No extra mandatory group-level issue observed.",
+    "limitations": [
+      "User acceptance pending.",
+      "Silver bare-thread color remains UNKNOWN; rendered views do not establish the physical color."
+    ]
+  },
+  "root_warm_scroll_review": {
+    "status": "PASS_WITH_LIMITATIONS",
+    "reviewed_at_utc": "2026-10-23T00:33:04.034414+00:00",
+    "scroll": "exports/暖金补充长图.jpg",
+    "scroll_sha256": "f3fa4d8cf70725a8d48cbbf7f36e8656221eeb02504ec6197fcef9f765a8d011",
+    "dimensions": [
+      790,
+      7939
+    ],
+    "source_png_sha256": {
+      "V01": "eb7a288e3f1e9a098f07df458bfa095b4062a1b661077f7ce0c58627627101f1",
+      "V02": "51ef16fd2848c03e6673be41232bd4e7b6ba7152e8d176feeb4ea486628f1cf7",
+      "V03": "b2a619761e3d94daaf5c99548a65603b63145185955fa11842bd9bb589e9a91b",
+      "V04": "5694aa1485d19ed281afb6af20808c0b2304deb37425944d0f20c1cd9bbb6f59",
+      "V05": "6bd048e7489f61054dc2112f4d2928528b15a76d33b4eb92835e295c383b4af2",
+      "V06": "dea0772008f21286d9b982de3b497cafded3779c3e6f1ba6a8af10d3d6301fbe"
+    },
+    "actually_viewed_pages": [
+      "qa-previews/V_00000_02200.jpg",
+      "qa-previews/V_02080_04280.jpg",
+      "qa-previews/V_04160_06360.jpg",
+      "qa-previews/V_06240_07939.jpg"
+    ],
+    "method": "Actually read all four original-size readable pagination pages, overlapping by120px and covering 0–7939 without gaps.",
+    "observations": "V01 scene/three windows/independent V07 bridge, V02 dry portrait, V03 full exterior angles, V04 manual operation plus three cards, V05 rock/gold-water/three exterior windows, and V06 dual hands/six cells/three factual FAQs remain complete and readable. Chapter transitions preserve whole native frames; no assembly crop, missing section or duplicate page observed.",
+    "limitations": [
+      "Generated water/operation illustration is not a measured performance test.",
+      "User acceptance pending; silver bare-thread color remains UNKNOWN."
+    ]
+  },
+  "root_final_reference_mapping": {
+    "status": "PASS",
+    "analysis_count": 74,
+    "independent_images": 32,
+    "four_merged_tasks": "D02→D01;D10→D07;D09→D11;V07→V01",
+    "assembly_sources": "A001 contact sheet and A039 long sequence remain assembly tasks, not extra independent themes.",
+    "method": "Canonical export validated 74 inventory/mapping rows and merged-task QA; current actual-output IDs checked against final32/assembly IDs."
+  },
+  "production_status": "COMPLETE",
+  "internal_validation_status": "COMPLETE",
+  "unresolved_required_visual_fixes": [],
+  "finalized_at_utc": "2026-10-23T00:33:04.034414+00:00",
+  "storage_after_final_export": {
+    "checked_at_utc": "2026-10-23T00:33:04.034414+00:00",
+    "scope": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构",
+    "df_k": "Filesystem   1024-blocks      Used  Available Capacity iused       ifree %iused  Mounted on\n/dev/disk7s1  2000478168 352730032 1647450956    18% 2506729 [REDACTED_PHONE]    0%   /Volumes/EXTERNAL",
+    "group_inventory": {
+      "(batch-root)": {
+        "files": 14,
+        "bytes": 94948279
+      },
+      "generated": {
+        "files": 80,
+        "bytes": 174168496
+      },
+      "exports": {
+        "files": 34,
+        "bytes": 25836043
+      },
+      "qa-previews": {
+        "files": 14,
+        "bytes": 7980854
+      },
+      "prompts": {
+        "files": 80,
+        "bytes": 141366
+      },
+      "final": {
+        "files": 32,
+        "bytes": 69231903
+      },
+      "previews": {
+        "files": 4,
+        "bytes": 2870927
+      }
+    },
+    "note": "Point-in-time scoped artifact inventory, before this receipt write. No file deletion or space-recovery claim."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-23",
+  "owner": "geometry_redteam_main",
+  "scope": [
+    "D04",
+    "D06",
+    "D11"
+  ],
+  "rules": [
+    "PERMISSIONS-2026-10-14-v1",
+    "ROUTING-2026-10-13-v4"
+  ],
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "criterion": "逐区域检查白色普通有效孔从孔口起始的常规细束；清楚裸露白孔无束即FAIL。中央红钮及外围黑细孔不要求出水。",
+  "verdict": "D04 D06 D11 FAIL; 6/6 scenes",
+  "repair_ids": [
+    "D04",
+    "D06",
+    "D11"
+  ],
+  "items": [
+    {
+      "id": "D04",
+      "scene": "上人物场景",
+      "status": "FAIL",
+      "confidence": "高",
+      "confirmed_error": "头面上部与右半部连续多排完整裸露白孔无向左下起根水束，大块干孔成立。",
+      "visible_local_pass": "左半及红钮下方部分孔起根可辨。",
+      "unclear": "密集交叠区域部分孔口连接不清，不能计为通过；未确认从银壳出水。",
+      "candidate_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/exports/JPG/D04.jpg",
+      "sha256": "df6e594b1099117e4f0c15b838cf2c91663da67972e54a541c2bba420c8ea078"
+    },
+    {
+      "id": "D04",
+      "scene": "下横持品场景",
+      "status": "FAIL",
+      "confidence": "中高",
+      "confirmed_error": "面板近上缘及远侧各排有裸露白孔无自身起根；水束集中于若干斜列，不能代替其间干孔。",
+      "visible_local_pass": "多条斜列从白孔起根可辨。",
+      "unclear": "密集交叠区域部分孔口连接不清，不能计为通过；未确认从银壳出水。",
+      "candidate_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/exports/JPG/D04.jpg",
+      "sha256": "df6e594b1099117e4f0c15b838cf2c91663da67972e54a541c2bba420c8ea078"
+    },
+    {
+      "id": "D06",
+      "scene": "上大近景",
+      "status": "FAIL",
+      "confidence": "高",
+      "confirmed_error": "第二/第三排有裸露黑心白孔无起根，例如原图约(575,480)、(640,486)、(500,531)；邻孔水束从旁穿过不能计为自身出水。",
+      "visible_local_pass": "最上排多数孔及左右部分列可辨起根。",
+      "unclear": "密集交叠区域部分孔口连接不清，不能计为通过；未确认从银壳出水。",
+      "candidate_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/exports/JPG/D06.jpg",
+      "sha256": "336693ea1bfcf378e1b7933f4739cce516a9cea200a4fe141f13ef9847c08dd1"
+    },
+    {
+      "id": "D06",
+      "scene": "下横侧近景",
+      "status": "FAIL",
+      "confidence": "中",
+      "confirmed_error": "内侧多排裸露白环缺与自身孔心连接的起根，出水集中为部分纵列。",
+      "visible_local_pass": "外圈及部分纵列起根可辨。",
+      "unclear": "密集交叠区域部分孔口连接不清，不能计为通过；未确认从银壳出水。",
+      "candidate_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/exports/JPG/D06.jpg",
+      "sha256": "336693ea1bfcf378e1b7933f4739cce516a9cea200a4fe141f13ef9847c08dd1"
+    },
+    {
+      "id": "D11",
+      "scene": "上回眸场景",
+      "status": "FAIL",
+      "confidence": "高",
+      "confirmed_error": "头面右侧连续数列白孔完整裸露，红钮右方至右下缘多排无向左起根；不是水幕遮挡。",
+      "visible_local_pass": "左侧及中央若干斜列可辨起根。",
+      "unclear": "密集交叠区域部分孔口连接不清，不能计为通过；未确认从银壳出水。",
+      "candidate_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/exports/JPG/D11.jpg",
+      "sha256": "34496c3fb05666f3e8f1b6dde5bcf5785676cb7387937b1da81d8c531fb84136"
+    },
+    {
+      "id": "D11",
+      "scene": "下正面持品场景",
+      "status": "FAIL",
+      "confidence": "高",
+      "confirmed_error": "头面左半连续数列白孔裸露无向右起根，尤其左上至红钮左方/左下，与右半出水明显分区。",
+      "visible_local_pass": "右半部若干斜列起根可辨。",
+      "unclear": "密集交叠区域部分孔口连接不清，不能计为通过；未确认从银壳出水。",
+      "candidate_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/exports/JPG/D11.jpg",
+      "sha256": "34496c3fb05666f3e8f1b6dde5bcf5785676cb7387937b1da81d8c531fb84136"
+    }
+  ],
+  "actual_viewing": [
+    "三张JPG原生全幅",
+    "六个场景头面内存裁切放大",
+    "银95及99原图"
+  ],
+  "prior_conclusion_correction": "撤回先前D11仅凭跨头面分布作出的水流通过判断，本轮明确FAIL。",
+  "repair_boundary": "仅水流；保留人物、商品结构和场景，不生成或改图。root负责D04，其余修复由主线程安排。",
+  "images_modified": [],
+  "temporary_files_created": []
+}

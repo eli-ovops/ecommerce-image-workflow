@@ -1,0 +1,258 @@
+{
+  "date": "2026-11-03",
+  "method": "manual qualitative review; diagnosis framework/script unavailable; no calibrated score",
+  "tool": "image_gen.imagegen",
+  "runtime_model": "UNKNOWN",
+  "successful_generations": 14,
+  "pre_generation_input_limit_rejections": 1,
+  "images": [
+    {
+      "id": 387,
+      "reference_id": 387,
+      "file": "JPG/387.jpg",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "bd43a2529a4f383b549656bb8d0c7f5313dd91406f07563afbf71947eb49bd91",
+      "layout": "黑金竖置商品、白色台座、左侧细节窗、底部规格带",
+      "status": "REVIEW_CANDIDATE_REWORK_REQUIRED",
+      "findings": "主面板局部纹样交叠、孔序未复现；短针窗已换实拍。",
+      "per_hole_fidelity": "UNKNOWN",
+      "customer_acceptance": "UNKNOWN",
+      "whole_image_viewed": true,
+      "reference_comparison_viewed": true,
+      "face_200pct_viewed": true,
+      "editable_ora": "editable/387/layers.ora"
+    },
+    {
+      "id": 388,
+      "reference_id": 388,
+      "file": "JPG/388.jpg",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "fe391e2c9e67fe74125768ccd39a0acaa0e8c949403c711219b0156d15b3936d",
+      "layout": "上方安装出水、左下完整外观、白字红边粗斜标题、米色底栏",
+      "status": "REVIEW_CANDIDATE_REWORK_REQUIRED",
+      "findings": "水柱有珠串感；主面板局部叶形错位，逐孔对应UNKNOWN。",
+      "per_hole_fidelity": "UNKNOWN",
+      "customer_acceptance": "UNKNOWN",
+      "whole_image_viewed": true,
+      "reference_comparison_viewed": true,
+      "face_200pct_viewed": true,
+      "editable_ora": null
+    },
+    {
+      "id": 389,
+      "reference_id": 389,
+      "file": "JPG/389.jpg",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "18aade9d6a345ac2379f43df31c0b16ad0448c9fdccac76fa99a2aa8bac281af",
+      "layout": "冷蓝浴室、左上安装、左下竖置商品、右侧黑色大标题",
+      "status": "REVIEW_CANDIDATE_REWORK_REQUIRED",
+      "findings": "面板局部纹样拉伸，水柱有珠串感；逐孔对应UNKNOWN。",
+      "per_hole_fidelity": "UNKNOWN",
+      "customer_acceptance": "UNKNOWN",
+      "whole_image_viewed": true,
+      "reference_comparison_viewed": true,
+      "face_200pct_viewed": true,
+      "editable_ora": null
+    },
+    {
+      "id": 390,
+      "reference_id": 390,
+      "file": "JPG/390.jpg",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "11922963939f7d584cfd6fdc803e4454e37a006a78ffafbfc82c8bdad8d378f4",
+      "layout": "墨绿浴室、上方大面板与水幕、左下产品、金色标题",
+      "status": "REVIEW_CANDIDATE_REWORK_REQUIRED",
+      "findings": "上方面板纹样尺度偏粗；小产品纹样局部不规则；逐孔对应UNKNOWN。",
+      "per_hole_fidelity": "UNKNOWN",
+      "customer_acceptance": "UNKNOWN",
+      "whole_image_viewed": true,
+      "reference_comparison_viewed": true,
+      "face_200pct_viewed": true,
+      "editable_ora": null
+    },
+    {
+      "id": 391,
+      "reference_id": 391,
+      "file": "JPG/391.jpg",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "cb07a70efb9a1144de1a1084b59714f9c09ae06bb1ec368cf6bccecea9dfe102",
+      "layout": "星空蓝顶、暖墙、仰视顶喷、原创成年人物",
+      "status": "REVIEW_CANDIDATE_REWORK_REQUIRED",
+      "findings": "人物整图未见明显肢体异常；水花仍有摆拍感；面板局部纹样变形，逐孔对应UNKNOWN。",
+      "per_hole_fidelity": "UNKNOWN",
+      "customer_acceptance": "UNKNOWN",
+      "whole_image_viewed": true,
+      "reference_comparison_viewed": true,
+      "face_200pct_viewed": true,
+      "editable_ora": null
+    },
+    {
+      "id": 392,
+      "reference_id": 392,
+      "file": "JPG/392.jpg",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "2acda0e1e249bf24560a1b84bc98b93e4b89d71eafe865b0907bd3cc1175701f",
+      "layout": "黑金斜轴大主体、左上标题、右下圆形细节窗",
+      "status": "REVIEW_CANDIDATE_REWORK_REQUIRED",
+      "findings": "已移除错误喷水候选并改为干态；真实短针窗可查，主面板孔中暗红点与实际状态对应UNKNOWN，纹样不精确。",
+      "per_hole_fidelity": "UNKNOWN",
+      "customer_acceptance": "UNKNOWN",
+      "whole_image_viewed": true,
+      "reference_comparison_viewed": true,
+      "face_200pct_viewed": true,
+      "editable_ora": "editable/392/layers.ora"
+    },
+    {
+      "id": 393,
+      "reference_id": 393,
+      "file": "JPG/393.jpg",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "f2723c8f10d6e5d9016679d003ea217417bf057341555f3ebadafea3e78b529f",
+      "layout": "暖石墙与右侧格栅、安装顶喷、底部双细节卡",
+      "status": "REVIEW_CANDIDATE_REWORK_REQUIRED",
+      "findings": "删除无依据AIR爆炸图和节水对比；生成接头及面板细节并非实拍像素；面板纹样与逐孔水源未核准。",
+      "per_hole_fidelity": "UNKNOWN",
+      "customer_acceptance": "UNKNOWN",
+      "whole_image_viewed": true,
+      "reference_comparison_viewed": true,
+      "face_200pct_viewed": true,
+      "editable_ora": null
+    },
+    {
+      "id": 394,
+      "reference_id": 394,
+      "file": "JPG/394.jpg",
+      "size": [
+        941,
+        1672
+      ],
+      "sha256": "21c1ea124b8d8fc897fe1a315caaa3bd1e69f5d92561aa7d163bb4340e3cc783",
+      "layout": "竖版星空暖墙、上方顶喷、下方原创成年人物",
+      "status": "REVIEW_CANDIDATE_REWORK_REQUIRED",
+      "findings": "水流和人物接触为生成表现；顶喷局部纹样交叠，逐孔对应UNKNOWN。",
+      "per_hole_fidelity": "UNKNOWN",
+      "customer_acceptance": "UNKNOWN",
+      "whole_image_viewed": true,
+      "reference_comparison_viewed": true,
+      "face_200pct_viewed": true,
+      "editable_ora": null
+    },
+    {
+      "id": 395,
+      "reference_id": 395,
+      "file": "JPG/395.jpg",
+      "size": [
+        941,
+        1672
+      ],
+      "sha256": "989100e4e8c0a73bca7e654a27075b13810c6f5646d62a41f37b5e5d0690d214",
+      "layout": "竖版黑金斜轴大主体、圆形短针窗",
+      "status": "REVIEW_CANDIDATE_REWORK_REQUIRED",
+      "findings": "主面板大量红点未能证明真实提拉状态；纹样偏离。小窗已换实际短针照片；主商品待返工。",
+      "per_hole_fidelity": "UNKNOWN",
+      "customer_acceptance": "UNKNOWN",
+      "whole_image_viewed": true,
+      "reference_comparison_viewed": true,
+      "face_200pct_viewed": true,
+      "editable_ora": "editable/395/layers.ora"
+    },
+    {
+      "id": 396,
+      "reference_id": 396,
+      "file": "JPG/396.jpg",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "31d88716429e473f563efcafa82afae026775812dd76cbfcd61125b703c2d11b",
+      "layout": "黑金标题、两列三行细节卡",
+      "status": "REVIEW_CANDIDATE_REWORK_REQUIRED",
+      "findings": "接头开口与短针两卡已换实拍；其余生成面板仍有红点状态与纹样问题。原生2:3画幅，未强拉为参考9:16。",
+      "per_hole_fidelity": "UNKNOWN",
+      "customer_acceptance": "UNKNOWN",
+      "whole_image_viewed": true,
+      "reference_comparison_viewed": true,
+      "face_200pct_viewed": true,
+      "editable_ora": "editable/396/layers.ora"
+    },
+    {
+      "id": 397,
+      "reference_id": 397,
+      "file": "JPG/397.jpg",
+      "size": [
+        992,
+        1586
+      ],
+      "sha256": "9a1d74014856ec47cd2d7b791ead0da825f8bc5d9546054e0ab4675848daedf5",
+      "layout": "竖版暖石浴室、完整顶喷、底部侧面与尺寸卡",
+      "status": "REVIEW_CANDIDATE_REWORK_REQUIRED",
+      "findings": "上方面板有明显重复纹样变形、交叠；逐孔对应UNKNOWN。原生画幅约5:8。",
+      "per_hole_fidelity": "UNKNOWN",
+      "customer_acceptance": "UNKNOWN",
+      "whole_image_viewed": true,
+      "reference_comparison_viewed": true,
+      "face_200pct_viewed": true,
+      "editable_ora": null
+    },
+    {
+      "id": 398,
+      "reference_id": 398,
+      "file": "JPG/398.jpg",
+      "size": [
+        940,
+        1673
+      ],
+      "sha256": "2949735c0b6a2b98bf7fed34ee575908031edad7a4841ffa9d44d77ba337fa09",
+      "layout": "暖石浴室静态安装、右侧黑玻璃、底部接头与背面卡",
+      "status": "REVIEW_CANDIDATE_REWORK_REQUIRED",
+      "findings": "不含水流或360度宣称。商品较小，放大后纹样仍不规则；接头和背面为生成近似，精确结构UNKNOWN。",
+      "per_hole_fidelity": "UNKNOWN",
+      "customer_acceptance": "UNKNOWN",
+      "whole_image_viewed": true,
+      "reference_comparison_viewed": true,
+      "face_200pct_viewed": true,
+      "editable_ora": null
+    },
+    {
+      "id": 399,
+      "reference_id": 399,
+      "file": "JPG/399.jpg",
+      "size": [
+        940,
+        1672
+      ],
+      "sha256": "a701e3dd4e617d1483b1d003ce494e51d7099595ece159c6ebbf16978f4e3eb3",
+      "layout": "竖版黑金斜轴商品、上方三组标题、静态无水",
+      "status": "REVIEW_CANDIDATE_REWORK_REQUIRED",
+      "findings": "面板有明显叶形交叠、孔序和边缘纹样异常；待返工。",
+      "per_hole_fidelity": "UNKNOWN",
+      "customer_acceptance": "UNKNOWN",
+      "whole_image_viewed": true,
+      "reference_comparison_viewed": true,
+      "face_200pct_viewed": true,
+      "editable_ora": null
+    }
+  ],
+  "overall": "13张审阅集齐全，商品几何与水流真实性未通过最终验收。"
+}

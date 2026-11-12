@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-23",
+  "all_three_portraits_independent_pass": true,
+  "selected_sha256": {
+    "D04": "d07c9ec50b59cf697f1ec538e8a5cb3d583c28ae635753c3e2818d6781acfcb0",
+    "D11": "f3458900986918bdb29060f8c827a1c423299d8a2febadf6f232832f7ea6b8d6"
+  },
+  "root_full_native_visual_review": "PASS_WITH_LIMITS",
+  "independent_report": "independent-person-final.json",
+  "independent_report_sha256": "5058ea229872b4c5a497fbedc85e13ff5b2e01b7a508482c399e29ebee934a5c",
+  "limits": [
+    "合成人像肤感较匀净，放大可见插值与锐度差异，当前未构成明确失真缺陷。",
+    "不代表用户已接受或整套32张均通过。",
+    "V01水膜下肤理UNKNOWN；M03/D15/V01/V06几何疑点保留，不扩本轮范围。"
+  ],
+  "user_acceptance": "PENDING"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "D16",
+  "prompt": "Preciselyedit image1 preserve canvas/all upper big handproduct+3operationcards/Chinese text/layout/curved shallowS geometry. ONLY replace bottom three black WATER photo windows with three DRY SAME silverblackface closeups (no water/mist anywhere), subtle differing camera angles. Keep their existing bluefootertitles '常规' '喷雾' '混合' as drymode readingindex, no othertext. Each dryface has original flatwhite eyelets of uniformtiny size, blackoutermicroholes, redraisedcenter ring, lower ovalsilverkey. No newly designedmistnozzles/oversizedholes. Upperhand/product unchanged, human fingersnatural. This avoids false visual mode demonstration in this operationpage.",
+  "referenced_image_paths": [
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D16-v1.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/silver-side-v1.png"
+  ],
+  "actual_viewed_related_originals": [
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D16-v1.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/silver-side-v1.png"
+  ],
+  "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+  "date": "2026-10-23",
+  "status": "RECOVERED_AFTER_CRASH_QA_PENDING",
+  "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D16-v2.png",
+  "raw_output": "/Users/USER/.codex/generated_images/01a16319-d848-71d0-95e1-72970644c800/exec-da81f2f0-dd1f-4156-b6de-e84f9f1ff408.png",
+  "sha256": "89fc0d2e127225e1fd0a356a24867e3e35ab5d6ab50d29fbfafbbe19b312d690",
+  "actual_dimensions": [
+    1116,
+    1410
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "product_fingerprints": {
+    "01 Rebuilt continuous silver exterior and seat": "7dcb3df52262b56df04eee5ea0bd4f079152e96a816ff5e792b276c3ec6e1979",
+    "02 Unified perforated panel": "4613925934b9437fae34f9e034515f39476dc8838e305cde2a97d38906ca52f8",
+    "10 Shared-surface black cavity floor": "6585944069691396839fb9f306c811d44491f42df9fe909e79b3d290aa6e6671",
+    "03 Recessed white rings - 144 preserved coordinates": "cf341fedf37198193ed2bac820f3edf684946357f6d7802ec6363ba8682f47a2",
+    "04 Black aperture well walls": "47f34a313256a3c53376d5fd0b6d6135c67d991c87787d52bdcfa71e09bd2aea",
+    "08 White connector core - standard UNKNOWN": "460bee87fb22018465278b8ad263fe6a3a700c88438da037094b753876a49271",
+    "06 Red descaling actuator": "fabd2009524ed54184dd5059f01530d05d8a4a6f2890c973a0704064bc12ef28",
+    "07 Separate silver selector": "81ab891ee5fb8b50229d8f0da2d3b4365fd1714920be208fec1d753681d7b514",
+    "09 Simplified visible thread - not engineering thread": "b6d91786fd04dc328f40782b8c82fc720fa089b1622f41fa90433d5461377d44"
+  },
+  "unchanged_mesh_topology_world_transform": true,
+  "bounds": [
+    0.05499997362494469,
+    0.9449999928474426,
+    0.12923550605773926,
+    0.8707644939422607
+  ],
+  "source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-30_方案一_三维反射构图/三维方案一.blend",
+  "requested_model": "gpt-6-astra",
+  "requested_effort": "medium",
+  "actual_model": "UNKNOWN"
+}

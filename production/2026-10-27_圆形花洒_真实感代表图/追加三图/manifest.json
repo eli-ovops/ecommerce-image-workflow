@@ -1,0 +1,400 @@
+{
+  "date": "2026-10-27",
+  "owner": "/root/round_shower_model",
+  "status": "READY_FOR_USER_REVIEW",
+  "requested_model": "gpt-6-astra",
+  "requested_effort": "medium",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "rules": [
+    "PERMISSIONS-2026-10-14-v1",
+    "ROUTING-2026-10-27-v7",
+    "TOKEN-BUDGET-2026-10-25-v2"
+  ],
+  "approved_parent_jpg": {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/银色花洒_暖白浴室主图.jpg",
+    "sha256": "66ed25f685db7bd1a9523a6a25c501ecb336dead7f957e4cc1ed362a55c2bea4",
+    "unchanged": true
+  },
+  "viewed_original_photos": [
+    350,
+    351,
+    348,
+    342,
+    343,
+    345
+  ],
+  "background": "Reuse approved independent AI background; no new background generation",
+  "imagegen_calls": {
+    "A350_selected": 1,
+    "C343_rejected": 1,
+    "C342_rejected": 1,
+    "C345": 0
+  },
+  "native_outputs": {
+    "A": "/Users/USER/.codex/generated_images/01a17c88-9784-7202-9a4a-0bf7830010e6/exec-64ec3554-1a12-405f-8312-23c67e305c47.png",
+    "C343_rejected": "/Users/USER/.codex/generated_images/01a17c88-9784-7202-9a4a-0bf7830010e6/exec-77b139a0-0931-4131-9a0d-e9ae4c9e7c49.png",
+    "C342_rejected": "/Users/USER/.codex/generated_images/01a17c88-9784-7202-9a4a-0bf7830010e6/exec-28ca40c4-a0e5-404b-8fec-d92fc43e920c.png"
+  },
+  "photo_pixel_claim": "A photo outline/black face and real holes retained, with silver interior reflection replacement; B and C entirely photo-derived product. Uniform transformations/interpolation/JPEG apply; not literal original pixel identity.",
+  "sources": [
+    {
+      "photo": 342,
+      "original": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/结构基准20261027/原件/微信图片_20261027161216_342_2.jpg",
+      "original_sha256": "d08aeb8f7aec249aad01f3a99976a8402c1414cc0ff2f69bb17ee08feddf8ef5",
+      "copy": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/sources/original-342.jpg",
+      "copy_hash_matches": true
+    },
+    {
+      "photo": 343,
+      "original": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/结构基准20261027/原件/微信图片_20261027161220_343_2.jpg",
+      "original_sha256": "cbb88ef12a1e63d414314d246bd2c99f8a65a04ad598a206472b869ffe8f8504",
+      "copy": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/sources/original-343.jpg",
+      "copy_hash_matches": true
+    },
+    {
+      "photo": 348,
+      "original": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/结构基准20261027/原件/微信图片_20261027161234_348_2.jpg",
+      "original_sha256": "5de2ef8512ef69e1ca5113d0c4742ce473b6a1783f90dfe90b8673437e4d8d9a",
+      "copy": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/sources/original-348.jpg",
+      "copy_hash_matches": true
+    },
+    {
+      "photo": 350,
+      "original": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/结构基准20261027/原件/微信图片_20261027161238_350_2.jpg",
+      "original_sha256": "26559dedbe45e20b17effc09dfaec7e24bc32e8172fe795720019dcdafb66afa",
+      "copy": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/sources/original-350.jpg",
+      "copy_hash_matches": true
+    },
+    {
+      "photo": 345,
+      "original": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/结构基准20261027/原件/微信图片_20261027161226_345_2.jpg",
+      "original_sha256": "f5f4c6f3e337b216c083ec58383375ce513c059a265d731459467e5c25105b1c",
+      "copy": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/sources/original-345.jpg",
+      "copy_hash_matches": true
+    }
+  ],
+  "assets": [
+    {
+      "id": "A",
+      "file": "A_下键切档.jpg",
+      "source_photo": 350,
+      "meaning": "Lower mode-selection key close-up",
+      "preserved": "Black panel, nozzle positions, red actuator visible portion, outer product and button contour",
+      "retouched": "Silver shell interior and key silver face",
+      "repair": "Right mask expanded to restore whole button and surrounding black border",
+      "review": "Full preview, 360px thumbnail and final JPEG opened; root accepted corrected key",
+      "remaining": "Thin original warm reflection at outer edge; no operation test shown",
+      "sha256": "3e349e25257d2a8f8fd806bd9fd0c2223b857b683f38252baf6a8cce8a1934b5",
+      "dimensions": [
+        1440,
+        1440
+      ]
+    },
+    {
+      "id": "B",
+      "file": "B_红钮细节.jpg",
+      "source_photo": 348,
+      "meaning": "Central descaling actuator and neighboring real hole mouths",
+      "preserved": "Entire photographed macro region including actual tiny red centers already in photo",
+      "retouched": "None",
+      "review": "Full preview, 360px thumbnail and final JPEG opened; root accepted static macro",
+      "remaining": "Static photo, not evidence of pressing, extending pins or cleaning outcome",
+      "sha256": "768866efc4a2a762d1925972a5a668d26f59196e7c64345a4abf5a25530118c1",
+      "dimensions": [
+        1440,
+        1440
+      ]
+    },
+    {
+      "id": "C",
+      "file": "C_圆盘厚边.jpg",
+      "source_photo": 345,
+      "meaning": "Oblique whole circular head and cylindrical silver edge close-up; handle exits frame",
+      "preserved": "All visible product derived from original345; whole-photo uniform rotate/scale and silhouette clip",
+      "retouched": "None",
+      "review": "Full PNG and 360px thumbnail actually viewed; root accepted C345 preview for user review. Final JPEG exported once and actually opened.",
+      "remaining": "Original colored room reflections and lower warm skin reflection remain within chrome; no whole side/handle claim",
+      "sha256": "84569113e08702560cbd0c44536856d3f449e4e6c8e30e92157cb17442f2b61c",
+      "dimensions": [
+        1440,
+        1440
+      ]
+    }
+  ],
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/A-editable.svg",
+      "bytes": 10347523,
+      "sha256": "ed1b6c3a0fa822a29cf908d2b515887087d099f5fd5c4b74c71fe8bb801870c5",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/A-product-mask.svg",
+      "bytes": 325,
+      "sha256": "c4410f1c5a8a50fd4aead125c1e7ad11347d16b03779cd265cf7caec7d55a665",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/A-reflection-mask.svg",
+      "bytes": 528,
+      "sha256": "14a423709f046a327bec4f3c34e74ab75eb460ab09839e9f866ee085c86233e6",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/A_下键切档.jpg",
+      "bytes": 707676,
+      "sha256": "3e349e25257d2a8f8fd806bd9fd0c2223b857b683f38252baf6a8cce8a1934b5",
+      "purpose": "selected deliverable"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/B-editable.svg",
+      "bytes": 8736933,
+      "sha256": "1127eaadad6f8157026d04228d0af9f9a8ec4efe0f2dbe7be4c49226fe657140",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/B_红钮细节.jpg",
+      "bytes": 896490,
+      "sha256": "768866efc4a2a762d1925972a5a668d26f59196e7c64345a4abf5a25530118c1",
+      "purpose": "selected deliverable"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/C-editable.svg",
+      "bytes": 6941179,
+      "sha256": "46a79794638ce03168f9fc4d385e8772a7eba274a663491242605debda9d9f41",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/C-product-mask.svg",
+      "bytes": 288,
+      "sha256": "79a5a4876c430633a6f91d0a454d9e157480b4a30200c32eeede20a950916949",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/C-reflection-mask.svg",
+      "bytes": 320,
+      "sha256": "73e4dd72a7befbed584b51b87d1de8ece9a4ff0dcff8465a8ae343a2196786e5",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/C345-product-mask.svg",
+      "bytes": 325,
+      "sha256": "87afcf00b538c63c272dd0813c2cdae9fc92bb0e1600c89cb134a100c96445a9",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/C_圆盘厚边.jpg",
+      "bytes": 793259,
+      "sha256": "84569113e08702560cbd0c44536856d3f449e4e6c8e30e92157cb17442f2b61c",
+      "purpose": "selected deliverable"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/README.md",
+      "bytes": 3640,
+      "sha256": "5bd85b3744c92d3f24212be2bf62284d9585cd3b101a2fece559ba673f56b4d5",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/build-C.js",
+      "bytes": 2683,
+      "sha256": "88b37e73cdfef83c14007bea8ff7801b7d9856a7bd81c63257773f2ebe41916a",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/build.js",
+      "bytes": 5973,
+      "sha256": "dfdc9a8e821ab4a6c0a109e2915ec95c1b2bc065dba5e54d60ddea38dbcd14be",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/export.js",
+      "bytes": 608,
+      "sha256": "f582d7db7b1758939695a94694d42f5e5d0044b926c975eeb972b73565a72c95",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/prompts.json",
+      "bytes": 2687,
+      "sha256": "11d85eea4c2f1e85dd23a82542d7e8874264a188b58465fc1e1065f8d16969db",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/sources/A-edge-inspection.png",
+      "bytes": 961919,
+      "sha256": "b2c16f5bdefd6775c8d83b8754193798d0a9e55b30e3f0a90b3896e47af7f9de",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/sources/A-phone.png",
+      "bytes": 253956,
+      "sha256": "d3e71da4d73dc65fd1bd3df74ced2fed2209465daf6028fd9be7281abb190a8b",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/sources/A-photo.png",
+      "bytes": 3394983,
+      "sha256": "22662eba492512461aec3535a46de5f611aea0620b3b25618eb1471d9ef7dca1",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/sources/A-preview.png",
+      "bytes": 3596117,
+      "sha256": "009f31f6d300118ad0f8374b5c1e2978eb72d1e67fcdd702658abb493816fa8b",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/sources/A-retouch.png",
+      "bytes": 1878903,
+      "sha256": "7612ef8e570e2c05db2b67eda87251aba62448fb3782ede0ed2d8293771fb2bb",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/sources/B-phone.png",
+      "bytes": 258295,
+      "sha256": "247488f6076e185ecbb78c5203d887ae44290adcc0c35a34e5da0937e9824608",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/sources/B-photo.png",
+      "bytes": 4066726,
+      "sha256": "8a48713abb7c336f3e2e1f9b7844d4cd59753f366ae5e5d12c544dcb26a6328b",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/sources/B-preview.png",
+      "bytes": 3600907,
+      "sha256": "01a68576369f829cf4987c0f056482ba925d6a08a0b4f59b1a7a9414269f9d45",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/sources/C-edge-inspection.png",
+      "bytes": 583286,
+      "sha256": "c7023bc840bc427cd185851902fd32fc60921fcc84f9ed913212cf8156b7e792",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/sources/C-phone.png",
+      "bytes": 266371,
+      "sha256": "28a465a8d5468a861b6c329c83a1095cc7625e4f0dd2ce4b4b5087a27661d5b1",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/sources/C-photo.png",
+      "bytes": 2271761,
+      "sha256": "a442cf3bf6376537652e098e9ff09fef4574ee6efac956458bff11fa41dec15a",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/sources/C-preview.png",
+      "bytes": 3906785,
+      "sha256": "9be5b30e5191b2c54d4ec3c88e0b8c3ae06f71fff463ae71a0e38699aa870879",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/sources/C-retouch.png",
+      "bytes": 1602162,
+      "sha256": "7b3f66199afe1e84827b5487df5a79f557bf12fdfb443698740d7ef0791fd6f9",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/sources/C342-rejected-photo.png",
+      "bytes": 2271761,
+      "sha256": "a442cf3bf6376537652e098e9ff09fef4574ee6efac956458bff11fa41dec15a",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/sources/C342-rejected-preview.png",
+      "bytes": 3446965,
+      "sha256": "66f26f41c8848b1d2efa979ba11d29a231b371a25f40cbb64eedd1bae8756a66",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/sources/C343-rejected-photo.png",
+      "bytes": 2359334,
+      "sha256": "0b05b7e563b211537268c6640d6918a5d358b3e31405507b7478e302450e9c9b",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/sources/C343-rejected-preview.png",
+      "bytes": 3710546,
+      "sha256": "e6fdbae92cc5007fd59af421b399d5b4d9956b70743e8b59bdfef01ccae4f992",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/sources/C343-rejected-retouch.png",
+      "bytes": 1622703,
+      "sha256": "24b55f7db62e8c5b8a8af67670989f652df2816d4af0df7e5d5dce63ac436f19",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/sources/C345-photo.png",
+      "bytes": 2719637,
+      "sha256": "7585a3975cfd6cb80fdbc8dcb3a09ae27d915cf5c2ff0e81330929a2ac83e884",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/sources/background.png",
+      "bytes": 2485032,
+      "sha256": "9644ac20db68525a5b19c4494a1dd336c223749ef8bb7fb304178c3361cfacce",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/sources/original-342.jpg",
+      "bytes": 4483186,
+      "sha256": "d08aeb8f7aec249aad01f3a99976a8402c1414cc0ff2f69bb17ee08feddf8ef5",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/sources/original-343.jpg",
+      "bytes": 4469568,
+      "sha256": "cbb88ef12a1e63d414314d246bd2c99f8a65a04ad598a206472b869ffe8f8504",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/sources/original-345.jpg",
+      "bytes": 4795235,
+      "sha256": "f5f4c6f3e337b216c083ec58383375ce513c059a265d731459467e5c25105b1c",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/sources/original-348.jpg",
+      "bytes": 7625817,
+      "sha256": "5de2ef8512ef69e1ca5113d0c4742ce473b6a1783f90dfe90b8673437e4d8d9a",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/sources/original-350.jpg",
+      "bytes": 4942001,
+      "sha256": "26559dedbe45e20b17effc09dfaec7e24bc32e8172fe795720019dcdafb66afa",
+      "purpose": "editable source, provenance, inspection or rejected-route evidence"
+    }
+  ],
+  "rejected_routes": [
+    {
+      "source": 343,
+      "reason": "Physical finger occludes lower handle; stopped rather than invent obscured metal. Both 343 and later342 excluded from deliverable.",
+      "evidence": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/追加三图/sources/C-edge-inspection.png",
+      "preserved_files_prefix": "sources/C343-rejected-"
+    },
+    {
+      "source": 342,
+      "reason": "Narrow detail window weak product recognition; root rejected composition",
+      "preserved_files_prefix": "sources/C342-rejected-",
+      "unused": "C-photo.png C-retouch.png C-product-mask.svg C-reflection-mask.svg"
+    }
+  ],
+  "storage_audit": {
+    "task_allocated_KiB": 106268,
+    "volume_free": "1.6 TiB",
+    "purpose": "All source, masks, editable files and rejected evidence needed for review/recovery",
+    "deleted": 0
+  },
+  "jpeg_export_count": {
+    "A": 1,
+    "B": 1,
+    "C": 1
+  },
+  "client_acceptance": "UNKNOWN",
+  "task_total_bytes": 100014393
+}

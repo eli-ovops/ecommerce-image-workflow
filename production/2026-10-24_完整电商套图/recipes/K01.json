@@ -1,0 +1,86 @@
+{
+  "id": "K01",
+  "role": "SKU 广告",
+  "sku": "银色",
+  "refs_actual_viewed": [
+    {
+      "id": "A002",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/sku/主图_06.jpg",
+      "sha256": "7322e6cb6300f08ec40fee24691091880eb74a10d6fcb9bdba1f6715a67e1c07"
+    }
+  ],
+  "actual_inputs": [
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/silver-cutout-v003.png",
+      "sha256": "6bd26eb1336ef7bedaef9a2bcf67f2d26d0179dac255c2cc246cf5d8e9f27b54"
+    }
+  ],
+  "claims": [
+    "三档出水",
+    "常规出水",
+    "喷雾出水",
+    "混合出水",
+    "单花洒",
+    "下方按键切档",
+    "中央红钮手动按压除垢"
+  ],
+  "copy": [
+    "三档出水",
+    "手持花洒",
+    "下方按键 · 切换三档",
+    "常规出水",
+    "喷雾出水",
+    "混合出水",
+    "银色",
+    "单花洒",
+    "中央红钮 · 手动按压除垢"
+  ],
+  "source_files": [
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/silver-cutout-v003.png",
+      "sha256": "6bd26eb1336ef7bedaef9a2bcf67f2d26d0179dac255c2cc246cf5d8e9f27b54"
+    }
+  ],
+  "source_layers": [
+    {
+      "source": {
+        "path": "production/2026-10-24_完整电商套图/generated/silver-cutout-v003.png",
+        "sha256": "6bd26eb1336ef7bedaef9a2bcf67f2d26d0179dac255c2cc246cf5d8e9f27b54"
+      },
+      "uniform_scale": 1.1829787234042553,
+      "rotation_deg": 0,
+      "destination_top_left": [
+        819,
+        115
+      ],
+      "resampled_size": [
+        562,
+        1390
+      ],
+      "operation": "alpha composite existing product RGB, no recolor or local geometry edits",
+      "source_kind": "derived_alpha_or_crop_of_photo_guided_generated_product"
+    }
+  ],
+  "transform": "See source_layers; all photo transforms uniform scaling/cropping; no nonuniform product stretch",
+  "output": {
+    "path": "production/2026-10-24_完整电商套图/generated/K01-v004.jpg",
+    "sha256": "058effb60918b6c2b876bb7511065d0728e12fe0a82692bc229e842959faae6f"
+  },
+  "working": {
+    "path": "production/2026-10-24_完整电商套图/generated/K01-v004.png",
+    "sha256": "c532c6ac6e01cd144192f290c7bca175060abf73a730b8c013790244ba8f176a"
+  },
+  "dims": [
+    1600,
+    1600
+  ],
+  "notes": "复用本色已核商品像素；同版蓝色定位、独立本色图层；未复刻参考未知滤芯/尺寸",
+  "status": "AWAITING_INDEPENDENT_VISUAL_REVIEW",
+  "refs": [
+    {
+      "id": "A002",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/sku/主图_06.jpg",
+      "sha256": "7322e6cb6300f08ec40fee24691091880eb74a10d6fcb9bdba1f6715a67e1c07"
+    }
+  ]
+}

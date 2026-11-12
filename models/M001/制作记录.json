@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-22",
+  "timezone": "Asia/Shanghai",
+  "call_id": "M001-master-v1",
+  "scope": "单个原创成年白人黑发女模特的身份母版；不带商品",
+  "reviewed_preview_paths": [
+    "references/2026-10-22_首批参考/previews/微信参考_总览_01.png",
+    "references/2026-10-22_首批参考/previews/微信参考_总览_02.png",
+    "references/2026-10-22_首批参考/previews/微信参考_总览_03.png",
+    "references/2026-10-22_首批参考/previews/微信参考_总览_04.png",
+    "references/2026-10-22_首批参考/previews/微信参考_总览_05.png",
+    "references/2026-10-22_首批参考/02_鼎江压缩包/previews/contact_sheet_01.png",
+    "references/2026-10-22_首批参考/02_鼎江压缩包/previews/contact_sheet_02.png",
+    "references/2026-10-22_首批参考/02_鼎江压缩包/previews/contact_sheet_03.png",
+    "references/2026-10-22_首批参考/02_鼎江压缩包/previews/contact_sheet_04.png",
+    "references/2026-10-22_首批参考/previews/A039_长详情_可读分页_01.png",
+    "references/2026-10-22_首批参考/previews/A039_长详情_可读分页_02.png",
+    "references/2026-10-22_首批参考/previews/A039_长详情_可读分页_03.png",
+    "references/2026-10-22_首批参考/previews/A039_长详情_可读分页_04.png",
+    "products/主推花洒/银色/previews/contact_sheet_01.png",
+    "products/主推花洒/银色/previews/contact_sheet_02.png",
+    "products/主推花洒/银色/previews/contact_sheet_03.png",
+    "products/主推花洒/黑色/previews/contact_sheet_01.png",
+    "products/主推花洒/枪灰色/previews/contact_sheet_01.png"
+  ],
+  "reviewed_fullsize_paths": [
+    "references/2026-10-22_首批参考/01_微信参考原图/R022_场景_人物与按钮切换.jpg",
+    "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_01.jpg"
+  ],
+  "reading_completed_before_generation": true,
+  "reference_use": "已实际查看全部74张参考对应的13页预览及23张实拍的5页预览；本次只借鉴商业人物摄影、自然肤感与光线。人物为全新原创，不复制参考人物身份。",
+  "input_images_to_tool": [],
+  "reason_no_image_inputs": "新建原创人物身份母版，不以现有参考模特为身份目标，不带商品；生图工具新图模式不传编辑引用。",
+  "product_sources": "本次无商品入画，三个SKU实拍仅用于项目整体资料阅读。",
+  "chosen_visual_defaults": "约28岁、长黑发、中分、棕榛色眼睛、自然妆容；米白不透明上衣和中性长裤，浅灰摄影背景。",
+  "preserve": "同一张母版的三个视角须为同一位成年人；后续以实际母版锁定脸型、五官、肤色、发际线。",
+  "generated": true,
+  "output": "models/M001/master-v1.png",
+  "actual_dimensions": [
+    1536,
+    1024
+  ],
+  "builtin_call_succeeded": true,
+  "selected_master_version": "v1",
+  "post_generation_visual_review_completed": true
+}

@@ -1,0 +1,232 @@
+{
+  "scope": "K01 K02 K03 M01 M02 M03 M04 M05 M07 M08",
+  "count_task_ids": 10,
+  "count_native_candidates": 13,
+  "in_flight": false,
+  "batch_read": "Reuse actual74 root batch record under BATCH-REF-20261023-v1; all task original refs and specific product photos actually directed viewed",
+  "old_generated_geometry_used": false,
+  "geometry_sources": "new side01/02/03 plus silver91/92; new side master and new threequarter only angle aids",
+  "records": [
+    {
+      "id": "K01",
+      "version": 1,
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/K01-v1.png",
+      "sha256": "f350fbf3c5c2e46c89e5a06a0f94030e07f8d865402e8777acc649a51d51c13b",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "prompt_refs": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/prompts/K01-v1.json",
+      "native_opened": true,
+      "status": "CANDIDATE_PENDING_INDEPENDENT_QA",
+      "self_review": "Layout, text, color and product features visually retained; shallow curve visible, perspective cannot prove full 3D.",
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "K02",
+      "version": 1,
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/K02-v1.png",
+      "sha256": "5f3fa907b9388b98e8b0cc97499e04f18e386e46048c4276ea33e765ec52edc8",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "prompt_refs": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/prompts/K02-v1.json",
+      "native_opened": true,
+      "status": "CANDIDATE_PENDING_INDEPENDENT_QA",
+      "self_review": "Layout, text, color and product features visually retained; shallow curve visible, perspective cannot prove full 3D.",
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "K03",
+      "version": 1,
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/K03-v1.png",
+      "sha256": "b1bfeb26b6ad14ac22963172d6d573682f80ff64d4e44c28039a9dffd7925de2",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "prompt_refs": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/prompts/K03-v1.json",
+      "native_opened": true,
+      "status": "CANDIDATE_PENDING_INDEPENDENT_QA",
+      "self_review": "Gunmetal appears relatively bright; compare actual106/107.",
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "M01",
+      "version": 1,
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M01-v1.png",
+      "sha256": "f63af37ee572ef996ddb155826b6251183ba0eac834e7f1d42f78334f10daa4d",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "prompt_refs": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/prompts/M01-v1.json",
+      "native_opened": true,
+      "status": "CANDIDATE_PENDING_INDEPENDENT_QA",
+      "self_review": "Layout, text, color and product features visually retained; shallow curve visible, perspective cannot prove full 3D.",
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "M02",
+      "version": 1,
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M02-v1.png",
+      "sha256": "5b13e6dc04f10cb24ea060b9b5ab4c4ebc67402dbb3563e28f2ac7a5468c10dd",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "prompt_refs": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/prompts/M02-v1.json",
+      "native_opened": true,
+      "status": "CANDIDATE_PENDING_INDEPENDENT_QA",
+      "self_review": "Layout, text, color and product features visually retained; shallow curve visible, perspective cannot prove full 3D.",
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "M03",
+      "version": 1,
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M03-v1.png",
+      "sha256": "d9e3ca71770fd3557e5cd643ee2601c63b3e73ea682487ead819f2210801215a",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "prompt_refs": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/prompts/M03-v1.json",
+      "native_opened": true,
+      "status": "CANDIDATE_PENDING_INDEPENDENT_QA",
+      "self_review": "Back view curve visually more pronounced; independent QA must compare real shallow S.",
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "M04",
+      "version": 1,
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M04-v1.png",
+      "sha256": "c0731c2d3e9c140c330ba2aeca22e357823f3c54644b397b7c40322d45c744a8",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "prompt_refs": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/prompts/M04-v1.json",
+      "native_opened": true,
+      "status": "CANDIDATE_PENDING_INDEPENDENT_QA",
+      "self_review": "v1 enlarged six spray origins; v2 reduced, exact six roots and equal ring size need QA.",
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "M04",
+      "version": 2,
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M04-v2.png",
+      "sha256": "cd646e1cbb16d687853b67a8be4025f683bc8f4b511ee60623aa42f64ed4576f",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "prompt_refs": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/prompts/M04-v2.json",
+      "native_opened": true,
+      "status": "CANDIDATE_PENDING_INDEPENDENT_QA",
+      "self_review": "v1 enlarged six spray origins; v2 reduced, exact six roots and equal ring size need QA.",
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "M05",
+      "version": 1,
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M05-v1.png",
+      "sha256": "bda91eff2cf534d44b25f99c2e3a889c7100d850c0d40af367dbdb63ef281ad1",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "prompt_refs": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/prompts/M05-v1.json",
+      "native_opened": true,
+      "status": "CANDIDATE_PENDING_INDEPENDENT_QA",
+      "self_review": "Layout, text, color and product features visually retained; shallow curve visible, perspective cannot prove full 3D.",
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "M07",
+      "version": 1,
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M07-v1.png",
+      "sha256": "4812f7e5c2c4825f843aa387a4b6dbe32ec94c70a79767d9a274b546d4734a4c",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "prompt_refs": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/prompts/M07-v1.json",
+      "native_opened": true,
+      "status": "CANDIDATE_PENDING_INDEPENDENT_QA",
+      "self_review": "v1 half dry; v2 added fine right-side origins, pending QA.",
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "M07",
+      "version": 2,
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M07-v2.png",
+      "sha256": "02a5b2066de7ae1a52768555d81f20b53a30aa1694fd99c08a470cffc17bd173",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "prompt_refs": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/prompts/M07-v2.json",
+      "native_opened": true,
+      "status": "CANDIDATE_PENDING_INDEPENDENT_QA",
+      "self_review": "v1 half dry; v2 added fine right-side origins, pending QA.",
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "M08",
+      "version": 1,
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M08-v1.png",
+      "sha256": "b07365184cfb06f5171da77272eb051805b56aa013f78c29aea8c305f6b027e5",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "prompt_refs": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/prompts/M08-v1.json",
+      "native_opened": true,
+      "status": "FAIL_WATER_COVERAGE",
+      "self_review": "v1 and v2 right half of left card still visibly dry; FAIL water coverage, do not mark accepted.",
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "M08",
+      "version": 2,
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M08-v2.png",
+      "sha256": "239ecb6cfc857892f8305d6a7937a1f69308cdd46c32adeac02d74ceeb525b74",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "prompt_refs": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/prompts/M08-v2.json",
+      "native_opened": true,
+      "status": "FAIL_WATER_COVERAGE",
+      "self_review": "v1 and v2 right half of left card still visibly dry; FAIL water coverage, do not mark accepted.",
+      "actual_model": "UNKNOWN",
+      "actual_effort": "UNKNOWN",
+      "user_acceptance": "PENDING"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "D11",
+  "prompt": "Use case: ads-marketing. Generate a completely NEW original two-scene portrait ecommerce shower detail photograph, canvas788x1996, FULL BLEED, absolutely NO TEXT. Image1 is sole adult fictional M001 identity, same black hair, hazel eyes, face/nose/lips. Image2 supplies actual ROUND silver product geometry only, image3 actual fine even water jets only. Image4 A021 provides upper scene high pale-blue daylight/large hand-held head, image5 A019 lower eyes-closed raised-arms composition. Replace their woman and different showerhead entirely. Do not copy any text or accessories. No previous generated person scene is an input or base.\nTop51%: high-key pale ice-blue marble bathroom daylight window on right. M001 in opaque white modest short sleeve tee, long wet black hair, shoulders turned away, looking back toward viewer over shoulder with subtle calm smile. Her raised hand on far left holds actual round silver handheld shower at upper left, face angled downward toward hair/shoulder, the handle runs OUT OF LEFT FRAME naturally, so no open water inlet visible. Show silver housing, single black face, many small LOW FLAT white outlet eyelets, perimeter tiny dark holes, RED center manual descaling ring/button, separate SILVER selector on lower neck. Fine even regular water filaments over the WHOLE active outlet face, central red button NEVER emits water, realistic moderate coverage.\nBottom49%: separate wordless close head-and-shoulders M001 scene, thin white horizontal division. Frontal viewpoint, closed eyes and slight relaxed smile, left arm raised with hand behind head, right hand holds showerhead at upper right with handle OUT OF RIGHT FRAME. Product head directed diagonally down toward top hair, fine regular streams uniformly across full active face. Opaque white tee, normal anatomy, natural hands. This is a DIFFERENT pose/head angle/camera view than top; do not duplicate top head. Retain A019 raised-arm visual pause and original R019 relaxed eyes-closed shower mood.\nSoft commercial beauty photographic lighting, CLEAN SOFT CONTINUOUS UNPATTERNED natural skin tone over face neck arms shoulders, very subtle random pores and only a few isolated random water droplets. Preserve crisp natural eyes/hair/lips. No hyperdetail, patterned skin, diagonal repeating lines, etched grid, fish scales, crosshatch, woven/tiled/rippled skin. Skin should stay gentle, not crispy or engraved. Product needs stable geometry, no enlarged projecting white nozzles, no added grooves/rings in black face, no square head. No hose, bracket, connector, logos, certificates, labels or text anywhere. Any bare silver product thread is silver; but flowing scenes must crop handle ends outside image. Maintain exactly two scenes and the upper/lower51:49 reading structure.",
+  "refs": [
+    "/Volumes/EXTERNAL/电商 作图工作流/models/M001/master-v1.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/K01.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184402_99_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_16.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_14.jpg"
+  ],
+  "directed_images_viewed": [
+    "models/M001/master-v1.png",
+    "production/2026-10-22_参考重构/final/K01.png",
+    "products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+    "products/主推花洒/银色/原图/微信图片_20261022184402_99_2.jpg",
+    "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_16.jpg",
+    "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_14.jpg",
+    "references/2026-10-22_首批参考/01_微信参考原图/R026_场景_浅色浴室人物.jpg",
+    "references/2026-10-22_首批参考/01_微信参考原图/R019_场景_人物淋浴体验.jpg",
+    "production/2026-10-22_参考重构/final/D11.png"
+  ],
+  "fresh": true,
+  "old_person_images_as_input": false,
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "batch_full_read_record": "Reuse root M04-v1/M06-v1 and M04-v2 preflight under BATCH-REF-20261023-v1"
+}

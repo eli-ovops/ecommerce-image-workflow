@@ -1,0 +1,68 @@
+{
+  "text": [
+    {
+      "text": "银色顶喷",
+      "x": 65,
+      "y": 67,
+      "size": 40,
+      "color": "#efd0a3",
+      "font": "Heiti SC",
+      "bold": true,
+      "oblique": false,
+      "gold_gradient": true,
+      "extrusion_px": 3
+    },
+    {
+      "text": "提拉红钮 辅助除垢",
+      "x": 63,
+      "y": 148,
+      "size": 70,
+      "color": "#efd0a3",
+      "font": "Heiti SC",
+      "bold": true,
+      "oblique": true,
+      "gold_gradient": true,
+      "extrusion_px": 3
+    },
+    {
+      "text": "长方形大面板",
+      "x": 63,
+      "y": 242,
+      "size": 74,
+      "color": "#efd0a3",
+      "font": "Heiti SC",
+      "bold": true,
+      "oblique": true,
+      "gold_gradient": true,
+      "extrusion_px": 3
+    },
+    {
+      "text": "向外提拉 · 短针辅助清理",
+      "x": 65,
+      "y": 354,
+      "size": 38,
+      "color": "#efd0a3",
+      "font": "Heiti SC",
+      "bold": true,
+      "oblique": false,
+      "gold_gradient": true,
+      "extrusion_px": 3
+    }
+  ],
+  "transforms": [
+    {
+      "source": "native-static.png",
+      "uniform": true,
+      "rotation": -8,
+      "xy": [
+        39,
+        512
+      ],
+      "size": [
+        832,
+        1001
+      ]
+    }
+  ],
+  "note": "已更换照片剪贴主体，仍可见三维银壳和红钮质感，未达摄影级。"
+}

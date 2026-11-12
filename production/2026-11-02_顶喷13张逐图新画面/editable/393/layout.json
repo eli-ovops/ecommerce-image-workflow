@@ -1,0 +1,60 @@
+{
+  "text": [
+    {
+      "text": "从面板到接头",
+      "x": 50,
+      "y": 65,
+      "size": 76,
+      "color": "#efd0a3",
+      "font": "Songti SC"
+    },
+    {
+      "text": "细看顶喷外观",
+      "x": 50,
+      "y": 160,
+      "size": 68,
+      "color": "#efd0a3",
+      "font": "Songti SC"
+    },
+    {
+      "text": "面板纹样",
+      "x": 38,
+      "y": 1138,
+      "size": 40,
+      "color": "#efd0a3",
+      "font": "Songti SC"
+    },
+    {
+      "text": "银色侧边",
+      "x": 389,
+      "y": 1138,
+      "size": 40,
+      "color": "#efd0a3",
+      "font": "Songti SC"
+    },
+    {
+      "text": "接头开口",
+      "x": 740,
+      "y": 1138,
+      "size": 40,
+      "color": "#efd0a3",
+      "font": "Songti SC"
+    }
+  ],
+  "transforms": [
+    {
+      "source": "product372.png",
+      "angle": -15,
+      "xy": [
+        271,
+        270
+      ],
+      "size": [
+        673,
+        534
+      ],
+      "uniform": true
+    }
+  ],
+  "note": "参考393暖浴室、金色章节、主物和下部信息卡。AIR/节水/内部爆炸结构完全无证据，主题替换为外观三处；此图不标原AIR功能已覆盖。"
+}

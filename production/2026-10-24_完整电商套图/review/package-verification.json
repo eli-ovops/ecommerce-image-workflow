@@ -1,0 +1,14 @@
+{
+  "reviewed_at": "2026-10-24T23:37:47+08:00",
+  "zip": {
+    "path": "production/2026-10-24_完整电商套图/花洒完整电商套图_JPG_24张.zip",
+    "sha256": "eeba720aa6d1e8a1015ddaab9ceb51aaf98e6b804242c4e40b2fa954887b825e"
+  },
+  "jpg_count": 24,
+  "jpg_only": true,
+  "decoded_jpg_count": 24,
+  "archive_readback_hash_match": true,
+  "independent_images": 22,
+  "long_compositions": 2,
+  "customer_acceptance": "UNKNOWN"
+}

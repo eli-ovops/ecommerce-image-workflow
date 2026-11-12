@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-23",
+  "owner": "geometry_redteam_main",
+  "scope": "D04 D11 D06 local composites, six scenes",
+  "criteria": "可见普通白孔自身起根，无明确干孔或非孔误喷才可PASS_WITH_LIMITS；红钮和外围黑细孔不要求出水。",
+  "items": [
+    {
+      "id": "D04",
+      "candidate_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/water-feedback-20261023/D04-local/composite.png",
+      "sha256": "e69f9dd6b66bd1b99a2ed29d95f963a0e4df6d4cddd45061e568a2023c3a9db6",
+      "verdict": "PASS_WITH_LIMITS",
+      "scenes": [
+        {
+          "scene": "upper",
+          "visible_evidence": "上部和右半原大片干白孔已补起根；未见明确非孔误喷。",
+          "status": "PASS_WITH_LIMITS"
+        },
+        {
+          "scene": "lower",
+          "visible_evidence": "下横侧可辨白孔起根补齐；原(285,1281)伪孔未被新增水束强化。",
+          "status": "PASS_WITH_LIMITS"
+        }
+      ],
+      "outside_water_layer_changed_pixels": 0,
+      "face_region_changed_pixels": [
+        0
+      ],
+      "changed_pixels": 96947,
+      "naturalness": "新增线比原水更细、更规则，放大可辨两种纹理；全幅整体方向相容，未见必须返工的明显断根/壳出水。"
+    },
+    {
+      "id": "D11",
+      "candidate_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/water-feedback-20261023/D11-local/composite.png",
+      "sha256": "4f2e8e585a89fd833eaaf0906cb26ada8dda20d8146d11431ba2649417346008",
+      "verdict": "PASS_WITH_LIMITS",
+      "scenes": [
+        {
+          "scene": "upper",
+          "visible_evidence": "右半可见白孔现可追踪朝左起根；红钮及切档键保留。",
+          "status": "PASS_WITH_LIMITS"
+        },
+        {
+          "scene": "lower",
+          "visible_evidence": "左半原干孔已补；(632,1019)/(626.78,1026)两银边误喷已去除，漏孔修正可见。",
+          "status": "PASS_WITH_LIMITS"
+        }
+      ],
+      "outside_water_layer_changed_pixels": 0,
+      "face_region_changed_pixels": [
+        0,
+        0
+      ],
+      "changed_pixels": 66073,
+      "naturalness": "新增线比原水更细、更规则，放大可辨两种纹理；全幅整体方向相容，未见必须返工的明显断根/壳出水。"
+    },
+    {
+      "id": "D06",
+      "candidate_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/water-feedback-20261023/D06-local/composite.png",
+      "sha256": "7d4b331f9d04e15e2c547699c9f11e3129b4369eccb3d96967a8a8d22c21e14d",
+      "verdict": "PASS_WITH_LIMITS",
+      "scenes": [
+        {
+          "scene": "upper",
+          "visible_evidence": "原第二/第三排干孔现有较细透明起根；密集下半部分连接仍不清。",
+          "status": "PASS_WITH_LIMITS"
+        },
+        {
+          "scene": "lower",
+          "visible_evidence": "定向复看QA-target-7131229-after.png及当前composite的原坐标裁切，(713,1229)白孔已有细透明连续水根，能沿下方追踪并与(715,1240)独立下孔区分；非孔(696,1229)未添加。弱根定位问题已解决。",
+          "status": "PASS_WITH_LIMITS"
+        }
+      ],
+      "outside_water_layer_changed_pixels": 0,
+      "face_region_changed_pixels": [],
+      "changed_pixels": 76457,
+      "naturalness": "新增线比原水更细、更规则，放大可辨两种纹理；全幅整体方向相容，未见必须返工的明显断根/壳出水。",
+      "history": [
+        {
+          "previous_sha256": "7c7db4be09ea177de7d859fbed9ef43713c0e69ad7d9899eed698c33f8944b86",
+          "note": "首轮约(696,1229)疑似弱根定位不准；Owner定向核实该坐标不是独立孔，真实待补白孔为(713,1229)。旧候选composite-v1.png保留。"
+        }
+      ]
+    }
+  ],
+  "actual_viewing": [
+    "D04/D11原生composite全幅及四water-crop",
+    "D11去两误喷后lower-water-crop复看及最终composite全幅",
+    "D06原生composite与上下port-check，并从composite内存裁切放大实际根部",
+    "D06 v2 QA-target-7131229-after.png、resolution.json及当前composite(690,1210)-(735,1360)内存裁切"
+  ],
+  "limits": [
+    "密集交叠处部分孔口连接仍无法独立分离，不声称逐孔全数计量通过",
+    "像素保护验证针对无损PNG，JPG再编码不保证逐像素一致",
+    "不代表用户已接受或真实性能测试"
+  ],
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "images_modified": [],
+  "temporary_files_created": []
+}

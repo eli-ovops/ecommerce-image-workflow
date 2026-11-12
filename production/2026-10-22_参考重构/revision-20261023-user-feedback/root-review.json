@@ -1,0 +1,86 @@
+{
+  "native_reviews": [
+    {
+      "id": "M06",
+      "candidate": "M06-userfix-v2.png",
+      "sha256": "ba984e745aa4b953cbbc174acac6bfe53cfd0faf314475677143a29e4eecce8d",
+      "viewed_at_utc": "2026-10-23T02:58:43.785870+00:00",
+      "method": "Actually opened full native1254 square candidate.",
+      "findings": "Fresh portrait retains M001 identity, warm scene/white SKU split and legible silver/single-head labels. Silver threaded end visible, scene skin appears substantially cleaner than old reticulated version; water/hand/product remain coherent. Independent QA pending, not final acceptance."
+    },
+    {
+      "id": "M03",
+      "candidate": "final/M03.png",
+      "sha256": "de436674c3ed7ed97b27c181f1d690ed2358ac51f22b060d1524bff503233842",
+      "viewed_at_utc": "2026-10-23T03:36:37.453646+00:00",
+      "method": "Actually opened full native image",
+      "findings": "Back center is continuous pale silver reflection, no gray round patch; front face, manual-red-pin inset, cool composition and text retained."
+    },
+    {
+      "id": "D12",
+      "candidate": "final/D12.png",
+      "sha256": "49a7288331e23b1a5dd44d0cd2956c4ba77b4860473d60c5e5dda3c15d11e4f3",
+      "viewed_at_utc": "2026-10-23T03:36:37.456886+00:00",
+      "method": "Actually opened full native image",
+      "findings": "Back center round disc removed; continuous chrome gradient and natural environment reflection; front panel and two-column labels intact."
+    },
+    {
+      "id": "D14",
+      "candidate": "D14-userfix-v1.png",
+      "sha256": "f9049f57d1a5047a786dc5f5752a00b41cbdca589b40e51c2de4d4ca0238e022",
+      "viewed_at_utc": "2026-10-23T03:36:37.457874+00:00",
+      "method": "Actually opened full native image",
+      "findings": "Top decorative back has continuous silver surface without circular patch; lower three steps/two-state comparison retained."
+    },
+    {
+      "id": "D15",
+      "candidate": "D15-userfix-v1.png",
+      "sha256": "b7cce21f4383a993270078f52d1db06fe55521b41e33e6ea60b6e6718ff7114d",
+      "viewed_at_utc": "2026-10-23T03:53:20.323582+00:00",
+      "method": "Actually opened full native image",
+      "findings": "Bottom right held back is continuous chrome with round center mark removed; side profile, hand grip, annotations and two-row composition preserved."
+    },
+    {
+      "id": "V06",
+      "candidate": "V06-userfix-v1.png",
+      "sha256": "b528ec6851b2cd570c9f56dd234fc8f0dde3ecc30ff8e48790462b6fb2020bb8",
+      "viewed_at_utc": "2026-10-23T03:59:00.910287+00:00",
+      "method": "Actually opened full native image",
+      "findings": "Header back outline now has continuous silver chrome reflection and no center disc; six lower appearance detail cells and warm bathroom/white grid layout retained."
+    },
+    {
+      "id": "M06",
+      "candidate": "M06-userfix-v2.png",
+      "status": "NEEDS_FIX",
+      "viewed_at_utc": "2026-10-23T05:32:44.878397+00:00",
+      "method": "Actually viewed inspection-only 3x face crop from original pixels",
+      "findings": "Repeating diagonal bands/grid are visible across lower cheek and jaw. Independent QA rejection corroborated. Fresh regeneration required; v2 is not an acceptable final portrait base."
+    },
+    {
+      "id": "M04",
+      "candidate": "M04-userfix-v4.png",
+      "status": "NEEDS_FIX",
+      "viewed_at_utc": "2026-10-23T05:38:02.629845+00:00",
+      "method": "Actually viewed entire native image",
+      "findings": "Six mist roots countable in each relevant window; normal coverage improved and right hero remains dry. Mist root outlet rings enlarged visibly relative to ordinary neighboring holes, so not selected; independent QA rejection corroborated."
+    },
+    {
+      "id": "M07",
+      "candidate": "M07-userfix-v1.png",
+      "sha256": "3c754ceace22ef456f148c14d3392164dfac5bd7496acd33c6e3abd4a688f8fe",
+      "viewed_at_utc": "2026-10-23T06:06:11.832261+00:00",
+      "method": "Actually opened full native image",
+      "status": "NEEDS_FIX",
+      "findings": "Full face water coverage improved, but many white annuli have clear thick sleeve sidewalls; independent QA structural rejection corroborated."
+    },
+    {
+      "id": "M08",
+      "candidate": "M08-userfix-v1.png",
+      "sha256": "6e0f3d975098083c0627623dfaced06dbbf826787d29609bea62611a859707db",
+      "viewed_at_utc": "2026-10-23T06:06:11.836041+00:00",
+      "method": "Actually opened full native image",
+      "status": "PASS_WITH_LIMITATIONS",
+      "findings": "Left card fine streams now cover the effective outlet face; other two button cards, three features and warm visual hierarchy retained. Hand texture remains part of prior unaffected layout, not a fresh portrait scene."
+    }
+  ]
+}

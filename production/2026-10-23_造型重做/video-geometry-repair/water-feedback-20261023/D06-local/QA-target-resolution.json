@@ -1,0 +1,24 @@
+{
+  "added_mouth": [
+    713,
+    1229
+  ],
+  "not_a_separate_mouth": [
+    696,
+    1229
+  ],
+  "existing_distinct_lower_mouth": [
+    715,
+    1240
+  ],
+  "v2_sha256": "7d4b331f9d04e15e2c547699c9f11e3129b4369eccb3d96967a8a8d22c21e14d",
+  "change_bbox_vs_v1": [
+    710,
+    1228,
+    718,
+    1477
+  ],
+  "v1_changed_pixels": 1038,
+  "upper_scene_changed_pixels": 0,
+  "source_unchanged": true
+}

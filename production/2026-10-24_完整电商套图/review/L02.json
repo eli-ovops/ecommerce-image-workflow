@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "reviewer": "root",
+  "reviewed_at": "2026-10-24T23:37:47+08:00",
+  "jpg_sha256": "5aa287d2971b473b7de42b989c8e05b0eaca37265a6f6f0437abd6da53888dd6",
+  "finding": "M02、M04、M08、W01、W02组成暖棕路线；裁掉M08重复上标题，商品/操作内容保留。已打开全长总览及4处接缝。",
+  "checks": {
+    "product": "PASS",
+    "reference_style": "PASS",
+    "copy": "PASS",
+    "layout": "PASS",
+    "export": "PASS"
+  },
+  "visual_method": "本轮实际查看成品及对应参考；未改变的已审图复用哈希，最新改字/侧窗/尾端遮罩作定向复核，长图另查总览与接缝。",
+  "limits": "内部人工视觉检查；不等同客户接受、精密3D测量或自动逐孔水流识别。水流/按压照片为原实拍；广告商品图层部分为实拍引导生成层。"
+}

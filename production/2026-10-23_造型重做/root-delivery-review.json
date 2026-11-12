@@ -1,0 +1,264 @@
+{
+  "date": "2026-10-23",
+  "owner": "root",
+  "status": "PORTRAIT_REPAIRED_CANDIDATE_USER_REVIEW_PENDING",
+  "method": "本轮实际打开3张选定原生图、3张JPG导出、2页受影响总览、3处带上下接缝的长图检查页；其余29张复用不变文件及有效原生风格检查，并按新增视频完成30张复核。",
+  "overview_pages_actually_viewed": [
+    "previews/overview_02.jpg",
+    "previews/overview_03.jpg"
+  ],
+  "scroll_pages_actually_viewed": [
+    "video-geometry-repair/assembly-QC-D04.jpg",
+    "video-geometry-repair/assembly-QC-D06.jpg",
+    "video-geometry-repair/assembly-QC-D11.jpg"
+  ],
+  "observations": [
+    "D04握柄长度及银裸螺纹修正；D06下横侧台阶修正；D11两场景商品与皮肤重新生成核验。",
+    "D04/D11从M001与实拍/视频新生成，最后选定版本没有再次编辑。",
+    "JPG导出与长图变更位置及前后接缝可读，无裁切、拉伸或错序；其他29张独立JPG哈希不变。",
+    "M03、D15、V01、V06仍为低置信疑似，保留客户核对标记。"
+  ],
+  "limitations": [
+    "仅可见轮廓相容；未进行精确三维标定、尺寸测量或性能实测。",
+    "局部裁切与水流交叠影响遮挡部位和逐孔起点核验，不推定全部隐藏部分。",
+    "M03/D15/V01/V06仍需客户核对，用户尚未验收整套。",
+    "总览页local links静态核对通过；CUA拒绝file:协议，未完成浏览器渲染核验，未绕过。"
+  ],
+  "selected_native_sha256": {
+    "M01": "f63af37ee572ef996ddb155826b6251183ba0eac834e7f1d42f78334f10daa4d",
+    "M02": "566e25acbedeb606186758baafea6b9b0aa4f61e0821f25f34f1186d638ce821",
+    "M03": "d9e3ca71770fd3557e5cd643ee2601c63b3e73ea682487ead819f2210801215a",
+    "M04": "f2b1fa01f3aecc8c3ca7d5e6303a26d49cfcaecedd51ec5510e670d01351a0cd",
+    "M05": "bda91eff2cf534d44b25f99c2e3a889c7100d850c0d40af367dbdb63ef281ad1",
+    "M06": "47ee91952772cd88c34bbaa1ca8b8fd8954d6177317487a539e2004e4f95501e",
+    "M07": "02a5b2066de7ae1a52768555d81f20b53a30aa1694fd99c08a470cffc17bd173",
+    "M08": "e4a39c6aa3bda285e0c5f47f1e6c0358c0d5bbd454b96dbf848b5949f01b0b4d",
+    "K01": "f350fbf3c5c2e46c89e5a06a0f94030e07f8d865402e8777acc649a51d51c13b",
+    "K02": "5f3fa907b9388b98e8b0cc97499e04f18e386e46048c4276ea33e765ec52edc8",
+    "K03": "b1bfeb26b6ad14ac22963172d6d573682f80ff64d4e44c28039a9dffd7925de2",
+    "D01": "2986e8d8f02eda136342e55da108c8b70dc8541251351a484135a7368015da86",
+    "D03": "59c3b271f555c42a49cce72e5ad17349bc27c6e1254de33b2770fc779185151b",
+    "D04": "9f0d07f3c9e53e82605460dc708652cff08717c8ac8741a5439b1695423cc4a6",
+    "D05": "71433e2a3f152a9188098da410aba44c4f8bb11773efd6619ea1af8dff0b9480",
+    "D06": "9222db0321db291160281eebf831b659fb951601f17d6f84550fb759c244a1bb",
+    "D07": "99430354269ac91dabc9025234cc36278661164d706d695b88117ead287f5ad7",
+    "D08": "4029c2681ab701f6ccf5b491e5da0a9e8b5a125093e89b79749cd41f3610f233",
+    "D11": "e1c835d445864a04cfe2efe3aa770a0a8f867bd35f0bcb5694e2aaf2063fe128",
+    "D12": "68f16ab422240f88a5837c4d3069cfce120bed694c98d82a1248fed2af262bea",
+    "D13": "a953bce0ecb6b8852c236d95241c287f1b250e652fbdc41b434ede4a412bd92d",
+    "D14": "54e6cabad39ffbb5f10d9b63a2cd0ea66ffe3db637064023ec3a85d56cf56d27",
+    "D15": "4116a6d138269948a342267c080bb55826a7d782c4135d950936657a885e2070",
+    "D16": "693fcdff9ee286f0860624faa683ae4161b6c02bd024e7e33f4de90ddd6565a2",
+    "D17": "219330112d1a15091926d46e6939d47176b70fef684691325abe80338948e916",
+    "D18": "e40fc3e78ef8a747af53b7938d7e74450474a93e008a5f8a86be89ebfedf1ae4",
+    "V01": "6ed0fd410244c5a076d0cd824e63da81afcbaa02cc298403397f2972a5dd161a",
+    "V02": "6152c8167fec88045fc5347c709f686588ac3888741f1cf6fee6a428e31d8782",
+    "V03": "d16649c4ff5bfaa7f450cbdaa2d47d56183a6bfa81bcf68a46d82e4ae4f71752",
+    "V04": "6c75e186733f540f76d2f1a2f76761fd7105d7f70bb2a6628f1e0e55f30fc1d2",
+    "V05": "fd842ecb73a5a100612ff1a2395f34c03e45aae636c0cc2298aa042ce537c100",
+    "V06": "763f3947eea7458c90057f0fdaf507517fcda12298362e3d7b3768a36a48e7d6"
+  },
+  "jpg_sha256": {
+    "M01": "368f48389b9713591e8bdcfb1994448f8e5fc33d2dc7fdd77b0703b4d28c133e",
+    "M02": "3308b2b347ad3a44712e5e47dac11858e93aa65835173cabc594089e74ec6428",
+    "M03": "716500db5220f481f550438ac2c41f53db59bb8d764019ae0fbca200224dd173",
+    "M04": "ea7d90e73c712139afc9b78b0555b59bbd0d80251f3ae732eb048e572a206fe8",
+    "M05": "d88e0bbf47c72d391bfde4de54a40687d460c109789f3430312a295c22b101ef",
+    "M06": "c827daf01b17a6b3576a9c2285bc86e1bf0c72c5c29ed54dca346f44ffaea7c8",
+    "M07": "f612d086c43a89204af872219e4258696d664384ace5b7b82a863fc2eb3765a2",
+    "M08": "d17902da2b4772fe159b0fae167f4036679dd9987f54f34aeafdba1c70d30bfd",
+    "K01": "d5573f412eb6f3ef851e7eed77f1d020b5cf378b895a87e4ab9b590516b75281",
+    "K02": "c77349aba245717f8e10f7dda97ea6f282ab27b3cdefdf71750a3cc4950f4dc2",
+    "K03": "46fbc6ab7a7f0139e18a28baad0196b3a508613b1aa380424848846c81f6a3e0",
+    "D01": "36fcf40bf844d7b70ad7141562e0e551a95449175a50dae48935c1a23ef0dd69",
+    "D03": "42c99a9e40aa1f5cb816c75d67065724fab9b5b4ced2c408056afa51bffcbc03",
+    "D04": "df6e594b1099117e4f0c15b838cf2c91663da67972e54a541c2bba420c8ea078",
+    "D05": "7a23a64a8f6e4f6308ce7dd9c33941429d8564d489b6478827b799a6271a74b9",
+    "D06": "336693ea1bfcf378e1b7933f4739cce516a9cea200a4fe141f13ef9847c08dd1",
+    "D07": "e91899fad776655133645fa7cea4142e9431564ac6c4449460b17151fa111807",
+    "D08": "0f3dd3c1e88121a3d2acfda9823303dea791d11efa8caa097354d72d537ae9d5",
+    "D11": "34496c3fb05666f3e8f1b6dde5bcf5785676cb7387937b1da81d8c531fb84136",
+    "D12": "c823866e8bd95fc896279c7e21b4abe2591b923a154f15a35845bc333ae5b96a",
+    "D13": "8e7e6794b147e55c215a5c91680b487f4e62721ff67caf7736513d95050fe974",
+    "D14": "e9e0b4baf1182f3276994020fd9ce4b9623cdb720af9f9514374979fe23a36a0",
+    "D15": "e9bd2ee30c2c1c450c3c2f402c2968c6bc8fa9acb26a22acc37e430ffe25b2c5",
+    "D16": "7e41bdb4cc1a7d5a0bf550a3206a36bf2fbeff32a50da73ea0c2533d1afbd446",
+    "D17": "28bcdd19efb9ac433d8e1fc3eaf76df8f4f4e1547f35c1349e3e690dfbf262a7",
+    "D18": "d4046c5f50886f7bda6c9270599ba8729d1116b1561b0d2986f986bd6dd50607",
+    "V01": "4b235a0541de5300134fc5c986a47a30f12c41be4d3843a7146172a35df7b1d9",
+    "V02": "2960507e2003aeead6a576be9b71351b74cabc2a3d87f2f241ae4347c35d7750",
+    "V03": "afd8e5719b05a3f176ff5a6ac6fa113c5c45426064656b916fbebd754faf83fa",
+    "V04": "190253105c74839c4635132ffb3693c7cb8e44034673cc7dcee8f241daaf4099",
+    "V05": "ee959d08be8bcbb7e6fbc95fbb0d4c263b55af55acac0788da80c408567320b7",
+    "V06": "8957332d585378587ec56b841b5fc0fdb9e660e37cc34e75167a830a2cd16336"
+  },
+  "client_archive": "花洒_人物与水流修订_JPG.zip",
+  "archive_sha256": "04eb670496281b6d04a95698267d4f9c2ccdf8aead27cfa49317713062439e34",
+  "user_acceptance": "PENDING",
+  "generation_tool": "built-in image_gen",
+  "prompt_set": "prompt-set.json",
+  "geometry_reopened_20261023": {
+    "reason": "User reports some shapes remain wrong; adversarial32 review finds visible contradictions and unresolved perspectives.",
+    "report": "geometry-adversarial-review/review-summary.json",
+    "priority_confirmed": [
+      "D06",
+      "D11"
+    ],
+    "priority_suspect": [
+      "D04"
+    ],
+    "user_acceptance": "NOT_ACCEPTED_GEOMETRY_FEEDBACK"
+  },
+  "modified_ids": [
+    "D04",
+    "D11"
+  ],
+  "geometry_suspect_ids": [
+    "M03",
+    "D15",
+    "V01",
+    "V06"
+  ],
+  "video_increment": {
+    "native_images_actually_viewed": [
+      "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/D04-fresh-video-v2.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/D06-video-v1.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/D11-fresh-video-v5.png"
+    ],
+    "assembly_review": "PASS_WITH_LIMITATIONS",
+    "assembly_context_pages": [
+      {
+        "id": "D04",
+        "path": "video-geometry-repair/assembly-QC-D04.jpg",
+        "bounds": [
+          2530,
+          4132
+        ]
+      },
+      {
+        "id": "D06",
+        "path": "video-geometry-repair/assembly-QC-D06.jpg",
+        "bounds": [
+          5102,
+          6401
+        ]
+      },
+      {
+        "id": "D11",
+        "path": "video-geometry-repair/assembly-QC-D11.jpg",
+        "bounds": [
+          9119,
+          10856
+        ]
+      }
+    ],
+    "overview_pages": [
+      "previews/overview_02.jpg",
+      "previews/overview_03.jpg"
+    ],
+    "limitations": "M03/D15/V01/V06 remain low confidence suspects; no precise 3D or user acceptance claimed."
+  },
+  "water_increment": {
+    "selected": [
+      {
+        "id": "D04",
+        "source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/water-feedback-20261023/D04-local/composite.png",
+        "native_sha256": "e69f9dd6b66bd1b99a2ed29d95f963a0e4df6d4cddd45061e568a2023c3a9db6",
+        "jpg_sha256": "696065a4d9b6c430807d6e9e7a22dbd2b4a8abbb25fcde2c7975f38707e6ba57",
+        "dimensions": [
+          941,
+          1670
+        ]
+      },
+      {
+        "id": "D06",
+        "source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/water-feedback-20261023/D06-local/composite.png",
+        "native_sha256": "7d4b331f9d04e15e2c547699c9f11e3129b4369eccb3d96967a8a8d22c21e14d",
+        "jpg_sha256": "a2775268f12ea8603ca3703d3276e79b9e9e53aad0495200f697ff0193d13ed5",
+        "dimensions": [
+          1063,
+          1479
+        ]
+      },
+      {
+        "id": "D11",
+        "source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/water-feedback-20261023/D11-local/composite.png",
+        "native_sha256": "4f2e8e585a89fd833eaaf0906cb26ada8dda20d8146d11431ba2649417346008",
+        "jpg_sha256": "ce22b77aacfb37708a12a8f2613412c230ddc6101e6650b0864d3defb850cb02",
+        "dimensions": [
+          899,
+          1749
+        ]
+      }
+    ],
+    "review": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/water-feedback-20261023/independent-local-water-review.json",
+    "assembly_review": "PASS_WITH_LIMITATIONS",
+    "overviews": [
+      "previews/overview_02.jpg",
+      "previews/overview_03.jpg"
+    ],
+    "limitations": "Geometry suspects M03/D15/V01/V06 persist; customer acceptance pending.",
+    "actual_visual_review": {
+      "client_jpgs": [
+        "exports/JPG/D04.jpg",
+        "exports/JPG/D06.jpg",
+        "exports/JPG/D11.jpg"
+      ],
+      "overviews": [
+        "previews/overview_02.jpg",
+        "previews/overview_03.jpg"
+      ],
+      "scroll_contexts": [
+        "assembly-QC-D04.jpg",
+        "assembly-QC-D06.jpg",
+        "assembly-QC-D11.jpg"
+      ],
+      "result": "All actually opened; selected water fixes present, existing text/style retained, no missing joins or fresh clipping found."
+    },
+    "pixel_evidence": "video-geometry-repair/water-feedback-20261023/root-pixel-protection.json"
+  },
+  "portrait_increment": {
+    "selected": [
+      {
+        "id": "D04",
+        "native_source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/portrait-feedback-20261023/D04-portrait-new-person.png",
+        "native_sha256": "d07c9ec50b59cf697f1ec538e8a5cb3d583c28ae635753c3e2818d6781acfcb0",
+        "jpg_sha256": "858a36c25c52a55764ccc23aebdb6dbeeda0f352b1c510869df0e689609e76ae",
+        "dimensions": [
+          941,
+          1670
+        ]
+      },
+      {
+        "id": "D11",
+        "native_source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/portrait-feedback-20261023/D11-portrait-new-person.png",
+        "native_sha256": "f3458900986918bdb29060f8c827a1c423299d8a2febadf6f232832f7ea6b8d6",
+        "jpg_sha256": "9d8aff56e4a37cc053e22145c36d8de32a37e43ff6bbb3510ab5ad900c1813bf",
+        "dimensions": [
+          899,
+          1749
+        ]
+      }
+    ],
+    "review": "video-geometry-repair/portrait-feedback-20261023/independent-person-final.json",
+    "preservation": "video-geometry-repair/portrait-feedback-20261023/root-product-water-preservation.json",
+    "assembly_review": "PASS_WITH_LIMITATIONS",
+    "assembly_review_evidence": {
+      "status": "PASS_WITH_LIMITATIONS",
+      "actual_viewed": [
+        "exports/JPG/D04.jpg",
+        "exports/JPG/D11.jpg",
+        "previews/overview_02.jpg",
+        "previews/overview_03.jpg",
+        "video-geometry-repair/portrait-feedback-20261023/assembly-QC-D04.jpg",
+        "video-geometry-repair/portrait-feedback-20261023/assembly-QC-D11.jpg"
+      ],
+      "findings": "导出JPG人物肤理、下颌和领口未新增明显缺陷；两张总览和两处组合长图上下衔接完整，当前修订已合入。",
+      "archive_current_exports_sha256_match": true,
+      "client_files": 34,
+      "client_format": "JPG only",
+      "browser_rendering": "NOT_PERFORMED; file links statically verified, actual exported images visually reviewed",
+      "user_acceptance": "PENDING"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "blend_sha256": "e70302fa9794ee87042af719e548ca41fb5347ee614377f894bd431270fa0d39",
+  "blender": "5.2.2 LTS",
+  "views_same_saved_model": true,
+  "camera_uncalibrated": true,
+  "dimensions_are_measurements": false,
+  "lights": [
+    "Large neutral key",
+    "Narrow side strip"
+  ],
+  "external_image_dependencies": []
+}

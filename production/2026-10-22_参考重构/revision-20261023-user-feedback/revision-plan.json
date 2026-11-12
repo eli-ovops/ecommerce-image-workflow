@@ -1,0 +1,88 @@
+{
+  "status": "IN_PROGRESS",
+  "water": [
+    "M04",
+    "M07",
+    "M08",
+    "D08",
+    "D05",
+    "D06"
+  ],
+  "fresh_portraits": [
+    "M06",
+    "D01",
+    "D04",
+    "D11",
+    "V01",
+    "V02"
+  ],
+  "back_inspection": [
+    "M03",
+    "D05",
+    "D12",
+    "D14",
+    "D15",
+    "V03",
+    "V06"
+  ],
+  "confirmed_back_fixes": [
+    "M03",
+    "D12",
+    "D14",
+    "D15",
+    "V06"
+  ],
+  "note": "All six full native portrait pages inspected: visible reticulated skin in forehead/cheek/neck; fresh generation from M001+original product+original layout refs only, no old portrait input. Additional back fixes set only after actual native review. Candidates isolated; original32 retained.",
+  "notes": "D05 native back clean (keep back but fix water); D15 native has circular patch, add to mandatory back fixes. Six portraits all inspected native and show reticulated texture; regenerate all6.",
+  "back_native_inspection": "M03 circular patch confirmed; V03 clean. D05 back clean; water revision only.",
+  "execution_ids": [
+    "M04",
+    "M07",
+    "M08",
+    "D08",
+    "D05",
+    "D06",
+    "M06",
+    "D01",
+    "D04",
+    "D11",
+    "V01",
+    "V02",
+    "M03",
+    "D12",
+    "D14",
+    "D15",
+    "V06"
+  ],
+  "total_affected": 17,
+  "owner": "image_production",
+  "selected": {
+    "M03": {
+      "path": "final/M03.png",
+      "candidate": "M03-userfix-v1.png",
+      "qa_status": "PASS_WITH_LIMITATIONS"
+    }
+  },
+  "parallel_authorization": "User explicitly requested more concurrent sub-conversations for speed on 2026-10-23",
+  "active_ownership": {
+    "root": [
+      "M04",
+      "M06",
+      "canonical merge/export/customer package"
+    ],
+    "portrait_finish": [
+      "D11",
+      "V01",
+      "V02"
+    ],
+    "water_finish": [
+      "D04 lower detail only",
+      "D05",
+      "D06"
+    ],
+    "silver_detail_review": [
+      "all independent QA"
+    ],
+    "image_production": "Original production work retained; stopped after capacity failure; no in-flight image operation"
+  }
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "id": 387,
+    "whole_product_source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-03_顶喷两张细节回源修订/sources/product372.png",
+    "rotation_ccw": 87,
+    "scale": 0.1939120631341601,
+    "rotated_size": [
+      598,
+      860
+    ],
+    "xy": [
+      425,
+      190
+    ],
+    "perspective_warp": false,
+    "ai_product_pixels": false,
+    "product_relighting": false,
+    "text": [
+      "宽幅大面板",
+      "充沛大水量",
+      "细密喷面",
+      "银色顶喷"
+    ],
+    "source_limit": "Photo372 front angle; thickness/back not reconstructed. Source knob occlusion and reflections remain."
+  },
+  {
+    "id": 399,
+    "whole_product_source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-03_顶喷两张细节回源修订/sources/product372.png",
+    "rotation_ccw": 68,
+    "scale": 0.20403377110694185,
+    "rotated_size": [
+      870,
+      1031
+    ],
+    "xy": [
+      35,
+      525
+    ],
+    "perspective_warp": false,
+    "ai_product_pixels": false,
+    "product_relighting": false,
+    "text": [
+      "大面板 大水量",
+      "舒展沐浴空间"
+    ],
+    "source_limit": "Photo372 front angle; thickness/back not reconstructed. Source knob occlusion and reflections remain."
+  }
+]

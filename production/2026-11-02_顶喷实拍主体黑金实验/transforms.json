@@ -1,0 +1,198 @@
+{
+  "source_original": "products/长方形拉钮顶喷/原始实拍20261030/微信图片_20261030154107_372_2.jpg",
+  "source_oriented_size": [
+    5712,
+    4284
+  ],
+  "mask_bezier_preview_width": 1400,
+  "mask_segments": [
+    [
+      [
+        325,
+        219
+      ],
+      [
+        590,
+        221
+      ],
+      [
+        900,
+        224
+      ],
+      [
+        1137,
+        227
+      ]
+    ],
+    [
+      [
+        1137,
+        227
+      ],
+      [
+        1191,
+        227
+      ],
+      [
+        1232,
+        260
+      ],
+      [
+        1233,
+        313
+      ]
+    ],
+    [
+      [
+        1233,
+        313
+      ],
+      [
+        1238,
+        485
+      ],
+      [
+        1245,
+        660
+      ],
+      [
+        1251,
+        826
+      ]
+    ],
+    [
+      [
+        1251,
+        826
+      ],
+      [
+        1254,
+        879
+      ],
+      [
+        1216,
+        917
+      ],
+      [
+        1164,
+        920
+      ]
+    ],
+    [
+      [
+        1164,
+        920
+      ],
+      [
+        875,
+        920
+      ],
+      [
+        560,
+        918
+      ],
+      [
+        289,
+        916
+      ]
+    ],
+    [
+      [
+        289,
+        916
+      ],
+      [
+        233,
+        916
+      ],
+      [
+        199,
+        883
+      ],
+      [
+        201,
+        826
+      ]
+    ],
+    [
+      [
+        201,
+        826
+      ],
+      [
+        209,
+        655
+      ],
+      [
+        217,
+        476
+      ],
+      [
+        222,
+        316
+      ]
+    ],
+    [
+      [
+        222,
+        316
+      ],
+      [
+        225,
+        257
+      ],
+      [
+        267,
+        220
+      ],
+      [
+        325,
+        219
+      ]
+    ]
+  ],
+  "crop_bbox": [
+    817,
+    891,
+    5107,
+    3756
+  ],
+  "rotation_ccw_degrees": 62,
+  "uniform_scale_after_rotation": 0.23107394366197184,
+  "rotated_layer_size": [
+    1050,
+    1186
+  ],
+  "canvas_placement": [
+    75,
+    457
+  ],
+  "canvas_size": [
+    1200,
+    1800
+  ],
+  "perspective_warp": false,
+  "product_relight_or_redraw": false,
+  "resampling": "Bicubic rotation then Lanczos uniform scaling. Not pixel-identical original.",
+  "occlusion": "Original red knob hides center; back connector and most 20mm side thickness not visible from this source angle. No reconstruction.",
+  "detail_crop_regions": {
+    "panel": [
+      460,
+      800,
+      740,
+      1080
+    ],
+    "upper-edge": [
+      600,
+      480,
+      880,
+      760
+    ],
+    "lower-edge": [
+      320,
+      1320,
+      600,
+      1600
+    ]
+  }
+}

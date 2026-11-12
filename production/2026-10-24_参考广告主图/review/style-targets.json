@@ -1,0 +1,47 @@
+{
+  "basis": "User requires original 74-reference ecommerce ad style, not catalog/product-description cards.",
+  "source_of_truth": "Own silver real photographs primary, approximate v010a secondary.",
+  "AD01": {
+    "reference": "R001",
+    "must_retain": [
+      "斜托盘透视和强斜轴整品",
+      "棕金明暗与银色硬高光",
+      "底部双色大标题条",
+      "少量局部窗口/胶囊形成广告密度"
+    ],
+    "must_not": [
+      "配件/赠送贴/品牌",
+      "未知增压/耐摔/发货承诺",
+      "白底直立目录化"
+    ]
+  },
+  "AD02": {
+    "reference": "A034",
+    "must_retain": [
+      "前大背小错落叠置",
+      "冷蓝窗光/竖纹空间",
+      "右侧大字加蓝胶囊",
+      "一处小细节窗口和底部强标题带"
+    ],
+    "must_not": [
+      "同尺度两列目录",
+      "滤芯透明管/六档/喷枪/680%",
+      "人物/配件"
+    ]
+  },
+  "AD03": {
+    "reference": "R004 and R017 layout accent",
+    "must_retain": [
+      "暗黑深棕/金光带",
+      "斜轴大主体和强冷银高光",
+      "红金双色底标题带",
+      "小窗次要、主体主导"
+    ],
+    "must_not": [
+      "爆炸/透视内部/机械叶轮",
+      "无依据水束/证件/功效",
+      "仅换背景复用AD01构图"
+    ]
+  },
+  "review_rule": "实际打开原生及最终JPG，并与上述参考实图对照；同时检查实物外观和中文。记录具体保留与偏差，不用题材同名代替风格通过，不将内部判断冒充用户接受。"
+}

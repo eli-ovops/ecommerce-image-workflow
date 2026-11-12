@@ -1,0 +1,34 @@
+{
+  "at_utc": "2026-10-23T07:19:15.593076+00:00",
+  "files": [
+    {
+      "source": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/codex-clipboard-5fd4582d-159e-416f-abca-219e92436b78.png",
+      "project_copy": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/sources/client-feedback.png",
+      "sha256": "03d9ee158b0dbf25a2b3fbfe8267da3b8b7ea6f3062819b8be3afa6b353b0a0a"
+    },
+    {
+      "source": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/codex-clipboard-511bdf0b-e7f8-4ad1-b893-bb965987926a.jpg",
+      "project_copy": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/sources/side-01.jpg",
+      "sha256": "a8ca0e66a91403b8763c17b9d2f48b65c5d52814c1de46773af270c7eb22f2fe"
+    },
+    {
+      "source": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/codex-clipboard-d44ae79f-9004-4b09-b7e8-6c7a61a5cd0d.jpg",
+      "project_copy": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/sources/side-02.jpg",
+      "sha256": "c6100ec768d2a1bcd1c7ad8516e9b397ea437839d20c6a12dcf41c6e0db09ddf"
+    },
+    {
+      "source": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/codex-clipboard-fc20a764-0513-4a4d-bcd1-dedaef3fd2d2.jpg",
+      "project_copy": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/sources/side-03.jpg",
+      "sha256": "bfd899699b82d5b31c4f595674a2c00bb3121149dcef30433a09eac53511a475"
+    },
+    {
+      "source": "/Users/USER/Downloads/06569f26ac30632e35c93313d72b93b2_raw.mp4",
+      "project_copy": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/sources/product-rotation-20261023.mp4",
+      "sha256": "eb6dbe4e37fe1beea4ee09e63e53a047ff4dbd5c395567cbef6cdbdb8e8dcfca",
+      "bytes": 23678515,
+      "kind": "actual rotation video"
+    }
+  ],
+  "purpose": "User/client geometry correction; original photos retained",
+  "no_deleted_files": true
+}

@@ -1,0 +1,126 @@
+{
+  "product_working_name": "方形三键花洒",
+  "scope": "接收检查，不生图；原件仍在用户Downloads，本轮未复制归档",
+  "files": [
+    {
+      "path": "/Users/USER/Downloads/微信图片_20261026090500_183_2.jpg",
+      "bytes": 5295146,
+      "sha256": "cc7768f87383fff2937b32b6ef10fb51a874ca3d363549af900713f9fd33cfbb"
+    },
+    {
+      "path": "/Users/USER/Downloads/微信图片_20261026090501_184_2.jpg",
+      "bytes": 4962975,
+      "sha256": "328d1ac2a392b6bc2c60e6963e389e566c727c8d20565a9b05b20749852c5b6d"
+    },
+    {
+      "path": "/Users/USER/Downloads/微信图片_20261026090503_185_2.jpg",
+      "bytes": 4975084,
+      "sha256": "a323f0b82933c9a7837c2ab342b2c9e7fa5f82ab4933377b109680e48330c3f3"
+    },
+    {
+      "path": "/Users/USER/Downloads/微信图片_20261026090504_186_2.jpg",
+      "bytes": 4889292,
+      "sha256": "d33bd5cfcabd624394321b8b5473eb78997769e4c115f7320abb4535cb0a8b7c"
+    },
+    {
+      "path": "/Users/USER/Downloads/微信图片_20261026090506_187_2.jpg",
+      "bytes": 4736053,
+      "sha256": "f7356abee20db328f1871053b1f2b7de39cbec905da9dd958f0983de3b4c7dad"
+    },
+    {
+      "path": "/Users/USER/Downloads/微信图片_20261026090507_188_2.jpg",
+      "bytes": 4762534,
+      "sha256": "152edb4a562c00192545c27da99f2557c4632720b6cd29802c897729cff8b2c8"
+    },
+    {
+      "path": "/Users/USER/Downloads/微信图片_20261026090509_189_2.jpg",
+      "bytes": 6763443,
+      "sha256": "fdd9bc6e0adfe00e585c44e341a44ab151d94a50112d9ee45d32cbd3f6533135"
+    },
+    {
+      "path": "/Users/USER/Downloads/微信图片_20261026090511_190_2.jpg",
+      "bytes": 8214891,
+      "sha256": "04efd96bae0e3753647d7498b2fc6fefc522f42ea30055b418afeacdb15af4f5"
+    },
+    {
+      "path": "/Users/USER/Downloads/微信图片_20261026090513_191_2.jpg",
+      "bytes": 8558946,
+      "sha256": "da3eb8f6b5d91a130751145d9312faa30f4b7da5130eb2732c4572e2cfde17dc"
+    },
+    {
+      "path": "/Users/USER/Downloads/微信图片_20261026090515_192_2.jpg",
+      "bytes": 6600227,
+      "sha256": "48b4123077b78f3f4f890c42183f3fb4c833a5531f528475c36b981c88b079e2"
+    },
+    {
+      "path": "/Users/USER/Downloads/微信图片_20261026090531_193_2.jpg",
+      "bytes": 6788865,
+      "sha256": "132f41837240a76c0091eae96a4fd5fd19593ff196f8e3d3ece0804da117477e"
+    },
+    {
+      "path": "/Users/USER/Downloads/微信图片_20261026090546_194_2.jpg",
+      "bytes": 5869351,
+      "sha256": "9c63adc8201694ec7b8745dfd6d5ed3e6735e661273dbc4750538ade4b68dec6"
+    },
+    {
+      "path": "/Users/USER/Downloads/微信图片_20261026090548_195_2.jpg",
+      "bytes": 5103246,
+      "sha256": "b4d65376327f669bb19f116c5c5de662dd0c29fd68b80cfe05d6b0efd47a83a8"
+    },
+    {
+      "path": "/Users/USER/Downloads/微信图片_20261026090549_196_2.jpg",
+      "bytes": 5461160,
+      "sha256": "53eed8f5a7f3ed59e63019f22d49f89261bb41328ffb9341a0483bc012a420ff"
+    },
+    {
+      "path": "/Users/USER/Downloads/微信图片_20261026090551_197_2.jpg",
+      "bytes": 4933077,
+      "sha256": "18aa3f6f5c2d3322d777c954c9ad34bf308dd1cb6c3a0e5d46e1d73ddb590cb1"
+    },
+    {
+      "path": "/Users/USER/Downloads/微信图片_20261026090552_198_2.jpg",
+      "bytes": 5245680,
+      "sha256": "42db56973b0f030bcee7a829af6fa288e88fe6e616b86f204c0e69e9d9068891"
+    },
+    {
+      "path": "/Users/USER/Downloads/微信图片_20261026090554_199_2.jpg",
+      "bytes": 4962891,
+      "sha256": "bc3753ddf8e50726f3e989adadf2db17912e20ebd0c4d607b2c882e7a2dabb41"
+    },
+    {
+      "path": "/Users/USER/Downloads/微信图片_20261026090555_200_2.jpg",
+      "bytes": 4976582,
+      "sha256": "392305f938dede2caddcfb5ad9ada22775ecd6d3bc704fcd75185b3bd42f2233"
+    },
+    {
+      "path": "/Users/USER/Downloads/微信图片_20261026090557_201_2.jpg",
+      "bytes": 4750653,
+      "sha256": "0ddca9123e10754c691f35c3ae82019b38d477599346f46552fc5afa6c9c6357"
+    },
+    {
+      "path": "/Users/USER/Downloads/7b237d0fa8a762ff00014b8340281c20_raw.mp4",
+      "bytes": 30672555,
+      "sha256": "1012c2ab5d77c1ee41f83ab41c3a6a1c2841b38b5fdace519928fd1707876de6"
+    }
+  ],
+  "photo_count": 19,
+  "video_count": 1,
+  "generated_review_files": [
+    "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/接收检查-20261026/照片总览-1.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/接收检查-20261026/照片总览-2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/接收检查-20261026/视频总览-1.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/接收检查-20261026/视频抽帧/frame-001.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/接收检查-20261026/视频抽帧/frame-002.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/接收检查-20261026/视频抽帧/frame-003.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/接收检查-20261026/视频抽帧/frame-004.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/接收检查-20261026/视频抽帧/frame-005.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/接收检查-20261026/视频抽帧/frame-006.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/接收检查-20261026/视频抽帧/frame-007.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/接收检查-20261026/视频抽帧/frame-008.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/接收检查-20261026/视频抽帧/frame-009.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/接收检查-20261026/视频抽帧/frame-010.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/接收检查-20261026/视频抽帧/frame-011.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/接收检查-20261026/视频读取.log"
+  ],
+  "video_read_scope": "FFmpeg完整解码并每2秒抽帧，实际查看0–20秒11帧；未连续播放/未听音/未转录"
+}

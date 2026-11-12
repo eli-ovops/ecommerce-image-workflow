@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "reviewer": "root",
+  "reviewed_at": "2026-10-24T21:40:45.580784+08:00",
+  "candidate_sha256": "cbb7aae695f20966892bf010aa690e3ee2e384a41f2bf863d53bdcea3a3016da",
+  "jpg_sha256": "6cf146adab7ed12b15d8280d7dad9fb862f1885135829f5af456a61bafde8719",
+  "appearance_source_sha256": [
+    "0b388756f0ee2e35630dac7789237153d390fa8aaab8f58f6e2643d4181be21d",
+    "6de02f19793c568c799762525475cd0241af1b9c41487580383be4efbd2a1fa2",
+    "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90"
+  ],
+  "checks": {
+    "photo_appearance": "PASS",
+    "geometry": "PASS",
+    "reference_style": "PASS",
+    "copy": "PASS",
+    "no_model": "PASS",
+    "export": "PASS"
+  },
+  "finding": "实际打开原生、1254最终JPG、SIL005及A025。面板大局部、银色边、白环和中央低红钮开孔可读，红钮完整；上左三行字处在背景留白未盖边。保留A025蓝灰背景、上标题与大面板特写，移除手及揉捏孔位动作，不写硅胶材质/永久不堵等参考功效。",
+  "retained": "冷蓝背景、上部标题、大面板近景",
+  "deviation": "去掉手及动作，局部聚焦本商品红钮和孔环，不写未知材质",
+  "limitations": "人工外观/版式比较，未做逐孔精确位置或物理IoU测量，不代表客户接受。"
+}

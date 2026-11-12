@@ -1,0 +1,17 @@
+{
+  "id": "D11",
+  "prompt": "Precise LOCAL HAND/GRIP FRAMING correction only. Keep image1 entire two distinct scenes, woman's identity/face/skin/hair/clothes/expression/pose, water/outlet/headbody curvature, whitebluebathroom and dimensions unchanged. ONLY lower scene far right showerhandle andholdinghand: shift that local hand+grip slightly right so grip's inlet end continues NATURALLY OUTSIDE RIGHT CANVAS, while head stays onscreen with continuous shallowSneck into samehandle. The visible open dark circular cutend at extreme right aroundx886y1313 currentlyappears sealed/disconnectedwhilewaterflows; eliminate that semanticfault by cropping it outside image, NOT cap/plug/fill/close or hose/connector. Let rightedge naturallycrop handandgrip, no visiblehandlecutend anywhere. Upper scene untouched. No extra text.",
+  "referenced_image_paths": [
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/D11-rebuild-v1.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/silver-side-v1.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg"
+  ],
+  "actual_viewed_related_originals": [
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/D11-rebuild-v1.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/silver-side-v1.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg"
+  ],
+  "date": "2026-10-23",
+  "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+  "status": "PREFLIGHT_COMPLETE"
+}

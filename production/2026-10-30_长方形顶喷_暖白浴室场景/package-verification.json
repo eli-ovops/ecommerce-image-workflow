@@ -1,0 +1,49 @@
+{
+  "暖白浴室场景_三张JPG.zip": {
+    "count": 3,
+    "bytes": 1002789,
+    "crc": "PASS",
+    "all_member_sha_matches": "PASS",
+    "member_sha256": {
+      "05_浴室安装全貌_v2.jpg": "c56d9de52416f41ec1820f547bc16d33b4c6965dfadc94b2a651d4ea3922658b",
+      "06_安装喷面与红钮.jpg": "2a19586ba3f0bafc90c04620bbfcd95594ed31fe1eb1d1880c5293c64266ee3c",
+      "07_浴室台面背部接口.jpg": "ea51d5b49bea4c66a71a39a7029ac5d2dfb274be92cbe7b058b1debab1912d07"
+    }
+  },
+  "暖白浴室场景_可编辑源与证据.zip": {
+    "count": 28,
+    "bytes": 39850833,
+    "crc": "PASS",
+    "all_member_sha_matches": "PASS",
+    "member_sha256": {
+      "README.md": "0972ba7fbfaac84da4f110593a6d9c3b0f64e294fc05d2d05c1dc9a40a836302",
+      "单图任务卡.md": "968a489ccd27694ddb47f13a05f5af169c3d20db6d384366bb6f90e2615dabee",
+      "商品基线_v3.blend": "05b80b0ebc072c1a01cdf597c08f16e33d8033eb3771a9fe48dc2c18a0079905",
+      "商品输入_同网格磨砂去盖接口.blend": "e6f21c5367ab5bc03f7a0f47b03c0f9d42bc9822902bcb9bb33f94d34125f386",
+      "05_浴室安装全貌.blend": "1f2774cbe5c5e72781241b07458b391047006105c83407ba213ffe3df066856c",
+      "05_浴室安装全貌_v2.blend": "a3fe94d85f29b74a705e30ac022caaac31e89eb811b6bb83079f219862ffdc1a",
+      "06_安装喷面与红钮.blend": "ff4476b301049c335924b38a64fcaad89877c2a0a2c2a8aebf840fcb94ad9b84",
+      "07_浴室台面背部接口.blend": "68db5b4b6380d721469ad8d63418d078a3848dbfff2ea2a96424533dcc24d338",
+      "render_bathroom.py": "2f481d2a6ea4f86b6d3722e819967cd9f83f0b68286c07d495e0f13bf8e3ae20",
+      "fix_niche.py": "fa700742408fe9881b86cbed7bdc5d2a0563fbb5b5e9bb283a14e1a9955a1ff7",
+      "verify_bathroom.py": "9df5f2bbb6a9ae661d2e4e1c08b8a1c1ac76401f427ddc18f3df8d8d1063d6a6",
+      "make_review.py": "e7d87ceefe291875cb4ac399a7e6b383ecdbdec44a6199e99fd917b7ee443c82",
+      "package_outputs.py": "e5b1b2beab1ab128601b1bf362aefd74b7e0a5731afc6322287b7a1bade5caec",
+      "geometry-production.json": "077bb496e243935232e4b7318549be0fa3847a13ce731ea00ebc95d73e62df8d",
+      "reopened-scene-verification.json": "5e844822f71f5f68fd9104f0b22b1492dccdc5502ef98f112ed523f187171ea8",
+      "source-manifest.json": "eaed8d00d755e291aff1c568a2401ae1ded3c8f5797a148800ef1a5372caa986",
+      "visual-review.json": "1b41158b46d8de498b88849c8e092cde60aae85ba2ce87da38ba58b51d2e4fde",
+      "三张浴室场景总览.jpg": "afb0faa274c2a9acfcfd134401e1e21c423245a27d9e937958bda8f0f73a5463",
+      "手机宽度审阅.jpg": "f59ca8d9155c7ff357816c3a9a4beb9d1a423605e70d94c7749ae6678e2954b2",
+      "原照与场景对照_左实拍右渲染.jpg": "84bb5bf512e6adb007e5c65e4e5edc5afaa30f2102bd5911bfedc46ed8d3530d",
+      "喷面与红钮原尺寸局部.jpg": "72f85ff63e48494ad550ddfcf4674e8e68ef5930e4d4b0c14012737c7e1a6232",
+      "render-final.log": "97fd967bfacdf26a25d35b4a0551b1acab8d7c2f31ba8227584d29c8aaed2d23",
+      "niche-fix-final.log": "7d47ec8e1e4ff12655ffc6975ad2bb3c47000590d46dab3d58500e03fe5ff9f0",
+      "verify.log": "a9dac634586caa8996574905cdb417ddae1c8fc88cccbdac670792c2080bde21",
+      "sources/codex-clipboard-6fa807ac-653c-44f8-a3cc-2941c017e31e.jpg": "dd03b48761950856e2a363ba726bdfc682683abad6d703bca461f190f17bc9f1",
+      "sources/codex-clipboard-7faa2b7a-f100-46ef-bfc7-87454ab489d0.jpg": "50d7f0c9fe40c08617c98a9fb36fc22258873af18be20658101a2075f0bda9d3",
+      "sources/微信图片_20261030154107_374_2.jpg": "9116ea9c59350fe964bc42156a5f0f9912bea56cab4e9260ded8707869d36371",
+      "sources/微信图片_20261030154107_376_2.jpg": "f5d7d1e2c3839298bafb20d5ec4a7b19ff8990c9efd02f34b484b4bc07ad3965"
+    }
+  }
+}

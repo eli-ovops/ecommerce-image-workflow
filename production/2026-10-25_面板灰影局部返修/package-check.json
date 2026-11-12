@@ -1,0 +1,34 @@
+{
+  "zip": "鼎江10.25面板局部返修_JPG_18张.zip",
+  "sha256": "517f9844548ccd6c6af6702b953d4bc41b7bc0caf9343b9b7ade77f23a7ba0ed",
+  "count": 18,
+  "crc": "PASS",
+  "sha_readback": "18/18",
+  "unchanged_images": [
+    "M05",
+    "M01",
+    "M03",
+    "M06",
+    "K01",
+    "K02",
+    "K03",
+    "M04",
+    "D01",
+    "D02",
+    "D04",
+    "D05",
+    "W01",
+    "W02",
+    "W03",
+    "D06"
+  ],
+  "changed": [
+    "M02",
+    "L01"
+  ],
+  "lossless_changed_pixels": 6682,
+  "lossless_outside_patch_bounds_changed": 0,
+  "note": "JPG re-encoding can alter pixels outside repaired patches; lossless working source is exact outside masks. Customer acceptance pending.",
+  "lossless_outside_mask_changed": 0,
+  "mask_nonzero_pixels": 7675
+}

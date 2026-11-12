@@ -1,0 +1,19 @@
+{
+  "status": "FAILED_NOT_DELIVERABLE_AD",
+  "visual_files_opened": [
+    "candidate-01.png",
+    "candidate-02.png",
+    "圆形花洒_retry02_验证结果.jpg",
+    "侧面实拍对照.jpg"
+  ],
+  "confirmed_defects": [
+    "Backing occludes lower white nozzles and creates gray patches",
+    "Gray side view shows shoulder shading discontinuity",
+    "Chrome/background separation and matte texture remain insufficient"
+  ],
+  "zip_crc_bad_member": null,
+  "zip_members": 19,
+  "zip_local_sha_all_match": true,
+  "zip_bytes": 17746085,
+  "source_and_previous_delivery_preserved": true
+}

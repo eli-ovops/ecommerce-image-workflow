@@ -1,0 +1,65 @@
+{
+  "method": "built-in image_gen; original-photo-guided AI subject",
+  "calls": 1,
+  "inputs": [
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/products/长方形拉钮顶喷/原始实拍20261030/微信图片_20261030154107_372_2.jpg",
+      "bytes": 8365635,
+      "sha256": "c1f3664cc110b85d819bf6609f54b6f10b2943127dad85c3833c1f125443d017"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/products/长方形拉钮顶喷/原始实拍20261030/微信图片_20261030154107_376_2.jpg",
+      "bytes": 6821048,
+      "sha256": "f5d7d1e2c3839298bafb20d5ec4a7b19ff8990c9efd02f34b484b4bc07ad3965"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/products/长方形拉钮顶喷/原始实拍20261030/微信图片_20261030154107_374_2.jpg",
+      "bytes": 5366586,
+      "sha256": "9116ea9c59350fe964bc42156a5f0f9912bea56cab4e9260ded8707869d36371"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-31_同款商户电商参考/微信图片_20261031133902_399_2.jpg",
+      "bytes": 338997,
+      "sha256": "5db55b7196371f0179e0a79d6ed54667d1a22992908db3e3e16ffcdb1fea38aa"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-31_长方形顶喷_内置生图参考399/candidate-v1.png",
+      "bytes": 2866323,
+      "sha256": "66124b2a17f1d14654e3daff1449fd9213aaf8cf00559a7c5444744f08717d54"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-31_长方形顶喷_内置生图参考399/银色顶喷_参考399_斜放无字广告候选.jpg",
+      "bytes": 885583,
+      "sha256": "bc73aa3b7f5061d09f5ed719155119e705f014f4b5cabd632fb4cd33569c996d"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-31_长方形顶喷_内置生图参考399/prompt.txt",
+      "bytes": 3547,
+      "sha256": "6745362e08dc37b835b57a2678d8381fb225a88ea7a00da431e122e1725bd1a8"
+    }
+  ],
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "selected": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-31_长方形顶喷_内置生图参考399/银色顶喷_参考399_斜放无字广告候选.jpg",
+  "review": {
+    "actually_viewed": "399 original,372/376/374 originals and complete generated candidate",
+    "observed": "diagonal face-up product, complete silhouette, visible chrome sidewall, leaf-like lenses, dark gold stone and grazing light; no text/people/water/pins",
+    "limits": [
+      "exact hole count and original hole mapping not verified; many circular centers still resemble bores",
+      "red disk concavity appears stronger than source",
+      "chrome carries warm reflected gold; physical millimeter dimensions not proved by image"
+    ],
+    "status": "STYLE_CANDIDATE_NOT_GEOMETRY_APPROVED",
+    "user_acceptance": "REJECTED"
+  },
+  "preservation": "all originals and older candidates retained; no deletion or3D change",
+  "latest_user_feedback": {
+    "status": "REJECTED",
+    "quote": "不行。你直接大道从简。完全参照对方同行的，做一个属于我们的电商宣传图给我。我看看",
+    "next_batch": "../2026-10-31_同行13张逐张对应_银色无字/"
+  }
+}

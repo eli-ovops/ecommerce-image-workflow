@@ -1,0 +1,122 @@
+[
+  {
+    "file": "391-installation.blend",
+    "bytes": 5840315,
+    "sha256": "0270a2bbbe60c2ad5db0964bd4d21d8beb3a2fe34076a9d960fecded5e3f5794"
+  },
+  {
+    "file": "single-photo-face.png",
+    "bytes": 3821426,
+    "sha256": "ddc1c3c2bf720b3b5fd0311294b23d2b5eee4db56a0e1b48b2fe4e01d899d4cf"
+  },
+  {
+    "file": "model-background.png",
+    "bytes": 2204506,
+    "sha256": "d3d6124861520948a70ca727bbb77f95537119da3fc49de4022da74b0bffe4f6"
+  },
+  {
+    "file": "installation-layer.png",
+    "bytes": 842941,
+    "sha256": "12cab4f3d20e289cd5076433af3be17f81c50936eafd911085c83a501e97c349"
+  },
+  {
+    "file": "391-render.png",
+    "bytes": 1240298,
+    "sha256": "5713bcf8f2ff98237bf586db762e488c147e904b943d5ca9ac28cab8ab3292af"
+  },
+  {
+    "file": "391-editable.ora",
+    "bytes": 5389120,
+    "sha256": "7da67022b6a0e440573fd3f70dc1931397ae4f117b35bce9de4d192d82006073"
+  },
+  {
+    "file": "editable-text.svg",
+    "bytes": 610,
+    "sha256": "9e8c7843c9dce0c4661c16128edfa1612a4627659e5ac0ddf8a5541f4dcf0cde"
+  },
+  {
+    "file": "editable-base.png",
+    "bytes": 2313905,
+    "sha256": "d1e140ae3dde0adf884965ac32b9e7cfe26236efdd20aa90036522f7d46b8a87"
+  },
+  {
+    "file": "layout.json",
+    "bytes": 324,
+    "sha256": "0d0d733eea52e141c4742be4b500a8898f100cc3ef40055e7d3140aeae19188e"
+  },
+  {
+    "file": "water-origins.json",
+    "bytes": 10872,
+    "sha256": "91c80ee4ae94ec06392bf49e06376cb5326be6dfaf271e7b890aa696e2ad0256"
+  },
+  {
+    "file": "excluded-uncertain-origins.json",
+    "bytes": 228,
+    "sha256": "d3de99ca6211a891db73423b2d615a17730b093927425ecb66a569ac2e0f23ef"
+  },
+  {
+    "file": "photo-method.json",
+    "bytes": 692,
+    "sha256": "78b7d69900e2d96fb22815a3cfaa6dfc21fe3cff676b3dac86f7739b45046704"
+  },
+  {
+    "file": "render-record.json",
+    "bytes": 26649,
+    "sha256": "64910c51a500835a73eb2164f09c8b23ecdf0141d186f8cc1b84f79aa2f152b2"
+  },
+  {
+    "file": "blend-check.json",
+    "bytes": 575,
+    "sha256": "6ca7b63d83f661202300feea3b84e5ac0f746b1dee7457cc6164da8ad6d06b91"
+  },
+  {
+    "file": "render-v3.log",
+    "bytes": 1145,
+    "sha256": "12250b6b31e766c55c38497bcabb042a6ba9f2fb0cd88d4e8ccd1837c60efa7d"
+  },
+  {
+    "file": "README.md",
+    "bytes": 3498,
+    "sha256": "32d3eb954a8f49804b04bc904f1b91b955e75413f0b7d6934e6d9f90327a4b99"
+  },
+  {
+    "file": "render.py",
+    "bytes": 7310,
+    "sha256": "e7dc7755d38538e846b40b8fac7adc5f1faf32b3075e980e138b6ef6cce7fcd9"
+  },
+  {
+    "file": "prepare.py",
+    "bytes": 1724,
+    "sha256": "676a388c824ead70d1d18a996ee38b64f2d7e90684541e9e633712208085e221"
+  },
+  {
+    "file": "compose.py",
+    "bytes": 2748,
+    "sha256": "2bfd1559978dad629567173c9ee1402893681d4ee51d6904ed517e31e3a5f6fc"
+  },
+  {
+    "file": "verify_blend.py",
+    "bytes": 1505,
+    "sha256": "a4cb66ad63c7a17db739c49c6b7063de104196f840e5a2babb4ab3a4b48381e1"
+  },
+  {
+    "file": "water-origin-overlay.jpg",
+    "bytes": 1584562,
+    "sha256": "0bf32d29e9e8e2609428deda51c83ba0ffcbf8863c88f16c98d9004d4ad1b9a3"
+  },
+  {
+    "file": "391-head-200pct.jpg",
+    "bytes": 341258,
+    "sha256": "736bd8bb541ee3ae128cdbb0a11cdc2464430a2627a726fb646f94eface3b061"
+  },
+  {
+    "file": "391-mobile.jpg",
+    "bytes": 66158,
+    "sha256": "2c627edf2bc3e58c3439e8b070fb0dc90fd33c8bc2f76f004284702ce0dc49f0"
+  },
+  {
+    "file": "391_\u4e09\u7ef4\u5b89\u88c5\u5355\u5f20\u5b9e\u9a8c.jpg",
+    "bytes": 873082,
+    "sha256": "63b47033868c6260f8101a09e985d9c172eeac045dadf87e494ddeaca4e6324f"
+  }
+]

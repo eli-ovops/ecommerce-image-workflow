@@ -1,0 +1,18 @@
+[
+  {
+    "file": "JPG-13-review.zip",
+    "members": 13,
+    "bytes": 10090190,
+    "sha256": "43fac7df64e17b5fa3192d78c8ee8c43ec81816800b29edf25b94eba66008792",
+    "crc": true,
+    "member_sha_equal": true
+  },
+  {
+    "file": "editable-source.zip",
+    "members": 102,
+    "bytes": 172922456,
+    "sha256": "0b8bf0137f8cdd19d042c2440f5e096f93110a3229d55573ee6706af30031272",
+    "crc": true,
+    "member_sha_equal": true
+  }
+]

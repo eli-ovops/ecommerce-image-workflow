@@ -1,0 +1,162 @@
+{
+  "received_date": "2026-10-22",
+  "timezone": "Asia/Shanghai",
+  "asset_kind": "real_product_photos",
+  "sku_color": "枪灰色",
+  "sku_color_source": "User: first 5 attached images black; last 6 gunmetal gray.",
+  "source_image_count": 6,
+  "all_source_copy_sha256_match": true,
+  "all_images_verify_and_full_decode": "PASS",
+  "original_bytes_preserved": true,
+  "original_sources_deleted": false,
+  "files": [
+    {
+      "id": "GMT001",
+      "source_attachment_position": 8,
+      "source_path": "/Users/USER/Downloads/微信图片_20261022185804_106_2.jpg",
+      "project_path": "products/主推花洒/枪灰色/原图/微信图片_20261022185804_106_2.jpg",
+      "bytes": 195781,
+      "sha256": "7ac7a4d7c35d2a4d68c5a2afe0ec784afbe2545026943306cb3216991690af2d",
+      "source_copy_sha256_match": true,
+      "format": "JPEG",
+      "raw_dimensions": [
+        1280,
+        1707
+      ],
+      "exif_orientation": 1,
+      "display_dimensions": [
+        1280,
+        1707
+      ],
+      "verify": "PASS",
+      "full_decode": "PASS"
+    },
+    {
+      "id": "GMT002",
+      "source_attachment_position": 6,
+      "source_path": "/Users/USER/Downloads/微信图片_20261022185805_107_2.jpg",
+      "project_path": "products/主推花洒/枪灰色/原图/微信图片_20261022185805_107_2.jpg",
+      "bytes": 85567,
+      "sha256": "5f7e288bec394f38fa99f5b721b127c83a90594b15e3e38346993aae23a51f8c",
+      "source_copy_sha256_match": true,
+      "format": "JPEG",
+      "raw_dimensions": [
+        960,
+        1280
+      ],
+      "exif_orientation": 1,
+      "display_dimensions": [
+        960,
+        1280
+      ],
+      "verify": "PASS",
+      "full_decode": "PASS"
+    },
+    {
+      "id": "GMT003",
+      "source_attachment_position": 7,
+      "source_path": "/Users/USER/Downloads/微信图片_20261022185805_108_2.jpg",
+      "project_path": "products/主推花洒/枪灰色/原图/微信图片_20261022185805_108_2.jpg",
+      "bytes": 88605,
+      "sha256": "7df2098f15a901bb0d22b9339a608f2349c8ae1a20584c9e387e41d29f889b90",
+      "source_copy_sha256_match": true,
+      "format": "JPEG",
+      "raw_dimensions": [
+        960,
+        1280
+      ],
+      "exif_orientation": 1,
+      "display_dimensions": [
+        960,
+        1280
+      ],
+      "verify": "PASS",
+      "full_decode": "PASS"
+    },
+    {
+      "id": "GMT004",
+      "source_attachment_position": 11,
+      "source_path": "/Users/USER/Downloads/微信图片_20261022185806_109_2.jpg",
+      "project_path": "products/主推花洒/枪灰色/原图/微信图片_20261022185806_109_2.jpg",
+      "bytes": 81515,
+      "sha256": "cac8642c6aa599def138cf2c897385624ef6827b30142c0c8551c85cb6b5c361",
+      "source_copy_sha256_match": true,
+      "format": "JPEG",
+      "raw_dimensions": [
+        960,
+        1280
+      ],
+      "exif_orientation": 1,
+      "display_dimensions": [
+        960,
+        1280
+      ],
+      "verify": "PASS",
+      "full_decode": "PASS"
+    },
+    {
+      "id": "GMT005",
+      "source_attachment_position": 9,
+      "source_path": "/Users/USER/Downloads/微信图片_20261022185807_110_2.jpg",
+      "project_path": "products/主推花洒/枪灰色/原图/微信图片_20261022185807_110_2.jpg",
+      "bytes": 186598,
+      "sha256": "e6034a1eeed91938a6347c1dacc1c0d4e2c3aceba6cf36b6d13c66e504ffc003",
+      "source_copy_sha256_match": true,
+      "format": "JPEG",
+      "raw_dimensions": [
+        1280,
+        1707
+      ],
+      "exif_orientation": 1,
+      "display_dimensions": [
+        1280,
+        1707
+      ],
+      "verify": "PASS",
+      "full_decode": "PASS"
+    },
+    {
+      "id": "GMT006",
+      "source_attachment_position": 10,
+      "source_path": "/Users/USER/Downloads/微信图片_20261022185807_111_2.jpg",
+      "project_path": "products/主推花洒/枪灰色/原图/微信图片_20261022185807_111_2.jpg",
+      "bytes": 201869,
+      "sha256": "e27681ffc36c9d211cd4abc1c031f1403104f4ba6986e10875947ae3b23b5f62",
+      "source_copy_sha256_match": true,
+      "format": "JPEG",
+      "raw_dimensions": [
+        1280,
+        1707
+      ],
+      "exif_orientation": 1,
+      "display_dimensions": [
+        1280,
+        1707
+      ],
+      "verify": "PASS",
+      "full_decode": "PASS"
+    }
+  ],
+  "contact_sheets": [
+    {
+      "path": "products/主推花洒/枪灰色/previews/contact_sheet_01.png",
+      "ids": [
+        "GMT001",
+        "GMT002",
+        "GMT003",
+        "GMT004",
+        "GMT005",
+        "GMT006"
+      ]
+    }
+  ],
+  "temporary_files": [],
+  "visual_review": {
+    "date": "2026-10-22",
+    "all_attached_photos_viewed": true,
+    "all_project_preview_pages_viewed": [
+      "products/主推花洒/枪灰色/previews/contact_sheet_01.png"
+    ],
+    "action_or_performance_test_performed": false
+  }
+}

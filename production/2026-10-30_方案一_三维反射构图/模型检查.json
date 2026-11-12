@@ -1,0 +1,10 @@
+{
+  "mesh_hashes_unchanged": true,
+  "product_bounds_normalized": [
+    0.10185708850622177,
+    0.8938534259796143,
+    0.09647145122289658,
+    0.8885930180549622
+  ],
+  "note": "bounding-box check only, not physical accuracy; outer nozzles approximate"
+}

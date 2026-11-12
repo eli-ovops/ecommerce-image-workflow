@@ -1,0 +1,462 @@
+{
+  "duration_from_header_seconds": 15.97,
+  "display_resolution": [
+    1080,
+    1920
+  ],
+  "coverage": "64 temporal samples across entire 15.97s visual range; not continuous native video or audio listening",
+  "frame_selection": "every 15th decoded video frame; timestamps parsed from ffmpeg showinfo",
+  "frames": [
+    {
+      "index": 1,
+      "time": 0.0,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0001.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 2,
+      "time": 0.25,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0002.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 3,
+      "time": 0.5,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0003.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 4,
+      "time": 0.75,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0004.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 5,
+      "time": 1.0,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0005.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 6,
+      "time": 1.25,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0006.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 7,
+      "time": 1.5,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0007.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 8,
+      "time": 1.75,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0008.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 9,
+      "time": 2.0,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0009.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 10,
+      "time": 2.25167,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0010.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 11,
+      "time": 2.50167,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0011.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 12,
+      "time": 2.75167,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0012.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 13,
+      "time": 3.00167,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0013.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 14,
+      "time": 3.25167,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0014.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 15,
+      "time": 3.50167,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0015.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 16,
+      "time": 3.75167,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0016.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 17,
+      "time": 4.00167,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0017.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 18,
+      "time": 4.25167,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0018.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 19,
+      "time": 4.50167,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0019.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 20,
+      "time": 4.75167,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0020.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 21,
+      "time": 5.00167,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0021.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 22,
+      "time": 5.25167,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0022.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 23,
+      "time": 5.50167,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0023.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 24,
+      "time": 5.75167,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0024.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 25,
+      "time": 6.00167,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0025.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 26,
+      "time": 6.25167,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0026.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 27,
+      "time": 6.50167,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0027.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 28,
+      "time": 6.75333,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0028.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 29,
+      "time": 7.00333,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0029.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 30,
+      "time": 7.25333,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0030.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 31,
+      "time": 7.50333,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0031.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 32,
+      "time": 7.75333,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0032.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 33,
+      "time": 8.00333,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0033.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 34,
+      "time": 8.25333,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0034.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 35,
+      "time": 8.50333,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0035.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 36,
+      "time": 8.75333,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0036.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 37,
+      "time": 9.00333,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0037.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 38,
+      "time": 9.25333,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0038.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 39,
+      "time": 9.50333,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0039.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 40,
+      "time": 9.75333,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0040.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 41,
+      "time": 10.0033,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0041.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 42,
+      "time": 10.2533,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0042.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 43,
+      "time": 10.5033,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0043.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 44,
+      "time": 10.7533,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0044.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 45,
+      "time": 11.005,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0045.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 46,
+      "time": 11.255,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0046.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 47,
+      "time": 11.505,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0047.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 48,
+      "time": 11.755,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0048.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 49,
+      "time": 12.005,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0049.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 50,
+      "time": 12.255,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0050.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 51,
+      "time": 12.505,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0051.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 52,
+      "time": 12.755,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0052.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 53,
+      "time": 13.005,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0053.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 54,
+      "time": 13.255,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0054.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 55,
+      "time": 13.505,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0055.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 56,
+      "time": 13.755,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0056.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 57,
+      "time": 14.005,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0057.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 58,
+      "time": 14.255,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0058.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 59,
+      "time": 14.505,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0059.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 60,
+      "time": 14.755,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0060.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 61,
+      "time": 15.005,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0061.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 62,
+      "time": 15.255,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0062.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 63,
+      "time": 15.5067,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0063.jpg",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "index": 64,
+      "time": 15.7567,
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-review/frames/frame-0064.jpg",
+      "width": 1080,
+      "height": 1920
+    }
+  ],
+  "audio_review": "NOT_PERFORMED_GEOMETRY_ONLY",
+  "full_decode": "PASS: 958 decoded video frames; display 1080x1920; duration15.97s; separate ffmpeg null decode exit0",
+  "actually_viewed": "64 sampled frames via four contact pages across whole clip; original frames0001/0011/0025/0042 additionally inspected at full size"
+}

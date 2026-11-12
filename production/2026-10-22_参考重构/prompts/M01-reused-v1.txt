@@ -1,0 +1,3 @@
+No generation call. Authorized byte-for-byte reuse of /Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_花洒套图/final/SIL-P01.png
+SHA256 598e6aca38da8c3d3947259d6a7a328a6e0d4d9f347cae16303e7c252127368e
+Reference A038: white background, complete isolated product, no text. Product silhouette follows actual silver SKU.

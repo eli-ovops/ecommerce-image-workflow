@@ -1,0 +1,142 @@
+[
+  {
+    "id": "K01",
+    "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/K01-v1.png",
+    "sha256": "f350fbf3c5c2e46c89e5a06a0f94030e07f8d865402e8777acc649a51d51c13b",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "prompt_refs": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/prompts/K01-v1.json",
+    "native_opened": true,
+    "status": "CANDIDATE_PENDING_INDEPENDENT_QA",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN"
+  },
+  {
+    "id": "K02",
+    "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/K02-v1.png",
+    "sha256": "5f3fa907b9388b98e8b0cc97499e04f18e386e46048c4276ea33e765ec52edc8",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "prompt_refs": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/prompts/K02-v1.json",
+    "native_opened": true,
+    "status": "CANDIDATE_PENDING_INDEPENDENT_QA",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN"
+  },
+  {
+    "id": "K03",
+    "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/K03-v1.png",
+    "sha256": "b1bfeb26b6ad14ac22963172d6d573682f80ff64d4e44c28039a9dffd7925de2",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "prompt_refs": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/prompts/K03-v1.json",
+    "native_opened": true,
+    "status": "CANDIDATE_PENDING_INDEPENDENT_QA",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN"
+  },
+  {
+    "id": "M01",
+    "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M01-v1.png",
+    "sha256": "f63af37ee572ef996ddb155826b6251183ba0eac834e7f1d42f78334f10daa4d",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "prompt_refs": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/prompts/M01-v1.json",
+    "native_opened": true,
+    "status": "CANDIDATE_PENDING_INDEPENDENT_QA",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN"
+  },
+  {
+    "id": "M02",
+    "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M02-v1.png",
+    "sha256": "5b13e6dc04f10cb24ea060b9b5ab4c4ebc67402dbb3563e28f2ac7a5468c10dd",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "prompt_refs": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/prompts/M02-v1.json",
+    "native_opened": true,
+    "status": "CANDIDATE_PENDING_INDEPENDENT_QA",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN"
+  },
+  {
+    "id": "M03",
+    "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M03-v1.png",
+    "sha256": "d9e3ca71770fd3557e5cd643ee2601c63b3e73ea682487ead819f2210801215a",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "prompt_refs": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/prompts/M03-v1.json",
+    "native_opened": true,
+    "status": "CANDIDATE_PENDING_INDEPENDENT_QA",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN"
+  },
+  {
+    "id": "M04",
+    "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M04-v1.png",
+    "sha256": "c0731c2d3e9c140c330ba2aeca22e357823f3c54644b397b7c40322d45c744a8",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "prompt_refs": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/prompts/M04-v1.json",
+    "native_opened": true,
+    "status": "CANDIDATE_PENDING_INDEPENDENT_QA",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN"
+  },
+  {
+    "id": "M05",
+    "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M05-v1.png",
+    "sha256": "bda91eff2cf534d44b25f99c2e3a889c7100d850c0d40af367dbdb63ef281ad1",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "prompt_refs": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/prompts/M05-v1.json",
+    "native_opened": true,
+    "status": "CANDIDATE_PENDING_INDEPENDENT_QA",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN"
+  },
+  {
+    "id": "M07",
+    "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M07-v1.png",
+    "sha256": "4812f7e5c2c4825f843aa387a4b6dbe32ec94c70a79767d9a274b546d4734a4c",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "prompt_refs": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/prompts/M07-v1.json",
+    "native_opened": true,
+    "status": "CANDIDATE_PENDING_INDEPENDENT_QA",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN"
+  },
+  {
+    "id": "M08",
+    "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M08-v1.png",
+    "sha256": "b07365184cfb06f5171da77272eb051805b56aa013f78c29aea8c305f6b027e5",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "prompt_refs": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/prompts/M08-v1.json",
+    "native_opened": true,
+    "status": "CANDIDATE_PENDING_INDEPENDENT_QA",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN"
+  }
+]

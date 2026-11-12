@@ -1,0 +1,291 @@
+{
+  "count": 13,
+  "square": 7,
+  "portrait": 6,
+  "images": [
+    {
+      "id": 387,
+      "name": "01_387_竖放主图",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-31_同行13张逐张对应_银色无字/JPG/01_387_竖放主图.jpg",
+      "bytes": 1007234,
+      "sha256": "d293baf81edfcfbc91dd3092b8a91f9a1a0829699fb67274f420d21eaca832be"
+    },
+    {
+      "id": 388,
+      "name": "02_388_银色出水主图",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-31_同行13张逐张对应_银色无字/JPG/02_388_银色出水主图.jpg",
+      "bytes": 1043180,
+      "sha256": "02d2032e5a42ddcacbb311d918c54cf9db52cb940f2a5e830335ff26f6a487b3"
+    },
+    {
+      "id": 389,
+      "name": "03_389_冷蓝场景",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-31_同行13张逐张对应_银色无字/JPG/03_389_冷蓝场景.jpg",
+      "bytes": 829281,
+      "sha256": "42a3fefe5ccd1e643a04e59c5d08c7f2872c13ad9b053d1e3b79f3de0612672e"
+    },
+    {
+      "id": 390,
+      "name": "04_390_墨绿出水",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-31_同行13张逐张对应_银色无字/JPG/04_390_墨绿出水.jpg",
+      "bytes": 1089906,
+      "sha256": "9b940bd54cdd5cba6019a20193dcd8179936682a0ff2e8a98b005b0ee4cde1a5"
+    },
+    {
+      "id": 391,
+      "name": "05_391_人物沐浴方图",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-31_同行13张逐张对应_银色无字/JPG/05_391_人物沐浴方图.jpg",
+      "bytes": 993358,
+      "sha256": "54659f66704be85ee27f9783df923ed1bc2e2d0bcc4979810d3364b7986e421e"
+    },
+    {
+      "id": 392,
+      "name": "06_392_提拉除垢方图",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-31_同行13张逐张对应_银色无字/JPG/06_392_提拉除垢方图.jpg",
+      "bytes": 846112,
+      "sha256": "90145af9171863d8ee79c5dbddfb6de45abf34dba674596ae843b22855d7b3ce",
+      "latest_user_status": "REJECTED_HOLES_REQUIRE_REWORK"
+    },
+    {
+      "id": 393,
+      "name": "07_393_安装与外观方图",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-31_同行13张逐张对应_银色无字/JPG/07_393_安装与外观方图.jpg",
+      "bytes": 892587,
+      "sha256": "1bc7b5961a74b59d683ae0fec038fbb9f0c8a70cef0a865a07683ae9efc9d0c9"
+    },
+    {
+      "id": 394,
+      "name": "08_394_人物沐浴竖图",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-31_同行13张逐张对应_银色无字/JPG/08_394_人物沐浴竖图.jpg",
+      "bytes": 1032571,
+      "sha256": "862dff628d113cf004139568e2f2c7996b0cc6e6a8434f451bc5161a65f4fa1b"
+    },
+    {
+      "id": 395,
+      "name": "09_395_提拉除垢竖图",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-31_同行13张逐张对应_银色无字/JPG/09_395_提拉除垢竖图.jpg",
+      "bytes": 802362,
+      "sha256": "29746dd8ed18038888c743b650c5d5ca8ca3bd454180fd5e201f00df8a241891"
+    },
+    {
+      "id": 396,
+      "name": "10_396_六格细节竖图",
+      "dimensions": [
+        940,
+        1672
+      ],
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-31_同行13张逐张对应_银色无字/JPG/10_396_六格细节竖图.jpg",
+      "bytes": 817233,
+      "sha256": "b53c493d7f6723a420699ef648b1853a101ff8e71e1d98b66e686df4a57b32b6"
+    },
+    {
+      "id": 397,
+      "name": "11_397_安装与外观竖图",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-31_同行13张逐张对应_银色无字/JPG/11_397_安装与外观竖图.jpg",
+      "bytes": 1000016,
+      "sha256": "7907e82fddbad76c312a4cd52dbe29cf290104eec522890b532aed70446276b1"
+    },
+    {
+      "id": 398,
+      "name": "12_398_国内安装竖图",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-31_同行13张逐张对应_银色无字/JPG/12_398_国内安装竖图.jpg",
+      "bytes": 593706,
+      "sha256": "fcc75198dc3680183c9c2b18ddfdbbccc438a1b629f0e9433a8f509f1448e15d"
+    },
+    {
+      "id": 399,
+      "name": "13_399_斜放外观竖图",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-31_同行13张逐张对应_银色无字/JPG/13_399_斜放外观竖图.jpg",
+      "bytes": 761437,
+      "sha256": "d3162c2b4c995dc885c2f046c4287a4304be59761ed7bbf606592684320a0006",
+      "latest_user_status": "REJECTED_HOLES_REQUIRE_REWORK"
+    }
+  ],
+  "sources": [
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/products/长方形拉钮顶喷/原始实拍20261030/微信图片_20261030154107_372_2.jpg",
+      "bytes": 8365635,
+      "sha256": "c1f3664cc110b85d819bf6609f54b6f10b2943127dad85c3833c1f125443d017"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/products/长方形拉钮顶喷/原始实拍20261030/微信图片_20261030154107_374_2.jpg",
+      "bytes": 5366586,
+      "sha256": "9116ea9c59350fe964bc42156a5f0f9912bea56cab4e9260ded8707869d36371"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/products/长方形拉钮顶喷/原始实拍20261030/微信图片_20261030154107_376_2.jpg",
+      "bytes": 6821048,
+      "sha256": "f5d7d1e2c3839298bafb20d5ec4a7b19ff8990c9efd02f34b484b4bc07ad3965"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/products/长方形拉钮顶喷/原始实拍20261030/微信图片_20261030154107_382_2.jpg",
+      "bytes": 10758649,
+      "sha256": "995176fd9cebdaaef7e1f27886fa8287b5d4d17a8af935934946dbef91093ea1"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/products/长方形拉钮顶喷/接头补充实拍20261030/codex-clipboard-6fa807ac-653c-44f8-a3cc-2941c017e31e.jpg",
+      "bytes": 6416734,
+      "sha256": "dd03b48761950856e2a363ba726bdfc682683abad6d703bca461f190f17bc9f1"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/products/长方形拉钮顶喷/接头补充实拍20261030/codex-clipboard-7faa2b7a-f100-46ef-bfc7-87454ab489d0.jpg",
+      "bytes": 5080304,
+      "sha256": "50d7f0c9fe40c08617c98a9fb36fc22258873af18be20658101a2075f0bda9d3"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-31_同款商户电商参考/微信图片_20261031133902_387_2.jpg",
+      "bytes": 259809,
+      "sha256": "fa72a6fbebd26fca5aa2518846096e31570e527cc51e389b3846326453de67d9"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-31_同款商户电商参考/微信图片_20261031133902_388_2.jpg",
+      "bytes": 1074620,
+      "sha256": "151dc464c5f42ac07a9aa7c2f8eada93634fa51f6e6eb0dc8b50aa05521618a5"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-31_同款商户电商参考/微信图片_20261031133902_389_2.jpg",
+      "bytes": 203663,
+      "sha256": "cfd45bc7ece5e62c46f59202889702ccf7bf29c4b4171d50a2b2546f29f03d4e"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-31_同款商户电商参考/微信图片_20261031133902_390_2.jpg",
+      "bytes": 244439,
+      "sha256": "77b4aa113ff2d227c64111cb1d0420c1ba770fb7fa0ca0530f0612340679c6fd"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-31_同款商户电商参考/微信图片_20261031133902_391_2.jpg",
+      "bytes": 1009922,
+      "sha256": "ef347aa9187d0c28e51f27e06349a525c9c5bb8e0eaa80dfa6cac6646a520f2e"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-31_同款商户电商参考/微信图片_20261031133902_392_2.jpg",
+      "bytes": 1030220,
+      "sha256": "ad7603440ae5479441ed1706ed56dc09022dd25c7460ccae82352e4a3b33b21b"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-31_同款商户电商参考/微信图片_20261031133902_393_2.jpg",
+      "bytes": 988234,
+      "sha256": "b4935504e1c1ea05b81e65dfe4c7a3618f373fa51cf4ee4dc971b58cf0f02515"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-31_同款商户电商参考/微信图片_20261031133902_394_2.jpg",
+      "bytes": 360093,
+      "sha256": "56f955d5668d7a972e2d44e2a9c9e89699ca40482032ae10b05ab9c02cbb88d9"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-31_同款商户电商参考/微信图片_20261031133902_395_2.jpg",
+      "bytes": 356008,
+      "sha256": "449aa15ac22e7e600c159c70790c501ee41422ccca692d055119ad8924991bd6"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-31_同款商户电商参考/微信图片_20261031133902_396_2.jpg",
+      "bytes": 349464,
+      "sha256": "40df5c0e4c33c40d4d0f5de83919afbd216346c3b3a6a3864cc7b0221f821b63"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-31_同款商户电商参考/微信图片_20261031133902_397_2.jpg",
+      "bytes": 374467,
+      "sha256": "2c1d1c5933bfcbb92e031fe9d66ddee2674650485bba4e82cd80462ae4d8505f"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-31_同款商户电商参考/微信图片_20261031133902_398_2.jpg",
+      "bytes": 231189,
+      "sha256": "aae8967c45f4fb6d2a308da8c9efad41dd0a06fbe6db924bb39f029f2f05909f"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-31_同款商户电商参考/微信图片_20261031133902_399_2.jpg",
+      "bytes": 338997,
+      "sha256": "5db55b7196371f0179e0a79d6ed54667d1a22992908db3e3e16ffcdb1fea38aa"
+    }
+  ],
+  "zip": {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-31_同行13张逐张对应_银色无字/银色顶喷_同行对应13张_无字候选_JPG.zip",
+    "bytes": 11696772,
+    "sha256": "ec34bc34e7342a45b76f45b1cba4f58ebae02dbb7d6db77a4a6fad21c8f7ff94"
+  },
+  "checks": {
+    "all_jpg_decoded": true,
+    "aspect_ratios": "7square+6portrait verified",
+    "zip_crc_and_all_member_sha": "PASS"
+  },
+  "visual_status": "STYLE_CANDIDATES; exact holes/geometry not approved",
+  "user_acceptance": "PENDING",
+  "unresolved": [
+    "All exact hole count and original mapping unverified",
+    "392/395 redpin layout/extension not verified",
+    "399 local surface shading/rippling persists; stopped after targeted correction",
+    "393/397 exterior multiview substitutions rather than invented AIR disassembly"
+  ],
+  "preservation": "all sources, prior batches and16 native output candidates retained",
+  "latest_user_feedback": {
+    "quote": "这个孔不对",
+    "affected": [
+      392,
+      399
+    ],
+    "evidence": [
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-31_同行13张逐张对应_银色无字/用户孔位反馈/codex-clipboard-55ca1b88-efc3-447f-9b8f-a313cee34679.png",
+        "sha256": "fe31ebc0691aaae08af179304f8f336c7051453106a4661186a5188d1d7c29bf"
+      },
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-31_同行13张逐张对应_银色无字/用户孔位反馈/codex-clipboard-4e4d7a9e-309d-4632-83d1-4c12331545f1.png",
+        "sha256": "ce2056d9a19970a16dc88d889a5c01937447d07731f977c5bf871e8cc047860b"
+      }
+    ],
+    "issue": "extra holes inside leaf motifs, closed dimples/open-hole classification and red-tip mapping incorrect",
+    "current_batch_release": "REWORK_REQUIRED; old ZIP retained as rejected candidate history",
+    "owner_thread": "01a18bc9-5492-79e3-bfe3-678a64ea1c26",
+    "replacement_dir": "../2026-10-31_顶喷孔位回源可控修复/",
+    "other_images": "not changed; no claim of geometry approval",
+    "repair_outcome": "Deterministic geometry/real-photoUV verification attempted; no qualified replacement. Root review at ../2026-10-31_顶喷孔位回源可控修复/root-review.json.392 not rebuilt;399 advertising preview failed."
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "date": "2026-10-24",
+  "scope": "Mechanical gate smoke checks; actual product pilot not run",
+  "software_regression_tests": 26,
+  "real_product_images_created": 0,
+  "actual_software_tests": "PASS",
+  "geometry_water_person_experiment": "NOT_RUN",
+  "gate_runs": {
+    "review": {
+      "exit_code": 2,
+      "result": {
+        "stage": "review",
+        "status": "REJECTED",
+        "issues": [
+          {
+            "code": "PAUSED",
+            "item": "manifest",
+            "detail": "Image work remains paused or state is unknown"
+          },
+          {
+            "code": "PRODUCER",
+            "item": "E01",
+            "detail": "Actual producer is required"
+          },
+          {
+            "code": "MISSING_FILE",
+            "item": "E01:candidate",
+            "detail": "Required path and sha256 are absent"
+          },
+          {
+            "code": "MISSING_FILE",
+            "item": "E01:baseline",
+            "detail": "Required path and sha256 are absent"
+          },
+          {
+            "code": "MISSING_FILE",
+            "item": "E01:mask",
+            "detail": "Required path and sha256 are absent"
+          },
+          {
+            "code": "MISSING_FILE",
+            "item": "E01:jpg",
+            "detail": "Required path and sha256 are absent"
+          },
+          {
+            "code": "PRODUCER",
+            "item": "E02",
+            "detail": "Actual producer is required"
+          },
+          {
+            "code": "MISSING_FILE",
+            "item": "E02:candidate",
+            "detail": "Required path and sha256 are absent"
+          },
+          {
+            "code": "MISSING_FILE",
+            "item": "E02:baseline",
+            "detail": "Required path and sha256 are absent"
+          },
+          {
+            "code": "MISSING_FILE",
+            "item": "E02:mask",
+            "detail": "Required path and sha256 are absent"
+          },
+          {
+            "code": "MISSING_FILE",
+            "item": "E02:jpg",
+            "detail": "Required path and sha256 are absent"
+          },
+          {
+            "code": "PRODUCER",
+            "item": "E03",
+            "detail": "Actual producer is required"
+          },
+          {
+            "code": "MISSING_FILE",
+            "item": "E03:candidate",
+            "detail": "Required path and sha256 are absent"
+          },
+          {
+            "code": "MISSING_FILE",
+            "item": "E03:baseline",
+            "detail": "Required path and sha256 are absent"
+          },
+          {
+            "code": "MISSING_FILE",
+            "item": "E03:mask",
+            "detail": "Required path and sha256 are absent"
+          },
+          {
+            "code": "MISSING_FILE",
+            "item": "E03:jpg",
+            "detail": "Required path and sha256 are absent"
+          }
+        ],
+        "assets": [
+          {
+            "id": "E01",
+            "protected_pixels": null
+          },
+          {
+            "id": "E02",
+            "protected_pixels": null
+          },
+          {
+            "id": "E03",
+            "protected_pixels": null
+          }
+        ],
+        "limitations": "Mechanical evidence and pixel checks only; not automatic visual or customer acceptance"
+      }
+    },
+    "delivery": {
+      "exit_code": 2,
+      "result": {
+        "stage": "delivery",
+        "status": "REJECTED",
+        "issues": [
+          {
+            "code": "PAUSED",
+            "item": "manifest",
+            "detail": "Image work remains paused or state is unknown"
+          },
+          {
+            "code": "PRODUCER",
+            "item": "E01",
+            "detail": "Actual producer is required"
+          },
+          {
+            "code": "MISSING_FILE",
+            "item": "E01:candidate",
+            "detail": "Required path and sha256 are absent"
+          },
+          {
+            "code": "MISSING_FILE",
+            "item": "E01:baseline",
+            "detail": "Required path and sha256 are absent"
+          },
+          {
+            "code": "MISSING_FILE",
+            "item": "E01:mask",
+            "detail": "Required path and sha256 are absent"
+          },
+          {
+            "code": "MISSING_FILE",
+            "item": "E01:jpg",
+            "detail": "Required path and sha256 are absent"
+          },
+          {
+            "code": "PRODUCER",
+            "item": "E02",
+            "detail": "Actual producer is required"
+          },
+          {
+            "code": "MISSING_FILE",
+            "item": "E02:candidate",
+            "detail": "Required path and sha256 are absent"
+          },
+          {
+            "code": "MISSING_FILE",
+            "item": "E02:baseline",
+            "detail": "Required path and sha256 are absent"
+          },
+          {
+            "code": "MISSING_FILE",
+            "item": "E02:mask",
+            "detail": "Required path and sha256 are absent"
+          },
+          {
+            "code": "MISSING_FILE",
+            "item": "E02:jpg",
+            "detail": "Required path and sha256 are absent"
+          },
+          {
+            "code": "PRODUCER",
+            "item": "E03",
+            "detail": "Actual producer is required"
+          },
+          {
+            "code": "MISSING_FILE",
+            "item": "E03:candidate",
+            "detail": "Required path and sha256 are absent"
+          },
+          {
+            "code": "MISSING_FILE",
+            "item": "E03:baseline",
+            "detail": "Required path and sha256 are absent"
+          },
+          {
+            "code": "MISSING_FILE",
+            "item": "E03:mask",
+            "detail": "Required path and sha256 are absent"
+          },
+          {
+            "code": "MISSING_FILE",
+            "item": "E03:jpg",
+            "detail": "Required path and sha256 are absent"
+          },
+          {
+            "code": "MISSING_FILE",
+            "item": "baseline_acceptance",
+            "detail": "Required path and sha256 are absent"
+          }
+        ],
+        "assets": [
+          {
+            "id": "E01",
+            "protected_pixels": null
+          },
+          {
+            "id": "E02",
+            "protected_pixels": null
+          },
+          {
+            "id": "E03",
+            "protected_pixels": null
+          }
+        ],
+        "limitations": "Mechanical evidence and pixel checks only; not automatic visual or customer acceptance"
+      }
+    }
+  },
+  "independent_review": {
+    "status": "TARGETED_CODE_REVIEW_PASS",
+    "reviewer": "cause_process_audit",
+    "scope": "Five previously identified bypass categories fixed; no new mandatory issue in targeted followup",
+    "actual_review": "Read-only code review; reviewer did not rerun tests; root ran 26 regression tests",
+    "limits": "Not a security certification, automatic visual validation, real product experiment, or customer acceptance"
+  },
+  "temporary_files": "Unittest temporary directories automatically removed; synthetic images never client assets",
+  "new_project_files": [
+    "workflow/生产实验.md",
+    "workflow/experiment.json",
+    "tools/release_gate.py",
+    "tools/tests/test_release_gate.py",
+    "workflow/gate-baseline-check.json"
+  ],
+  "modified_existing_files": [
+    "AGENTS.md"
+  ],
+  "file_sha256": {
+    "tools/release_gate.py": "8658bc6d830a3201e66e736eaebf3d4ca7d073f641db3e79fff0861c227f8244",
+    "tools/tests/test_release_gate.py": "fb609950abd351b1b03fa405f4cea26a0304738b680fb50d7a021aad5dcd4de2",
+    "workflow/生产实验.md": "d55de2291cb2e9e8a3eb5111e31bc70e0c3c0fbeead06b4635a0069e688eefbc",
+    "workflow/experiment.json": "5de7cbc71ce8bd9750664904f6e758422640a29ac9cd6218ab702ae181d6fe14"
+  }
+}

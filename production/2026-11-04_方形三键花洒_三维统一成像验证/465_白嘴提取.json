@@ -1,0 +1,409 @@
+{
+  "source": "465",
+  "resized_width": 1600,
+  "method": "亮度连通域粗提，边缘及分组需对实拍复核，不是实测尺寸",
+  "items": [
+    {
+      "source_x": 319.23,
+      "source_y": 388.83,
+      "pixels": 183,
+      "kind": "round"
+    },
+    {
+      "source_x": 498.0,
+      "source_y": 393.49,
+      "pixels": 408,
+      "kind": "round"
+    },
+    {
+      "source_x": 544.45,
+      "source_y": 397.72,
+      "pixels": 339,
+      "kind": "round"
+    },
+    {
+      "source_x": 356.61,
+      "source_y": 400.1,
+      "pixels": 290,
+      "kind": "round"
+    },
+    {
+      "source_x": 444.79,
+      "source_y": 401.56,
+      "pixels": 900,
+      "kind": "heart"
+    },
+    {
+      "source_x": 590.11,
+      "source_y": 405.88,
+      "pixels": 280,
+      "kind": "round"
+    },
+    {
+      "source_x": 395.16,
+      "source_y": 406.02,
+      "pixels": 409,
+      "kind": "round"
+    },
+    {
+      "source_x": 230.9,
+      "source_y": 410.5,
+      "pixels": 195,
+      "kind": "round"
+    },
+    {
+      "source_x": 634.58,
+      "source_y": 419.11,
+      "pixels": 217,
+      "kind": "round"
+    },
+    {
+      "source_x": 270.21,
+      "source_y": 434.05,
+      "pixels": 240,
+      "kind": "round"
+    },
+    {
+      "source_x": 677.0,
+      "source_y": 435.97,
+      "pixels": 170,
+      "kind": "round"
+    },
+    {
+      "source_x": 311.2,
+      "source_y": 452.57,
+      "pixels": 281,
+      "kind": "round"
+    },
+    {
+      "source_x": 499.81,
+      "source_y": 460.6,
+      "pixels": 394,
+      "kind": "round"
+    },
+    {
+      "source_x": 447.06,
+      "source_y": 468.48,
+      "pixels": 883,
+      "kind": "heart"
+    },
+    {
+      "source_x": 208.27,
+      "source_y": 471.67,
+      "pixels": 187,
+      "kind": "round"
+    },
+    {
+      "source_x": 397.25,
+      "source_y": 473.57,
+      "pixels": 404,
+      "kind": "round"
+    },
+    {
+      "source_x": 597.41,
+      "source_y": 473.59,
+      "pixels": 264,
+      "kind": "round"
+    },
+    {
+      "source_x": 643.4,
+      "source_y": 488.53,
+      "pixels": 206,
+      "kind": "round"
+    },
+    {
+      "source_x": 253.58,
+      "source_y": 498.13,
+      "pixels": 233,
+      "kind": "round"
+    },
+    {
+      "source_x": 683.95,
+      "source_y": 509.7,
+      "pixels": 141,
+      "kind": "round"
+    },
+    {
+      "source_x": 300.8,
+      "source_y": 518.73,
+      "pixels": 276,
+      "kind": "round"
+    },
+    {
+      "source_x": 501.8,
+      "source_y": 526.83,
+      "pixels": 386,
+      "kind": "round"
+    },
+    {
+      "source_x": 551.47,
+      "source_y": 530.69,
+      "pixels": 320,
+      "kind": "round"
+    },
+    {
+      "source_x": 349.56,
+      "source_y": 532.62,
+      "pixels": 326,
+      "kind": "round"
+    },
+    {
+      "source_x": 449.06,
+      "source_y": 534.57,
+      "pixels": 862,
+      "kind": "heart"
+    },
+    {
+      "source_x": 399.77,
+      "source_y": 540.4,
+      "pixels": 392,
+      "kind": "round"
+    },
+    {
+      "source_x": 600.0,
+      "source_y": 540.75,
+      "pixels": 263,
+      "kind": "round"
+    },
+    {
+      "source_x": 208.64,
+      "source_y": 549.91,
+      "pixels": 186,
+      "kind": "round"
+    },
+    {
+      "source_x": 645.98,
+      "source_y": 556.63,
+      "pixels": 203,
+      "kind": "round"
+    },
+    {
+      "source_x": 255.07,
+      "source_y": 573.44,
+      "pixels": 224,
+      "kind": "round"
+    },
+    {
+      "source_x": 685.34,
+      "source_y": 578.18,
+      "pixels": 106,
+      "kind": "round"
+    },
+    {
+      "source_x": 303.08,
+      "source_y": 590.9,
+      "pixels": 269,
+      "kind": "round"
+    },
+    {
+      "source_x": 503.56,
+      "source_y": 592.62,
+      "pixels": 380,
+      "kind": "round"
+    },
+    {
+      "source_x": 451.23,
+      "source_y": 600.04,
+      "pixels": 844,
+      "kind": "heart"
+    },
+    {
+      "source_x": 402.01,
+      "source_y": 606.84,
+      "pixels": 388,
+      "kind": "round"
+    },
+    {
+      "source_x": 601.26,
+      "source_y": 607.75,
+      "pixels": 250,
+      "kind": "round"
+    },
+    {
+      "source_x": 212.07,
+      "source_y": 621.5,
+      "pixels": 174,
+      "kind": "round"
+    },
+    {
+      "source_x": 646.56,
+      "source_y": 624.3,
+      "pixels": 197,
+      "kind": "round"
+    },
+    {
+      "source_x": 258.3,
+      "source_y": 643.36,
+      "pixels": 220,
+      "kind": "round"
+    },
+    {
+      "source_x": 685.15,
+      "source_y": 646.47,
+      "pixels": 107,
+      "kind": "round"
+    },
+    {
+      "source_x": 505.32,
+      "source_y": 657.17,
+      "pixels": 368,
+      "kind": "round"
+    },
+    {
+      "source_x": 306.11,
+      "source_y": 658.93,
+      "pixels": 264,
+      "kind": "round"
+    },
+    {
+      "source_x": 554.25,
+      "source_y": 664.04,
+      "pixels": 305,
+      "kind": "round"
+    },
+    {
+      "source_x": 453.3,
+      "source_y": 664.36,
+      "pixels": 821,
+      "kind": "heart"
+    },
+    {
+      "source_x": 354.96,
+      "source_y": 668.45,
+      "pixels": 315,
+      "kind": "round"
+    },
+    {
+      "source_x": 404.43,
+      "source_y": 671.45,
+      "pixels": 379,
+      "kind": "round"
+    },
+    {
+      "source_x": 601.31,
+      "source_y": 676.9,
+      "pixels": 246,
+      "kind": "round"
+    },
+    {
+      "source_x": 217.77,
+      "source_y": 691.27,
+      "pixels": 172,
+      "kind": "round"
+    },
+    {
+      "source_x": 645.32,
+      "source_y": 695.22,
+      "pixels": 197,
+      "kind": "round"
+    },
+    {
+      "source_x": 263.56,
+      "source_y": 711.38,
+      "pixels": 211,
+      "kind": "round"
+    },
+    {
+      "source_x": 684.27,
+      "source_y": 717.97,
+      "pixels": 123,
+      "kind": "round"
+    },
+    {
+      "source_x": 506.6,
+      "source_y": 720.96,
+      "pixels": 363,
+      "kind": "round"
+    },
+    {
+      "source_x": 310.51,
+      "source_y": 725.24,
+      "pixels": 258,
+      "kind": "round"
+    },
+    {
+      "source_x": 455.31,
+      "source_y": 727.92,
+      "pixels": 808,
+      "kind": "heart"
+    },
+    {
+      "source_x": 406.91,
+      "source_y": 735.89,
+      "pixels": 368,
+      "kind": "round"
+    },
+    {
+      "source_x": 589.37,
+      "source_y": 738.88,
+      "pixels": 249,
+      "kind": "round"
+    },
+    {
+      "source_x": 627.28,
+      "source_y": 754.42,
+      "pixels": 197,
+      "kind": "round"
+    },
+    {
+      "source_x": 230.98,
+      "source_y": 763.83,
+      "pixels": 169,
+      "kind": "round"
+    },
+    {
+      "source_x": 662.33,
+      "source_y": 775.58,
+      "pixels": 149,
+      "kind": "round"
+    },
+    {
+      "source_x": 274.79,
+      "source_y": 778.67,
+      "pixels": 209,
+      "kind": "round"
+    },
+    {
+      "source_x": 508.03,
+      "source_y": 784.09,
+      "pixels": 356,
+      "kind": "round"
+    },
+    {
+      "source_x": 544.92,
+      "source_y": 788.41,
+      "pixels": 241,
+      "kind": "round"
+    },
+    {
+      "source_x": 319.41,
+      "source_y": 789.59,
+      "pixels": 252,
+      "kind": "round"
+    },
+    {
+      "source_x": 456.9,
+      "source_y": 790.69,
+      "pixels": 792,
+      "kind": "heart"
+    },
+    {
+      "source_x": 364.29,
+      "source_y": 796.5,
+      "pixels": 307,
+      "kind": "round"
+    },
+    {
+      "source_x": 580.22,
+      "source_y": 797.98,
+      "pixels": 149,
+      "kind": "round"
+    },
+    {
+      "source_x": 409.34,
+      "source_y": 798.83,
+      "pixels": 363,
+      "kind": "round"
+    }
+  ]
+}

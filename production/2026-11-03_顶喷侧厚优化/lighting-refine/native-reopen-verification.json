@@ -1,0 +1,10 @@
+{
+  "source": "native/product-v2.blend",
+  "candidate": "lighting-refine/native/product.blend",
+  "mesh_uv_world_transform_unchanged": true,
+  "sha256": {
+    "Housing_300x200x20": "78ca76e11ca3d01bd34842c1d3809c711f09c76b6951024b737f3edd13ba4dae",
+    "ONLY_PHOTO_FACE_NO_DUPLICATE_CIRCLES": "43c4f6492c384531067b51f250ff7aa820d415f54c6a3d6db7e23006c0bf2f79",
+    "Outward_pull_knob_concave_face": "d9a6ce7ff3a79fc35eaa4eebdd093bea4b33c4a802a76b7097c4677488dd03a1"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "text": [
+    {
+      "text": "银色顶喷 浴室美学",
+      "x": 45,
+      "y": 55,
+      "size": 67,
+      "color": "#efd0a3",
+      "font": "Heiti SC",
+      "bold": true,
+      "oblique": true,
+      "gold_gradient": true,
+      "extrusion_px": 3
+    },
+    {
+      "text": "长方形面板 · 中央提拉红钮",
+      "x": 48,
+      "y": 150,
+      "size": 35,
+      "color": "#efd0a3",
+      "font": "Heiti SC",
+      "bold": true,
+      "oblique": false,
+      "gold_gradient": true,
+      "extrusion_px": 3
+    },
+    {
+      "text": "安装出水示意",
+      "x": 50,
+      "y": 1125,
+      "size": 32,
+      "color": "#efd0a3",
+      "font": "Heiti SC",
+      "bold": true,
+      "oblique": false,
+      "gold_gradient": true,
+      "extrusion_px": 3
+    }
+  ],
+  "transforms": [
+    {
+      "source": "native-installed.png",
+      "scale": 1.504201680672269,
+      "xy": [
+        -254,
+        24
+      ],
+      "illustration": true
+    }
+  ],
+  "note": "水流没有自然接触人物或溅水，主体视角和质感不足。"
+}

@@ -1,0 +1,43 @@
+[
+  {
+    "source": "183",
+    "rotate": -90,
+    "uniform": true,
+    "placed_size": [
+      347,
+      810
+    ],
+    "position": [
+      66,
+      282
+    ]
+  },
+  {
+    "source": "枪灰色/原图/微信图片_20261026090549_196_2.jpg",
+    "rotate": 0,
+    "uniform": true,
+    "mask": "196_outline_mask.png",
+    "placed_size": [
+      334,
+      810
+    ],
+    "position": [
+      458,
+      282
+    ]
+  },
+  {
+    "source": "黑色/原图/微信图片_20261026090552_198_2.jpg",
+    "rotate": 3,
+    "uniform": true,
+    "mask": "198_outline_mask.png",
+    "placed_size": [
+      339,
+      810
+    ],
+    "position": [
+      840,
+      282
+    ]
+  }
+]

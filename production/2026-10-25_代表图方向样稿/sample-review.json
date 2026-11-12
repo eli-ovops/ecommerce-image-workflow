@@ -1,0 +1,57 @@
+{
+  "task": "用户反馈后的单张视觉方向样稿",
+  "status": "SAMPLE_READY_FOR_USER_REVIEW",
+  "count": 1,
+  "format": "JPG",
+  "output": "银色主图方向样稿.jpg",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "sha256": "50528c4d6e880291987b326140e3bdcffe1e42b2399ba06cc7df6940c72abadf",
+  "native_generation_source": "/Users/USER/.codex/generated_images/01a16319-d848-71d0-95e1-72970644c800/exec-6332b290-cf4a-439d-b824-70a2f7bf4d3e.png",
+  "native_source_sha256": "c96675b432380fc4952f3b5f45a2f1cc1d38bf1ba4473dd1a1c05e22a0ae8b22",
+  "inputs": [
+    {
+      "path": "production/2026-10-22_花洒套图/exports/JPG/SIL-P03.jpg",
+      "role": "初版整体风格参考；只借用完整明亮浴室场景与大标题层级"
+    },
+    {
+      "path": "products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+      "role": "银色商品正面实拍，外观依据"
+    },
+    {
+      "path": "products/主推花洒/银色/原图/微信图片_20261022184345_91_2.jpg",
+      "role": "银色商品侧面实拍，弧度依据"
+    },
+    {
+      "path": "models/M001/master-v1.png",
+      "role": "固定合成人物身份参考"
+    }
+  ],
+  "review": {
+    "visual_style": "暖白浴室、窗光、统一生活摄影画面、简短大标题；对照初版方向明显，未拆成小卡片",
+    "model": "人物身份与服装完整；未见明显鱼鳞/网格纹理",
+    "product": "正面孔位、中央红件、下方切档按键清晰；曲率从该视角基本连贯；实际几何不能由生成图硬锁定，仍需按实拍核对",
+    "thread": "底部螺纹未露出",
+    "water": "本张为静态外观场景，不声称或展示出水性能",
+    "copy": "仅“手持花洒 / 日常淋浴”，未写未知参数或性能",
+    "limitations": [
+      "生成商品图仍是实拍引导的生成结果，不是原始商品像素合成或尺寸校准",
+      "代表方向样稿，不等于整套返修完成或客户接受"
+    ]
+  },
+  "generation_attempts": [
+    {
+      "native_source": "/Users/USER/.codex/generated_images/01a16319-d848-71d0-95e1-72970644c800/exec-d76694f9-d953-4914-a8d7-7f81c80849b2.png",
+      "result": "REJECTED",
+      "reason": "肤质出现鳞片状纹理，底部连接螺纹露出较多；未进入项目交付目录。"
+    },
+    {
+      "native_source": "/Users/USER/.codex/generated_images/01a16319-d848-71d0-95e1-72970644c800/exec-6332b290-cf4a-439d-b824-70a2f7bf4d3e.png",
+      "result": "SELECTED_FOR_USER_REVIEW",
+      "reason": "重新从原始实拍和M001身份母版生成；肤质纹理改善、无裸螺纹，整体场景接近初版明亮完整广告风格。"
+    }
+  ],
+  "generation_tool": "内置 image_gen；具体底层模型/effort回执UNKNOWN"
+}

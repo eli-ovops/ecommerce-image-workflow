@@ -1,0 +1,1803 @@
+{
+  "input_original_five_meshes_equal_v3": true,
+  "product_parts": [
+    "Connector_dark_cavity_backing_ESTIMATED",
+    "Connector_dark_inner_ring_ESTIMATED",
+    "Connector_open_metal_envelope_ESTIMATED",
+    "Connector_visible_screen_ESTIMATED_pitch_not_spec",
+    "Housing_300x200x20",
+    "Observed_white_protective_cap",
+    "Outward_pull_knob_concave_face",
+    "Rear_connector_visible_envelope_UNCONFIRMED_thread",
+    "Recessed_panel_with_true_through_holes"
+  ],
+  "views": {
+    "01_advertising_refined": {
+      "checks": {
+        "camera_equal_previous01": true,
+        "rig_equal_previous01": true,
+        "same_nine_product_meshes": true,
+        "same_authored_basis_parent_inverse_modifiers": true,
+        "normalized_world_equal": true,
+        "shell_300_200_20mm": true,
+        "old_cap_connector_hidden": true
+      },
+      "normalized_world_max_errors": {
+        "Connector_dark_cavity_backing_ESTIMATED": 0.0,
+        "Connector_dark_inner_ring_ESTIMATED": 0.0,
+        "Connector_open_metal_envelope_ESTIMATED": 0.0,
+        "Connector_visible_screen_ESTIMATED_pitch_not_spec": 0.0,
+        "Housing_300x200x20": 0.0,
+        "Observed_white_protective_cap": 0.0,
+        "Outward_pull_knob_concave_face": 0.0,
+        "Rear_connector_visible_envelope_UNCONFIRMED_thread": 0.0,
+        "Recessed_panel_with_true_through_holes": 0.0
+      },
+      "local_shell_bounds_mm": [
+        300.00001192092896,
+        200.00000298023224,
+        19.999999552965164
+      ],
+      "rigid_transform": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "product_mesh_hashes": {
+        "Connector_dark_cavity_backing_ESTIMATED": "d5a212140afc2ed3b2e4ac720705fbcc04f5452f27b93f30d1312e4d9d411336",
+        "Connector_dark_inner_ring_ESTIMATED": "5fedbfde716e6a99a347caa8178bd20e6ec653432b64311ab7235e245b5a6287",
+        "Connector_open_metal_envelope_ESTIMATED": "86a804385c98247f00eb73d60ab78db7ed08e0429b2d0612da9e0279367e1b34",
+        "Connector_visible_screen_ESTIMATED_pitch_not_spec": "df9dcddd89791230a9da11712bd219fcfa877bbe5819c973e5696ee130e68f61",
+        "Housing_300x200x20": "f3e2f848f1cbfa8247e75502b548b5cbe2c341f03aff99195a0eefe41f7ebfd8",
+        "Observed_white_protective_cap": "70daf757a5a06cd88b27692faa65b2992002e230456893edf69bb1be0a4f2bfd",
+        "Outward_pull_knob_concave_face": "0fb8b0ed4b08716e9495d39a66e6535db8c04d2db46ed02b87e8c51451c6fde1",
+        "Rear_connector_visible_envelope_UNCONFIRMED_thread": "40b3018a54ca5c929e5f734b85eef5db535bab850f3b28a4a51427dba0f206b3",
+        "Recessed_panel_with_true_through_holes": "c37abd3ecb1c4678142754f5716a822f552f9d7984e41086b4671bec7e34bf45"
+      },
+      "material_changes": {
+        "Housing_300x200x20": {
+          "before": [
+            {
+              "nodes": [
+                [
+                  "原理化 BSDF",
+                  "BSDF_PRINCIPLED",
+                  [
+                    [
+                      "Base Color",
+                      [
+                        0.7200000286102295,
+                        0.75,
+                        0.7799999713897705,
+                        1.0
+                      ]
+                    ],
+                    [
+                      "Metallic",
+                      1.0
+                    ],
+                    [
+                      "Roughness",
+                      0.1599999964237213
+                    ],
+                    [
+                      "IOR",
+                      1.5
+                    ],
+                    [
+                      "Alpha",
+                      1.0
+                    ],
+                    [
+                      "Thin Wall",
+                      false
+                    ],
+                    [
+                      "Normal",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ],
+                    [
+                      "Weight",
+                      0.0
+                    ],
+                    [
+                      "Diffuse Roughness",
+                      0.0
+                    ],
+                    [
+                      "Subsurface Weight",
+                      0.0
+                    ],
+                    [
+                      "Subsurface Radius",
+                      [
+                        1.0,
+                        0.20000000298023224,
+                        0.10000000149011612
+                      ]
+                    ],
+                    [
+                      "Subsurface Scale",
+                      0.004999999888241291
+                    ],
+                    [
+                      "Subsurface IOR",
+                      1.399999976158142
+                    ],
+                    [
+                      "Subsurface Anisotropy",
+                      0.0
+                    ],
+                    [
+                      "Specular IOR Level",
+                      0.5
+                    ],
+                    [
+                      "Specular Tint",
+                      [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                      ]
+                    ],
+                    [
+                      "Anisotropic",
+                      0.0
+                    ],
+                    [
+                      "Anisotropic Rotation",
+                      0.0
+                    ],
+                    [
+                      "Tangent",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ],
+                    [
+                      "Transmission Weight",
+                      0.0
+                    ],
+                    [
+                      "Coat Weight",
+                      0.0
+                    ],
+                    [
+                      "Coat Roughness",
+                      0.029999999329447746
+                    ],
+                    [
+                      "Coat IOR",
+                      1.5
+                    ],
+                    [
+                      "Coat Tint",
+                      [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                      ]
+                    ],
+                    [
+                      "Coat Normal",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ],
+                    [
+                      "Sheen Weight",
+                      0.0
+                    ],
+                    [
+                      "Sheen Roughness",
+                      0.5
+                    ],
+                    [
+                      "Sheen Tint",
+                      [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                      ]
+                    ],
+                    [
+                      "Emission Color",
+                      [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                      ]
+                    ],
+                    [
+                      "Emission Strength",
+                      0.0
+                    ],
+                    [
+                      "Thin Film Thickness",
+                      0.0
+                    ],
+                    [
+                      "Thin Film IOR",
+                      1.3300000429153442
+                    ]
+                  ]
+                ],
+                [
+                  "材质输出",
+                  "OUTPUT_MATERIAL",
+                  [
+                    [
+                      "Displacement",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ],
+                    [
+                      "Thickness",
+                      0.0
+                    ]
+                  ]
+                ]
+              ],
+              "links": [
+                [
+                  "原理化 BSDF",
+                  "BSDF",
+                  "材质输出",
+                  "Surface"
+                ]
+              ]
+            }
+          ],
+          "after": [
+            {
+              "nodes": [
+                [
+                  "原理化 BSDF",
+                  "BSDF_PRINCIPLED",
+                  [
+                    [
+                      "Base Color",
+                      [
+                        0.7200000286102295,
+                        0.75,
+                        0.7799999713897705,
+                        1.0
+                      ]
+                    ],
+                    [
+                      "Metallic",
+                      1.0
+                    ],
+                    [
+                      "Roughness",
+                      0.10000000149011612
+                    ],
+                    [
+                      "IOR",
+                      1.5
+                    ],
+                    [
+                      "Alpha",
+                      1.0
+                    ],
+                    [
+                      "Thin Wall",
+                      false
+                    ],
+                    [
+                      "Normal",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ],
+                    [
+                      "Weight",
+                      0.0
+                    ],
+                    [
+                      "Diffuse Roughness",
+                      0.0
+                    ],
+                    [
+                      "Subsurface Weight",
+                      0.0
+                    ],
+                    [
+                      "Subsurface Radius",
+                      [
+                        1.0,
+                        0.20000000298023224,
+                        0.10000000149011612
+                      ]
+                    ],
+                    [
+                      "Subsurface Scale",
+                      0.004999999888241291
+                    ],
+                    [
+                      "Subsurface IOR",
+                      1.399999976158142
+                    ],
+                    [
+                      "Subsurface Anisotropy",
+                      0.0
+                    ],
+                    [
+                      "Specular IOR Level",
+                      0.5
+                    ],
+                    [
+                      "Specular Tint",
+                      [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                      ]
+                    ],
+                    [
+                      "Anisotropic",
+                      0.0
+                    ],
+                    [
+                      "Anisotropic Rotation",
+                      0.0
+                    ],
+                    [
+                      "Tangent",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ],
+                    [
+                      "Transmission Weight",
+                      0.0
+                    ],
+                    [
+                      "Coat Weight",
+                      0.0
+                    ],
+                    [
+                      "Coat Roughness",
+                      0.029999999329447746
+                    ],
+                    [
+                      "Coat IOR",
+                      1.5
+                    ],
+                    [
+                      "Coat Tint",
+                      [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                      ]
+                    ],
+                    [
+                      "Coat Normal",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ],
+                    [
+                      "Sheen Weight",
+                      0.0
+                    ],
+                    [
+                      "Sheen Roughness",
+                      0.5
+                    ],
+                    [
+                      "Sheen Tint",
+                      [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                      ]
+                    ],
+                    [
+                      "Emission Color",
+                      [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                      ]
+                    ],
+                    [
+                      "Emission Strength",
+                      0.0
+                    ],
+                    [
+                      "Thin Film Thickness",
+                      0.0
+                    ],
+                    [
+                      "Thin Film IOR",
+                      1.3300000429153442
+                    ]
+                  ]
+                ],
+                [
+                  "材质输出",
+                  "OUTPUT_MATERIAL",
+                  [
+                    [
+                      "Displacement",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ],
+                    [
+                      "Thickness",
+                      0.0
+                    ]
+                  ]
+                ]
+              ],
+              "links": [
+                [
+                  "原理化 BSDF",
+                  "BSDF",
+                  "材质输出",
+                  "Surface"
+                ]
+              ]
+            }
+          ]
+        },
+        "Outward_pull_knob_concave_face": {
+          "before": [
+            {
+              "nodes": [
+                [
+                  "原理化 BSDF",
+                  "BSDF_PRINCIPLED",
+                  [
+                    [
+                      "Base Color",
+                      [
+                        0.75,
+                        0.008999999612569809,
+                        0.001500000013038516,
+                        1.0
+                      ]
+                    ],
+                    [
+                      "Metallic",
+                      0.0
+                    ],
+                    [
+                      "Roughness",
+                      0.3100000023841858
+                    ],
+                    [
+                      "IOR",
+                      1.5
+                    ],
+                    [
+                      "Alpha",
+                      1.0
+                    ],
+                    [
+                      "Thin Wall",
+                      false
+                    ],
+                    [
+                      "Normal",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ],
+                    [
+                      "Weight",
+                      0.0
+                    ],
+                    [
+                      "Diffuse Roughness",
+                      0.0
+                    ],
+                    [
+                      "Subsurface Weight",
+                      0.0
+                    ],
+                    [
+                      "Subsurface Radius",
+                      [
+                        1.0,
+                        0.20000000298023224,
+                        0.10000000149011612
+                      ]
+                    ],
+                    [
+                      "Subsurface Scale",
+                      0.004999999888241291
+                    ],
+                    [
+                      "Subsurface IOR",
+                      1.399999976158142
+                    ],
+                    [
+                      "Subsurface Anisotropy",
+                      0.0
+                    ],
+                    [
+                      "Specular IOR Level",
+                      0.2800000011920929
+                    ],
+                    [
+                      "Specular Tint",
+                      [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                      ]
+                    ],
+                    [
+                      "Anisotropic",
+                      0.0
+                    ],
+                    [
+                      "Anisotropic Rotation",
+                      0.0
+                    ],
+                    [
+                      "Tangent",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ],
+                    [
+                      "Transmission Weight",
+                      0.0
+                    ],
+                    [
+                      "Coat Weight",
+                      0.0
+                    ],
+                    [
+                      "Coat Roughness",
+                      0.029999999329447746
+                    ],
+                    [
+                      "Coat IOR",
+                      1.5
+                    ],
+                    [
+                      "Coat Tint",
+                      [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                      ]
+                    ],
+                    [
+                      "Coat Normal",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ],
+                    [
+                      "Sheen Weight",
+                      0.0
+                    ],
+                    [
+                      "Sheen Roughness",
+                      0.5
+                    ],
+                    [
+                      "Sheen Tint",
+                      [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                      ]
+                    ],
+                    [
+                      "Emission Color",
+                      [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                      ]
+                    ],
+                    [
+                      "Emission Strength",
+                      0.0
+                    ],
+                    [
+                      "Thin Film Thickness",
+                      0.0
+                    ],
+                    [
+                      "Thin Film IOR",
+                      1.3300000429153442
+                    ]
+                  ]
+                ],
+                [
+                  "材质输出",
+                  "OUTPUT_MATERIAL",
+                  [
+                    [
+                      "Displacement",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ],
+                    [
+                      "Thickness",
+                      0.0
+                    ]
+                  ]
+                ]
+              ],
+              "links": [
+                [
+                  "原理化 BSDF",
+                  "BSDF",
+                  "材质输出",
+                  "Surface"
+                ]
+              ]
+            }
+          ],
+          "after": [
+            {
+              "nodes": [
+                [
+                  "原理化 BSDF",
+                  "BSDF_PRINCIPLED",
+                  [
+                    [
+                      "Base Color",
+                      [
+                        0.8299999833106995,
+                        0.00800000037997961,
+                        0.0010000000474974513,
+                        1.0
+                      ]
+                    ],
+                    [
+                      "Metallic",
+                      0.0
+                    ],
+                    [
+                      "Roughness",
+                      0.23999999463558197
+                    ],
+                    [
+                      "IOR",
+                      1.5
+                    ],
+                    [
+                      "Alpha",
+                      1.0
+                    ],
+                    [
+                      "Thin Wall",
+                      false
+                    ],
+                    [
+                      "Normal",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ],
+                    [
+                      "Weight",
+                      0.0
+                    ],
+                    [
+                      "Diffuse Roughness",
+                      0.0
+                    ],
+                    [
+                      "Subsurface Weight",
+                      0.0
+                    ],
+                    [
+                      "Subsurface Radius",
+                      [
+                        1.0,
+                        0.20000000298023224,
+                        0.10000000149011612
+                      ]
+                    ],
+                    [
+                      "Subsurface Scale",
+                      0.004999999888241291
+                    ],
+                    [
+                      "Subsurface IOR",
+                      1.399999976158142
+                    ],
+                    [
+                      "Subsurface Anisotropy",
+                      0.0
+                    ],
+                    [
+                      "Specular IOR Level",
+                      0.3400000035762787
+                    ],
+                    [
+                      "Specular Tint",
+                      [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                      ]
+                    ],
+                    [
+                      "Anisotropic",
+                      0.0
+                    ],
+                    [
+                      "Anisotropic Rotation",
+                      0.0
+                    ],
+                    [
+                      "Tangent",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ],
+                    [
+                      "Transmission Weight",
+                      0.0
+                    ],
+                    [
+                      "Coat Weight",
+                      0.0
+                    ],
+                    [
+                      "Coat Roughness",
+                      0.029999999329447746
+                    ],
+                    [
+                      "Coat IOR",
+                      1.5
+                    ],
+                    [
+                      "Coat Tint",
+                      [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                      ]
+                    ],
+                    [
+                      "Coat Normal",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ],
+                    [
+                      "Sheen Weight",
+                      0.0
+                    ],
+                    [
+                      "Sheen Roughness",
+                      0.5
+                    ],
+                    [
+                      "Sheen Tint",
+                      [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                      ]
+                    ],
+                    [
+                      "Emission Color",
+                      [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                      ]
+                    ],
+                    [
+                      "Emission Strength",
+                      0.0
+                    ],
+                    [
+                      "Thin Film Thickness",
+                      0.0
+                    ],
+                    [
+                      "Thin Film IOR",
+                      1.3300000429153442
+                    ]
+                  ]
+                ],
+                [
+                  "材质输出",
+                  "OUTPUT_MATERIAL",
+                  [
+                    [
+                      "Displacement",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ],
+                    [
+                      "Thickness",
+                      0.0
+                    ]
+                  ]
+                ]
+              ],
+              "links": [
+                [
+                  "原理化 BSDF",
+                  "BSDF",
+                  "材质输出",
+                  "Surface"
+                ]
+              ]
+            }
+          ]
+        },
+        "Recessed_panel_with_true_through_holes": {
+          "before": [
+            {
+              "nodes": [
+                [
+                  "材质输出",
+                  "OUTPUT_MATERIAL",
+                  [
+                    [
+                      "Displacement",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ],
+                    [
+                      "Thickness",
+                      0.0
+                    ]
+                  ]
+                ],
+                [
+                  "原理化 BSDF",
+                  "BSDF_PRINCIPLED",
+                  [
+                    [
+                      "Base Color",
+                      [
+                        0.800000011920929,
+                        0.800000011920929,
+                        0.800000011920929,
+                        1.0
+                      ]
+                    ],
+                    [
+                      "Metallic",
+                      0.03999999910593033
+                    ],
+                    [
+                      "Roughness",
+                      0.5
+                    ],
+                    [
+                      "IOR",
+                      1.5
+                    ],
+                    [
+                      "Alpha",
+                      1.0
+                    ],
+                    [
+                      "Thin Wall",
+                      false
+                    ],
+                    [
+                      "Normal",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ],
+                    [
+                      "Weight",
+                      0.0
+                    ],
+                    [
+                      "Diffuse Roughness",
+                      0.0
+                    ],
+                    [
+                      "Subsurface Weight",
+                      0.0
+                    ],
+                    [
+                      "Subsurface Radius",
+                      [
+                        1.0,
+                        0.20000000298023224,
+                        0.10000000149011612
+                      ]
+                    ],
+                    [
+                      "Subsurface Scale",
+                      0.004999999888241291
+                    ],
+                    [
+                      "Subsurface IOR",
+                      1.399999976158142
+                    ],
+                    [
+                      "Subsurface Anisotropy",
+                      0.0
+                    ],
+                    [
+                      "Specular IOR Level",
+                      0.5
+                    ],
+                    [
+                      "Specular Tint",
+                      [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                      ]
+                    ],
+                    [
+                      "Anisotropic",
+                      0.0
+                    ],
+                    [
+                      "Anisotropic Rotation",
+                      0.0
+                    ],
+                    [
+                      "Tangent",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ],
+                    [
+                      "Transmission Weight",
+                      0.0
+                    ],
+                    [
+                      "Coat Weight",
+                      0.0
+                    ],
+                    [
+                      "Coat Roughness",
+                      0.029999999329447746
+                    ],
+                    [
+                      "Coat IOR",
+                      1.5
+                    ],
+                    [
+                      "Coat Tint",
+                      [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                      ]
+                    ],
+                    [
+                      "Coat Normal",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ],
+                    [
+                      "Sheen Weight",
+                      0.0
+                    ],
+                    [
+                      "Sheen Roughness",
+                      0.5
+                    ],
+                    [
+                      "Sheen Tint",
+                      [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                      ]
+                    ],
+                    [
+                      "Emission Color",
+                      [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                      ]
+                    ],
+                    [
+                      "Emission Strength",
+                      0.0
+                    ],
+                    [
+                      "Thin Film Thickness",
+                      0.0
+                    ],
+                    [
+                      "Thin Film IOR",
+                      1.3300000429153442
+                    ]
+                  ]
+                ],
+                [
+                  "纹理坐标",
+                  "TEX_COORD",
+                  []
+                ],
+                [
+                  "噪波纹理",
+                  "TEX_NOISE",
+                  [
+                    [
+                      "Vector",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ],
+                    [
+                      "W",
+                      0.0
+                    ],
+                    [
+                      "Scale",
+                      4500.0
+                    ],
+                    [
+                      "Detail",
+                      2.0
+                    ],
+                    [
+                      "Roughness",
+                      0.6499999761581421
+                    ],
+                    [
+                      "Lacunarity",
+                      2.0
+                    ],
+                    [
+                      "Offset",
+                      0.0
+                    ],
+                    [
+                      "Gain",
+                      1.0
+                    ],
+                    [
+                      "Distortion",
+                      0.0
+                    ]
+                  ]
+                ],
+                [
+                  "颜色渐变",
+                  "VALTORGB",
+                  [
+                    [
+                      "Fac",
+                      0.5
+                    ]
+                  ]
+                ],
+                [
+                  "映射范围",
+                  "MAP_RANGE",
+                  [
+                    [
+                      "Value",
+                      1.0
+                    ],
+                    [
+                      "From Min",
+                      0.0
+                    ],
+                    [
+                      "From Max",
+                      1.0
+                    ],
+                    [
+                      "To Min",
+                      0.3799999952316284
+                    ],
+                    [
+                      "To Max",
+                      0.5699999928474426
+                    ],
+                    [
+                      "Steps",
+                      4.0
+                    ],
+                    [
+                      "Vector",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ],
+                    [
+                      "From_Min_FLOAT3",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ],
+                    [
+                      "From_Max_FLOAT3",
+                      [
+                        1.0,
+                        1.0,
+                        1.0
+                      ]
+                    ],
+                    [
+                      "To_Min_FLOAT3",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ],
+                    [
+                      "To_Max_FLOAT3",
+                      [
+                        1.0,
+                        1.0,
+                        1.0
+                      ]
+                    ],
+                    [
+                      "Steps_FLOAT3",
+                      [
+                        4.0,
+                        4.0,
+                        4.0
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "倒角",
+                  "BEVEL",
+                  [
+                    [
+                      "Radius",
+                      0.00014000000373926014
+                    ],
+                    [
+                      "Normal",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "凹凸",
+                  "BUMP",
+                  [
+                    [
+                      "Strength",
+                      0.6499999761581421
+                    ],
+                    [
+                      "Distance",
+                      9.000000136438757e-05
+                    ],
+                    [
+                      "Filter Width",
+                      0.10000000149011612
+                    ],
+                    [
+                      "Height",
+                      1.0
+                    ],
+                    [
+                      "Normal",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              "links": [
+                [
+                  "原理化 BSDF",
+                  "BSDF",
+                  "材质输出",
+                  "Surface"
+                ],
+                [
+                  "纹理坐标",
+                  "Object",
+                  "噪波纹理",
+                  "Vector"
+                ],
+                [
+                  "噪波纹理",
+                  "Fac",
+                  "颜色渐变",
+                  "Fac"
+                ],
+                [
+                  "颜色渐变",
+                  "Color",
+                  "原理化 BSDF",
+                  "Base Color"
+                ],
+                [
+                  "噪波纹理",
+                  "Fac",
+                  "映射范围",
+                  "Value"
+                ],
+                [
+                  "映射范围",
+                  "Result",
+                  "原理化 BSDF",
+                  "Roughness"
+                ],
+                [
+                  "噪波纹理",
+                  "Fac",
+                  "凹凸",
+                  "Height"
+                ],
+                [
+                  "倒角",
+                  "Normal",
+                  "凹凸",
+                  "Normal"
+                ],
+                [
+                  "凹凸",
+                  "Normal",
+                  "原理化 BSDF",
+                  "Normal"
+                ]
+              ]
+            },
+            null
+          ],
+          "after": [
+            {
+              "nodes": [
+                [
+                  "材质输出",
+                  "OUTPUT_MATERIAL",
+                  [
+                    [
+                      "Displacement",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ],
+                    [
+                      "Thickness",
+                      0.0
+                    ]
+                  ]
+                ],
+                [
+                  "原理化 BSDF",
+                  "BSDF_PRINCIPLED",
+                  [
+                    [
+                      "Base Color",
+                      [
+                        0.800000011920929,
+                        0.800000011920929,
+                        0.800000011920929,
+                        1.0
+                      ]
+                    ],
+                    [
+                      "Metallic",
+                      0.0
+                    ],
+                    [
+                      "Roughness",
+                      0.5
+                    ],
+                    [
+                      "IOR",
+                      1.5
+                    ],
+                    [
+                      "Alpha",
+                      1.0
+                    ],
+                    [
+                      "Thin Wall",
+                      false
+                    ],
+                    [
+                      "Normal",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ],
+                    [
+                      "Weight",
+                      0.0
+                    ],
+                    [
+                      "Diffuse Roughness",
+                      0.0
+                    ],
+                    [
+                      "Subsurface Weight",
+                      0.0
+                    ],
+                    [
+                      "Subsurface Radius",
+                      [
+                        1.0,
+                        0.20000000298023224,
+                        0.10000000149011612
+                      ]
+                    ],
+                    [
+                      "Subsurface Scale",
+                      0.004999999888241291
+                    ],
+                    [
+                      "Subsurface IOR",
+                      1.399999976158142
+                    ],
+                    [
+                      "Subsurface Anisotropy",
+                      0.0
+                    ],
+                    [
+                      "Specular IOR Level",
+                      0.41999998688697815
+                    ],
+                    [
+                      "Specular Tint",
+                      [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                      ]
+                    ],
+                    [
+                      "Anisotropic",
+                      0.0
+                    ],
+                    [
+                      "Anisotropic Rotation",
+                      0.0
+                    ],
+                    [
+                      "Tangent",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ],
+                    [
+                      "Transmission Weight",
+                      0.0
+                    ],
+                    [
+                      "Coat Weight",
+                      0.0
+                    ],
+                    [
+                      "Coat Roughness",
+                      0.029999999329447746
+                    ],
+                    [
+                      "Coat IOR",
+                      1.5
+                    ],
+                    [
+                      "Coat Tint",
+                      [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                      ]
+                    ],
+                    [
+                      "Coat Normal",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ],
+                    [
+                      "Sheen Weight",
+                      0.0
+                    ],
+                    [
+                      "Sheen Roughness",
+                      0.5
+                    ],
+                    [
+                      "Sheen Tint",
+                      [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                      ]
+                    ],
+                    [
+                      "Emission Color",
+                      [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                      ]
+                    ],
+                    [
+                      "Emission Strength",
+                      0.0
+                    ],
+                    [
+                      "Thin Film Thickness",
+                      0.0
+                    ],
+                    [
+                      "Thin Film IOR",
+                      1.3300000429153442
+                    ]
+                  ]
+                ],
+                [
+                  "纹理坐标",
+                  "TEX_COORD",
+                  []
+                ],
+                [
+                  "噪波纹理",
+                  "TEX_NOISE",
+                  [
+                    [
+                      "Vector",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ],
+                    [
+                      "W",
+                      0.0
+                    ],
+                    [
+                      "Scale",
+                      3800.0
+                    ],
+                    [
+                      "Detail",
+                      2.5
+                    ],
+                    [
+                      "Roughness",
+                      0.6499999761581421
+                    ],
+                    [
+                      "Lacunarity",
+                      2.0
+                    ],
+                    [
+                      "Offset",
+                      0.0
+                    ],
+                    [
+                      "Gain",
+                      1.0
+                    ],
+                    [
+                      "Distortion",
+                      0.0
+                    ]
+                  ]
+                ],
+                [
+                  "颜色渐变",
+                  "VALTORGB",
+                  [
+                    [
+                      "Fac",
+                      0.5
+                    ]
+                  ]
+                ],
+                [
+                  "映射范围",
+                  "MAP_RANGE",
+                  [
+                    [
+                      "Value",
+                      1.0
+                    ],
+                    [
+                      "From Min",
+                      0.0
+                    ],
+                    [
+                      "From Max",
+                      1.0
+                    ],
+                    [
+                      "To Min",
+                      0.27000001072883606
+                    ],
+                    [
+                      "To Max",
+                      0.4000000059604645
+                    ],
+                    [
+                      "Steps",
+                      4.0
+                    ],
+                    [
+                      "Vector",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ],
+                    [
+                      "From_Min_FLOAT3",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ],
+                    [
+                      "From_Max_FLOAT3",
+                      [
+                        1.0,
+                        1.0,
+                        1.0
+                      ]
+                    ],
+                    [
+                      "To_Min_FLOAT3",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ],
+                    [
+                      "To_Max_FLOAT3",
+                      [
+                        1.0,
+                        1.0,
+                        1.0
+                      ]
+                    ],
+                    [
+                      "Steps_FLOAT3",
+                      [
+                        4.0,
+                        4.0,
+                        4.0
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "倒角",
+                  "BEVEL",
+                  [
+                    [
+                      "Radius",
+                      0.0002800000074785203
+                    ],
+                    [
+                      "Normal",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  "凹凸",
+                  "BUMP",
+                  [
+                    [
+                      "Strength",
+                      0.800000011920929
+                    ],
+                    [
+                      "Distance",
+                      9.999999747378752e-05
+                    ],
+                    [
+                      "Filter Width",
+                      0.10000000149011612
+                    ],
+                    [
+                      "Height",
+                      1.0
+                    ],
+                    [
+                      "Normal",
+                      [
+                        0.0,
+                        0.0,
+                        0.0
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              "links": [
+                [
+                  "原理化 BSDF",
+                  "BSDF",
+                  "材质输出",
+                  "Surface"
+                ],
+                [
+                  "纹理坐标",
+                  "Object",
+                  "噪波纹理",
+                  "Vector"
+                ],
+                [
+                  "噪波纹理",
+                  "Fac",
+                  "颜色渐变",
+                  "Fac"
+                ],
+                [
+                  "颜色渐变",
+                  "Color",
+                  "原理化 BSDF",
+                  "Base Color"
+                ],
+                [
+                  "噪波纹理",
+                  "Fac",
+                  "映射范围",
+                  "Value"
+                ],
+                [
+                  "映射范围",
+                  "Result",
+                  "原理化 BSDF",
+                  "Roughness"
+                ],
+                [
+                  "噪波纹理",
+                  "Fac",
+                  "凹凸",
+                  "Height"
+                ],
+                [
+                  "倒角",
+                  "Normal",
+                  "凹凸",
+                  "Normal"
+                ],
+                [
+                  "凹凸",
+                  "Normal",
+                  "原理化 BSDF",
+                  "Normal"
+                ]
+              ]
+            },
+            null
+          ]
+        }
+      }
+    }
+  },
+  "scope": "Source identity and rendering scene geometry checks only; no physical installation fit, real spray, photoreal or customer acceptance claim."
+}

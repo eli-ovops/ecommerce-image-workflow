@@ -1,0 +1,33 @@
+{
+  "texts": [
+    {
+      "text": "长方形 · 银色顶喷",
+      "x": 88,
+      "y": 76,
+      "size": 38,
+      "font_index": 1
+    },
+    {
+      "text": "提拉除垢",
+      "x": 80,
+      "y": 155,
+      "size": 178,
+      "font_index": 0
+    },
+    {
+      "text": "短针辅助清理出水孔",
+      "x": 88,
+      "y": 372,
+      "size": 53,
+      "font_index": 1
+    }
+  ],
+  "font_path": "/System/Library/Fonts/Supplemental/Songti.ttc",
+  "image_size": [
+    1200,
+    1800
+  ],
+  "product_pixels_unmodified": true,
+  "svg_note": "Editable live text; renderer font metrics may differ. Exact production rendering is reproducible via this script and typography.json.",
+  "source_sha256": "4a8582f29d320e0441767cfdf8e786150d66dbffad4ccc783178f1837014eef4"
+}

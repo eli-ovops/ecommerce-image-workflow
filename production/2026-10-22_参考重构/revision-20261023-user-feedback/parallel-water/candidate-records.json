@@ -1,0 +1,48 @@
+[
+  {
+    "id": "D05",
+    "prompt": "Edit first image, preserve its exact layout, typography, wording, image borders, lighting, backgrounds and product geometry. Product truth from actual photos: white outlets are tiny LOW FLAT rings flush against black panel, same diameter, never tall sleeves or thick donuts. Preserve red central cleaning button dry with NO stream from it, lower silver selector, outer dense black microholes and silver shell. No added structure, black concentric grooves, hose, accessories, claims or logos. Handle water inlet stays naturally cropped/hidden. Change ONLY the WATER in the large LEFT panel of D05. Make fine regular water filaments start visibly at EVERY effective white outlet across the entire face, near and far, left right top bottom, uniformly full and evenly spaced like actual water photo. Existing version only partially covers face. Keep transparent delicate believable streams, no solid white beam/no exaggerated pressure. All four other panels remain unchanged, particularly clean continuous back shell. References: image2 real face geometry, image3 actual regular water, image4 A011 supplies original asymmetric five panel composition only, image5 R017 grid style only; never copy their false functions. Preserve exact title 从水型看到外观 and all five panel labels.",
+    "refs": [
+      "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/D05.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+      "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184402_99_2.jpg",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_06.jpg",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/01_微信参考原图/R017_长图_五大优势拼版.jpg"
+    ],
+    "batch_full_read_record": "Reuse actual74 root M04-v1/M06-v1 and M04-v2 preflight under BATCH-REF-20261023-v1",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN",
+    "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/parallel-water/D05-water-v1.png",
+    "source_hint": "Generated images are saved to /Users/USER/.codex/generated_images/01a1677b-af62-7f50-a648-a8dbcaf0b3e3 as /Users/USER/.codex/generated_images/01a1677b-af62-7f50-a648-a8dbcaf0b3e3/exec-47c02b19-e15c-446e-86f1-a7871e14bd5f.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  {
+    "id": "D06",
+    "prompt": "Edit first image, preserve its exact layout, typography, wording, image borders, lighting, backgrounds and product geometry. Product truth from actual photos: white outlets are tiny LOW FLAT rings flush against black panel, same diameter, never tall sleeves or thick donuts. Preserve red central cleaning button dry with NO stream from it, lower silver selector, outer dense black microholes and silver shell. No added structure, black concentric grooves, hose, accessories, claims or logos. Handle water inlet stays naturally cropped/hidden. Change ONLY regular WATER coverage in BOTH the large central macro photo and lower low-angle banner of D06. EVERY effective white outlet across full active face must emit its individual evenly spaced delicate continuous water filament from the actual opening, including all currently dry right, left and lower/far holes. Streams uniform, abundant but realistic thin clear filaments as actual photo, not exaggerated pressure. Keep face geometry and dry central red button. Keep exact existing text 近看出水 的起点 and 常规出水 / 喷雾出水 / 混合出水 as chapter index; images illustrate regular water only, do not invent three patterns in one face. Ref2 actual face; ref3 actual water; ref4 A012 lighting/large macro style only NO claims; ref5 A013 low viewpoint continuation only NO old product.",
+    "refs": [
+      "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/D06.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+      "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184402_99_2.jpg",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_07.jpg",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_08.jpg"
+    ],
+    "batch_full_read_record": "Reuse actual74 root M04-v1/M06-v1 and M04-v2 preflight under BATCH-REF-20261023-v1",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN",
+    "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/parallel-water/D06-water-v1.png",
+    "source_hint": "Generated images are saved to /Users/USER/.codex/generated_images/01a1677b-af62-7f50-a648-a8dbcaf0b3e3 as /Users/USER/.codex/generated_images/01a1677b-af62-7f50-a648-a8dbcaf0b3e3/exec-fd316f57-f522-4571-a696-f2a20174e923.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  {
+    "id": "D04",
+    "prompt": "Edit first image, preserve its exact layout, typography, wording, image borders, lighting, backgrounds and product geometry. Product truth from actual photos: white outlets are tiny LOW FLAT rings flush against black panel, same diameter, never tall sleeves or thick donuts. Preserve red central cleaning button dry with NO stream from it, lower silver selector, outer dense black microholes and silver shell. No added structure, black concentric grooves, hose, accessories, claims or logos. Handle water inlet stays naturally cropped/hidden. D04 precision local edit: change ONLY the white outlet geometry in the bottom 22% detail photo strip. Flatten its visibly protruding white short cylindrical sleeves into tiny very low FLAT white rings seated almost flush in black panel, matching actual photo image2. Retain same hole locations/diameters, realistic water starting inside each hole, silver sidewall, lower button, hands and all other pixels. TOP 78% must be unchanged: same woman face identity, skin texture, facial features, eyes, wet hair, shoulder, hand, head, water, window, exact title 日常淋浴 手持呈现. Do not repaint woman, no fishscale/tiling skin texture. Third reference A010 only supplies original wordless wet-detail strip continuity; do not copy hardware, transparent handle, hoses or old product. Keep 942x1669 portrait aspect.",
+    "refs": [
+      "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/D04-userfix-v1.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_05.jpg"
+    ],
+    "batch_full_read_record": "Reuse actual74 root M04-v1/M06-v1 and M04-v2 preflight under BATCH-REF-20261023-v1",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN",
+    "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/parallel-water/D04-water-v1.png",
+    "source_hint": "Generated images are saved to /Users/USER/.codex/generated_images/01a1677b-af62-7f50-a648-a8dbcaf0b3e3 as /Users/USER/.codex/generated_images/01a1677b-af62-7f50-a648-a8dbcaf0b3e3/exec-5dfab04c-0a0c-495f-9627-9864db4e0760.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  }
+]

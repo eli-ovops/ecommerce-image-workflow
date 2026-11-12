@@ -1,0 +1,2 @@
+const fs=require('fs'),path=require('path'),sharp=require('/Users/USER/.local/share/deepseek-harness/node_modules/sharp');
+(async()=>{const B=__dirname,out=path.join(B,'圆形花洒_完整三维棚拍验证.jpg');if(fs.existsSync(out))throw Error('Refusing to re-export selected JPG');await sharp(path.join(B,'studio-exposure-corrected.png')).jpeg({quality:95,chromaSubsampling:'4:4:4'}).toFile(out);await sharp(out).resize(400).png().toFile(path.join(B,'phone-preview.png'));})();

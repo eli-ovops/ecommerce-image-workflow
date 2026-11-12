@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-24T17:21:38+08:00",
+  "version": "v005",
+  "status": "USER_REJECTED",
+  "producer": "blender_product_model",
+  "reviewer": "root",
+  "user_acceptance": "REJECTED",
+  "supersedes": "v003 rejected by user; old files retained",
+  "method": "Visible side contours P03/P04 digitized, rigid roll/uniform scale, averaged continuous front and rear profiles; frontal neck uses P01 visible edges",
+  "actually_viewed": [
+    "P03/P04 digitized visible outlines",
+    "P01 digitized front outline",
+    "v004a P03/P04 actual-saved-mesh photo overlays and detrended curve",
+    "v005 actual front and right render",
+    "v005 real-v003-v005-side-comparison.jpg",
+    "v005 P01 saved-mesh overlay",
+    "Blender native GUI exact v005 file, five product parts, full orthographic side view"
+  ],
+  "findings": [
+    "Replaced guessed knee-shaped local curve with broader full-length curve supported by both side photographs.",
+    "Old v003 remains rejected; its simple angle/proportion match was insufficient and is not reused as acceptance.",
+    "Front neck width now follows real-photo side boundaries; upper head circular outline retained.",
+    "Intermediate head-top and nonplanar face-mesh artifacts were corrected before final v005.",
+    "Side images still have yaw/perspective and partial occlusion; this is an approximate shape aid, not calibrated reconstruction."
+  ],
+  "scope_limits": [
+    "No nozzle/thread/material work in this revision",
+    "No new ecommerce image generation",
+    "Cross-SKU shared geometry unverified",
+    "No metrology IoU or customer PASS claim"
+  ],
+  "native_ui": {
+    "opened_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v005/shower_black_clay_v005.blend",
+    "observed_title": "shower_black_clay_v005.blend - Blender 5.2.2 LTS",
+    "observed_view": "full orthographic side",
+    "frozen_disk_file_unchanged": true,
+    "unsaved_state": "Only root selection/view navigation; not written over frozen model. Prior v003 root view-only changes discarded; original v003 file retained."
+  },
+  "verified_artifacts": [
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v005/shower_black_clay_v005.blend",
+      "sha256": "ab9ec6b6609e4352ce358ef37673e94406c34c6b727a77f21e8a23ca4fe8e3c3",
+      "bytes": 1151504
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v005/real-v003-v005-side-comparison.jpg",
+      "sha256": "066e4970ed97d9d04ff7e1dc10f5e32a1e4f8d782a9299d30c68e74a676dd879",
+      "bytes": 289675,
+      "dimensions": [
+        1500,
+        1290
+      ]
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v005/renders/left.jpg",
+      "sha256": "4079ab36aa145d0d8693f0c0d0934f8c807c78fdda6a6a3659bd663cf03b5dff",
+      "bytes": 63524,
+      "dimensions": [
+        1000,
+        1200
+      ]
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v005/renders/right.jpg",
+      "sha256": "953fe04565db62d8820ab91d420ffbd0789ce3d1c39522ec93a43aff35279ddb",
+      "bytes": 61961,
+      "dimensions": [
+        1000,
+        1200
+      ]
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v005/renders/front.jpg",
+      "sha256": "749001810643d78b5b2adb342f69c2b5a0e5f42c664cedc0c787138ad9ed0d52",
+      "bytes": 78124,
+      "dimensions": [
+        1000,
+        1200
+      ]
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v005/evidence/P03-model-overlay.jpg",
+      "sha256": "c4221e0c75320bb3c6639b20475800fe83881de219ff444e340df1cce3fd364c",
+      "bytes": 245610,
+      "dimensions": [
+        1000,
+        1200
+      ]
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v005/evidence/P04-model-overlay.jpg",
+      "sha256": "9de6c5bff7be4b6503d78725af95e4769a0bd8590811b9f3d176e3fde085b7c4",
+      "bytes": 249761,
+      "dimensions": [
+        1000,
+        1200
+      ]
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v005/evidence/P01-model-overlay.jpg",
+      "sha256": "5912d06b484ccee5145db4978555687f9805f3384b1f5c904ee233e50102b474",
+      "bytes": 312555,
+      "dimensions": [
+        1000,
+        1200
+      ]
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v005/evidence/actual-saved-mesh-profiles.json",
+      "sha256": "d7d66b59a84ea7b76db9ac8eb9f5837c322e8732cac6eeb174e8c5e16621cc67",
+      "bytes": 84655
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/parameters-v005.json",
+      "sha256": "502e35125a0db1e677c7629f720330a6fc87aafa2dfb92a91c0588d525d58f4b",
+      "bytes": 8749
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/build_model-v005.py",
+      "sha256": "406a3d3674c3a3789ee29e1d1c785061c3c8b963e49cdc673950bdb3d56b6fa3",
+      "bytes": 9289
+    }
+  ],
+  "preservation": "New evidence and all old model versions retained. User original media unchanged. No cleanup performed.",
+  "latest_user_feedback": "还是不行",
+  "modeling_route_status": "NOT_VALIDATED_STOP_UNGROUNDED_PARAMETER_RETRIES",
+  "diagnosis": {
+    "verified_method_gaps": [
+      "Uncalibrated 2D source contours averaged directly into depth profiles",
+      "Upper head and transverse cross-section retain prior geometric assumptions",
+      "Same construction images reused for overlay; no independent camera-pose or held-out multi-view validation"
+    ],
+    "causal_confidence": "Method gaps verified in code; contribution to each visible defect not quantified",
+    "no_new_model_or_image_generated": true
+  }
+}

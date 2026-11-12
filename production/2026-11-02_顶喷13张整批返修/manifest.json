@@ -1,0 +1,348 @@
+[
+  {
+    "id": 387,
+    "size": [
+      1200,
+      1200
+    ],
+    "note": "展台偏平，银壳和红钮仍有CG感。",
+    "source_transforms": [
+      {
+        "source": "native-static.png",
+        "uniform": true,
+        "rotation": 0,
+        "xy": [
+          373,
+          150
+        ],
+        "size": [
+          693,
+          885
+        ]
+      }
+    ],
+    "status": "静态候选待审",
+    "reference": 387,
+    "retained_visual_features": "黑金立式、白色展台、左侧短针实拍窗、底部规格带",
+    "customer_acceptance": "UNKNOWN",
+    "file": "JPG/387.jpg",
+    "sha256": "b3386272c2294e0f85d66099e1862a09cf6713bfb22768ae451d64c61ade1525"
+  },
+  {
+    "id": 388,
+    "size": [
+      1200,
+      1200
+    ],
+    "note": "本轮字节不变；水流仅示意，未获客户验收。",
+    "status": "原版保持，待审",
+    "reference": 388,
+    "retained_visual_features": "沿用已交付粗斜白字红描边、安装水流与左下主体",
+    "customer_acceptance": "UNKNOWN",
+    "file": "JPG/388.jpg",
+    "sha256": "9d0f8d676542fb1485fdd4fb732be2edee1157bbe729e78e750b1844984e5f44"
+  },
+  {
+    "id": 389,
+    "size": [
+      1200,
+      1200
+    ],
+    "note": "黑字重影已消除；机位重复，细线水流和金属质感不达参考。",
+    "source_transforms": [
+      {
+        "source": "native-installed.png",
+        "scale": 1.2521008403361344,
+        "xy": [
+          -377,
+          -115
+        ],
+        "illustration": true
+      },
+      {
+        "source": "native-static.png",
+        "uniform": true,
+        "rotation": 0,
+        "xy": [
+          35,
+          594
+        ],
+        "size": [
+          405,
+          517
+        ]
+      }
+    ],
+    "status": "待返工",
+    "reference": 389,
+    "retained_visual_features": "蓝色浴室、上方安装主体、下方静态主体、右侧黑色粗斜字",
+    "customer_acceptance": "UNKNOWN",
+    "file": "JPG/389.jpg",
+    "sha256": "01ec2f6bf4596c757f8c5657412e8cfd8e11875b037c2fc9816d595590b4d6ba"
+  },
+  {
+    "id": 390,
+    "size": [
+      1200,
+      1200
+    ],
+    "note": "机位重复，水流及金属质感不足，光色尚未贴近参考。",
+    "source_transforms": [
+      {
+        "source": "native-installed.png",
+        "scale": 1.7394957983193278,
+        "xy": [
+          -440,
+          -169
+        ],
+        "illustration": true
+      },
+      {
+        "source": "native-static.png",
+        "uniform": true,
+        "rotation": 0,
+        "xy": [
+          108,
+          610
+        ],
+        "size": [
+          294,
+          375
+        ]
+      }
+    ],
+    "status": "待返工",
+    "reference": 390,
+    "retained_visual_features": "青色浴室、上方安装主体、下方小主体和金色标题",
+    "customer_acceptance": "UNKNOWN",
+    "file": "JPG/390.jpg",
+    "sha256": "e1d5ed837ce2f63365e088d9eef922aefb6e05b629e8aa50f67636bb139a08e3"
+  },
+  {
+    "id": 391,
+    "size": [
+      1200,
+      1200
+    ],
+    "note": "水流没有自然接触人物或溅水，主体视角和质感不足。",
+    "source_transforms": [
+      {
+        "source": "native-installed.png",
+        "scale": 1.504201680672269,
+        "xy": [
+          -254,
+          24
+        ],
+        "illustration": true
+      }
+    ],
+    "status": "待返工",
+    "reference": 391,
+    "retained_visual_features": "蓝色星空顶、暖墙、原创短发成年模特、上方安装主体",
+    "customer_acceptance": "UNKNOWN",
+    "file": "JPG/391.jpg",
+    "sha256": "f839958796783c980d74a7175eb6fcb43d23e44357d3fbe7dd96215e6ef4ab3c"
+  },
+  {
+    "id": 392,
+    "size": [
+      1200,
+      1200
+    ],
+    "note": "整件仍是复位静态；未完成拉出状态，未用虚假长针或剖面替代。",
+    "source_transforms": [
+      {
+        "source": "native-static.png",
+        "uniform": true,
+        "rotation": -8,
+        "xy": [
+          251,
+          300
+        ],
+        "size": [
+          698,
+          840
+        ]
+      }
+    ],
+    "status": "部分完成，待返工",
+    "reference": 392,
+    "retained_visual_features": "黑金斜置大主体、右下真实短针圆窗、粗斜金字",
+    "customer_acceptance": "UNKNOWN",
+    "file": "JPG/392.jpg",
+    "sha256": "19ebea0ee1551be08270126e249935de344e9305d421c1e48661e6c664133c8f"
+  },
+  {
+    "id": 393,
+    "size": [
+      1200,
+      1200
+    ],
+    "note": "AIR和内部爆炸结构未经证实，未复刻；机位和水流重复。",
+    "source_transforms": [
+      {
+        "source": "native-installed.png",
+        "scale": 1.6890756302521008,
+        "xy": [
+          -399,
+          49
+        ],
+        "illustration": true
+      }
+    ],
+    "status": "内容替换，待返工",
+    "reference": 393,
+    "retained_visual_features": "保留金色层级和安装出水画面，换成可见外观细节",
+    "customer_acceptance": "UNKNOWN",
+    "file": "JPG/393.jpg",
+    "sha256": "5c1cb2d8ecf7fc83ef8ce6a63305146cfff82581d53a02560b30479ab4c98c76"
+  },
+  {
+    "id": 394,
+    "size": [
+      900,
+      1600
+    ],
+    "note": "人物与水流接触不真实，机位重复；未达到参考摄影质感。",
+    "source_transforms": [
+      {
+        "source": "native-installed.png",
+        "scale": 1.319327731092437,
+        "xy": [
+          -339,
+          115
+        ],
+        "illustration": true
+      }
+    ],
+    "status": "待返工",
+    "reference": 394,
+    "retained_visual_features": "竖版蓝顶暖墙、原创模特、安装主体",
+    "customer_acceptance": "UNKNOWN",
+    "file": "JPG/394.jpg",
+    "sha256": "f09e22fadb724ed22be5410e90abaa495389e0124e0988d212c7d9fd3ccb906e"
+  },
+  {
+    "id": 395,
+    "size": [
+      900,
+      1600
+    ],
+    "note": "整件拉出状态未完成；真实局部只能证明短针可见。",
+    "source_transforms": [
+      {
+        "source": "native-static.png",
+        "uniform": true,
+        "rotation": -8,
+        "xy": [
+          34,
+          469
+        ],
+        "size": [
+          832,
+          1001
+        ]
+      }
+    ],
+    "status": "部分完成，待返工",
+    "reference": 395,
+    "retained_visual_features": "竖版黑金斜置主体与真实短针圆窗",
+    "customer_acceptance": "UNKNOWN",
+    "file": "JPG/395.jpg",
+    "sha256": "2db8c2f3636594a5c7609720169ca7ac7a035ab6d4d18be436664686d2983251"
+  },
+  {
+    "id": 396,
+    "size": [
+      900,
+      1600
+    ],
+    "note": "细节照片清晰度、反射和侧边表现受原片限制。",
+    "source_transforms": [],
+    "status": "细节候选待审",
+    "reference": 396,
+    "retained_visual_features": "六处真实细节，2×3卡片及粗金标题",
+    "customer_acceptance": "UNKNOWN",
+    "file": "JPG/396.jpg",
+    "sha256": "ef9b1041f9a935320e1e1a1d155343a60a25a9569888fa45846ad02c48c52115"
+  },
+  {
+    "id": 397,
+    "size": [
+      900,
+      1600
+    ],
+    "note": "未做未经证实的AIR或内部剖面；机位、水流重复且质感不足。",
+    "source_transforms": [
+      {
+        "source": "native-installed.png",
+        "scale": 1.361344537815126,
+        "xy": [
+          -387,
+          229
+        ],
+        "illustration": true
+      }
+    ],
+    "status": "内容替换，待返工",
+    "reference": 397,
+    "retained_visual_features": "竖版安装画面和外观细节，保留金色标题层级",
+    "customer_acceptance": "UNKNOWN",
+    "file": "JPG/397.jpg",
+    "sha256": "ec513b1590f02a78b8a43efb5b81a6d9895f9e2f9cd184970612bc53817f5a16"
+  },
+  {
+    "id": 398,
+    "size": [
+      900,
+      1600
+    ],
+    "note": "360度和身体覆盖效果无依据，未展示；水流和机位仍需重做。",
+    "source_transforms": [
+      {
+        "source": "native-installed.png",
+        "scale": 1.2773109243697478,
+        "xy": [
+          -310,
+          161
+        ],
+        "illustration": true
+      }
+    ],
+    "status": "内容替换，待返工",
+    "reference": 398,
+    "retained_visual_features": "暖浴室安装示意与两张真实接头细节",
+    "customer_acceptance": "UNKNOWN",
+    "file": "JPG/398.jpg",
+    "sha256": "504ec127942cd8f41ac9160596bea2b78c2a0f638f96cbe7f71a0e0262ebfb5c"
+  },
+  {
+    "id": 399,
+    "size": [
+      900,
+      1600
+    ],
+    "note": "已更换照片剪贴主体，仍可见三维银壳和红钮质感，未达摄影级。",
+    "source_transforms": [
+      {
+        "source": "native-static.png",
+        "uniform": true,
+        "rotation": -8,
+        "xy": [
+          39,
+          512
+        ],
+        "size": [
+          832,
+          1001
+        ]
+      }
+    ],
+    "status": "静态候选待审",
+    "reference": 399,
+    "retained_visual_features": "黑金石材、暖雾、斜置主体、大号粗斜金字",
+    "customer_acceptance": "UNKNOWN",
+    "file": "JPG/399.jpg",
+    "sha256": "46c33e080ab4c9318841b6228366d249e502f4c3a7df7104d2eee8c439e0588c"
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "original": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-31_同款商户电商参考/微信图片_20261031133902_387_2.jpg",
+    "original_sha256": "fa72a6fbebd26fca5aa2518846096e31570e527cc51e389b3846326453de67d9",
+    "tool_input": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_新Skill_13张完整审阅集/inputs/微信图片_20261031133902_387_2.jpg",
+    "tool_input_sha256": "2519a019c3d06e6b92f3d9fae9e6edff98db7be34209a0ff618388f370c8b9a9",
+    "size": [
+      800,
+      800
+    ],
+    "method": "EXIF transpose then uniform max1800 resize, no crop or AI edits"
+  },
+  {
+    "original": "/Volumes/EXTERNAL/电商 作图工作流/products/长方形拉钮顶喷/原始实拍20261030/微信图片_20261030154107_372_2.jpg",
+    "original_sha256": "c1f3664cc110b85d819bf6609f54b6f10b2943127dad85c3833c1f125443d017",
+    "tool_input": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_新Skill_13张完整审阅集/inputs/微信图片_20261030154107_372_2.jpg",
+    "tool_input_sha256": "704713a0f2ce3c98c2a250f3eee6efc842b68beab9f4827a53f824db9635b20c",
+    "size": [
+      1800,
+      1350
+    ],
+    "method": "EXIF transpose then uniform max1800 resize, no crop or AI edits"
+  },
+  {
+    "original": "/Volumes/EXTERNAL/电商 作图工作流/products/长方形拉钮顶喷/原始实拍20261030/微信图片_20261030154107_376_2.jpg",
+    "original_sha256": "f5d7d1e2c3839298bafb20d5ec4a7b19ff8990c9efd02f34b484b4bc07ad3965",
+    "tool_input": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_新Skill_13张完整审阅集/inputs/微信图片_20261030154107_376_2.jpg",
+    "tool_input_sha256": "aac1824e72d55695f10ad73033ae738b5e310826907f08ff9a8db9f00f9e74b0",
+    "size": [
+      1800,
+      1350
+    ],
+    "method": "EXIF transpose then uniform max1800 resize, no crop or AI edits"
+  },
+  {
+    "original": "/Volumes/EXTERNAL/电商 作图工作流/products/长方形拉钮顶喷/原始实拍20261030/微信图片_20261030154107_382_2.jpg",
+    "original_sha256": "995176fd9cebdaaef7e1f27886fa8287b5d4d17a8af935934946dbef91093ea1",
+    "tool_input": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_新Skill_13张完整审阅集/inputs/微信图片_20261030154107_382_2.jpg",
+    "tool_input_sha256": "ebef16582c86fccfcb65a6fa219738c6fd8cfe4db243de7e30b40af2a2d21b59",
+    "size": [
+      1800,
+      1350
+    ],
+    "method": "EXIF transpose then uniform max1800 resize, no crop or AI edits"
+  },
+  {
+    "original": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-31_同款商户电商参考/微信图片_20261031133902_388_2.jpg",
+    "original_sha256": "151dc464c5f42ac07a9aa7c2f8eada93634fa51f6e6eb0dc8b50aa05521618a5",
+    "tool_input": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_新Skill_13张完整审阅集/inputs/微信图片_20261031133902_388_2.jpg",
+    "tool_input_sha256": "af872819b7434e88d02b7c68968fb420156dd7fe40177b300a6e2cb5802fee6c",
+    "size": [
+      1800,
+      1800
+    ],
+    "method": "EXIF transpose then uniform max1800 resize, no crop or AI edits"
+  },
+  {
+    "original": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-31_同款商户电商参考/微信图片_20261031133902_389_2.jpg",
+    "original_sha256": "cfd45bc7ece5e62c46f59202889702ccf7bf29c4b4171d50a2b2546f29f03d4e",
+    "tool_input": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_新Skill_13张完整审阅集/inputs/微信图片_20261031133902_389_2.jpg",
+    "tool_input_sha256": "b795f01f8bd75cec7424aec193c400572bd559abf78665be55e341c89f4d97ed",
+    "size": [
+      800,
+      800
+    ],
+    "method": "EXIF transpose then uniform max1800 resize, no crop or AI edits"
+  },
+  {
+    "original": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-31_同款商户电商参考/微信图片_20261031133902_390_2.jpg",
+    "original_sha256": "77b4aa113ff2d227c64111cb1d0420c1ba770fb7fa0ca0530f0612340679c6fd",
+    "tool_input": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_新Skill_13张完整审阅集/inputs/微信图片_20261031133902_390_2.jpg",
+    "tool_input_sha256": "792dbd736e827733df3f925a47a32f159963ced54d4e435b628208f2b6109eca",
+    "size": [
+      800,
+      800
+    ],
+    "method": "EXIF transpose then uniform max1800 resize, no crop or AI edits"
+  },
+  {
+    "original": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-31_同款商户电商参考/微信图片_20261031133902_391_2.jpg",
+    "original_sha256": "ef347aa9187d0c28e51f27e06349a525c9c5bb8e0eaa80dfa6cac6646a520f2e",
+    "tool_input": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_新Skill_13张完整审阅集/inputs/微信图片_20261031133902_391_2.jpg",
+    "tool_input_sha256": "e99a7c0d1f1db035fef3df88516c255327a05f365c2f7500389ffe028c180acd",
+    "size": [
+      1800,
+      1800
+    ],
+    "method": "EXIF transpose then uniform max1800 resize, no crop or AI edits"
+  },
+  {
+    "original": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-31_同款商户电商参考/微信图片_20261031133902_392_2.jpg",
+    "original_sha256": "ad7603440ae5479441ed1706ed56dc09022dd25c7460ccae82352e4a3b33b21b",
+    "tool_input": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_新Skill_13张完整审阅集/inputs/微信图片_20261031133902_392_2.jpg",
+    "tool_input_sha256": "540856fe0757a08b51dbcacb0ee0d9b39ba64ded46cfa5b10640fef59a96066a",
+    "size": [
+      1800,
+      1800
+    ],
+    "method": "EXIF transpose then uniform max1800 resize, no crop or AI edits"
+  },
+  {
+    "original": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-31_同款商户电商参考/微信图片_20261031133902_393_2.jpg",
+    "original_sha256": "b4935504e1c1ea05b81e65dfe4c7a3618f373fa51cf4ee4dc971b58cf0f02515",
+    "tool_input": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_新Skill_13张完整审阅集/inputs/微信图片_20261031133902_393_2.jpg",
+    "tool_input_sha256": "7de8cb4db4b6b47f70dc2543faa4958d4289335a8e4b787c13dd1d2e75716b51",
+    "size": [
+      1800,
+      1800
+    ],
+    "method": "EXIF transpose then uniform max1800 resize, no crop or AI edits"
+  },
+  {
+    "original": "/Volumes/EXTERNAL/电商 作图工作流/products/长方形拉钮顶喷/接头补充实拍20261030/codex-clipboard-7faa2b7a-f100-46ef-bfc7-87454ab489d0.jpg",
+    "original_sha256": "50d7f0c9fe40c08617c98a9fb36fc22258873af18be20658101a2075f0bda9d3",
+    "tool_input": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_新Skill_13张完整审阅集/inputs/codex-clipboard-7faa2b7a-f100-46ef-bfc7-87454ab489d0.jpg",
+    "tool_input_sha256": "1a7b341d06af7acd0d3a5922881b50df6188165c61ddf3459622c4dc2434f1e1",
+    "size": [
+      1350,
+      1800
+    ],
+    "method": "EXIF transpose then uniform max1800 resize, no crop or AI edits"
+  },
+  {
+    "original": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-31_同款商户电商参考/微信图片_20261031133902_394_2.jpg",
+    "original_sha256": "56f955d5668d7a972e2d44e2a9c9e89699ca40482032ae10b05ab9c02cbb88d9",
+    "tool_input": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_新Skill_13张完整审阅集/inputs/微信图片_20261031133902_394_2.jpg",
+    "tool_input_sha256": "9320232f59d07756000b85d7272cda581ff4f0b1c314e7394cff36b62926cecc",
+    "size": [
+      843,
+      1500
+    ],
+    "method": "EXIF transpose then uniform max1800 resize, no crop or AI edits"
+  },
+  {
+    "original": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-31_同款商户电商参考/微信图片_20261031133902_395_2.jpg",
+    "original_sha256": "449aa15ac22e7e600c159c70790c501ee41422ccca692d055119ad8924991bd6",
+    "tool_input": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_新Skill_13张完整审阅集/inputs/微信图片_20261031133902_395_2.jpg",
+    "tool_input_sha256": "2c20e70d8a717620bd8d0712ca8cb65ef13051d1804b0837d123976e31f52441",
+    "size": [
+      843,
+      1500
+    ],
+    "method": "EXIF transpose then uniform max1800 resize, no crop or AI edits"
+  },
+  {
+    "original": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-31_同款商户电商参考/微信图片_20261031133902_396_2.jpg",
+    "original_sha256": "40df5c0e4c33c40d4d0f5de83919afbd216346c3b3a6a3864cc7b0221f821b63",
+    "tool_input": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_新Skill_13张完整审阅集/inputs/微信图片_20261031133902_396_2.jpg",
+    "tool_input_sha256": "4ea6d7058b39dce2d6656d1d439354ef54deb9f69553ed9cd621fb0dc97d10ad",
+    "size": [
+      843,
+      1500
+    ],
+    "method": "EXIF transpose then uniform max1800 resize, no crop or AI edits"
+  },
+  {
+    "original": "/Volumes/EXTERNAL/电商 作图工作流/products/长方形拉钮顶喷/原始实拍20261030/微信图片_20261030154107_374_2.jpg",
+    "original_sha256": "9116ea9c59350fe964bc42156a5f0f9912bea56cab4e9260ded8707869d36371",
+    "tool_input": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_新Skill_13张完整审阅集/inputs/微信图片_20261030154107_374_2.jpg",
+    "tool_input_sha256": "46ede60dc5cdfb025d9a786437acc9c4ce8b82c5014f2c30ed5132d517fc6df6",
+    "size": [
+      1800,
+      1350
+    ],
+    "method": "EXIF transpose then uniform max1800 resize, no crop or AI edits"
+  },
+  {
+    "original": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-31_同款商户电商参考/微信图片_20261031133902_397_2.jpg",
+    "original_sha256": "2c1d1c5933bfcbb92e031fe9d66ddee2674650485bba4e82cd80462ae4d8505f",
+    "tool_input": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_新Skill_13张完整审阅集/inputs/微信图片_20261031133902_397_2.jpg",
+    "tool_input_sha256": "f09855ccc879626781b5821a0f3e0da295311aee936e0dccc40c8457392fa5e3",
+    "size": [
+      843,
+      1500
+    ],
+    "method": "EXIF transpose then uniform max1800 resize, no crop or AI edits"
+  },
+  {
+    "original": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-31_同款商户电商参考/微信图片_20261031133902_398_2.jpg",
+    "original_sha256": "aae8967c45f4fb6d2a308da8c9efad41dd0a06fbe6db924bb39f029f2f05909f",
+    "tool_input": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_新Skill_13张完整审阅集/inputs/微信图片_20261031133902_398_2.jpg",
+    "tool_input_sha256": "54f28da6de9aea9a42ffb4baafe48bdb662cfe3ca862061a0feca55120696fe3",
+    "size": [
+      843,
+      1500
+    ],
+    "method": "EXIF transpose then uniform max1800 resize, no crop or AI edits"
+  },
+  {
+    "original": "/Volumes/EXTERNAL/电商 作图工作流/products/长方形拉钮顶喷/接头补充实拍20261030/codex-clipboard-6fa807ac-653c-44f8-a3cc-2941c017e31e.jpg",
+    "original_sha256": "dd03b48761950856e2a363ba726bdfc682683abad6d703bca461f190f17bc9f1",
+    "tool_input": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_新Skill_13张完整审阅集/inputs/codex-clipboard-6fa807ac-653c-44f8-a3cc-2941c017e31e.jpg",
+    "tool_input_sha256": "a5228e1aae5e7e01b20ae62d458085079189d8468cd1dc7da98af957c260bbd9",
+    "size": [
+      1350,
+      1800
+    ],
+    "method": "EXIF transpose then uniform max1800 resize, no crop or AI edits"
+  },
+  {
+    "original": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-31_同款商户电商参考/微信图片_20261031133902_399_2.jpg",
+    "original_sha256": "5db55b7196371f0179e0a79d6ed54667d1a22992908db3e3e16ffcdb1fea38aa",
+    "tool_input": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_新Skill_13张完整审阅集/inputs/微信图片_20261031133902_399_2.jpg",
+    "tool_input_sha256": "d2f7d4f2d73b8b1471ba029ce00eb25b66960d7a437f57b452bc2295dd2f991a",
+    "size": [
+      843,
+      1500
+    ],
+    "method": "EXIF transpose then uniform max1800 resize, no crop or AI edits"
+  }
+]

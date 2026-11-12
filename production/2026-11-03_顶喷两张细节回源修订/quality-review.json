@@ -1,0 +1,27 @@
+{
+  "scope": [
+    387,
+    399
+  ],
+  "screenshots_identified": {
+    "first": 399,
+    "second": 387
+  },
+  "viewed": [
+    "372 original EXIF-oriented",
+    "376 original EXIF-oriented",
+    "387 and399 original commercial references",
+    "387 and399 final JPG",
+    "387 and399 200 percent face details"
+  ],
+  "findings": {
+    "387": "Whole photo preserves separated true holes and sealed circles; inset same source. No broken generated leaf markings. Real photo retains asymmetric reflection; front angle and shallow side exposure differ from old AI rendering. Gold title capsules rebuilt, not exact old typography.",
+    "399": "Whole photo preserves actual face and shallow knob. Same black gold diagonal product arrangement, but reused clean marble source is more detailed and has less haze than old AI image; side thickness less visible."
+  },
+  "imagegen_inputs": "Only original commercial references. No feedback screenshot or prior AI advertisement used.",
+  "source_check": "Complete cutout RGB proven byte-identical to original372 photo crop. Mask and rotation/resampling change final output; no perspective warp.",
+  "unchanged_images": 11,
+  "visual_status": "READY_FOR_USER_REVIEW_NOT_CUSTOMER_ACCEPTED",
+  "hole_count_status": "Original visible distribution retained; manufacturer total and occluded centers not independently verified.",
+  "browser_status": "NOT_RUN"
+}

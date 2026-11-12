@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-24",
+  "source": "current user message",
+  "user_feedback": "没有参考74张参考图重新做些图吗？我需要那种风格的图，需要能够放到电商平台的那种。你现在做的更像产品介绍",
+  "status": "STYLE_REOPENED",
+  "affected_batch": "production/2026-10-24_实拍主导续作",
+  "internal_review_is_not_user_acceptance": true,
+  "reason": "题材识别/简化说明替代了参考广告的背景、字级、主体及信息密度。",
+  "next_batch": "production/2026-10-24_参考广告主图"
+}

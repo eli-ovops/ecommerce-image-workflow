@@ -1,0 +1,4412 @@
+{
+  "white_ring_count": 144,
+  "white_normal_all_four_hits_ring": 144,
+  "white_camera_all_four_hits_ring": 144,
+  "white_center_hits_cavity_floor": 144,
+  "peripheral_count": 300,
+  "peripheral_normal_hits_floor": 300,
+  "peripheral_camera_hits_silver": 0,
+  "min_sampled_shell_to_floor_back_clearance_mm": 0.7499981634318829,
+  "shell_topology": {
+    "nonmanifold_edges": 0,
+    "zero_area_faces": 0,
+    "shoulder_adjacent_faces_over_172deg": 0
+  },
+  "coverage": "144 rings x4 surface points in local normal and current gray-camera directions, center rays, 300 peripheral center rays; not exhaustive global self-intersection or all-view validation",
+  "white_probes": [
+    {
+      "row": 1,
+      "x_mm": -12.450000000000001,
+      "v_mm": 50.4,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 1,
+      "x_mm": -4.15,
+      "v_mm": 50.4,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 1,
+      "x_mm": 4.15,
+      "v_mm": 50.4,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 1,
+      "x_mm": 12.450000000000001,
+      "v_mm": 50.4,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 2,
+      "x_mm": -24.900000000000002,
+      "v_mm": 43.2,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 2,
+      "x_mm": -16.6,
+      "v_mm": 43.2,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 2,
+      "x_mm": -8.3,
+      "v_mm": 43.2,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 2,
+      "x_mm": 0.0,
+      "v_mm": 43.2,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 2,
+      "x_mm": 8.3,
+      "v_mm": 43.2,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 2,
+      "x_mm": 16.6,
+      "v_mm": 43.2,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 2,
+      "x_mm": 24.900000000000002,
+      "v_mm": 43.2,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 3,
+      "x_mm": -37.35,
+      "v_mm": 36.0,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 3,
+      "x_mm": -29.050000000000004,
+      "v_mm": 36.0,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 3,
+      "x_mm": -20.75,
+      "v_mm": 36.0,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 3,
+      "x_mm": -12.450000000000001,
+      "v_mm": 36.0,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 3,
+      "x_mm": -4.15,
+      "v_mm": 36.0,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 3,
+      "x_mm": 4.15,
+      "v_mm": 36.0,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 3,
+      "x_mm": 12.450000000000001,
+      "v_mm": 36.0,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 3,
+      "x_mm": 20.75,
+      "v_mm": 36.0,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 3,
+      "x_mm": 29.050000000000004,
+      "v_mm": 36.0,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 3,
+      "x_mm": 37.35,
+      "v_mm": 36.0,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 4,
+      "x_mm": -41.5,
+      "v_mm": 28.8,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 4,
+      "x_mm": -33.2,
+      "v_mm": 28.8,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 4,
+      "x_mm": -24.900000000000002,
+      "v_mm": 28.8,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 4,
+      "x_mm": -16.6,
+      "v_mm": 28.8,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 4,
+      "x_mm": -8.3,
+      "v_mm": 28.8,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 4,
+      "x_mm": 0.0,
+      "v_mm": 28.8,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 4,
+      "x_mm": 8.3,
+      "v_mm": 28.8,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 4,
+      "x_mm": 16.6,
+      "v_mm": 28.8,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 4,
+      "x_mm": 24.900000000000002,
+      "v_mm": 28.8,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 4,
+      "x_mm": 33.2,
+      "v_mm": 28.8,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 4,
+      "x_mm": 41.5,
+      "v_mm": 28.8,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 5,
+      "x_mm": -45.650000000000006,
+      "v_mm": 21.6,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 5,
+      "x_mm": -37.35,
+      "v_mm": 21.6,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 5,
+      "x_mm": -29.050000000000004,
+      "v_mm": 21.6,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 5,
+      "x_mm": -20.75,
+      "v_mm": 21.6,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 5,
+      "x_mm": -12.450000000000001,
+      "v_mm": 21.6,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 5,
+      "x_mm": -4.15,
+      "v_mm": 21.6,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 5,
+      "x_mm": 4.15,
+      "v_mm": 21.6,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 5,
+      "x_mm": 12.450000000000001,
+      "v_mm": 21.6,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 5,
+      "x_mm": 20.75,
+      "v_mm": 21.6,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 5,
+      "x_mm": 29.050000000000004,
+      "v_mm": 21.6,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 5,
+      "x_mm": 37.35,
+      "v_mm": 21.6,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 5,
+      "x_mm": 45.650000000000006,
+      "v_mm": 21.6,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 6,
+      "x_mm": -49.800000000000004,
+      "v_mm": 14.4,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 6,
+      "x_mm": -41.5,
+      "v_mm": 14.4,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 6,
+      "x_mm": -33.2,
+      "v_mm": 14.4,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 6,
+      "x_mm": -24.900000000000002,
+      "v_mm": 14.4,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 6,
+      "x_mm": -16.6,
+      "v_mm": 14.4,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 6,
+      "x_mm": -8.3,
+      "v_mm": 14.4,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 6,
+      "x_mm": 0.0,
+      "v_mm": 14.4,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 6,
+      "x_mm": 8.3,
+      "v_mm": 14.4,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 6,
+      "x_mm": 16.6,
+      "v_mm": 14.4,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 6,
+      "x_mm": 24.900000000000002,
+      "v_mm": 14.4,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 6,
+      "x_mm": 33.2,
+      "v_mm": 14.4,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 6,
+      "x_mm": 41.5,
+      "v_mm": 14.4,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 6,
+      "x_mm": 49.800000000000004,
+      "v_mm": 14.4,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 7,
+      "x_mm": -45.650000000000006,
+      "v_mm": 7.2,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 7,
+      "x_mm": -37.35,
+      "v_mm": 7.2,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 7,
+      "x_mm": -29.050000000000004,
+      "v_mm": 7.2,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 7,
+      "x_mm": -20.75,
+      "v_mm": 7.2,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 7,
+      "x_mm": -12.450000000000001,
+      "v_mm": 7.2,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 7,
+      "x_mm": 12.450000000000001,
+      "v_mm": 7.2,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 7,
+      "x_mm": 20.75,
+      "v_mm": 7.2,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 7,
+      "x_mm": 29.050000000000004,
+      "v_mm": 7.2,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 7,
+      "x_mm": 37.35,
+      "v_mm": 7.2,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 7,
+      "x_mm": 45.650000000000006,
+      "v_mm": 7.2,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 8,
+      "x_mm": -49.800000000000004,
+      "v_mm": 0.0,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 8,
+      "x_mm": -41.5,
+      "v_mm": 0.0,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 8,
+      "x_mm": -33.2,
+      "v_mm": 0.0,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 8,
+      "x_mm": -24.900000000000002,
+      "v_mm": 0.0,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 8,
+      "x_mm": -16.6,
+      "v_mm": 0.0,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 8,
+      "x_mm": 16.6,
+      "v_mm": 0.0,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 8,
+      "x_mm": 24.900000000000002,
+      "v_mm": 0.0,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 8,
+      "x_mm": 33.2,
+      "v_mm": 0.0,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 8,
+      "x_mm": 41.5,
+      "v_mm": 0.0,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 8,
+      "x_mm": 49.800000000000004,
+      "v_mm": 0.0,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 9,
+      "x_mm": -45.650000000000006,
+      "v_mm": -7.2,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 9,
+      "x_mm": -37.35,
+      "v_mm": -7.2,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 9,
+      "x_mm": -29.050000000000004,
+      "v_mm": -7.2,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 9,
+      "x_mm": -20.75,
+      "v_mm": -7.2,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 9,
+      "x_mm": -12.450000000000001,
+      "v_mm": -7.2,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 9,
+      "x_mm": 12.450000000000001,
+      "v_mm": -7.2,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 9,
+      "x_mm": 20.75,
+      "v_mm": -7.2,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 9,
+      "x_mm": 29.050000000000004,
+      "v_mm": -7.2,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 9,
+      "x_mm": 37.35,
+      "v_mm": -7.2,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 9,
+      "x_mm": 45.650000000000006,
+      "v_mm": -7.2,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 10,
+      "x_mm": -49.800000000000004,
+      "v_mm": -14.4,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 10,
+      "x_mm": -41.5,
+      "v_mm": -14.4,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 10,
+      "x_mm": -33.2,
+      "v_mm": -14.4,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 10,
+      "x_mm": -24.900000000000002,
+      "v_mm": -14.4,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 10,
+      "x_mm": -16.6,
+      "v_mm": -14.4,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 10,
+      "x_mm": -8.3,
+      "v_mm": -14.4,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 10,
+      "x_mm": 0.0,
+      "v_mm": -14.4,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 10,
+      "x_mm": 8.3,
+      "v_mm": -14.4,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 10,
+      "x_mm": 16.6,
+      "v_mm": -14.4,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 10,
+      "x_mm": 24.900000000000002,
+      "v_mm": -14.4,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 10,
+      "x_mm": 33.2,
+      "v_mm": -14.4,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 10,
+      "x_mm": 41.5,
+      "v_mm": -14.4,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 10,
+      "x_mm": 49.800000000000004,
+      "v_mm": -14.4,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 11,
+      "x_mm": -45.650000000000006,
+      "v_mm": -21.6,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 11,
+      "x_mm": -37.35,
+      "v_mm": -21.6,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 11,
+      "x_mm": -29.050000000000004,
+      "v_mm": -21.6,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 11,
+      "x_mm": -20.75,
+      "v_mm": -21.6,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 11,
+      "x_mm": -12.450000000000001,
+      "v_mm": -21.6,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 11,
+      "x_mm": -4.15,
+      "v_mm": -21.6,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 11,
+      "x_mm": 4.15,
+      "v_mm": -21.6,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 11,
+      "x_mm": 12.450000000000001,
+      "v_mm": -21.6,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 11,
+      "x_mm": 20.75,
+      "v_mm": -21.6,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 11,
+      "x_mm": 29.050000000000004,
+      "v_mm": -21.6,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 11,
+      "x_mm": 37.35,
+      "v_mm": -21.6,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 11,
+      "x_mm": 45.650000000000006,
+      "v_mm": -21.6,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 12,
+      "x_mm": -41.5,
+      "v_mm": -28.8,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 12,
+      "x_mm": -33.2,
+      "v_mm": -28.8,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 12,
+      "x_mm": -24.900000000000002,
+      "v_mm": -28.8,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 12,
+      "x_mm": -16.6,
+      "v_mm": -28.8,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 12,
+      "x_mm": -8.3,
+      "v_mm": -28.8,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 12,
+      "x_mm": 0.0,
+      "v_mm": -28.8,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 12,
+      "x_mm": 8.3,
+      "v_mm": -28.8,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 12,
+      "x_mm": 16.6,
+      "v_mm": -28.8,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 12,
+      "x_mm": 24.900000000000002,
+      "v_mm": -28.8,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 12,
+      "x_mm": 33.2,
+      "v_mm": -28.8,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 12,
+      "x_mm": 41.5,
+      "v_mm": -28.8,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 13,
+      "x_mm": -37.35,
+      "v_mm": -36.0,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 13,
+      "x_mm": -29.050000000000004,
+      "v_mm": -36.0,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 13,
+      "x_mm": -20.75,
+      "v_mm": -36.0,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 13,
+      "x_mm": -12.450000000000001,
+      "v_mm": -36.0,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 13,
+      "x_mm": -4.15,
+      "v_mm": -36.0,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 13,
+      "x_mm": 4.15,
+      "v_mm": -36.0,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 13,
+      "x_mm": 12.450000000000001,
+      "v_mm": -36.0,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 13,
+      "x_mm": 20.75,
+      "v_mm": -36.0,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 13,
+      "x_mm": 29.050000000000004,
+      "v_mm": -36.0,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 13,
+      "x_mm": 37.35,
+      "v_mm": -36.0,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 14,
+      "x_mm": -24.900000000000002,
+      "v_mm": -43.2,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 14,
+      "x_mm": -16.6,
+      "v_mm": -43.2,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 14,
+      "x_mm": -8.3,
+      "v_mm": -43.2,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 14,
+      "x_mm": 0.0,
+      "v_mm": -43.2,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 14,
+      "x_mm": 8.3,
+      "v_mm": -43.2,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 14,
+      "x_mm": 16.6,
+      "v_mm": -43.2,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 14,
+      "x_mm": 24.900000000000002,
+      "v_mm": -43.2,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 15,
+      "x_mm": -12.450000000000001,
+      "v_mm": -50.4,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 15,
+      "x_mm": -4.15,
+      "v_mm": -50.4,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 15,
+      "x_mm": 4.15,
+      "v_mm": -50.4,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    },
+    {
+      "row": 15,
+      "x_mm": 12.450000000000001,
+      "v_mm": -50.4,
+      "normal_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "camera_four_probes": [
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates",
+        "03 Recessed white rings - 144 preserved coordinates"
+      ],
+      "center_normal_hit": "10 Shared-surface black cavity floor"
+    }
+  ],
+  "peripheral_probes": [
+    {
+      "radius": 56,
+      "index": 0,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 1,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 2,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 3,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 4,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 5,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 6,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 7,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 8,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 9,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 10,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 11,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 12,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 13,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 14,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 15,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 16,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 17,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 18,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 19,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 20,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 21,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 22,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 23,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 24,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 25,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 26,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 27,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 28,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 29,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 30,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 31,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 32,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 33,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 34,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 35,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 36,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 37,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 38,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 39,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 40,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 41,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 42,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 43,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 44,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 45,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 46,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 47,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 48,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 49,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 50,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 51,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 52,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 53,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 54,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 55,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 56,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 57,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 58,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 59,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 60,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 61,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 62,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 63,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 64,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 65,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 66,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 67,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 68,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 69,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 70,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 71,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 72,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 73,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 74,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 75,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 76,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 77,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 78,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 79,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 80,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 81,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 82,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 83,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 84,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 85,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 86,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 87,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 88,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 89,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 90,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 91,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 92,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 93,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 94,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 95,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 96,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 97,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 98,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 56,
+      "index": 99,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 0,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 1,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 2,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 3,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 4,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 5,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 6,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 7,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 8,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 9,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 10,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 11,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 12,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 13,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 14,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 15,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 16,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 17,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 18,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 19,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 20,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 21,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 22,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 23,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 24,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 25,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 26,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 27,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 28,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 29,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 30,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 31,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 32,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 33,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 34,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 35,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 36,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 37,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 38,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 39,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 40,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 41,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 42,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 43,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 44,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 45,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 46,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 47,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 48,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 49,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 50,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 51,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 52,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 53,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 54,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 55,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 56,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 57,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 58,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 59,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 60,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 61,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 62,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 63,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 64,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 65,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 66,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 67,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 68,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 69,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 70,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 71,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 72,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 73,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 74,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 75,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 76,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 77,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 78,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 79,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 80,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 81,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 82,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 83,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 84,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 85,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 86,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 87,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 88,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 89,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 90,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 91,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 92,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 93,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 94,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 95,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 96,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 97,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 98,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 58.6,
+      "index": 99,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 0,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 1,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 2,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 3,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 4,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 5,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 6,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 7,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 8,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 9,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 10,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 11,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 12,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 13,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 14,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 15,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 16,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 17,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 18,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 19,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 20,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 21,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 22,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 23,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 24,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 25,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 26,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 27,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 28,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 29,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 30,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 31,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 32,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 33,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 34,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 35,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 36,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 37,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 38,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 39,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 40,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 41,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 42,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 43,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 44,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 45,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 46,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 47,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 48,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 49,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 50,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 51,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 52,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 53,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 54,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 55,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 56,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 57,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 58,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 59,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 60,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 61,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 62,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 63,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 64,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 65,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 66,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 67,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 68,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 69,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 70,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 71,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 72,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 73,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 74,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 75,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 76,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 77,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 78,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 79,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 80,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 81,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 82,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 83,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 84,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 85,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 86,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 87,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 88,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 89,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 90,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 91,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 92,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 93,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 94,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 95,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 96,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 97,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 98,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    },
+    {
+      "radius": 61,
+      "index": 99,
+      "normal_hit": "10 Shared-surface black cavity floor",
+      "camera_hit": "02 Unified perforated panel"
+    }
+  ]
+}

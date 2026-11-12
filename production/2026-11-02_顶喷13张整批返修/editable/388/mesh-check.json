@@ -1,0 +1,10 @@
+{
+  "all4_source_meshes_unchanged": true,
+  "fingerprints": {
+    "Housing_300x200x20": "84aff485c8d5a7562d2b1cbde5b89c92b4871d7d42dc36ef66ebdc83a5b8a15a",
+    "ONLY_PHOTO_FACE_NO_DUPLICATE_CIRCLES": "4e125259dcace162560b97d0119dd10e5433058a856f82800e2d8bc92dca2da5",
+    "Outward_pull_knob_concave_face": "e3e40469f093974d245a1b99132defad32e2079a7745332ccf8f0336e49f4ee4",
+    "Rear_connector_visible_envelope_UNCONFIRMED_thread": "bee666bfc3b906da84bafbe05e7d9cfa63959613b3440f05e49dad3e1c5dd82a"
+  },
+  "scope": "vertices/topology only; pose camera lighting/materials intentionally changed; not visual or real flow acceptance"
+}

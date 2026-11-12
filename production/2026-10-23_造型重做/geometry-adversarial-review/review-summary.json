@@ -1,0 +1,372 @@
+{
+  "date": "2026-10-23",
+  "scope": "32/32 current exported JPGs, geometry adversarial review only; no image regeneration",
+  "rule": "Do not infer full geometry acceptance from smooth curves, repeated views, absence of an acute L, or previous QA status.",
+  "root_main_warm_reviewed": 17,
+  "independent_detail_reviewed": 15,
+  "source_basis": [
+    "actual silver89/90/91/92",
+    "actual black102/103/105",
+    "actual gunmetal106/107/109",
+    "new actual side01/02/03"
+  ],
+  "counts": {
+    "明确可见偏差": 2,
+    "疑似": 19,
+    "UNKNOWN": 11
+  },
+  "priority_confirmed": [
+    "D06",
+    "D11"
+  ],
+  "priority_suspect": [
+    "D04",
+    "D15",
+    "K01",
+    "K02",
+    "K03"
+  ],
+  "main_items": [
+    {
+      "id": "M01",
+      "status": "疑似",
+      "location": "完整单品的收腰与下柄",
+      "observation": "头面到细柄过渡被收成明显腰线；头柄比例疑较实拍修长。正斜角差会影响比例，不能硬判具体数值。",
+      "comparison": "银89、91/92；需同机位侧帧核实",
+      "confidence": "中",
+      "file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/exports/JPG/M01.jpg",
+      "sha256": "368f48389b9713591e8bdcfb1994448f8e5fc33d2dc7fdd77b0703b4d28c133e",
+      "action": "与视频同角度帧或真实抠图核对，不据疑似批量重画"
+    },
+    {
+      "id": "M02",
+      "status": "UNKNOWN",
+      "location": "斜置单品",
+      "observation": "正面轮廓与缓曲尚无明确反证；斜置视角未提供真实侧深度。",
+      "comparison": "银89、91/92；背拱不可见",
+      "confidence": "受限视角",
+      "file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/exports/JPG/M02.jpg",
+      "sha256": "3308b2b347ad3a44712e5e47dac11858e93aa65835173cabc594089e74ec6428",
+      "action": "保留原图；完整几何未核，不能算全形通过"
+    },
+    {
+      "id": "M03",
+      "status": "疑似",
+      "location": "左背视与右正视",
+      "observation": "背面鼓冠、深腰窝的体积感比实际浅背弧强；反射可能夸大，不能仅用高光判壳厚。",
+      "comparison": "银90、91/92、side03",
+      "confidence": "中",
+      "file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/exports/JPG/M03.jpg",
+      "sha256": "716500db5220f481f550438ac2c41f53db59bb8d764019ae0fbca200224dd173",
+      "action": "与视频同角度帧或真实抠图核对，不据疑似批量重画"
+    },
+    {
+      "id": "M04",
+      "status": "UNKNOWN",
+      "location": "右主品及三水型窗",
+      "observation": "手和画框裁切握柄尾；大正面能读外观，无法证明完整侧弧和比例。未找到单凭本图即可定性的硬错。",
+      "comparison": "银89、91/92、side01/03",
+      "confidence": "受限视角",
+      "file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/exports/JPG/M04.jpg",
+      "sha256": "ea7d90e73c712139afc9b78b0555b59bbd0d80251f3ae732eb048e572a206fe8",
+      "action": "保留原图；完整几何未核，不能算全形通过"
+    },
+    {
+      "id": "M05",
+      "status": "UNKNOWN",
+      "location": "面板按压近景",
+      "observation": "头面与孔位为主，颈柄不完整；不能从面板近景认定全形通过或失败。",
+      "comparison": "银93/94及89",
+      "confidence": "受限视角",
+      "file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/exports/JPG/M05.jpg",
+      "sha256": "d88e0bbf47c72d391bfde4de54a40687d460c109789f3430312a295c22b101ef",
+      "action": "保留原图；完整几何未核，不能算全形通过"
+    },
+    {
+      "id": "M06",
+      "status": "疑似",
+      "location": "右单品头肩、左水流头背",
+      "observation": "右侧头肩厚带和左场景头背隆起存在偏厚、转折偏集中的风险；两机位与高光混杂，未作硬判。",
+      "comparison": "银89、91/92、side03",
+      "confidence": "中",
+      "file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/exports/JPG/M06.jpg",
+      "sha256": "c827daf01b17a6b3576a9c2285bc86e1bf0c72c5c29ed54dca346f44ffaea7c8",
+      "action": "与视频同角度帧或真实抠图核对，不据疑似批量重画"
+    },
+    {
+      "id": "M07",
+      "status": "UNKNOWN",
+      "location": "喷流主图",
+      "observation": "尾柄裁切、流线遮挡；侧厚亮带不能作为曲率验证。",
+      "comparison": "银95/99、91/92",
+      "confidence": "受限视角",
+      "file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/exports/JPG/M07.jpg",
+      "sha256": "f612d086c43a89204af872219e4258696d664384ace5b7b82a863fc2eb3765a2",
+      "action": "保留原图；完整几何未核，不能算全形通过"
+    },
+    {
+      "id": "M08",
+      "status": "UNKNOWN",
+      "location": "三卡局部",
+      "observation": "三张都是局部或有手遮挡，未见完整纯侧；三卡一致不证明完整几何。",
+      "comparison": "银89、91/92、93/94",
+      "confidence": "受限视角",
+      "file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/exports/JPG/M08.jpg",
+      "sha256": "d17902da2b4772fe159b0fae167f4036679dd9987f54f34aeafdba1c70d30bfd",
+      "action": "保留原图；完整几何未核，不能算全形通过"
+    },
+    {
+      "id": "K01",
+      "status": "疑似",
+      "location": "银色整支颈柄",
+      "observation": "正斜投影呈较明显的细腰和柄中段反弯；与实际缓长曲线是否一致仍有疑点，角度压缩必须排除。",
+      "comparison": "银89、91/92",
+      "confidence": "中",
+      "file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/exports/JPG/K01.jpg",
+      "sha256": "d5573f412eb6f3ef851e7eed77f1d020b5cf378b895a87e4ab9b590516b75281",
+      "action": "与视频同角度帧或真实抠图核对，不据疑似批量重画"
+    },
+    {
+      "id": "K02",
+      "status": "疑似",
+      "location": "黑色头柄比例与肩部",
+      "observation": "头面显窄长、连接处内收明显；实际黑102更接近圆面但机位不同，不将椭圆本身判为变形。",
+      "comparison": "黑102、103/105、side01/02",
+      "confidence": "中",
+      "file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/exports/JPG/K02.jpg",
+      "sha256": "c77349aba245717f8e10f7dda97ea6f282ab27b3cdefdf71750a3cc4950f4dc2",
+      "action": "与视频同角度帧或真实抠图核对，不据疑似批量重画"
+    },
+    {
+      "id": "K03",
+      "status": "疑似",
+      "location": "枪灰整支颈柄",
+      "observation": "颈到柄的收腰/回摆和头柄长宽比有疑点；不能因颜色正确认可结构。",
+      "comparison": "枪灰106、107/109",
+      "confidence": "中",
+      "file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/exports/JPG/K03.jpg",
+      "sha256": "46fbc6ab7a7f0139e18a28baad0196b3a508613b1aa380424848846c81f6a3e0",
+      "action": "与视频同角度帧或真实抠图核对，不据疑似批量重画"
+    },
+    {
+      "id": "V01",
+      "status": "疑似",
+      "location": "右侧面细节窗与上主品",
+      "observation": "侧面窗过渡集中在局部折腰；主场景头后形体有类似风险。两处局部不能替代真实连续转面。",
+      "comparison": "银91/92、side01/03",
+      "confidence": "中",
+      "file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/exports/JPG/V01.jpg",
+      "sha256": "4b235a0541de5300134fc5c986a47a30f12c41be4d3843a7146172a35df7b1d9",
+      "action": "与视频同角度帧或真实抠图核对，不据疑似批量重画"
+    },
+    {
+      "id": "V02",
+      "status": "UNKNOWN",
+      "location": "人物持品正斜面",
+      "observation": "握柄前面可读但后轮廓被手和人物遮挡；缺同机位侧深度，未找到确定反证。",
+      "comparison": "银89、91/92",
+      "confidence": "受限视角",
+      "file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/exports/JPG/V02.jpg",
+      "sha256": "2960507e2003aeead6a576be9b71351b74cabc2a3d87f2f241ae4347c35d7750",
+      "action": "保留原图；完整几何未核，不能算全形通过"
+    },
+    {
+      "id": "V03",
+      "status": "疑似",
+      "location": "中侧视、右背视",
+      "observation": "侧视有较集中的S回摆，背视鼓冠和肩部体积需要共同约束；三视图未证明由一个形体投影而来。",
+      "comparison": "银90、91/92、side01/03",
+      "confidence": "中",
+      "file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/exports/JPG/V03.jpg",
+      "sha256": "afd8e5719b05a3f176ff5a6ac6fa113c5c45426064656b916fbebd754faf83fa",
+      "action": "与视频同角度帧或真实抠图核对，不据疑似批量重画"
+    },
+    {
+      "id": "V04",
+      "status": "UNKNOWN",
+      "location": "红钮按压大近景",
+      "observation": "画框仅含头面和局部颈；无法核完整头柄关系。",
+      "comparison": "银93/94及89",
+      "confidence": "受限视角",
+      "file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/exports/JPG/V04.jpg",
+      "sha256": "190253105c74839c4635132ffb3693c7cb8e44034673cc7dcee8f241daaf4099",
+      "action": "保留原图；完整几何未核，不能算全形通过"
+    },
+    {
+      "id": "V05",
+      "status": "疑似",
+      "location": "主品肩部与右下侧窗",
+      "observation": "侧厚到细颈的内收偏集中，侧窗需要和主品用同一真实轮廓核验；镜面反光不直接判厚度。",
+      "comparison": "银89、91/92、side03",
+      "confidence": "中",
+      "file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/exports/JPG/V05.jpg",
+      "sha256": "ee959d08be8bcbb7e6fbc95fbb0d4c263b55af55acac0788da80c408567320b7",
+      "action": "与视频同角度帧或真实抠图核对，不据疑似批量重画"
+    },
+    {
+      "id": "V06",
+      "status": "疑似",
+      "location": "上持品与下多视图",
+      "observation": "上品和下侧/背视图不能证明同一曲率，局部腰窝/鼓冠偏强的风险尚在。手部遮挡为限制。",
+      "comparison": "银89/90、91/92、side03",
+      "confidence": "中",
+      "file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/exports/JPG/V06.jpg",
+      "sha256": "8957332d585378587ec56b841b5fc0fdb9e660e37cc34e75167a830a2cd16336",
+      "action": "与视频同角度帧或真实抠图核对，不据疑似批量重画"
+    }
+  ],
+  "detail_items_with_root_adjudication": [
+    {
+      "id": "D01",
+      "status": "疑似",
+      "location": "上图头右下至按键",
+      "observation": "颈背陡缩到细柄，转折集中；下图被手遮住不能证明一致",
+      "comparison": "银89肩部较宽长，91/92侧曲率分布更长",
+      "confidence": "中",
+      "repair": "延长头根平顺过渡，仅修商品并统一上下视图"
+    },
+    {
+      "id": "D03",
+      "status": "UNKNOWN",
+      "location": "三色正面侧边",
+      "observation": "正面比例未见明确反证；侧带宽度不能独立证明侧厚，缺纯侧",
+      "comparison": "银89、黑102/103、枪灰106/107；椭圆度可能是倾斜",
+      "confidence": "中",
+      "repair": "保留；同源侧视证错才同步，不能宣称三维通过"
+    },
+    {
+      "id": "D04",
+      "status": "疑似",
+      "location": "上图按键以下长柄；下图头根",
+      "observation": "上图按键到画面底仍是等宽光滑握柄，长度远超头纵长；头长轴完整，不仅是透视压扁；下图头根隆起另列疑似",
+      "comparison": "银89/90柄长约一个头径量级，91/92和side03不支持该长柄",
+      "confidence": "中偏高",
+      "repair": "缩回真实柄长并正确露银螺纹，重做手握衔接，不把长柄当软管",
+      "independent_original_status": "明确可见偏差",
+      "root_adjudication": "明显长柄风险值得优先处理，但末端出画且缺同机位标定，单凭长轴比较不足以排除透视；不保留已证实物比例错误的绝对措辞。"
+    },
+    {
+      "id": "D05",
+      "status": "疑似",
+      "location": "右下背面与侧视",
+      "observation": "背面镜状鼓冠和深腰窝，与侧面长浅弧的体积表达疑不一致；初报柄短不保留硬判，混有视角",
+      "comparison": "银90背面与side03浅弧；反射不能当测厚",
+      "confidence": "中",
+      "repair": "统一浅拱壳体和头根明暗，不压成平盘"
+    },
+    {
+      "id": "D06",
+      "status": "明确可见偏差",
+      "location": "下横侧头根",
+      "observation": "背线在柄到头根突然抬高成短平台台阶，过渡集中",
+      "comparison": "side03与银91/92为连续低浅背弧、侧厚渐变，无局部阶跃",
+      "confidence": "高",
+      "repair": "依据side03重定完整侧轮廓，不能仅磨去高光"
+    },
+    {
+      "id": "D07",
+      "status": "疑似",
+      "location": "右侧独立侧图按键后上方",
+      "observation": "鼓起和内收集中于头根，头上半偏直，曲率疑被扩大成中段S",
+      "comparison": "side01/02和91/92是更长的浅弧，侧转角可能放大差别",
+      "confidence": "中",
+      "repair": "对齐头缘、最大鼓点、键和柄尾后缓和腰窝"
+    },
+    {
+      "id": "D08",
+      "status": "UNKNOWN",
+      "location": "三格裁切头颈",
+      "observation": "柄尾全裁、水流遮面，不能核完整比例；三格重复非三次独立证明",
+      "comparison": "银89/91/92；窄椭圆可由透视造成",
+      "confidence": "中",
+      "repair": "同源完整图若证错再同步，不立即重复生成"
+    },
+    {
+      "id": "D11",
+      "status": "明确可见偏差",
+      "location": "上图左上与下图右上头背",
+      "observation": "头后鼓起紧接强内收，呈短深鹅颈；两场景重复同造型",
+      "comparison": "side01/02、银91/92为贯穿头根与柄的长浅曲线；side03头背浅拱",
+      "confidence": "高",
+      "repair": "保留人物布局，重建完整商品，降低鼓包和键附近凹陷，两场景同形"
+    },
+    {
+      "id": "D12",
+      "status": "疑似",
+      "location": "右背面肩部与中线",
+      "observation": "亮球冠和两肩深暗收束偏圆勺；正背轮廓一致不证明侧厚",
+      "comparison": "银90与side03约束浅拱，高光不是硬测厚",
+      "confidence": "中",
+      "repair": "校准背面体积高光和肩部过渡，保留宽长比"
+    },
+    {
+      "id": "D13",
+      "status": "疑似",
+      "location": "主图右头根至柄",
+      "observation": "侧厚边向柄急收形成凸肩，柄上端似后折；三分之四角度是干扰",
+      "comparison": "银89肩部、银91/92连续侧弧",
+      "confidence": "中",
+      "repair": "侧片锁定颈曲线，区分反射与外轮廓，不任意扭柄"
+    },
+    {
+      "id": "D14",
+      "status": "UNKNOWN",
+      "location": "上主图及步骤图",
+      "observation": "仅头面与局部颈，未见足够硬错；全柄、背壳不可核",
+      "comparison": "银89正面；91/92侧形无法在本图验证",
+      "confidence": "高",
+      "repair": "暂留，完整体积UNKNOWN；同源修订后核头缘同步"
+    },
+    {
+      "id": "D15",
+      "status": "疑似",
+      "location": "主背图与左第二第三小图",
+      "observation": "主图鼓冠和深腰窝被细节强化；左纯侧却较浅，疑多视体积不一致；明暗有干扰",
+      "comparison": "银90、91/92与side03限制拱高，不能只凭反射硬判",
+      "confidence": "中偏高",
+      "repair": "先约束拱高和头根再改明暗，四视图用同形体"
+    },
+    {
+      "id": "D16",
+      "status": "UNKNOWN",
+      "location": "左主图与裁切步骤",
+      "observation": "正面比例无明确反证；侧亮带可由角度解释，手遮颈柄，局部图不能核全形",
+      "comparison": "银89、91/92；正斜面不能推定背壳拱高",
+      "confidence": "中",
+      "repair": "暂留；完整几何不通过，同源变化后核边缘"
+    },
+    {
+      "id": "D17",
+      "status": "疑似",
+      "location": "两视图握柄中段",
+      "observation": "上图柄腹外鼓、腰线较深，下图弯曲也突出，疑浅曲率被扩大；透视差不作硬错",
+      "comparison": "银89/90柄近直缓变，91/92和side01/02为浅弧",
+      "confidence": "中",
+      "repair": "校准柄宽渐变和中轴，保持上下为同物旋转"
+    },
+    {
+      "id": "D18",
+      "status": "疑似",
+      "location": "右头缘至颈柄",
+      "observation": "头侧厚近直，到键后明显内收又回摆，局部S幅度偏强；角度反射干扰",
+      "comparison": "银91/92、side01/02为平缓侧厚渐变",
+      "confidence": "中",
+      "repair": "校准内收位置、头缘侧厚与柄轴，保留排版"
+    }
+  ],
+  "verdict": "GEOMETRY_REOPENED_NOT_FINAL_ACCEPTED",
+  "no_inferred_full3D_pass": true,
+  "notes": [
+    "疑似不等于全部已证错误，不据此把整套自动重生成。",
+    "不同机位/透视/反射不能作为量化曲率或厚度测量。",
+    "旧62条QA与旧打包保留历史；技术导出完整不代表造型已确认。"
+  ],
+  "recommended_method": [
+    "Use existing/new video to extract clear front/back/left/right side frames; first align real silhouette and shape landmarks.",
+    "Prefer photographed product cutout compositing with separately created background/people/water; preserve real product geometry instead of repeatedly redrawing the whole product.",
+    "Use manufacturer CAD/3D source if already available; shiny silver video alone is not a guarantee of accurate automatic reconstruction."
+  ],
+  "user_acceptance": "NOT_ACCEPTED_GEOMETRY_FEEDBACK",
+  "image_files_modified": [],
+  "prior_artifacts_deleted": []
+}

@@ -1,0 +1,20 @@
+{
+  "archive": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-03_顶喷侧厚优化/completed-five/顶喷修订整套_双版本.zip",
+  "bytes": 33108314,
+  "sha256": "aa8bf1de97014bb055110eb768a3044b6d876c1a685e790a7aeccc254d90150f",
+  "members": 46,
+  "image_sets": [
+    13,
+    13
+  ],
+  "crc_and_all_member_sha256": true,
+  "ora_exact_recomposition": {
+    "387": true,
+    "392": true,
+    "395": true,
+    "396": true,
+    "399": true
+  },
+  "original_complete_set_unchanged_files": 16,
+  "previous_three_byte_preserved": true
+}

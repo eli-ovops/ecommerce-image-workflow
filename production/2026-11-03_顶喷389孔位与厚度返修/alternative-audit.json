@@ -1,0 +1,15 @@
+{
+  "status": "NO_ACCEPTABLE_ALTERNATIVE_PRODUCED",
+  "read_sources": [
+    "production/2026-11-02_顶喷13张整批返修/native/refine_water.py",
+    "production/2026-11-02_顶喷13张整批返修/editable/388/render_inset.py",
+    "production/2026-10-30_长方形拉钮顶喷_完整建模/geometry-check.json"
+  ],
+  "viewed_render": "production/2026-11-02_顶喷13张整批返修/native/installed-refined.png",
+  "available": "Editable housing named Housing_300x200x20 and single original372 photo face source; 94 origin curves and658 droplets in retained production record.",
+  "evidence_limit": "This turn inspected source code, prior geometry record and actual rendered PNG; did not reopen Blender or independently remeasure current mesh.",
+  "visual_blocker": "Parallel white lines remain prominent; does not satisfy natural water. Reusing this native layer alone would not fix the complete image.",
+  "new_imagegen_calls": 0,
+  "new_renders": 0,
+  "existing_13_modified": false
+}

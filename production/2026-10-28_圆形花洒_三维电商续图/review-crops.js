@@ -1,0 +1,2 @@
+const sharp=require('/Users/USER/.local/share/deepseek-harness/node_modules/sharp'),path=require('path');
+(async()=>{for(const [k,box] of [['D',{left:0,top:1000,width:600,height:380}],['E',{left:620,top:910,width:460,height:440}],['F',{left:580,top:830,width:460,height:460}]])await sharp(path.join(__dirname,k+'-render.png')).extract(box).resize(box.width*2,box.height*2).png().toFile(path.join(__dirname,k+'-detail200.png'));})();

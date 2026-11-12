@@ -1,0 +1,22 @@
+{
+  "status": "EXPERIMENT_CANDIDATE_NOT_PHOTOREALISM_ACCEPTED",
+  "actual_opened": [
+    "圆形花洒_暖白浴室代表图.jpg",
+    "render1600.png",
+    "panel-200.png",
+    "neck-key-200.png",
+    "phone-preview.png"
+  ],
+  "checks": {
+    "whole_frame": "Complete head/neck and useful handle extent, connector fully occluded by physical foreground ledge. No hand/water/AI pixels.",
+    "apertures": "At1600 and 200% the white rings show small dark centers across the visible panel; no broad occlusion or extra half holes observed. This is visual review, not an automated all-hole score.",
+    "panel": "No photographic stains/dust introduced. Fine grain remains materially weaker than source348 and is not considered resolved.",
+    "red_button": "Static red actuator and central cavity visible, no claimed pressing/pins/test. Color remains brighter than source ambient photo.",
+    "silver_selector": "Reads light silver but its broad pale reflection remains less natural than350/351.",
+    "neck_rim": "Crossing black reflection lines reduced; sharp triangular highlight transition and sidewall segmentation still visibly CG. Geometry was not altered.",
+    "scene": "Basin rim/tile wall/counter provide bathroom cues, still a simplified rendered set.",
+    "typography_phone": "Large copper-brown slanted Chinese and band readable at400px; no tiny footnotes, unknown specifications or performance claims."
+  },
+  "stop_reason": "Current authorized single experiment completed; unresolved material/neck response documented instead of further render patching.",
+  "root_review": "Pending final JPG and package review; low-resolution direction reviewed, no customer acceptance claim."
+}

@@ -1,0 +1,8 @@
+{
+  "count": 1,
+  "backing_vertices_corrected": 1546,
+  "cause": "Backing behind chrome shell in lower shoulder, confirmed ray samples in inspect.log",
+  "exposure_unchanged": 0.0,
+  "new_product_deformation": false,
+  "discarded_lower_insert_bevel": true
+}

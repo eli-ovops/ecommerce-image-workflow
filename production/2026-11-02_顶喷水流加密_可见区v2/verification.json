@@ -1,0 +1,32 @@
+{
+  "imagegen_calls": 0,
+  "source_water": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_顶喷水流imagegen单张实验/water-generated-original.png",
+  "product_region_water_pixels_identical": true,
+  "product_region_pixels": 140219,
+  "origin_positions_unchanged": true,
+  "per_hole_alignment_verified": false,
+  "unchanged_nonwater_layers": [
+    "393:Background",
+    "393:Warm shade",
+    "393:Text 从面板到接头",
+    "393:Text 细看顶喷外观",
+    "393:Protected native product",
+    "393:Text 安装出水示意",
+    "393:Gold external-detail border",
+    "393:Original photo detail face",
+    "393:Text 面板纹样",
+    "393:Gold external-detail border",
+    "393:Original photo detail side",
+    "393:Text 银色侧边",
+    "393:Gold external-detail border",
+    "393:Original photo detail connector",
+    "393:Text 接头开口",
+    "water-study:Approved original scene layer",
+    "water-study:Native dry product"
+  ],
+  "lower_water_alpha_sum_ratio": 3.079495743228035,
+  "lower_visible_area_ratio": 2.5733414259525342,
+  "method": "Increase existing generated water alpha and retain more weak droplets; two subtle offset copies below head only. Full product-region water unchanged; no new origins; no straight-line synthesis.",
+  "ora_crc_recomposition": true,
+  "visual_review": "Full1200 image,500px same-scale v1-v2 and exposed-water crop reviewed; density increase visible above detail cards; user acceptance pending"
+}

@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "reviewer": "root",
+  "reviewed_at": "2026-10-24T21:40:45.580986+08:00",
+  "candidate_sha256": "1f7625bcca826286f69e642b8a69413e3cd1a9f201f2fe2f8c12892d9c0a53b5",
+  "jpg_sha256": "37814cfe25e5508be533ae85615eceea6017374c956608f1a19018f1f90178bf",
+  "appearance_source_sha256": [
+    "04dcc913bfeafb9232a63686cb9cf4c5b47db3ea88275f25fdab30cdcabb6f2f",
+    "69bc47dfe914b578f1e7d4d8aa8fb6a5ca3c6180108401a380e282ddc331a32b",
+    "736f95fa8951eeaaabb2de81cbd1530f9111843a47952f539eceae225e34f87a"
+  ],
+  "checks": {
+    "photo_appearance": "PASS",
+    "geometry": "PASS",
+    "reference_style": "PASS",
+    "copy": "PASS",
+    "no_model": "PASS",
+    "export": "PASS"
+  },
+  "finding": "实际打开原生、1254JPG及BLK002/BLK005和A003。哑黑壳、黑色下键、短黑螺纹及红钮可读；头侧圆柱厚边、上颈连续过渡可见，未见明显孔环抹连。82%等比缩排保留完整商品；左侧中文不压商品。与A003借近正前3/4单品和左文案关系，按简化要求改白底并删六档/透明滤芯/尺寸/性能。",
+  "retained": "单品3/4角度、左文案、右侧主体",
+  "deviation": "白底简约SKU，信息密度减少；不照搬参考水型和滤芯",
+  "limitations": "人工外观/版式比较，未做逐孔精确位置或物理IoU测量，不代表客户接受。"
+}

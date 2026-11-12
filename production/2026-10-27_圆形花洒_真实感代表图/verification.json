@@ -1,0 +1,147 @@
+{
+  "date": "2026-10-27",
+  "status": "READY_FOR_USER_REVIEW",
+  "delivery_count_jpg": 1,
+  "final_jpg": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/银色花洒_暖白浴室主图.jpg",
+  "dimensions": [
+    1440,
+    1440
+  ],
+  "export_count_selected_jpg": 1,
+  "requested_model": "gpt-6-astra",
+  "requested_effort": "medium",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "method": "Original silver photo 339 clipped as one uniformly rotated/scaled product; image_gen independent background; one image_gen reflection retouch restricted to two interior metal masks; separate SVG text",
+  "source_roles": {
+    "product_original": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/结构基准20261027/原件/微信图片_20261027161143_339_2.jpg",
+    "geometry_auxiliary": "Approved 2026-10-27 calibrated model; no model render used in final pixels",
+    "style_references": [
+      "2026-10-25 M06 warm bathroom still life",
+      "2026-10-25 M01 large headline and product hierarchy"
+    ],
+    "background_native": "/Users/USER/.codex/generated_images/01a17c88-9784-7202-9a4a-0bf7830010e6/exec-2cbd5e3e-7168-45d9-85f9-de6838412129.png",
+    "reflection_edit_native": "/Users/USER/.codex/generated_images/01a17c88-9784-7202-9a4a-0bf7830010e6/exec-37a5ad89-f69a-467e-8f0e-a929dc705502.png"
+  },
+  "image_gen_calls": 2,
+  "product_transform": "translate(900 900) rotate(110) scale(.83) translate(-950 -679), source coordinate image 1824x1368",
+  "retouch_used_regions": [
+    "silver handle interior",
+    "silver face of lower selector"
+  ],
+  "retouch_excluded_regions": [
+    "black panel",
+    "all white and peripheral holes",
+    "red central actuator",
+    "product outer silhouette",
+    "white threaded connector"
+  ],
+  "retouch_feather_source_units": 2.4,
+  "original_product_pixels_claim": "Only unretouched regions use original image sampling; NOT all product pixels unchanged. Rotation, resizing and JPEG recompress pixels.",
+  "review": {
+    "actual_opened": [
+      "photo339",
+      "photo344",
+      "photo345",
+      "M06 style reference",
+      "M01 style reference",
+      "native generated background",
+      "native local reflection edit",
+      "full PNG preview",
+      "360px phone preview",
+      "final JPG"
+    ],
+    "head_to_handle_ratio": "Whole object uniformly transformed; no separate head/handle scaling",
+    "cylinder_thick_edge": "Only thin rim visible in chosen front angle; side thickness not newly verified",
+    "shallow_rear_cap": "Not visible, not newly verified",
+    "head_neck_handle": "Original photo outline used; lower handle intentionally exits frame",
+    "holes_and_controls": "Original photo regions used; no generated hole layout used",
+    "reflection": "No clearly identifiable phone or room objects in final; small warm remnants at neck rim remain",
+    "mask_edge": "Manual visual inspection; no conspicuous room background patch or severe halo detected",
+    "contact_shadow": "Independent soft SVG shadow, visual inspection only, not physically measured",
+    "text": "按压除垢 / 三档出水 · 随手切换",
+    "phone_thumbnail": "360px PNG actually viewed; headline and product readable",
+    "user_acceptance": "PENDING"
+  },
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/README.md",
+      "bytes": 4369,
+      "sha256": "57752453cd9a7e35c6ab78e9e76ea3775855c1901a715f44821030ec66434d34",
+      "purpose": "editable source, provenance or review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/build.js",
+      "bytes": 4410,
+      "sha256": "8ee05aea5bddda5d20983fe88a3e1612fcbbb5061b289d6f2fcd5f512d90a281",
+      "purpose": "editable source, provenance or review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/export.js",
+      "bytes": 501,
+      "sha256": "880797e2700c8d43d14702ec88de8c46e236b811cd023fd76fa943652a771db9",
+      "purpose": "editable source, provenance or review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/main-editable.svg",
+      "bytes": 12912525,
+      "sha256": "6e7e134384886aa3ed28d3a417e1f84b7d46754666feb7718c98e107263be6b6",
+      "purpose": "editable source, provenance or review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/product-mask.svg",
+      "bytes": 530,
+      "sha256": "4146cf38a90949a01ee87234f5e29e7e6a23a377ccab1699ebed23c428f5f3bc",
+      "purpose": "editable source, provenance or review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/prompts.json",
+      "bytes": 2109,
+      "sha256": "f82cdd365354540da9f5ba07495084385e402f4d2b3d3dfbca2dc5d412d9425f",
+      "purpose": "editable source, provenance or review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/reflection-mask.svg",
+      "bytes": 465,
+      "sha256": "15e565e5000951ebdf227cb9b57689be82e02f74f605a892d60899d9d6e9169e",
+      "purpose": "editable source, provenance or review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/sources/background-native.png",
+      "bytes": 2485032,
+      "sha256": "9644ac20db68525a5b19c4494a1dd336c223749ef8bb7fb304178c3361cfacce",
+      "purpose": "editable source, provenance or review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/sources/phone-preview.png",
+      "bytes": 262428,
+      "sha256": "50862e8eb3ba09c08efd67c5b477ef8e08b4608efbc9b838230e690f8e527deb",
+      "purpose": "editable source, provenance or review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/sources/product-original-339.jpg",
+      "bytes": 5396278,
+      "sha256": "3cd5202fa1d5229a9a0ea3813852b408c8e255e634bf7c80c64e950a03f3a8f8",
+      "purpose": "editable source, provenance or review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/sources/reflection-retouch-native.png",
+      "bytes": 1800485,
+      "sha256": "752b320715e68bf6a0a7eb43dcbaff283e631b4026c064b0ae61952739d4129c",
+      "purpose": "editable source, provenance or review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/sources/review-preview.png",
+      "bytes": 3968270,
+      "sha256": "b47770521a21df98b94c6809aee75ba317acb7ac441e3c5d3cfd4f02947c6b95",
+      "purpose": "editable source, provenance or review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_真实感代表图/银色花洒_暖白浴室主图.jpg",
+      "bytes": 877135,
+      "sha256": "66ed25f685db7bd1a9523a6a25c501ecb336dead7f957e4cc1ed362a55c2bea4",
+      "purpose": "deliverable"
+    }
+  ],
+  "root_review": "Root opened full PNG preview and approved this candidate for closure; final user acceptance remains pending"
+}

@@ -1,0 +1,19 @@
+{
+  "shell_dimensions_mm": [
+    300.00001192092896,
+    200.00000298023224,
+    19.999999552965164
+  ],
+  "shell_vertices_unchanged": true,
+  "camera_location": [
+    0.3400000035762787,
+    -0.03500000014901161,
+    0.6000000238418579
+  ],
+  "knob_original_photo_surface": true,
+  "limitations": [
+    "Auxiliary shell reconstructed from photographs, not manufacturing CAD",
+    "Face photograph retains original baked lighting",
+    "No same-angle original photograph available"
+  ]
+}

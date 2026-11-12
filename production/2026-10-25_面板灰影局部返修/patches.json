@@ -1,0 +1,63 @@
+{
+  "method": "local texture cloning, no nozzle synthesis",
+  "patches": [
+    [
+      663,
+      156,
+      15,
+      15,
+      945,
+      640
+    ],
+    [
+      649,
+      237,
+      15,
+      17,
+      945,
+      640
+    ],
+    [
+      1224,
+      285,
+      10,
+      17,
+      945,
+      640
+    ],
+    [
+      1211,
+      366,
+      14,
+      21,
+      945,
+      640
+    ],
+    [
+      1188,
+      405,
+      15,
+      20,
+      945,
+      640
+    ],
+    [
+      1094,
+      514,
+      15,
+      14,
+      945,
+      640
+    ],
+    [
+      1018,
+      548,
+      8,
+      10,
+      945,
+      640
+    ]
+  ],
+  "source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-25_广告节奏优化_细节精修/JPG/M02_下方按键操作.jpg",
+  "scope": "7 spurious grey rings/drag marks; no real white nozzle or outer black pore intentionally masked"
+}

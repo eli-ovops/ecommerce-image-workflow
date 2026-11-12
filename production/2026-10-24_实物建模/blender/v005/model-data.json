@@ -1,0 +1,57 @@
+{
+  "blender_version": "5.2.2 LTS",
+  "objects": [
+    {
+      "name": "01 Continuous head-neck-handle shell",
+      "vertices": 33408,
+      "polygons": 33282
+    },
+    {
+      "name": "02 Removable face panel - holes pending",
+      "vertices": 8194,
+      "polygons": 8320
+    },
+    {
+      "name": "03 Central descaling press button | gray clay",
+      "vertices": 480,
+      "polygons": 384
+    },
+    {
+      "name": "04 Lower three-mode selector button",
+      "vertices": 288,
+      "polygons": 193
+    },
+    {
+      "name": "05 Connector exterior | specification UNKNOWN",
+      "vertices": 480,
+      "polygons": 384
+    }
+  ],
+  "nominal_bbox_mm": [
+    130,
+    null,
+    265
+  ],
+  "mesh_validation": [
+    {
+      "name": "01 Continuous head-neck-handle shell",
+      "mesh_validate_changed": false
+    },
+    {
+      "name": "02 Removable face panel - holes pending",
+      "mesh_validate_changed": false
+    },
+    {
+      "name": "03 Central descaling press button | gray clay",
+      "mesh_validate_changed": false
+    },
+    {
+      "name": "04 Lower three-mode selector button",
+      "mesh_validate_changed": false
+    },
+    {
+      "name": "05 Connector exterior | specification UNKNOWN",
+      "mesh_validate_changed": false
+    }
+  ]
+}

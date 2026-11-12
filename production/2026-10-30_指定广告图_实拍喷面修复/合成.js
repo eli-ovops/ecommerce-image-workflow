@@ -1,0 +1,10 @@
+const fs = require('fs');
+const path = require('path');
+const sharp=require('/Users/USER/.local/share/deepseek-harness/node_modules/sharp');
+const dir=__dirname;
+const data=(p,m)=>`data:${m};base64,${fs.readFileSync(p).toString('base64')}`;
+const base=data(path.join(dir,'用户指定原图.png'),'image/png');
+const real=data(path.resolve(dir,'../../products/主推花洒/结构基准20261027/原件/微信图片_20261027161143_339_2.jpg'),'image/jpeg');
+const svg=`<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1254" height="1254" viewBox="0 0 1254 1254"><defs><filter id="feather"><feGaussianBlur stdDeviation="2"/></filter><mask id="face"><rect width="1824" height="1368" fill="black"/><circle cx="533" cy="679" r="347" fill="white" filter="url(#feather)"/></mask></defs><image xlink:href="${base}" width="1254" height="1254"/><g transform="translate(348 471) rotate(31) scale(.835) translate(-533 -679)"><image xlink:href="${real}" width="1824" height="1368" mask="url(#face)"/></g></svg>`;
+fs.writeFileSync(path.join(dir,'可编辑合成.svg'),svg);
+sharp(Buffer.from(svg)).png().toFile(path.join(dir,'实拍喷面_修复候选.png')).then(()=>sharp(Buffer.from(svg)).jpeg({quality:95,chromaSubsampling:'4:4:4'}).toFile(path.join(dir,'实拍喷面_修复候选.jpg'))).catch(e=>{console.error(e);process.exit(1)});

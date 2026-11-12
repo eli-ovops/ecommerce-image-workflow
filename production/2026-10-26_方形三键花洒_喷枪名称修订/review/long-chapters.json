@@ -1,0 +1,62 @@
+[
+  {
+    "id": "M02",
+    "start": 0,
+    "height": 1000
+  },
+  {
+    "id": "M05",
+    "start": 1000,
+    "height": 1800
+  },
+  {
+    "id": "N04",
+    "start": 2800,
+    "height": 1000
+  },
+  {
+    "id": "D08",
+    "start": 3800,
+    "height": 1333
+  },
+  {
+    "id": "N05",
+    "start": 5133,
+    "height": 1300
+  },
+  {
+    "id": "D02",
+    "start": 6433,
+    "height": 1000
+  },
+  {
+    "id": "N02",
+    "start": 7433,
+    "height": 1000
+  },
+  {
+    "id": "N03",
+    "start": 8433,
+    "height": 1000
+  },
+  {
+    "id": "N06",
+    "start": 9433,
+    "height": 1262
+  },
+  {
+    "id": "D05",
+    "start": 10695,
+    "height": 1000
+  },
+  {
+    "id": "M04",
+    "start": 11695,
+    "height": 1000
+  },
+  {
+    "id": "D07",
+    "start": 12695,
+    "height": 1000
+  }
+]

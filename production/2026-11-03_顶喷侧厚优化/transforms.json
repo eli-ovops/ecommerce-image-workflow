@@ -1,0 +1,40 @@
+[
+  {
+    "id": 387,
+    "rotation_ccw": -3,
+    "scale": 0.6272793581327498,
+    "xy": [
+      425,
+      190
+    ],
+    "size": [
+      546,
+      860
+    ],
+    "unchanged_layers": [
+      0,
+      3,
+      4
+    ],
+    "unchanged_layers_pixel_check": true
+  },
+  {
+    "id": 399,
+    "rotation_ccw": -22,
+    "scale": 0.7016129032258065,
+    "xy": [
+      35,
+      525
+    ],
+    "size": [
+      870,
+      1076
+    ],
+    "unchanged_layers": [
+      0,
+      3,
+      4
+    ],
+    "unchanged_layers_pixel_check": true
+  }
+]

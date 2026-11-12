@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-24T19:44:52+08:00",
+  "reviewer": "root",
+  "producer": "blender_product_model",
+  "scope": "User head-cylinder correction only; existing whole-model rejection remains",
+  "candidate": {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v007/shower_black_clay_v007.blend",
+    "sha256": "11082ff08e6fc437f886781a2c716774f773546976390f92af8282bfb1e9583f"
+  },
+  "status": "LOCAL_JOIN_REVISION_REQUIRED",
+  "actually_viewed": [
+    "v007/renders/strict_side.jpg",
+    "v007/renders/head_oblique_front.jpg",
+    "v007/renders/head_oblique_back.jpg",
+    "P05 original head-edge photo"
+  ],
+  "findings": [
+    "Distinct cylindrical sidewall now visible; former head-tip depth collapse removed.",
+    "Front-oblique lower head perimeter has sawtooth/overlap strip.",
+    "Back-oblique neck intersection has a horizontal seam and sharp local corners.",
+    "Requested cleanup is localized to head/upper-neck intersection; lower handle must remain unchanged."
+  ],
+  "geometry_evidence_read": "v007/evidence/geometry-check.json reports corresponding cylinder rings and preserved lower vertices; not physical accuracy validation",
+  "acceptance": "Not accepted as complete correction; not customer or user approval"
+}

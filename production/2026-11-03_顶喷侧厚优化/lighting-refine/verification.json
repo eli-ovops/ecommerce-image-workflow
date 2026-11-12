@@ -1,0 +1,314 @@
+{
+  "image_records": [
+    {
+      "version": "版本1_第一张",
+      "name": "387.jpg",
+      "sha256": "8dcbaf47a7a10fbc39ccec4681b86cd397bf76198e1bc4892d19bed2f7c67cd6",
+      "size": [
+        1254,
+        1254
+      ],
+      "format": "JPEG",
+      "unchanged_baseline": false
+    },
+    {
+      "version": "版本1_第一张",
+      "name": "388.jpg",
+      "sha256": "d6bfef0c771bcec826c958fb3ece411caf88f58570a19d83aca77a57568eab48",
+      "size": [
+        1254,
+        1254
+      ],
+      "format": "JPEG",
+      "unchanged_baseline": true
+    },
+    {
+      "version": "版本1_第一张",
+      "name": "389.webp",
+      "sha256": "be0538c48265ddc2e2d0be39ea8daac79479741b16871a2789d396f621e4079b",
+      "size": [
+        1600,
+        1600
+      ],
+      "format": "WEBP",
+      "unchanged_baseline": true
+    },
+    {
+      "version": "版本1_第一张",
+      "name": "390.jpg",
+      "sha256": "9e4e52a9b3a6bf57807b03d7289b29e38cb08ff1ebc128b20d8c158dae7b345f",
+      "size": [
+        1254,
+        1254
+      ],
+      "format": "JPEG",
+      "unchanged_baseline": true
+    },
+    {
+      "version": "版本1_第一张",
+      "name": "391.jpg",
+      "sha256": "cb07a70efb9a1144de1a1084b59714f9c09ae06bb1ec368cf6bccecea9dfe102",
+      "size": [
+        1254,
+        1254
+      ],
+      "format": "JPEG",
+      "unchanged_baseline": true
+    },
+    {
+      "version": "版本1_第一张",
+      "name": "392.jpg",
+      "sha256": "2acda0e1e249bf24560a1b84bc98b93e4b89d71eafe865b0907bd3cc1175701f",
+      "size": [
+        1254,
+        1254
+      ],
+      "format": "JPEG",
+      "unchanged_baseline": true
+    },
+    {
+      "version": "版本1_第一张",
+      "name": "393.jpg",
+      "sha256": "3f7b3cd0d8c46130333e0c67e30c7d847a6cb83d844029c2715c0ce0a4100562",
+      "size": [
+        1254,
+        1254
+      ],
+      "format": "JPEG",
+      "unchanged_baseline": true
+    },
+    {
+      "version": "版本1_第一张",
+      "name": "394.jpg",
+      "sha256": "21c1ea124b8d8fc897fe1a315caaa3bd1e69f5d92561aa7d163bb4340e3cc783",
+      "size": [
+        941,
+        1672
+      ],
+      "format": "JPEG",
+      "unchanged_baseline": true
+    },
+    {
+      "version": "版本1_第一张",
+      "name": "395.jpg",
+      "sha256": "989100e4e8c0a73bca7e654a27075b13810c6f5646d62a41f37b5e5d0690d214",
+      "size": [
+        941,
+        1672
+      ],
+      "format": "JPEG",
+      "unchanged_baseline": true
+    },
+    {
+      "version": "版本1_第一张",
+      "name": "396.jpg",
+      "sha256": "d4710460ba957874549528642057820085a895f9a1913e0634321730e2fffd27",
+      "size": [
+        940,
+        1673
+      ],
+      "format": "JPEG",
+      "unchanged_baseline": false
+    },
+    {
+      "version": "版本1_第一张",
+      "name": "397.jpg",
+      "sha256": "21312d75bd9d683bb5757c2619b9fbdb1d129b513076669b9ddb220476ac5368",
+      "size": [
+        941,
+        1672
+      ],
+      "format": "JPEG",
+      "unchanged_baseline": true
+    },
+    {
+      "version": "版本1_第一张",
+      "name": "398.jpg",
+      "sha256": "b398a38e1caa9b757277a92d9dc1c5a649f692d3bcf109db3c1038dbe5e42438",
+      "size": [
+        941,
+        1672
+      ],
+      "format": "JPEG",
+      "unchanged_baseline": true
+    },
+    {
+      "version": "版本1_第一张",
+      "name": "399.jpg",
+      "sha256": "0712b8d2c6e0f547620e81bfe86505ec76ceb5dfe29806588633dd31feda7ec6",
+      "size": [
+        940,
+        1673
+      ],
+      "format": "JPEG",
+      "unchanged_baseline": false
+    },
+    {
+      "version": "版本2_第二张",
+      "name": "387.jpg",
+      "sha256": "8dcbaf47a7a10fbc39ccec4681b86cd397bf76198e1bc4892d19bed2f7c67cd6",
+      "size": [
+        1254,
+        1254
+      ],
+      "format": "JPEG",
+      "unchanged_baseline": false
+    },
+    {
+      "version": "版本2_第二张",
+      "name": "388.jpg",
+      "sha256": "d6bfef0c771bcec826c958fb3ece411caf88f58570a19d83aca77a57568eab48",
+      "size": [
+        1254,
+        1254
+      ],
+      "format": "JPEG",
+      "unchanged_baseline": true
+    },
+    {
+      "version": "版本2_第二张",
+      "name": "389.png",
+      "sha256": "4673442a092e60d14f68b604a56b6ed6b427f5966ef4fc581a54d320f7cea33f",
+      "size": [
+        1254,
+        1254
+      ],
+      "format": "PNG",
+      "unchanged_baseline": true
+    },
+    {
+      "version": "版本2_第二张",
+      "name": "390.jpg",
+      "sha256": "9e4e52a9b3a6bf57807b03d7289b29e38cb08ff1ebc128b20d8c158dae7b345f",
+      "size": [
+        1254,
+        1254
+      ],
+      "format": "JPEG",
+      "unchanged_baseline": true
+    },
+    {
+      "version": "版本2_第二张",
+      "name": "391.jpg",
+      "sha256": "cb07a70efb9a1144de1a1084b59714f9c09ae06bb1ec368cf6bccecea9dfe102",
+      "size": [
+        1254,
+        1254
+      ],
+      "format": "JPEG",
+      "unchanged_baseline": true
+    },
+    {
+      "version": "版本2_第二张",
+      "name": "392.jpg",
+      "sha256": "2acda0e1e249bf24560a1b84bc98b93e4b89d71eafe865b0907bd3cc1175701f",
+      "size": [
+        1254,
+        1254
+      ],
+      "format": "JPEG",
+      "unchanged_baseline": true
+    },
+    {
+      "version": "版本2_第二张",
+      "name": "393.jpg",
+      "sha256": "3f7b3cd0d8c46130333e0c67e30c7d847a6cb83d844029c2715c0ce0a4100562",
+      "size": [
+        1254,
+        1254
+      ],
+      "format": "JPEG",
+      "unchanged_baseline": true
+    },
+    {
+      "version": "版本2_第二张",
+      "name": "394.jpg",
+      "sha256": "21c1ea124b8d8fc897fe1a315caaa3bd1e69f5d92561aa7d163bb4340e3cc783",
+      "size": [
+        941,
+        1672
+      ],
+      "format": "JPEG",
+      "unchanged_baseline": true
+    },
+    {
+      "version": "版本2_第二张",
+      "name": "395.jpg",
+      "sha256": "989100e4e8c0a73bca7e654a27075b13810c6f5646d62a41f37b5e5d0690d214",
+      "size": [
+        941,
+        1672
+      ],
+      "format": "JPEG",
+      "unchanged_baseline": true
+    },
+    {
+      "version": "版本2_第二张",
+      "name": "396.jpg",
+      "sha256": "d4710460ba957874549528642057820085a895f9a1913e0634321730e2fffd27",
+      "size": [
+        940,
+        1673
+      ],
+      "format": "JPEG",
+      "unchanged_baseline": false
+    },
+    {
+      "version": "版本2_第二张",
+      "name": "397.jpg",
+      "sha256": "21312d75bd9d683bb5757c2619b9fbdb1d129b513076669b9ddb220476ac5368",
+      "size": [
+        941,
+        1672
+      ],
+      "format": "JPEG",
+      "unchanged_baseline": true
+    },
+    {
+      "version": "版本2_第二张",
+      "name": "398.jpg",
+      "sha256": "b398a38e1caa9b757277a92d9dc1c5a649f692d3bcf109db3c1038dbe5e42438",
+      "size": [
+        941,
+        1672
+      ],
+      "format": "JPEG",
+      "unchanged_baseline": true
+    },
+    {
+      "version": "版本2_第二张",
+      "name": "399.jpg",
+      "sha256": "0712b8d2c6e0f547620e81bfe86505ec76ceb5dfe29806588633dd31feda7ec6",
+      "size": [
+        940,
+        1673
+      ],
+      "format": "JPEG",
+      "unchanged_baseline": false
+    }
+  ],
+  "unchanged_file_count": 20,
+  "packages": [
+    {
+      "path": "版本1_第一张.zip",
+      "bytes": 12121148,
+      "count": 13,
+      "sha256": "d9ab9291c06da99b4c16e25279305d22365bd560f888a28533ed3aee5525cac0",
+      "crc_and_all_members_sha256": true
+    },
+    {
+      "path": "版本2_第二张.zip",
+      "bytes": 13835087,
+      "count": 13,
+      "sha256": "21392c4550146eef3f51002f01ea65f9b87b0ebcc6d88c5aef639fb4af3eac58",
+      "crc_and_all_members_sha256": true
+    },
+    {
+      "path": "顶喷光色修订_两套完整审阅图.zip",
+      "bytes": 25957357,
+      "count": 26,
+      "sha256": "b0f92f8d900ec124cbfbac6374204c220b89c1a63990af656f8b4cece3a59b59",
+      "crc_and_all_members_sha256": true
+    }
+  ]
+}

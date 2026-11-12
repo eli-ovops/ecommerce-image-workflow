@@ -1,0 +1,52 @@
+{
+  "text": [
+    {
+      "text": "提拉红钮 辅助除垢",
+      "x": 60,
+      "y": 86,
+      "size": 76,
+      "color": "#efd0a3",
+      "font": "Songti SC"
+    },
+    {
+      "text": "短针辅助清理出水孔",
+      "x": 60,
+      "y": 193,
+      "size": 62,
+      "color": "#efd0a3",
+      "font": "Songti SC"
+    },
+    {
+      "text": "向外提拉 · 操作细节见实拍",
+      "x": 60,
+      "y": 300,
+      "size": 38,
+      "color": "#efd0a3",
+      "font": "Songti SC"
+    },
+    {
+      "text": "短针实拍细节",
+      "x": 809,
+      "y": 1112,
+      "size": 52,
+      "color": "#efd0a3",
+      "font": "Songti SC"
+    }
+  ],
+  "transforms": [
+    {
+      "source": "product376.png",
+      "angle": 66,
+      "xy": [
+        237,
+        300
+      ],
+      "size": [
+        725,
+        840
+      ],
+      "uniform": true
+    }
+  ],
+  "note": "参考392黑金斜置主体、上方金字、右下圆窗。圆窗用382实际短针局部，替换未知剖面；主体为复位实拍，未伪造拉出长针、碎垢或旋转箭头。不能声称完整提拉过程已演示。"
+}

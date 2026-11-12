@@ -1,0 +1,58 @@
+{
+  "version": "silver-20261027-v1",
+  "head_diameter_model_mm": 130,
+  "head_wall_model_mm": 22,
+  "head_center_model_mm": [
+    0,
+    5,
+    210
+  ],
+  "head_up_slope": -0.1,
+  "lower_y_scale": 0.9,
+  "lower_bend_reduction_mm": 6,
+  "upper_rear_excess_scale": 0.55,
+  "white_hole_rows": [
+    4,
+    7,
+    10,
+    11,
+    12,
+    13,
+    10,
+    10,
+    10,
+    13,
+    12,
+    11,
+    10,
+    7,
+    4
+  ],
+  "white_hole_pitch_mm": 8.3,
+  "row_pitch_mm": 7.2,
+  "peripheral_rows": 3,
+  "peripheral_holes_per_ring": 100,
+  "dimensions_status": "Model estimates only, uncalibrated photographs; not engineering measurements",
+  "photo_estimate_ranges_mm": {
+    "diameter": [
+      128,
+      135
+    ],
+    "overall": [
+      265,
+      280
+    ],
+    "wall": [
+      19,
+      24
+    ]
+  },
+  "source_blend": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v010a/shower_black_clay_v010a.blend",
+  "routing": {
+    "rule": "ROUTING-2026-10-27-v7",
+    "requested_model": "gpt-6-astra",
+    "requested_effort": "medium",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN"
+  }
+}

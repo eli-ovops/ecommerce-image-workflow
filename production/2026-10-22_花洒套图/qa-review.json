@@ -1,0 +1,1023 @@
+{
+  "review_date": "2026-10-22",
+  "reviewer": "silver_detail_review",
+  "scope": "本批16张最新版本独立视觉QA已完成，均PASS_WITH_LIMITATIONS；失败历史保留。root最终验收及用户整套验收PENDING。",
+  "rules_read": [
+    "AGENTS.md",
+    "products/主推花洒/商品事实与制图要求.md",
+    "production/2026-10-22_花洒套图/copy.json",
+    "models/M001/README.md"
+  ],
+  "temporary_files": [],
+  "reviews": [
+    {
+      "id": "SIL-P01",
+      "revision": "initial",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_花洒套图/final/SIL-P01.png",
+      "sha256": "598e6aca38da8c3d3947259d6a7a328a6e0d4d9f347cae16303e7c252127368e",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "planned_dimensions": [
+        1536,
+        1536
+      ],
+      "visual_status": "PASS",
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "dimension_status": "ACCEPTED_TARGET_VARIANCE",
+      "method": "view_image实际查看成品、89正面和91侧面原图，人工逐项对照。",
+      "viewed_originals": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184345_91_2.jpg"
+      ],
+      "checks": [
+        {
+          "item": "轮廓、厚度及头柄比例",
+          "status": "PASS",
+          "reason": "近圆头部、收窄颈部和长柄保留；三分之四视角中的侧壁未见明显超出91侧面厚度。不同透视下未进行尺寸测量。"
+        },
+        {
+          "item": "黑面、白孔及外围孔圈",
+          "status": "PASS",
+          "reason": "白色环状孔与外围多排密集黑孔分区保留，孔圈连续环绕并向下颈收拢，未见改为单圈大孔或取消孔圈。白孔错列排列；精确孔数及逐孔位置未确认。"
+        },
+        {
+          "item": "中央红钮及开孔",
+          "status": "PASS",
+          "reason": "红色圆钮、环形凸起和中央深色开孔保留，没有功能图标或夸大红针。"
+        },
+        {
+          "item": "下方银色切档键",
+          "status": "PASS",
+          "reason": "正面靠近手柄处的银色圆角长按键及深色外围保留，位置和整体外观与89相符。"
+        },
+        {
+          "item": "手柄、接口及银色反光",
+          "status": "PASS",
+          "reason": "手柄亮银色反光，底部仅露连接螺纹，没有附带软管或支架。接口准确规格及螺纹细节未核，本项仅核外观连贯与未附加配件。"
+        },
+        {
+          "item": "无字白底及禁用内容",
+          "status": "PASS",
+          "reason": "白色背景和轻微落影，无文字、Logo、证件、专利图、软管、支架或夸大性能内容。"
+        },
+        {
+          "item": "计划尺寸符合性",
+          "status": "ACCEPTED_TARGET_VARIANCE",
+          "reason": "实得1254×1254，内部计划1536×1536；1:1比例符合。root已接受计划差异，用户未指定像素尺寸，不需重生或另增审批。"
+        }
+      ],
+      "limitations": [
+        "未逐孔计数、未测量真实尺寸，不构成像素级复刻证明。",
+        "89/91底部连接着其他部件，无法据此独立核实裸露接口规格、螺纹数量及颜色。",
+        "静态白底图不证明实际除垢、切档或出水效果。"
+      ]
+    },
+    {
+      "id": "SIL-P02",
+      "revision": "initial",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_花洒套图/final/SIL-P02.png",
+      "sha256": "07ff320c3a418cecaa4397b4d2dc6e4a560ff8cc167f607dd68f32d07a224614",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "planned_dimensions": [
+        1536,
+        1536
+      ],
+      "visual_status": "PASS",
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "dimension_status": "ACCEPTED_TARGET_VARIANCE",
+      "method": "实际view_image查看P02成品及89正面、91侧面原图；逐字核对copy.json。",
+      "viewed_originals": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184345_91_2.jpg"
+      ],
+      "checks": [
+        {
+          "item": "轮廓、厚度、比例与银色外观",
+          "status": "PASS",
+          "reason": "近圆头部、收窄颈部、长柄和亮银色反光保留，未见明显设计改样；正面偏侧角度仅有限展示厚度。"
+        },
+        {
+          "item": "黑面、白孔与外围孔圈",
+          "status": "PASS",
+          "reason": "黑色面板、错列白色环状孔和外围多排密集小黑孔明确保留；未见孔圈结构明显改变，未核精确孔数。"
+        },
+        {
+          "item": "红钮与下方切档键",
+          "status": "PASS",
+          "reason": "中央红钮保留环状凸起和中心开孔，下方银色圆角切档键位置与89相符，无新增功能图标。"
+        },
+        {
+          "item": "中文与copy.json一致性",
+          "status": "PASS",
+          "reason": "可读为三档出水／按压除垢；副标题为下方按键切档，中央红钮／辅助清理出水孔。分行后内容与copy.json一致，未见错字或夸大措辞。"
+        },
+        {
+          "item": "可读性与版式",
+          "status": "PASS",
+          "reason": "黑字与浅背景对比充分，标题及副标题清晰，无商品遮字或裁字。"
+        },
+        {
+          "item": "无品牌、证件、附件或无依据卖点",
+          "status": "PASS",
+          "reason": "未见Logo、证件、专利、软管或支架；毛巾和背景容器为场景陈设，无随货配件标示，无量化、材质或健康功效宣传。"
+        },
+        {
+          "item": "尺寸",
+          "status": "ACCEPTED_TARGET_VARIANCE",
+          "reason": "实际1254×1254，内部目标1536×1536；按root尺寸差异规则如实交付，未见尺寸导致可读性不足。"
+        }
+      ],
+      "limitations": [
+        "精确孔数、真实尺寸及裸露接口规格未核，不构成逐孔复刻或规格证明。",
+        "画面未演示按压动作或红针伸缩；文字机制依据用户提供信息，不是功能实测证明。"
+      ]
+    },
+    {
+      "id": "SIL-P03",
+      "revision": "v2_selected_initial_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_花洒套图/final/SIL-P03.png",
+      "sha256": "d5fd0291350e0b489181024558e2d0bc96b964ba971b964031f0a346780d4c60",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "planned_dimensions": [
+        1536,
+        1536
+      ],
+      "visual_status": "PASS",
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "dimension_status": "ACCEPTED_TARGET_VARIANCE",
+      "method": "实际view_image查看选定v2、M001母版、89正面及95出水原图，并对照copy.json；未审淘汰v1，未重审P01/P02。",
+      "viewed_originals": [
+        "/Volumes/EXTERNAL/电商 作图工作流/models/M001/master-v1.png",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184357_95_2.jpg"
+      ],
+      "checks": [
+        {
+          "item": "M001身份外观",
+          "status": "PASS",
+          "reason": "近中分黑发、椭圆脸、眉形、棕榛眼、鼻形及唇形与母版协调，未见明显换脸；成年外观清晰。"
+        },
+        {
+          "item": "商品结构与尺度",
+          "status": "PASS",
+          "reason": "近圆银边头、黑面、白色孔、外围多排黑孔、中央有开孔红钮及下方银键保留；相对手掌和面部未见明显失常尺度，未测真实尺寸或逐孔计数。"
+        },
+        {
+          "item": "握持手部",
+          "status": "PASS",
+          "reason": "拇指及弯曲手指与手柄形成合理遮挡，未见明显多指、断指或手柄穿掌；遮挡处不能逐关节完整核验。"
+        },
+        {
+          "item": "水流与底部出画",
+          "status": "PASS",
+          "reason": "可见水束从面板白孔区域朝身体方向出，呈多束常规喷淋形态，与95实拍类型相容；手柄向底边连续出画，画内未见裸露未连接螺纹出水。底部接头及水源在画外，未声称已核连接。"
+        },
+        {
+          "item": "中文与可读性",
+          "status": "PASS",
+          "reason": "手持花洒 日常淋浴／银色三档手持花洒，与copy.json一致，字形清晰，未见裁字。"
+        },
+        {
+          "item": "附件及事实边界",
+          "status": "PASS",
+          "reason": "无可见软管、支架、品牌、证件或夸大功效文字；裹浴巾人物属于合成场景展示，不作为真人试用或性能证据。"
+        },
+        {
+          "item": "尺寸",
+          "status": "ACCEPTED_TARGET_VARIANCE",
+          "reason": "实际1254×1254，内部目标差异按root规则接受，未见尺寸导致文字不可读。"
+        }
+      ],
+      "limitations": [
+        "底部供水连接在画外，不能证明实际连接或现场供水。",
+        "场景为合成表现，水流类型仅做可见形态核对，不证明准确流量、强度或真实试用。",
+        "孔数、尺寸及遮挡处手指关节未作精确核验。"
+      ]
+    },
+    {
+      "id": "SIL-P04",
+      "revision": "initial",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_花洒套图/final/SIL-P04.png",
+      "sha256": "872f9bbd03d7386d91425795209db699214642aa53aadf381e8b48cd2f42b3df",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "planned_dimensions": [
+        1536,
+        1536
+      ],
+      "visual_status": "PASS",
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "dimension_status": "ACCEPTED_TARGET_VARIANCE",
+      "method": "实际view_image查看P04及项目银色95、96、100出水原图，对照copy.json；仅审新P04。",
+      "viewed_originals": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184357_95_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184358_96_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184403_100_2.jpg"
+      ],
+      "checks": [
+        {
+          "item": "标题副标题及三标签",
+          "status": "PASS",
+          "reason": "三档出水可切换／按下方按键，切换出水档位／常规出水、喷雾出水、混合出水，均与copy.json一致，清晰可读。"
+        },
+        {
+          "item": "三图商品一致性",
+          "status": "PASS",
+          "reason": "均呈同款银色外壳、黑面、错列白孔、外围密集黑孔圈、中央带开孔红钮及下方银色按键，未见主体明显换款。"
+        },
+        {
+          "item": "三水型区分与来源",
+          "status": "PASS",
+          "reason": "上图是独立细水束，中图是离散锥形雾束扩散，下图兼有细水束和雾束；95支持细水束外观，96/100支持分散锥形雾束外观。未用标签声称量化强弱或实测。"
+        },
+        {
+          "item": "出水起点及接口",
+          "status": "PASS",
+          "reason": "水束/雾束从面板正面孔位区域朝前延伸，未见背壳或柄部出水；三格底部接口均在画外，无可见裸露接口同时出水矛盾。"
+        },
+        {
+          "item": "禁用内容与尺寸",
+          "status": "PASS",
+          "reason": "仅三种出水，无喷枪或第4档，无强弱数值、品牌、证件、软管、支架；1254×1254下标题及标签可读。"
+        }
+      ],
+      "limitations": [
+        "照片与三档的精确逐张对应未经用户标定，本次仅核合理水型表达；不构成准确档位流程或性能测证。",
+        "没有逐孔计数，雾束及水流存在遮挡；未核量化流量、压力和喷幅。",
+        "接口在画外，不证明实际水源连接。"
+      ]
+    },
+    {
+      "id": "SIL-P05",
+      "revision": "initial",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_花洒套图/final/SIL-P05.png",
+      "sha256": "d1c9cedb4027343fd52061b15e07ea1d7fb59125ef829ca360fd545169c7ff74",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "planned_dimensions": [
+        1536,
+        1536
+      ],
+      "visual_status": "PASS",
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "dimension_status": "ACCEPTED_TARGET_VARIANCE",
+      "method": "实际view_image查看P05及SIL005/006未按住与按住红钮近照，对照copy.json；仅审P05。",
+      "viewed_originals": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184355_94_2.jpg"
+      ],
+      "checks": [
+        {
+          "item": "按压位置和手指",
+          "status": "PASS",
+          "reason": "拇指覆盖并接触中央红色圆钮，手指及指甲轮廓自然，未将下方银键当作除垢键；未见明显穿插。"
+        },
+        {
+          "item": "红针位置及尺度",
+          "status": "PASS",
+          "reason": "红色仅在部分白色孔的中央呈细点或极短小针端，其余孔仍为深色孔心；没有所有孔等量变红、外伸长针或喷射红色液体，与SIL006可见状态协调。"
+        },
+        {
+          "item": "面板结构及其他按键",
+          "status": "PASS",
+          "reason": "黑面、白色环孔、外围多排小黑孔和细银色边保留；下方银色切档键在左下部分可见，未见改成其他功能结构。"
+        },
+        {
+          "item": "主副标题与标签",
+          "status": "PASS",
+          "reason": "按压红钮 辅助除垢／短小红针从对应出水孔伸出／手动按压／辅助清理水垢，与copy.json一致，字形清晰。"
+        },
+        {
+          "item": "宣传与禁用内容",
+          "status": "PASS",
+          "reason": "没有自动、百分百、彻底等承诺，无除垢前后效果对比、证件、品牌或配件；清洁星形图标配合辅助清理文字，未增加量化性能。"
+        },
+        {
+          "item": "尺寸",
+          "status": "ACCEPTED_TARGET_VARIANCE",
+          "reason": "实际1254×1254，内部目标差异接受；文字与细小红点在本图可辨。"
+        }
+      ],
+      "limitations": [
+        "静态近照只能核按压接触及可见红点/短针端，不能独立证明完整伸缩过程或实际除垢效果。",
+        "未逐孔计数，未测红针伸出长度；下方按键被裁切，仅核可见部分。"
+      ]
+    },
+    {
+      "id": "SIL-P06",
+      "revision": "initial",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_花洒套图/final/SIL-P06.png",
+      "sha256": "21f5a5660c1afeaf04feefe14c1da90904dd3bb9dca24e8252d61bab801b4862",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "planned_dimensions": [
+        1536,
+        1536
+      ],
+      "visual_status": "PASS",
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "dimension_status": "ACCEPTED_TARGET_VARIANCE",
+      "method": "实际view_image查看P06及银色89正面原图，对照copy.json；仅审新P06。",
+      "viewed_originals": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg"
+      ],
+      "checks": [
+        {
+          "item": "切档位置及功能区分",
+          "status": "PASS",
+          "reason": "拇指接触正面下方、靠近手柄的银色按键；中央红钮独立未被触按，未误示为切档按钮。"
+        },
+        {
+          "item": "手部与握持",
+          "status": "PASS",
+          "reason": "拇指及绕握柄身的可见手指自然，指甲与皮肤边界清楚，无明显多指、断指或穿掌；底部手指被画框遮挡。"
+        },
+        {
+          "item": "商品外观",
+          "status": "PASS",
+          "reason": "近圆银色反光外壳、黑色面板、错列白色环孔、外围多排黑孔和中央红钮中心孔保留；下方银键整体位置及圆角长形与89相符。"
+        },
+        {
+          "item": "文案与可读性",
+          "status": "PASS",
+          "reason": "下方按键切档／按键靠近手柄，切换三种出水／常规出水、喷雾出水、混合出水，内容与copy.json一致，清楚可读。"
+        },
+        {
+          "item": "多余功能及禁用内容",
+          "status": "PASS",
+          "reason": "无止水、温控、第四档、量化性能或材质承诺，无品牌、证件、专利或配件。"
+        },
+        {
+          "item": "尺寸",
+          "status": "ACCEPTED_TARGET_VARIANCE",
+          "reason": "实核1254×1254，属于root已接受原生尺寸差异；未见可读性不足。"
+        }
+      ],
+      "limitations": [
+        "静态拇指接触仅表示操作位置，不独立证明按键行程、切档过程或顺序。",
+        "未逐孔计数或测量真实尺寸；底部手指及连接接口在画外，无法完整核验。"
+      ]
+    },
+    {
+      "id": "SIL-P07",
+      "revision": "initial",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_花洒套图/final/SIL-P07.png",
+      "sha256": "bb65c9fe46241807135b84cab19e8baf6608f38c54922ab671fbb1a52b3790f4",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "planned_dimensions": [
+        1536,
+        1536
+      ],
+      "visual_status": "PASS",
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "dimension_status": "ACCEPTED_TARGET_VARIANCE",
+      "method": "实际view_image查看P07及银色89正面、90背面、91/92侧面；仅审新P07。",
+      "viewed_originals": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184344_90_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184345_91_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg"
+      ],
+      "checks": [
+        {
+          "item": "正面关键结构",
+          "status": "PASS",
+          "reason": "近圆头部、黑面、错列白孔、外围多排小黑孔、带中心孔红钮及下方银色圆角键保留，与89同款设计相符。"
+        },
+        {
+          "item": "背面圆片及轮廓",
+          "status": "PASS",
+          "reason": "90中可见背面中央浅灰圆片在生成图中保留，镜面背壳向颈部与长柄连续收窄，未加Logo或结构功能。圆片身份或材质未知，不作功能解释。"
+        },
+        {
+          "item": "侧面头厚与柄曲线",
+          "status": "PASS",
+          "reason": "侧面保留可见头部厚度、略鼓背壳、颈部曲线与长柄，以及正面下方突出银键；与91/92整体轮廓协调，未见明显改为极薄头或不同手柄形制。"
+        },
+        {
+          "item": "文案及展示一致性",
+          "status": "PASS",
+          "reason": "银色外观 多面呈现／正面、背面与侧面细节，内容与指定文案一致；三视角银色外观协调，字形清晰。"
+        },
+        {
+          "item": "禁用内容与尺寸",
+          "status": "PASS",
+          "reason": "无品牌、证件、专利、配件或未知材质/尺寸/性能承诺；实际1254×1254，未见可读性不足。"
+        }
+      ],
+      "limitations": [
+        "未测真实头厚、手柄曲率或尺寸，未逐孔计数；仅核可见设计，不承诺工程正投影或像素级复制。",
+        "原图底部带其他连接部件，裸露螺纹准确规格未核；背面圆片具体用途未知。"
+      ]
+    },
+    {
+      "id": "SIL-P08",
+      "revision": "v1_initial",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_花洒套图/final/SIL-P08.png",
+      "sha256": "24ecc704fbc35f3ca707a862495274cae1db5ef4a56fef50dd3830136294c405",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "planned_dimensions": [
+        1536,
+        1536
+      ],
+      "visual_status": "NEEDS_FIX",
+      "overall_status": "NEEDS_FIX",
+      "dimension_status": "ACCEPTED_TARGET_VARIANCE",
+      "method": "实际view_image查看P08 v1及89正面、91侧面；仅审新P08。",
+      "viewed_originals": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184345_91_2.jpg"
+      ],
+      "checks": [
+        {
+          "item": "白孔局部形状",
+          "status": "NEEDS_FIX",
+          "reason": "约x580–605、y288–310（1254原图左上原点），中央红钮左上方白孔出现两个白色月牙/环边挤在一起的重影与粘连，孔心边缘不完整，明显不同于实拍彼此独立的白色单环孔。不是普通银色表面高光。"
+        },
+        {
+          "item": "整体轮廓及银色外观",
+          "status": "PASS",
+          "reason": "偏侧正面角度、近圆头、可见头厚、收窄颈部和长柄整体保留，银色反光与89/91协调；无须为局部孔缺陷推翻全图构图。"
+        },
+        {
+          "item": "主要面板及按键结构",
+          "status": "PASS",
+          "reason": "黑面、外围多排黑孔圈、中央带中心孔红钮及下方银色圆角键保留；局部白孔缺陷另列需修。"
+        },
+        {
+          "item": "文案和销售范围",
+          "status": "PASS",
+          "reason": "仅银色／单花洒，文字准确可读；画面单品，无软管、支架、品牌、证件或夸大功能。"
+        },
+        {
+          "item": "尺寸",
+          "status": "ACCEPTED_TARGET_VARIANCE",
+          "reason": "实核1254×1254，内部目标差异已接受，不是本次需修原因。"
+        }
+      ],
+      "required_fix": "定向修补红钮左上约x580–605/y288–310白孔重影，恢复与周围一致的独立白色环孔、明确单孔中心及正常间距；保持其他构图、文字、商品结构与反光。修后复核改动区域及有无连带变形，再作为三色版式参照。",
+      "limitations": [
+        "未逐孔计数或测未知尺寸；裸露接口规格未核。"
+      ],
+      "acceptance_owner": "root"
+    },
+    {
+      "id": "BLK-P01",
+      "revision": "initial",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_花洒套图/final/BLK-P01.png",
+      "sha256": "d4e6fd06693acca114c39f8696e7bb9b86bd0ab3dc4ac51807f32f7c5fdb3655",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "planned_dimensions": [
+        1536,
+        1536
+      ],
+      "visual_status": "PASS",
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "dimension_status": "ACCEPTED_TARGET_VARIANCE",
+      "method": "实际view_image查看BLK-P01及黑色101—105全部五张实拍，按manifest路径核对；未重审其他成品。",
+      "viewed_originals": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185739_101_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185739_102_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185740_103_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185803_104_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185803_105_2.jpg"
+      ],
+      "checks": [
+        {
+          "item": "黑色本SKU外观",
+          "status": "PASS",
+          "reason": "深黑色外壳及长柄呈柔和高光，黑色下方圆角键和黑色底部螺纹保留，与本色实拍一致，不是银色镜面外观。"
+        },
+        {
+          "item": "轮廓及面板关键设计",
+          "status": "PASS",
+          "reason": "近圆头部、头厚及颈柄轮廓协调；黑面、白色独立环孔、外围多排黑孔及中央带开孔红钮保留，未见明显白孔粘连。"
+        },
+        {
+          "item": "微弱暗圈",
+          "status": "PASS",
+          "reason": "红钮右侧约x718/y333可见低对比小暗圈；它未改变主要孔圈结构或形成明显新按钮，实际显眼程度低于白孔粘连，不作为本次必修项。若后续局部精修可顺带淡化，不能声称实拍确有此结构。"
+        },
+        {
+          "item": "文字、版式与销售范围",
+          "status": "PASS",
+          "reason": "黑色／单花洒准确可读，单品偏侧展示与SKU版式协调；无软管支架、品牌、证件、专利或无依据功能。"
+        },
+        {
+          "item": "尺寸",
+          "status": "ACCEPTED_TARGET_VARIANCE",
+          "reason": "实核1254×1254，已接受原生尺寸差异。"
+        }
+      ],
+      "limitations": [
+        "未逐孔计数或测精确尺寸/接口规格；暗圈仅作低对比生成细节记录，不认定实物结构。",
+        "本图只展示正面偏侧视角，不能称已在成品中展示全部背面设计。"
+      ]
+    },
+    {
+      "id": "SIL-P08",
+      "revision": "v2_fix_review",
+      "supersedes_revision": "v1_initial",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_花洒套图/final/SIL-P08.png",
+      "sha256": "ec5e882833cfdee2952055da0225c6bd8424c6b5d55e59ed4856c1009a4a0423",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "planned_dimensions": [
+        1536,
+        1536
+      ],
+      "visual_status": "PASS",
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "dimension_status": "ACCEPTED_TARGET_VARIANCE",
+      "method": "实际view_image仅复核v2修补白孔区域、邻近面板与整体连带变化；沿用v1已查看89/91实物依据，不重审其他成品。",
+      "checks": [
+        {
+          "item": "原双瓣/粘连白孔",
+          "status": "PASS",
+          "reason": "原约x580–605/y288–310双白月牙重影消失，当前该处为独立完整白环与单一孔心；邻近白孔未见新粘连。"
+        },
+        {
+          "item": "连带变化",
+          "status": "PASS",
+          "reason": "附近中央红钮中心开孔与黑色面板、外围孔圈未见明显异常；整体构图、银色/单花洒文字、下方银键、柄身和轮廓保持协调，无明显连带变形。"
+        }
+      ],
+      "limitations": [
+        "仅核改动区及连带影响，未逐孔测量或重新做全图实物复刻核验。",
+        "沿用v1精确尺寸及裸露接口规格未核限制。"
+      ]
+    },
+    {
+      "id": "GMT-P01",
+      "revision": "initial",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_花洒套图/final/GMT-P01.png",
+      "sha256": "7dff2c4cffb37655bd0edc2be5b3fe7f31731b76f24465aa300b6845b3738df0",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "planned_dimensions": [
+        1536,
+        1536
+      ],
+      "visual_status": "PASS",
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "dimension_status": "ACCEPTED_TARGET_VARIANCE",
+      "method": "实际view_image查看GMT-P01及GMT001–006六张本色原图；与已审银黑SKU版式作整体协调核对，不重审旧图。",
+      "viewed_originals": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/枪灰色/原图/微信图片_20261022185804_106_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/枪灰色/原图/微信图片_20261022185805_107_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/枪灰色/原图/微信图片_20261022185805_108_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/枪灰色/原图/微信图片_20261022185806_109_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/枪灰色/原图/微信图片_20261022185807_110_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/枪灰色/原图/微信图片_20261022185807_111_2.jpg"
+      ],
+      "checks": [
+        {
+          "item": "本色外观、下键及接口",
+          "status": "PASS",
+          "reason": "灰色细密反光外壳和手柄、黑色下方切档键及黑色底部螺纹与六张本色实拍协调；未误成银色镜面或全黑外观。"
+        },
+        {
+          "item": "轮廓与面板关键设计",
+          "status": "PASS",
+          "reason": "近圆头部、可见头厚、颈柄曲线、黑面、白环孔、外围多排黑孔和带中心孔红钮保留，无明显白孔粘连或主体换款。"
+        },
+        {
+          "item": "低对比暗圈",
+          "status": "PASS",
+          "reason": "右下约x825/y480可见小暗圈，低对比且未形成明显新按钮或改变主孔圈结构，沿用BLK检查标准不列必修；仅记生成细节，不认定为实物结构。"
+        },
+        {
+          "item": "SKU版式及文字",
+          "status": "PASS",
+          "reason": "枪灰色／单花洒准确清晰；左字右单品、浅底、偏侧正面角度及整体头柄比例与银黑SKU展示协调，不要求三色像素级一致。"
+        },
+        {
+          "item": "禁用内容及尺寸",
+          "status": "PASS",
+          "reason": "无软管、支架、品牌、证件、专利或无依据功能/材质文字；实核1254×1254，原生尺寸差异已接受。"
+        }
+      ],
+      "limitations": [
+        "未测标准色值、精确尺寸及逐孔数量；拍摄/生成光线不同，不代表颜色计量证据。",
+        "暗圈非已核实实物结构，裸露接口准确规格未测；本图仅核正面偏侧展示。"
+      ]
+    },
+    {
+      "id": "SIL-D01",
+      "revision": "v2_initial_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_花洒套图/final/SIL-D01.png",
+      "sha256": "9a629542319d633c77eedc417016092033fc5ccd93a5fa20ec6d5760d4758732",
+      "actual_dimensions": [
+        1086,
+        1448
+      ],
+      "planned_dimensions": [
+        1536,
+        2048
+      ],
+      "visual_status": "NEEDS_FIX",
+      "overall_status": "NEEDS_FIX",
+      "dimension_status": "ACCEPTED_TARGET_VARIANCE",
+      "method": "实际view_image查看D01 v2、M001母版及银色89正面，对照copy.json；仅审新D01。",
+      "viewed_originals": [
+        "/Volumes/EXTERNAL/电商 作图工作流/models/M001/master-v1.png",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg"
+      ],
+      "checks": [
+        {
+          "item": "单花洒销售范围",
+          "status": "NEEDS_FIX",
+          "reason": "手柄底部约x180–245/y1090–1165保留一段带圆点的额外银色连接/转接段。虽89实拍中有类似连接部件，尚未确认属于随货单花洒；与当前裸螺纹单品范围不一致，须移除或合理遮挡。"
+        },
+        {
+          "item": "M001及服装",
+          "status": "PASS",
+          "reason": "黑发、眉眼鼻唇和脸型与母版协调，成年外观明确；完整浴袍干态展示，无身份明显漂移。"
+        },
+        {
+          "item": "握持与尺度",
+          "status": "PASS",
+          "reason": "手指环握柄身自然，未见明显多指、穿掌；头部相对脸部/手掌未见失常比例，未知真实尺寸未测。"
+        },
+        {
+          "item": "商品主体",
+          "status": "PASS",
+          "reason": "黑面白孔、外围小孔圈、红色中央按钮和下方银键保留，亮银色外观协调；底部额外转接段另列需修。"
+        },
+        {
+          "item": "文案及禁用项",
+          "status": "PASS",
+          "reason": "日常淋浴 三档可选／常规、喷雾、混合三种出水与copy.json一致，文字清晰；无品牌、证件、专利或夸大效果承诺，无软管/支架。"
+        },
+        {
+          "item": "尺寸",
+          "status": "ACCEPTED_TARGET_VARIANCE",
+          "reason": "实核1086×1448，3:4原生尺寸接受，不是需修原因。"
+        }
+      ],
+      "required_fix": "一次定向移除底部带圆点的额外连接/转接段，恢复单花洒裸螺纹，或用自然手部遮挡底部接口；保持脸、手部主体、商品头面板、标题及浴袍构图。无需修改其他已通过图片。",
+      "limitations": [
+        "当前为原创合成场景，不构成真人试用或性能证据。",
+        "未测真实尺寸、孔数或接口规格。"
+      ]
+    },
+    {
+      "id": "SIL-D02",
+      "revision": "v1_initial",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_花洒套图/final/SIL-D02.png",
+      "sha256": "5bb844a6c793c3bee4eb83b3a8e405901c7566c9f72f624fe055fdfa1a4f0d3d",
+      "actual_dimensions": [
+        1086,
+        1448
+      ],
+      "planned_dimensions": [
+        1536,
+        2048
+      ],
+      "visual_status": "PASS",
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "dimension_status": "ACCEPTED_TARGET_VARIANCE",
+      "method": "实际view_image查看D02及银色89正面、95手持出水实拍，逐字核copy.json。仅审D02，不重审旧图或D01。",
+      "viewed_originals": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184357_95_2.jpg"
+      ],
+      "checks": [
+        {
+          "item": "商品轮廓及孔圈",
+          "status": "PASS",
+          "reason": "近圆银色外壳、黑面、独立白环孔及外围多排密集小黑孔保留，颈柄连接连贯，未见明显白孔粘连或换款。"
+        },
+        {
+          "item": "切档键及中央红钮",
+          "status": "PASS",
+          "reason": "拇指接触下方靠近手柄银色键；中央红钮及其中心孔独立清楚且未被按，未混淆切档与除垢。"
+        },
+        {
+          "item": "手指和握持",
+          "status": "PASS",
+          "reason": "拇指与其余可见弯曲手指自然握住柄身，无明显多指、断指或穿掌；手柄底端在画外，无额外转接段出现。"
+        },
+        {
+          "item": "中文文案",
+          "status": "PASS",
+          "reason": "三种水型 一处切换／下方按键切换出水档位，及常规出水、喷雾出水、混合出水，与copy.json一致，清晰无裁字。"
+        },
+        {
+          "item": "事实边界及禁用项",
+          "status": "PASS",
+          "reason": "干态操作位置展示，无虚构水流、第四档、止水或温控功能；无软管支架、品牌、证件、专利和夸大效果。"
+        },
+        {
+          "item": "尺寸",
+          "status": "ACCEPTED_TARGET_VARIANCE",
+          "reason": "实核1086×1448，3:4原生差异已接受，可读性充分。"
+        }
+      ],
+      "limitations": [
+        "静态接触不证明真实按键行程、切档顺序或操作测试。",
+        "未逐孔计数或测真实尺寸，画外接口和遮挡部位不作完整核验。"
+      ]
+    },
+    {
+      "id": "SIL-D01",
+      "revision": "v3_fix_review",
+      "supersedes_revision": "v2_initial_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_花洒套图/final/SIL-D01.png",
+      "sha256": "75c3c4b7e7aaf6888d1cd28a28d9872276ab21609936a363664d9a037783400d",
+      "actual_dimensions": [
+        1086,
+        1448
+      ],
+      "planned_dimensions": [
+        1536,
+        2048
+      ],
+      "visual_status": "PASS",
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "dimension_status": "ACCEPTED_TARGET_VARIANCE",
+      "method": "实际view_image定向复核v3底部接头修补及邻近手腕/手柄、明显连带变化，沿用v2已审人物、实拍和文案依据；未重审其他图。",
+      "checks": [
+        {
+          "item": "未确认额外接头移除",
+          "status": "PASS",
+          "reason": "原带圆点的长转接段已移除，手柄底部恢复短裸螺纹，未出现其他附件。"
+        },
+        {
+          "item": "相邻与连带影响",
+          "status": "PASS",
+          "reason": "螺纹与柄底相接连贯，附近手腕/手指无明显新缺陷；人物身份外观、浴袍、标题副标题和头面板主体未见明显变化。"
+        }
+      ],
+      "limitations": [
+        "只核修补及连带影响，不作全图重新验收；原v2静态合成场景、未知真实尺寸/孔数/接口规格限制持续。"
+      ]
+    },
+    {
+      "id": "SIL-D03",
+      "revision": "v1_initial",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_花洒套图/final/SIL-D03.png",
+      "sha256": "4e82e260f188cad96cf1078f8c0946d83a5034045459d8bba54bceced2147eef",
+      "actual_dimensions": [
+        1086,
+        1448
+      ],
+      "planned_dimensions": [
+        1536,
+        2048
+      ],
+      "visual_status": "PASS",
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "dimension_status": "ACCEPTED_TARGET_VARIANCE",
+      "method": "实际view_image查看D03及95/96/100真实水流原图，逐字对照copy.json；仅审D03。",
+      "viewed_originals": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184357_95_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184358_96_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184403_100_2.jpg"
+      ],
+      "checks": [
+        {
+          "item": "三水型区分",
+          "status": "PASS",
+          "reason": "上图为独立细水束，中图为分散锥形雾束，下图兼有细水束与雾束，三者清楚区分；95可支持细水束，96/100可支持锥形雾束外观，不将其当作用户逐张标定。"
+        },
+        {
+          "item": "水流起点及接口",
+          "status": "PASS",
+          "reason": "水束与雾束均自正面孔位区域朝前延伸，未见背壳/手柄出水；底部接口出画，无裸接口同时出水矛盾。"
+        },
+        {
+          "item": "商品一致性",
+          "status": "PASS",
+          "reason": "三图银色头壳、黑面白环孔、外围孔圈、中央红钮及下方银键整体协调，未见明显换款或按钮用途混淆。"
+        },
+        {
+          "item": "中文与禁用内容",
+          "status": "PASS",
+          "reason": "看清三种出水／常规水流、喷雾，以及两者结合及三个标签与copy一致，清晰可读；无第四档、喷枪、品牌证件附件、量化强弱或性能承诺。"
+        },
+        {
+          "item": "尺寸",
+          "status": "ACCEPTED_TARGET_VARIANCE",
+          "reason": "实核1086×1448、3:4，原生尺寸接受。"
+        }
+      ],
+      "limitations": [
+        "真实水流照片与各档准确逐张对应未由用户标定，仅核水型表达合理，不构成压力、流量、覆盖范围或性能测证。",
+        "孔位被水流部分遮挡，未逐孔计数；接口画外不证明实际水源连接。"
+      ]
+    },
+    {
+      "id": "SIL-D04",
+      "revision": "v1_initial",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_花洒套图/final/SIL-D04.png",
+      "sha256": "00adaf37d786cb590057e187f93b19d635d86d7369439c4136a8bea5fa15f28b",
+      "actual_dimensions": [
+        1086,
+        1448
+      ],
+      "planned_dimensions": [
+        1536,
+        2048
+      ],
+      "visual_status": "PASS",
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "dimension_status": "ACCEPTED_TARGET_VARIANCE",
+      "method": "实际view_image查看D04及银色93/94近照，逐字核copy.json；仅审新增D04。",
+      "viewed_originals": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184355_94_2.jpg"
+      ],
+      "checks": [
+        {
+          "item": "按压位置与手指",
+          "status": "PASS",
+          "reason": "拇指覆盖并按中央红钮，指甲与手指形状自然，没有按到下方切档键或明显穿插。"
+        },
+        {
+          "item": "短红针与孔位",
+          "status": "PASS",
+          "reason": "红点/极短针端位于部分白孔中心，仍保留多个深色或不明显红点孔；无长针、全孔等量突出或红液喷射。表现与94可见红点状态协调。"
+        },
+        {
+          "item": "标签指示",
+          "status": "PASS",
+          "reason": "中央红色按钮指示线落在被拇指覆盖的红钮位置；短小塑料针指向带红点的白孔附近，可辨对象，未指向外围黑孔或下键。指示端红色圆点属于标注符号，不当作放大的真实针。"
+        },
+        {
+          "item": "结构与文案",
+          "status": "PASS",
+          "reason": "黑面、白环孔、外围多排黑孔及银边保留；红钮按下 红针伸出／手动按压，辅助清理出水孔内水垢及两标签与copy一致，清晰可读。"
+        },
+        {
+          "item": "事实边界及尺寸",
+          "status": "PASS",
+          "reason": "无自动、彻底、百分百等承诺，无除垢前后效果对比、品牌、证件、专利或配件；实核1086×1448，原生3:4接受。"
+        }
+      ],
+      "limitations": [
+        "静态照片和成品只支持按压接触及红点/短针端可见状态，不能独立证明完整伸缩、清洁效果或塑料材质实测；机制与塑料描述依据用户信息。",
+        "未测红针长度及逐孔数量，手指遮挡中央按钮部分结构。"
+      ]
+    },
+    {
+      "id": "SIL-D05",
+      "revision": "v1_initial",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_花洒套图/final/SIL-D05.png",
+      "sha256": "9b4a8b673c7264560a4b7a750fea37955036a4bee64b5fdc5caf7e3760bb17eb",
+      "actual_dimensions": [
+        1086,
+        1448
+      ],
+      "planned_dimensions": [
+        1536,
+        2048
+      ],
+      "visual_status": "PASS",
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "dimension_status": "ACCEPTED_TARGET_VARIANCE",
+      "method": "实际view_image查看D05及89正面、98手持实拍，逐字核copy.json；仅审新增D05。",
+      "viewed_originals": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184400_98_2.jpg"
+      ],
+      "checks": [
+        {
+          "item": "按钮位置解释",
+          "status": "PASS",
+          "reason": "下方切档指示落在靠近柄部的银键，中央除垢指向中央红钮；拇指只接触下方银键，两个功能没有混淆。"
+        },
+        {
+          "item": "商品结构与手部",
+          "status": "PASS",
+          "reason": "黑面、白环孔、外围多排黑孔、银边与红钮中心孔保留；可见拇指及握持手指未见明显多指或穿插，底柄自然出画，无额外转接配件。"
+        },
+        {
+          "item": "中文及可读性",
+          "status": "PASS",
+          "reason": "切档看下方按键／按动靠近手柄的按键，切换出水及下方切档、中央除垢与copy一致；指示线不妨碍按钮辨认，文字清晰。"
+        },
+        {
+          "item": "事实边界与尺寸",
+          "status": "PASS",
+          "reason": "干态操作位置展示，无新增出水档位、止水/温控、量化性能等功能；无品牌、证件、专利或附件。实核1086×1448，3:4原生差异接受。"
+        }
+      ],
+      "limitations": [
+        "静态操作位置图不证明按键行程、切档顺序或实际测试效果。",
+        "未测精确尺寸及孔数，画外接口和手部遮挡细节不作完整核验。"
+      ]
+    },
+    {
+      "id": "SIL-D06",
+      "revision": "v2_selected_initial_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_花洒套图/final/SIL-D06.png",
+      "sha256": "5567693b56bf15d5132b670276acfa77fb7e0feff775c8f35ca6b69f63a04b05",
+      "actual_dimensions": [
+        1086,
+        1448
+      ],
+      "planned_dimensions": [
+        1536,
+        2048
+      ],
+      "visual_status": "PASS",
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "dimension_status": "ACCEPTED_TARGET_VARIANCE",
+      "method": "实际view_image查看选定D06 v2及银89/黑102/灰106各本色正面实拍，核copy.json；未审淘汰v1，未重审其他15图。",
+      "viewed_originals": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185739_102_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/枪灰色/原图/微信图片_20261022185804_106_2.jpg"
+      ],
+      "checks": [
+        {
+          "item": "三色对应与按键接口",
+          "status": "PASS",
+          "reason": "左亮银色配银色下键与银色裸螺纹，中深黑配黑键黑螺纹，右灰色配黑键黑螺纹；与各本色来源协调，文字颜色标签未互换。灰色反光较实拍更平滑，但仍区别银色和黑色。"
+        },
+        {
+          "item": "面板和主体还原",
+          "status": "PASS",
+          "reason": "三面板可见白孔均为独立环状，未见明显双瓣重影或粘连；黑面、外围多排黑孔、带中心孔红钮与下键轮廓保留，未见局部修补引起主体明显变形。"
+        },
+        {
+          "item": "版式与文案",
+          "status": "PASS",
+          "reason": "三色外观 按需选款／单花洒及银色、黑色、枪灰色与copy一致，三单品比例和视角协调，文字清楚。"
+        },
+        {
+          "item": "单品范围及禁用项",
+          "status": "PASS",
+          "reason": "仅三色单花洒，无额外接头、软管、支架、品牌、证件、专利或未知尺寸/材质/性能承诺。"
+        },
+        {
+          "item": "尺寸",
+          "status": "ACCEPTED_TARGET_VARIANCE",
+          "reason": "实核1086×1448，原生3:4差异接受。"
+        }
+      ],
+      "limitations": [
+        "未作精确色值、孔数、尺寸或接口规格测量；三色光泽为商业生成表达，不构成材料/工艺证据。",
+        "v1未进入本次独立审查；其失败原因依据Owner记录，不冒充本人已验。"
+      ]
+    }
+  ],
+  "latest_status_by_id": {
+    "SIL-P01": "PASS_WITH_LIMITATIONS",
+    "SIL-P02": "PASS_WITH_LIMITATIONS",
+    "SIL-P03": "PASS_WITH_LIMITATIONS",
+    "SIL-P04": "PASS_WITH_LIMITATIONS",
+    "SIL-P05": "PASS_WITH_LIMITATIONS",
+    "SIL-P06": "PASS_WITH_LIMITATIONS",
+    "SIL-P07": "PASS_WITH_LIMITATIONS",
+    "SIL-P08": "PASS_WITH_LIMITATIONS",
+    "BLK-P01": "PASS_WITH_LIMITATIONS",
+    "GMT-P01": "PASS_WITH_LIMITATIONS",
+    "SIL-D01": "PASS_WITH_LIMITATIONS",
+    "SIL-D02": "PASS_WITH_LIMITATIONS",
+    "SIL-D03": "PASS_WITH_LIMITATIONS",
+    "SIL-D04": "PASS_WITH_LIMITATIONS",
+    "SIL-D05": "PASS_WITH_LIMITATIONS",
+    "SIL-D06": "PASS_WITH_LIMITATIONS"
+  },
+  "closeout": {
+    "reviewed_latest_count": 16,
+    "independent_visual_qa": "COMPLETE_WITH_LIMITATIONS",
+    "root_final_acceptance": "PENDING",
+    "user_set_acceptance": "PENDING",
+    "historical_failed_reviews_preserved": true,
+    "actual_dimension_counts": {
+      "1254x1254": 10,
+      "1086x1448": 6
+    },
+    "temporary_files": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "D04": {
+    "source_base_sha256": "e69f9dd6b66bd1b99a2ed29d95f963a0e4df6d4cddd45061e568a2023c3a9db6",
+    "output_sha256": "9c9a6f3fb314816b9f7f8f3ea75881aa84d19df14c03f7ef6136780d8e25a6a8",
+    "changed_pixels": 74569,
+    "outside_face_neck_mask_changed_pixels": 0,
+    "method": "Complete face rendered freshly from texture-neutral M001 identity derivative; affine alignment and broad illumination matching only, no smoothing of the new face. Neck skin supplied from fresh generated source. No original failed face surface or original eyes/lips reused inside face mask; products/water untouched."
+  },
+  "D11": {
+    "source_base_sha256": "4f2e8e585a89fd833eaaf0906cb26ada8dda20d8146d11431ba2649417346008",
+    "output_sha256": "39a5e8d6f231b6e7553645a35ff66c926be73aeddf26eb28073c2c036e68594e",
+    "changed_pixels": 115774,
+    "outside_face_neck_mask_changed_pixels": 0,
+    "method": "Complete face rendered freshly from texture-neutral M001 identity derivative; affine alignment and broad illumination matching only, no smoothing of the new face. Neck skin supplied from fresh generated source. No original failed face surface or original eyes/lips reused inside face mask; products/water untouched."
+  }
+}

@@ -1,0 +1,1293 @@
+{
+  "01 Rebuilt continuous silver exterior and seat": {
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "bounds": [
+      [
+        -0.06499990075826645,
+        -0.002486001467332244,
+        0.010000000707805157
+      ],
+      [
+        0.06499990075826645,
+        0.0375153049826622,
+        0.27686652541160583
+      ]
+    ],
+    "materials": [
+      {
+        "name": "Studio silver - optical approximation",
+        "nodes": [
+          {
+            "name": "Principled BSDF",
+            "type": "BSDF_PRINCIPLED",
+            "values": {
+              "Base Color": [
+                0.7200000286102295,
+                0.7400000095367432,
+                0.7599999904632568,
+                1.0
+              ],
+              "Metallic": 1.0,
+              "Roughness": 0.16500000655651093,
+              "IOR": 1.5,
+              "Alpha": 1.0,
+              "Normal": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Weight": 0.0,
+              "Diffuse Roughness": 0.0,
+              "Subsurface Weight": 0.0,
+              "Subsurface Radius": [
+                1.0,
+                0.20000000298023224,
+                0.10000000149011612
+              ],
+              "Subsurface Scale": 0.004999999888241291,
+              "Subsurface IOR": 1.399999976158142,
+              "Subsurface Anisotropy": 0.0,
+              "Specular IOR Level": 0.5,
+              "Specular Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Anisotropic": 0.0,
+              "Anisotropic Rotation": 0.0,
+              "Tangent": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Transmission Weight": 0.0,
+              "Coat Weight": 0.0,
+              "Coat Roughness": 0.029999999329447746,
+              "Coat IOR": 1.5,
+              "Coat Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Coat Normal": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Sheen Weight": 0.0,
+              "Sheen Roughness": 0.5,
+              "Sheen Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Emission Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Emission Strength": 0.0,
+              "Thin Film Thickness": 0.0,
+              "Thin Film IOR": 1.3300000429153442
+            }
+          },
+          {
+            "name": "\u6750\u8d28\u8f93\u51fa",
+            "type": "OUTPUT_MATERIAL",
+            "values": {
+              "Displacement": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Thickness": 0.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "02 Unified perforated panel": {
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "bounds": [
+      [
+        -0.0624999925494194,
+        -0.001218982506543398,
+        0.11035875231027603
+      ],
+      [
+        0.0624999925494194,
+        0.011945070698857307,
+        0.27229928970336914
+      ]
+    ],
+    "materials": [
+      {
+        "name": "Fine matte black",
+        "nodes": [
+          {
+            "name": "Principled BSDF",
+            "type": "BSDF_PRINCIPLED",
+            "values": {
+              "Base Color": [
+                0.0035000001080334187,
+                0.0044999998062849045,
+                0.006000000052154064,
+                1.0
+              ],
+              "Metallic": 0.0,
+              "Roughness": 0.550000011920929,
+              "IOR": 1.5,
+              "Alpha": 1.0,
+              "Normal": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Weight": 0.0,
+              "Diffuse Roughness": 0.0,
+              "Subsurface Weight": 0.0,
+              "Subsurface Radius": [
+                1.0,
+                0.20000000298023224,
+                0.10000000149011612
+              ],
+              "Subsurface Scale": 0.004999999888241291,
+              "Subsurface IOR": 1.399999976158142,
+              "Subsurface Anisotropy": 0.0,
+              "Specular IOR Level": 0.2800000011920929,
+              "Specular Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Anisotropic": 0.0,
+              "Anisotropic Rotation": 0.0,
+              "Tangent": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Transmission Weight": 0.0,
+              "Coat Weight": 0.0,
+              "Coat Roughness": 0.029999999329447746,
+              "Coat IOR": 1.5,
+              "Coat Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Coat Normal": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Sheen Weight": 0.0,
+              "Sheen Roughness": 0.5,
+              "Sheen Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Emission Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Emission Strength": 0.0,
+              "Thin Film Thickness": 0.0,
+              "Thin Film IOR": 1.3300000429153442
+            }
+          },
+          {
+            "name": "\u6750\u8d28\u8f93\u51fa",
+            "type": "OUTPUT_MATERIAL",
+            "values": {
+              "Displacement": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Thickness": 0.0
+            }
+          },
+          {
+            "name": "\u566a\u6ce2\u7eb9\u7406",
+            "type": "TEX_NOISE",
+            "values": {
+              "Vector": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "W": 0.0,
+              "Scale": 1800.0,
+              "Detail": 2.0,
+              "Roughness": 0.6000000238418579,
+              "Lacunarity": 2.0,
+              "Offset": 0.0,
+              "Gain": 1.0,
+              "Distortion": 0.0
+            }
+          },
+          {
+            "name": "\u51f9\u51f8",
+            "type": "BUMP",
+            "values": {
+              "Strength": 0.4000000059604645,
+              "Distance": 9.999999747378752e-05,
+              "Filter Width": 0.10000000149011612,
+              "Height": 1.0,
+              "Normal": [
+                0.0,
+                0.0,
+                0.0
+              ]
+            }
+          },
+          {
+            "name": "\u7eb9\u7406\u5750\u6807",
+            "type": "TEX_COORD",
+            "values": {}
+          },
+          {
+            "name": "\u6620\u5c04\u8303\u56f4",
+            "type": "MAP_RANGE",
+            "values": {
+              "Value": 1.0,
+              "From Min": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "From Max": [
+                1.0,
+                1.0,
+                1.0
+              ],
+              "To Min": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "To Max": [
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Steps": [
+                4.0,
+                4.0,
+                4.0
+              ],
+              "Vector": [
+                0.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Dark cavities",
+        "nodes": [
+          {
+            "name": "Principled BSDF",
+            "type": "BSDF_PRINCIPLED",
+            "values": {
+              "Base Color": [
+                0.0010000000474974513,
+                0.0010000000474974513,
+                0.0010000000474974513,
+                1.0
+              ],
+              "Metallic": 0.0,
+              "Roughness": 0.6499999761581421,
+              "IOR": 1.5,
+              "Alpha": 1.0,
+              "Normal": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Weight": 0.0,
+              "Diffuse Roughness": 0.0,
+              "Subsurface Weight": 0.0,
+              "Subsurface Radius": [
+                1.0,
+                0.20000000298023224,
+                0.10000000149011612
+              ],
+              "Subsurface Scale": 0.004999999888241291,
+              "Subsurface IOR": 1.399999976158142,
+              "Subsurface Anisotropy": 0.0,
+              "Specular IOR Level": 0.5,
+              "Specular Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Anisotropic": 0.0,
+              "Anisotropic Rotation": 0.0,
+              "Tangent": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Transmission Weight": 0.0,
+              "Coat Weight": 0.0,
+              "Coat Roughness": 0.029999999329447746,
+              "Coat IOR": 1.5,
+              "Coat Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Coat Normal": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Sheen Weight": 0.0,
+              "Sheen Roughness": 0.5,
+              "Sheen Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Emission Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Emission Strength": 0.0,
+              "Thin Film Thickness": 0.0,
+              "Thin Film IOR": 1.3300000429153442
+            }
+          },
+          {
+            "name": "\u6750\u8d28\u8f93\u51fa",
+            "type": "OUTPUT_MATERIAL",
+            "values": {
+              "Displacement": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Thickness": 0.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "10 Shared-surface black cavity floor": {
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "bounds": [
+      [
+        -0.061900004744529724,
+        0.0013283127918839455,
+        0.1484295278787613
+      ],
+      [
+        0.061900004744529724,
+        0.013592141680419445,
+        0.27186644077301025
+      ]
+    ],
+    "materials": [
+      {
+        "name": "Dark cavities",
+        "nodes": [
+          {
+            "name": "Principled BSDF",
+            "type": "BSDF_PRINCIPLED",
+            "values": {
+              "Base Color": [
+                0.0010000000474974513,
+                0.0010000000474974513,
+                0.0010000000474974513,
+                1.0
+              ],
+              "Metallic": 0.0,
+              "Roughness": 0.6499999761581421,
+              "IOR": 1.5,
+              "Alpha": 1.0,
+              "Normal": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Weight": 0.0,
+              "Diffuse Roughness": 0.0,
+              "Subsurface Weight": 0.0,
+              "Subsurface Radius": [
+                1.0,
+                0.20000000298023224,
+                0.10000000149011612
+              ],
+              "Subsurface Scale": 0.004999999888241291,
+              "Subsurface IOR": 1.399999976158142,
+              "Subsurface Anisotropy": 0.0,
+              "Specular IOR Level": 0.5,
+              "Specular Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Anisotropic": 0.0,
+              "Anisotropic Rotation": 0.0,
+              "Tangent": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Transmission Weight": 0.0,
+              "Coat Weight": 0.0,
+              "Coat Roughness": 0.029999999329447746,
+              "Coat IOR": 1.5,
+              "Coat Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Coat Normal": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Sheen Weight": 0.0,
+              "Sheen Roughness": 0.5,
+              "Sheen Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Emission Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Emission Strength": 0.0,
+              "Thin Film Thickness": 0.0,
+              "Thin Film IOR": 1.3300000429153442
+            }
+          },
+          {
+            "name": "\u6750\u8d28\u8f93\u51fa",
+            "type": "OUTPUT_MATERIAL",
+            "values": {
+              "Displacement": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Thickness": 0.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "03 Recessed white rings - 144 preserved coordinates": {
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "bounds": [
+      [
+        -0.05145000293850899,
+        0.0001740696025080979,
+        0.1582750827074051
+      ],
+      [
+        0.05145000293850899,
+        0.011661376804113388,
+        0.2618563771247864
+      ]
+    ],
+    "materials": [
+      {
+        "name": "Warm white polymer",
+        "nodes": [
+          {
+            "name": "Principled BSDF",
+            "type": "BSDF_PRINCIPLED",
+            "values": {
+              "Base Color": [
+                0.7799999713897705,
+                0.7699999809265137,
+                0.699999988079071,
+                1.0
+              ],
+              "Metallic": 0.0,
+              "Roughness": 0.3199999928474426,
+              "IOR": 1.5,
+              "Alpha": 1.0,
+              "Normal": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Weight": 0.0,
+              "Diffuse Roughness": 0.0,
+              "Subsurface Weight": 0.0,
+              "Subsurface Radius": [
+                1.0,
+                0.20000000298023224,
+                0.10000000149011612
+              ],
+              "Subsurface Scale": 0.004999999888241291,
+              "Subsurface IOR": 1.399999976158142,
+              "Subsurface Anisotropy": 0.0,
+              "Specular IOR Level": 0.5,
+              "Specular Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Anisotropic": 0.0,
+              "Anisotropic Rotation": 0.0,
+              "Tangent": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Transmission Weight": 0.0,
+              "Coat Weight": 0.0,
+              "Coat Roughness": 0.029999999329447746,
+              "Coat IOR": 1.5,
+              "Coat Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Coat Normal": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Sheen Weight": 0.0,
+              "Sheen Roughness": 0.5,
+              "Sheen Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Emission Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Emission Strength": 0.0,
+              "Thin Film Thickness": 0.0,
+              "Thin Film IOR": 1.3300000429153442
+            }
+          },
+          {
+            "name": "\u6750\u8d28\u8f93\u51fa",
+            "type": "OUTPUT_MATERIAL",
+            "values": {
+              "Displacement": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Thickness": 0.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "04 Black aperture well walls": {
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "bounds": [
+      [
+        -0.06162000074982643,
+        -0.0011314192088320851,
+        0.1486828774213791
+      ],
+      [
+        0.06162000074982643,
+        0.011958073824644089,
+        0.27131420373916626
+      ]
+    ],
+    "materials": [
+      {
+        "name": "Fine matte black",
+        "nodes": [
+          {
+            "name": "Principled BSDF",
+            "type": "BSDF_PRINCIPLED",
+            "values": {
+              "Base Color": [
+                0.0035000001080334187,
+                0.0044999998062849045,
+                0.006000000052154064,
+                1.0
+              ],
+              "Metallic": 0.0,
+              "Roughness": 0.550000011920929,
+              "IOR": 1.5,
+              "Alpha": 1.0,
+              "Normal": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Weight": 0.0,
+              "Diffuse Roughness": 0.0,
+              "Subsurface Weight": 0.0,
+              "Subsurface Radius": [
+                1.0,
+                0.20000000298023224,
+                0.10000000149011612
+              ],
+              "Subsurface Scale": 0.004999999888241291,
+              "Subsurface IOR": 1.399999976158142,
+              "Subsurface Anisotropy": 0.0,
+              "Specular IOR Level": 0.2800000011920929,
+              "Specular Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Anisotropic": 0.0,
+              "Anisotropic Rotation": 0.0,
+              "Tangent": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Transmission Weight": 0.0,
+              "Coat Weight": 0.0,
+              "Coat Roughness": 0.029999999329447746,
+              "Coat IOR": 1.5,
+              "Coat Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Coat Normal": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Sheen Weight": 0.0,
+              "Sheen Roughness": 0.5,
+              "Sheen Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Emission Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Emission Strength": 0.0,
+              "Thin Film Thickness": 0.0,
+              "Thin Film IOR": 1.3300000429153442
+            }
+          },
+          {
+            "name": "\u6750\u8d28\u8f93\u51fa",
+            "type": "OUTPUT_MATERIAL",
+            "values": {
+              "Displacement": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Thickness": 0.0
+            }
+          },
+          {
+            "name": "\u566a\u6ce2\u7eb9\u7406",
+            "type": "TEX_NOISE",
+            "values": {
+              "Vector": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "W": 0.0,
+              "Scale": 1800.0,
+              "Detail": 2.0,
+              "Roughness": 0.6000000238418579,
+              "Lacunarity": 2.0,
+              "Offset": 0.0,
+              "Gain": 1.0,
+              "Distortion": 0.0
+            }
+          },
+          {
+            "name": "\u51f9\u51f8",
+            "type": "BUMP",
+            "values": {
+              "Strength": 0.4000000059604645,
+              "Distance": 9.999999747378752e-05,
+              "Filter Width": 0.10000000149011612,
+              "Height": 1.0,
+              "Normal": [
+                0.0,
+                0.0,
+                0.0
+              ]
+            }
+          },
+          {
+            "name": "\u7eb9\u7406\u5750\u6807",
+            "type": "TEX_COORD",
+            "values": {}
+          },
+          {
+            "name": "\u6620\u5c04\u8303\u56f4",
+            "type": "MAP_RANGE",
+            "values": {
+              "Value": 1.0,
+              "From Min": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "From Max": [
+                1.0,
+                1.0,
+                1.0
+              ],
+              "To Min": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "To Max": [
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Steps": [
+                4.0,
+                4.0,
+                4.0
+              ],
+              "Vector": [
+                0.0,
+                0.0,
+                0.0
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "08 White connector core - standard UNKNOWN": {
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "bounds": [
+      [
+        -0.010200000368058681,
+        -0.010200000368058681,
+        -0.004833333194255829
+      ],
+      [
+        0.010200000368058681,
+        0.010200000368058681,
+        0.004833333194255829
+      ]
+    ],
+    "materials": [
+      {
+        "name": "Warm white polymer",
+        "nodes": [
+          {
+            "name": "Principled BSDF",
+            "type": "BSDF_PRINCIPLED",
+            "values": {
+              "Base Color": [
+                0.7799999713897705,
+                0.7699999809265137,
+                0.699999988079071,
+                1.0
+              ],
+              "Metallic": 0.0,
+              "Roughness": 0.3199999928474426,
+              "IOR": 1.5,
+              "Alpha": 1.0,
+              "Normal": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Weight": 0.0,
+              "Diffuse Roughness": 0.0,
+              "Subsurface Weight": 0.0,
+              "Subsurface Radius": [
+                1.0,
+                0.20000000298023224,
+                0.10000000149011612
+              ],
+              "Subsurface Scale": 0.004999999888241291,
+              "Subsurface IOR": 1.399999976158142,
+              "Subsurface Anisotropy": 0.0,
+              "Specular IOR Level": 0.5,
+              "Specular Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Anisotropic": 0.0,
+              "Anisotropic Rotation": 0.0,
+              "Tangent": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Transmission Weight": 0.0,
+              "Coat Weight": 0.0,
+              "Coat Roughness": 0.029999999329447746,
+              "Coat IOR": 1.5,
+              "Coat Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Coat Normal": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Sheen Weight": 0.0,
+              "Sheen Roughness": 0.5,
+              "Sheen Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Emission Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Emission Strength": 0.0,
+              "Thin Film Thickness": 0.0,
+              "Thin Film IOR": 1.3300000429153442
+            }
+          },
+          {
+            "name": "\u6750\u8d28\u8f93\u51fa",
+            "type": "OUTPUT_MATERIAL",
+            "values": {
+              "Displacement": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Thickness": 0.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "06 Red descaling actuator": {
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "bounds": [
+      [
+        -0.009700000286102295,
+        0.0008500000112690032,
+        0.20029999315738678
+      ],
+      [
+        0.009700000286102295,
+        0.0048500001430511475,
+        0.21969999372959137
+      ]
+    ],
+    "materials": [
+      {
+        "name": "Red actuator polymer",
+        "nodes": [
+          {
+            "name": "Principled BSDF",
+            "type": "BSDF_PRINCIPLED",
+            "values": {
+              "Base Color": [
+                0.30000001192092896,
+                0.0020000000949949026,
+                0.00800000037997961,
+                1.0
+              ],
+              "Metallic": 0.0,
+              "Roughness": 0.3100000023841858,
+              "IOR": 1.5,
+              "Alpha": 1.0,
+              "Normal": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Weight": 0.0,
+              "Diffuse Roughness": 0.0,
+              "Subsurface Weight": 0.0,
+              "Subsurface Radius": [
+                1.0,
+                0.20000000298023224,
+                0.10000000149011612
+              ],
+              "Subsurface Scale": 0.004999999888241291,
+              "Subsurface IOR": 1.399999976158142,
+              "Subsurface Anisotropy": 0.0,
+              "Specular IOR Level": 0.30000001192092896,
+              "Specular Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Anisotropic": 0.0,
+              "Anisotropic Rotation": 0.0,
+              "Tangent": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Transmission Weight": 0.0,
+              "Coat Weight": 0.0,
+              "Coat Roughness": 0.029999999329447746,
+              "Coat IOR": 1.5,
+              "Coat Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Coat Normal": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Sheen Weight": 0.0,
+              "Sheen Roughness": 0.5,
+              "Sheen Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Emission Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Emission Strength": 0.0,
+              "Thin Film Thickness": 0.0,
+              "Thin Film IOR": 1.3300000429153442
+            }
+          },
+          {
+            "name": "\u6750\u8d28\u8f93\u51fa",
+            "type": "OUTPUT_MATERIAL",
+            "values": {
+              "Displacement": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Thickness": 0.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "07 Separate silver selector": {
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "bounds": [
+      [
+        -0.010599588975310326,
+        0.004546038806438446,
+        0.11550000309944153
+      ],
+      [
+        0.010599588975310326,
+        0.009083505719900131,
+        0.14249999821186066
+      ]
+    ],
+    "materials": [
+      {
+        "name": "Studio silver - optical approximation",
+        "nodes": [
+          {
+            "name": "Principled BSDF",
+            "type": "BSDF_PRINCIPLED",
+            "values": {
+              "Base Color": [
+                0.7200000286102295,
+                0.7400000095367432,
+                0.7599999904632568,
+                1.0
+              ],
+              "Metallic": 1.0,
+              "Roughness": 0.16500000655651093,
+              "IOR": 1.5,
+              "Alpha": 1.0,
+              "Normal": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Weight": 0.0,
+              "Diffuse Roughness": 0.0,
+              "Subsurface Weight": 0.0,
+              "Subsurface Radius": [
+                1.0,
+                0.20000000298023224,
+                0.10000000149011612
+              ],
+              "Subsurface Scale": 0.004999999888241291,
+              "Subsurface IOR": 1.399999976158142,
+              "Subsurface Anisotropy": 0.0,
+              "Specular IOR Level": 0.5,
+              "Specular Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Anisotropic": 0.0,
+              "Anisotropic Rotation": 0.0,
+              "Tangent": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Transmission Weight": 0.0,
+              "Coat Weight": 0.0,
+              "Coat Roughness": 0.029999999329447746,
+              "Coat IOR": 1.5,
+              "Coat Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Coat Normal": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Sheen Weight": 0.0,
+              "Sheen Roughness": 0.5,
+              "Sheen Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Emission Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Emission Strength": 0.0,
+              "Thin Film Thickness": 0.0,
+              "Thin Film IOR": 1.3300000429153442
+            }
+          },
+          {
+            "name": "\u6750\u8d28\u8f93\u51fa",
+            "type": "OUTPUT_MATERIAL",
+            "values": {
+              "Displacement": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Thickness": 0.0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "09 Simplified visible thread - not engineering thread": {
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "bounds": [
+      [
+        -0.01080000028014183,
+        -0.0012009561760351062,
+        0.0005499999970197678
+      ],
+      [
+        0.01080000028014183,
+        0.020399043336510658,
+        0.00911666639149189
+      ]
+    ],
+    "materials": [
+      {
+        "name": "Warm white polymer",
+        "nodes": [
+          {
+            "name": "Principled BSDF",
+            "type": "BSDF_PRINCIPLED",
+            "values": {
+              "Base Color": [
+                0.7799999713897705,
+                0.7699999809265137,
+                0.699999988079071,
+                1.0
+              ],
+              "Metallic": 0.0,
+              "Roughness": 0.3199999928474426,
+              "IOR": 1.5,
+              "Alpha": 1.0,
+              "Normal": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Weight": 0.0,
+              "Diffuse Roughness": 0.0,
+              "Subsurface Weight": 0.0,
+              "Subsurface Radius": [
+                1.0,
+                0.20000000298023224,
+                0.10000000149011612
+              ],
+              "Subsurface Scale": 0.004999999888241291,
+              "Subsurface IOR": 1.399999976158142,
+              "Subsurface Anisotropy": 0.0,
+              "Specular IOR Level": 0.5,
+              "Specular Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Anisotropic": 0.0,
+              "Anisotropic Rotation": 0.0,
+              "Tangent": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Transmission Weight": 0.0,
+              "Coat Weight": 0.0,
+              "Coat Roughness": 0.029999999329447746,
+              "Coat IOR": 1.5,
+              "Coat Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Coat Normal": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Sheen Weight": 0.0,
+              "Sheen Roughness": 0.5,
+              "Sheen Tint": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Emission Color": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+              ],
+              "Emission Strength": 0.0,
+              "Thin Film Thickness": 0.0,
+              "Thin Film IOR": 1.3300000429153442
+            }
+          },
+          {
+            "name": "\u6750\u8d28\u8f93\u51fa",
+            "type": "OUTPUT_MATERIAL",
+            "values": {
+              "Displacement": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "Thickness": 0.0
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

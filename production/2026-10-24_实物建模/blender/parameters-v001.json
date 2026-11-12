@@ -1,0 +1,154 @@
+{
+  "version": "v001",
+  "units": "mm - provisional photo estimates, not metrology",
+  "total_length": 265.0,
+  "head_radius": 65.0,
+  "head_center_z": 200.0,
+  "body_bottom_z": 9.0,
+  "connector_length": 9.0,
+  "connector_radius": 10.5,
+  "front_profile_z_y": [
+    [
+      9,
+      -12
+    ],
+    [
+      30,
+      -9
+    ],
+    [
+      60,
+      -5
+    ],
+    [
+      90,
+      -3
+    ],
+    [
+      110,
+      -4
+    ],
+    [
+      125,
+      -7
+    ],
+    [
+      140,
+      -11
+    ],
+    [
+      155,
+      -15
+    ],
+    [
+      200,
+      -27
+    ],
+    [
+      265,
+      -44.33
+    ]
+  ],
+  "width_profile_z_halfwidth": [
+    [
+      9,
+      14.5
+    ],
+    [
+      30,
+      14.3
+    ],
+    [
+      60,
+      14.3
+    ],
+    [
+      90,
+      15
+    ],
+    [
+      110,
+      18
+    ],
+    [
+      125,
+      25
+    ],
+    [
+      140,
+      36.5
+    ],
+    [
+      155,
+      46.904
+    ]
+  ],
+  "edge_thickness_z": [
+    [
+      9,
+      27
+    ],
+    [
+      60,
+      27
+    ],
+    [
+      100,
+      27
+    ],
+    [
+      125,
+      25
+    ],
+    [
+      145,
+      22
+    ],
+    [
+      170,
+      20
+    ],
+    [
+      200,
+      19
+    ],
+    [
+      240,
+      18
+    ],
+    [
+      265,
+      17
+    ]
+  ],
+  "rear_dome_max": 6.0,
+  "button_center_z": 121,
+  "button_width": 21,
+  "button_length": 29,
+  "center_button_radius": 9,
+  "nozzle_detail_status": "Deferred; no invented hole layout",
+  "sources": [
+    "P01",
+    "P02",
+    "P03",
+    "P04",
+    "P05",
+    "P06",
+    "P07",
+    "P08",
+    "P09",
+    "P10",
+    "P11",
+    "P12",
+    "P13",
+    "V01 sampled f00-f17"
+  ],
+  "routing": {
+    "rule": "ROUTING-2026-10-24-v5",
+    "target_model": "gpt-6-astra",
+    "target_effort": "high",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN",
+    "speed_mode": "UNKNOWN"
+  }
+}

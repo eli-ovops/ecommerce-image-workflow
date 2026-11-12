@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "reviewer": "root",
+  "reviewed_at": "2026-10-24T21:40:45.580266+08:00",
+  "candidate_sha256": "86ff0d615a5d74ea85516dfe6b745d94207e8afd3f69faecef4c279c15ac0a8a",
+  "jpg_sha256": "123bb2c59c292546e400c85cce64ecfcd8f667c160c34fdf4596cf13f5ebad87",
+  "appearance_source_sha256": [
+    "0b388756f0ee2e35630dac7789237153d390fa8aaab8f58f6e2643d4181be21d",
+    "10dcfb2cad17faf397a03e0587da0ad19c76229fe801e090fee527a3fbc1a412",
+    "6de02f19793c568c799762525475cd0241af1b9c41487580383be4efbd2a1fa2",
+    "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90"
+  ],
+  "checks": {
+    "photo_appearance": "PASS",
+    "geometry": "PASS",
+    "reference_style": "PASS",
+    "copy": "PASS",
+    "no_model": "PASS",
+    "export": "PASS"
+  },
+  "finding": "实际打开原生、1254最终JPG、SIL005和A020；两卡左红钮右银键完整，孔环未见明显抹连，银色反光和下键轮廓与实拍视觉相近。标题区及卡下两行字清楚。A020实际是皮肤水珠性能对比，本图仅借左右两卡的信息结构，改为同商品两个控件识别，无VS或疗效。",
+  "retained": "两卡并列、上标题和卡下标签",
+  "deviation": "以真实两处控件替代原皮肤性能对比，不复制原结论",
+  "limitations": "人工外观/版式比较，未做逐孔精确位置或物理IoU测量，不代表客户接受。"
+}

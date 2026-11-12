@@ -1,0 +1,247 @@
+{
+  "status": "REVISION_REQUIRED_REFERENCE_STYLE_AND_COVERAGE",
+  "date": "2026-10-22",
+  "owners": {
+    "image_production": "/root/image_production",
+    "independent_visual_qa": "/root/silver_detail_review",
+    "packaging_and_delivery_verification": "/root"
+  },
+  "packaging_script_syntax": "PASS",
+  "temporary_files": [
+    {
+      "path": "/Users/USER/Library/Caches/com.apple.python/Volumes/EXTERNAL/电商 作图工作流/tools/build_ecommerce_delivery.cpython-39.pyc",
+      "source": "python3 -m py_compile tools/build_ecommerce_delivery.py",
+      "purpose": "包装脚本语法检查产生的Python缓存",
+      "disposition": "RETAINED_SHARED_CACHE",
+      "reason": "位于系统配置的共享缓存目录，未清理该目录或其他任务缓存"
+    }
+  ],
+  "deleted_assets": [],
+  "user_acceptance": "NOT_ACCEPTED",
+  "image_count": 16,
+  "png_count": 16,
+  "jpg_count": 16,
+  "detail_long_dimensions": [
+    1086,
+    8688
+  ],
+  "checks": {
+    "independent_visual_qa_for_all_final_hashes": "PASS",
+    "image_decoding_and_native_dimensions": "PASS",
+    "gallery_links_local_existing_and_in_archive": "PASS",
+    "zip_crc_unique_paths_and_complete_inventory": "PASS"
+  },
+  "gallery_link_count": 66,
+  "archive": {
+    "path": "花洒套图_交付.zip",
+    "file_count": 38,
+    "bytes": 43474989,
+    "sha256": "7b48bd984446b65f7d55712f0ab44075473ce34c4db31368ca9d3ca559da6c15",
+    "mtime": "2026-10-22T22:07:46.438044+08:00",
+    "purpose": "Client delivery package; protected, retained",
+    "releasable_bytes": 0
+  },
+  "generation_provenance_check": "PASS: 16 selected PNGs match recorded hashes and candidate copies; selected prompts exist",
+  "root_visual_review": {
+    "status": "PASS",
+    "method": "Viewed both no-crop overviews and stitched long-image overview after export",
+    "paths": [
+      "previews/delivery_overview_01.jpg",
+      "previews/delivery_overview_02.jpg",
+      "exports/银色详情长图.jpg"
+    ],
+    "limit": "Each source screen was reviewed separately at full view; long-image overview checks order and joins"
+  },
+  "disk_audit": {
+    "scope": "This batch plus exact selected upstream tool outputs only",
+    "batch_logical_bytes_before_this_receipt_update": 131614241,
+    "known_selected_tool_output_logical_bytes": 34042866,
+    "threshold_100MB_exceeded": true,
+    "areas": [
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_花洒套图/final",
+        "file_count": 16,
+        "logical_bytes": 34042866,
+        "latest_mtime": "2026-10-22T22:01:58.226032+08:00",
+        "source": "Selected image_gen results",
+        "purpose": "Client PNG deliverables",
+        "dependency": "Current delivery and provenance",
+        "risk": "Protected task assets; retain",
+        "releasable_bytes": 0
+      },
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_花洒套图/generated",
+        "file_count": 20,
+        "logical_bytes": 42160215,
+        "latest_mtime": "2026-10-22T22:01:58.226032+08:00",
+        "source": "image_gen results copied without changes",
+        "purpose": "Selected and rejected candidates for recovery and comparison",
+        "dependency": "Current delivery and provenance",
+        "risk": "Protected task assets; retain",
+        "releasable_bytes": 0
+      },
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_花洒套图/prompts",
+        "file_count": 22,
+        "logical_bytes": 29068,
+        "latest_mtime": "2026-10-22T22:00:41.905926+08:00",
+        "source": "Production Owner",
+        "purpose": "Prompt provenance",
+        "dependency": "Current delivery and provenance",
+        "risk": "Protected task assets; retain",
+        "releasable_bytes": 0
+      },
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_花洒套图/exports",
+        "file_count": 17,
+        "logical_bytes": 10614822,
+        "latest_mtime": "2026-10-22T22:07:44.723072+08:00",
+        "source": "Packaging script",
+        "purpose": "Client JPG files and stitched detail page",
+        "dependency": "Current delivery and provenance",
+        "risk": "Protected task assets; retain",
+        "releasable_bytes": 0
+      },
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_花洒套图/previews",
+        "file_count": 2,
+        "logical_bytes": 1068714,
+        "latest_mtime": "2026-10-22T22:07:45.306776+08:00",
+        "source": "Packaging script",
+        "purpose": "Client overview images",
+        "dependency": "Current delivery and provenance",
+        "risk": "Protected task assets; retain",
+        "releasable_bytes": 0
+      }
+    ],
+    "selected_upstream_outputs": [
+      {
+        "path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-063e35a3-0f5d-4f6a-8606-8b65f0590169.png",
+        "exists": true,
+        "logical_bytes": 2566576,
+        "mtime": "2026-10-22T20:01:38.254058+08:00",
+        "purpose": "Original tool output for selected image; retained"
+      },
+      {
+        "path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-07596dde-8bc4-4a1d-9f9b-b6e27bbbd8aa.png",
+        "exists": true,
+        "logical_bytes": 1810926,
+        "mtime": "2026-10-22T20:36:54.816310+08:00",
+        "purpose": "Original tool output for selected image; retained"
+      },
+      {
+        "path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-0a9ea943-6137-4951-9b22-baab38b1b02f.png",
+        "exists": true,
+        "logical_bytes": 2708252,
+        "mtime": "2026-10-22T21:24:33.869693+08:00",
+        "purpose": "Original tool output for selected image; retained"
+      },
+      {
+        "path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-0d064f08-113d-48e4-b26c-b528a0c1a5d2.png",
+        "exists": true,
+        "logical_bytes": 2559063,
+        "mtime": "2026-10-22T19:54:56.418515+08:00",
+        "purpose": "Original tool output for selected image; retained"
+      },
+      {
+        "path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-2835607c-5c0e-4ca4-8461-b44956e31b28.png",
+        "exists": true,
+        "logical_bytes": 1892351,
+        "mtime": "2026-10-22T22:01:58.226032+08:00",
+        "purpose": "Original tool output for selected image; retained"
+      },
+      {
+        "path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-2e9bc60c-4b1a-48a1-b0bd-7f5544890177.png",
+        "exists": true,
+        "logical_bytes": 2130071,
+        "mtime": "2026-10-22T21:09:01.465473+08:00",
+        "purpose": "Original tool output for selected image; retained"
+      },
+      {
+        "path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-34ee2b0e-ab9f-4b29-afce-0e0ba3d87fce.png",
+        "exists": true,
+        "logical_bytes": 1697279,
+        "mtime": "2026-10-22T20:43:42.557891+08:00",
+        "purpose": "Original tool output for selected image; retained"
+      },
+      {
+        "path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-45ef1d6a-ba2b-4cd9-9018-a72daa85dcd0.png",
+        "exists": true,
+        "logical_bytes": 2193192,
+        "mtime": "2026-10-22T20:10:19.210972+08:00",
+        "purpose": "Original tool output for selected image; retained"
+      },
+      {
+        "path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-49cfb2c7-4dd1-4303-a756-d0390c31188c.png",
+        "exists": true,
+        "logical_bytes": 2076501,
+        "mtime": "2026-10-22T19:37:39.213915+08:00",
+        "purpose": "Original tool output for selected image; retained"
+      },
+      {
+        "path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-57677a48-233e-4f2b-be29-bec6069b4ff2.png",
+        "exists": true,
+        "logical_bytes": 2348327,
+        "mtime": "2026-10-22T19:50:57.534922+08:00",
+        "purpose": "Original tool output for selected image; retained"
+      },
+      {
+        "path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-5e265794-3b49-4a0e-a0cd-8c908b488ffc.png",
+        "exists": true,
+        "logical_bytes": 1928934,
+        "mtime": "2026-10-22T20:50:11.859860+08:00",
+        "purpose": "Original tool output for selected image; retained"
+      },
+      {
+        "path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-78f0d284-8860-4ea5-864c-2bdce59178e4.png",
+        "exists": true,
+        "logical_bytes": 1430010,
+        "mtime": "2026-10-22T19:33:49.611838+08:00",
+        "purpose": "Original tool output for selected image; retained"
+      },
+      {
+        "path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-b9a3f9cf-1fa6-4fcb-835c-76c4920cdccb.png",
+        "exists": true,
+        "logical_bytes": 2472789,
+        "mtime": "2026-10-22T21:29:34.498455+08:00",
+        "purpose": "Original tool output for selected image; retained"
+      },
+      {
+        "path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-bad1e75a-315f-48eb-9b18-0c616a811c91.png",
+        "exists": true,
+        "logical_bytes": 2115126,
+        "mtime": "2026-10-22T21:20:53.684224+08:00",
+        "purpose": "Original tool output for selected image; retained"
+      },
+      {
+        "path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-e49e3ddf-b581-4e1c-bb8e-a900d1c88973.png",
+        "exists": true,
+        "logical_bytes": 2171616,
+        "mtime": "2026-10-22T21:41:23.692934+08:00",
+        "purpose": "Original tool output for selected image; retained"
+      },
+      {
+        "path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-e762ec94-28ef-48ce-8c09-0cb95a71f28f.png",
+        "exists": true,
+        "logical_bytes": 1941853,
+        "mtime": "2026-10-22T20:24:19.380610+08:00",
+        "purpose": "Original tool output for selected image; retained"
+      }
+    ],
+    "project_filesystem_bytes": {
+      "total": 2048489644032,
+      "used": 360681119744,
+      "free": 1687808524288
+    },
+    "tool_output_filesystem_bytes": {
+      "total": 245107195904,
+      "used": 210979762176,
+      "free": 34127433728
+    },
+    "deleted_paths": [],
+    "space_released_by_cleanup_bytes": 0,
+    "note": "Logical sizes are inventory only, not physical space released. Shared Python cache is retained."
+  },
+  "technical_completion_at_first_delivery": "COMPLETE_USER_REVIEW_PENDING",
+  "user_feedback": "74 references are the core; skills are auxiliary. Analyze all 74, merge duplicates and inapplicable content, then rebuild the complete set. The first 16-image set is insufficient."
+}

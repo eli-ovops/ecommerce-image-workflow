@@ -1,0 +1,10 @@
+Create ONE square Chinese ecommerce product image, target 1536x1536. Use reference 1 A035 as the core visual layout: pale cool blue background, bold large black Chinese headline in the upper left, smaller black subtitle below, enormous close-up circular shower face filling lower 70% and cropped naturally at bottom, three compact white rounded icon cards vertically at upper right, hand entering from right to operate the face. Match its clean high-key studio lighting, typography scale, framing and information density.
+
+Replace the reference product COMPLETELY with the real silver shower in references 2–4. Reference 2 is accurate unpressed face geometry; reference 3 is actual pressed central red button and tiny red plastic pin appearance; reference 4 gives overall silver round shape and lower silver mode key. Black face, thin mirrored silver rim, dense peripheral tiny BLACK holes, independently separated LOW FLAT WHITE ANNULI each with ONE centered hole. NOT raised beads, hemispheres, conical nozzles, duplicate crescents or ghost rings. Keep real layout and central red circular button. A natural index finger from right presses ONLY that central RED button, leaving its red rim visible. Some white holes show very SHORT tiny red plastic pin tips, others dark; match reference 3 in subtle scale. No long spikes, no exaggerated all-red holes. Finger anatomy natural and dry. The lower key may naturally be cropped along bottom with handle outside frame.
+
+Exact text only:
+upper-left large bold headline: 按压中央红钮
+subtitle: 短小红针辅助清理出水孔
+right three cards top to bottom: 手动按压 / 中央红钮 / 短小红针
+Use simple blue outline operation icons appropriate to these labels, not health, antibacterial, certification or waterproof symbols.
+No additional text, brand, watermark, numbers, claims, certificates, dimensions, before/after cleanliness comparison, hose, holder, adapter, filters, exploded internals. No water flow. Photorealistic product detail, crisp Chinese typography.

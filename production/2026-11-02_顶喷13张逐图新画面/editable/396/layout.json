@@ -1,0 +1,118 @@
+{
+  "text": [
+    {
+      "text": "六处细节 逐一看清",
+      "x": 43,
+      "y": 85,
+      "size": 65,
+      "color": "#efd0a3",
+      "font": "Songti SC"
+    },
+    {
+      "text": "面板 · 红钮 · 银边 · 接头",
+      "x": 48,
+      "y": 180,
+      "size": 36,
+      "color": "#efd0a3",
+      "font": "Songti SC"
+    },
+    {
+      "text": "面板纹样",
+      "x": 55,
+      "y": 306,
+      "size": 36,
+      "color": "#efd0a3",
+      "font": "Songti SC"
+    },
+    {
+      "text": "孔口与叶形纹样",
+      "x": 55,
+      "y": 351,
+      "size": 25,
+      "color": "#f1e4d5",
+      "font": "Heiti SC"
+    },
+    {
+      "text": "中央红钮",
+      "x": 485,
+      "y": 306,
+      "size": 36,
+      "color": "#efd0a3",
+      "font": "Songti SC"
+    },
+    {
+      "text": "向外提拉除垢",
+      "x": 485,
+      "y": 351,
+      "size": 25,
+      "color": "#f1e4d5",
+      "font": "Heiti SC"
+    },
+    {
+      "text": "银色侧边",
+      "x": 55,
+      "y": 731,
+      "size": 36,
+      "color": "#efd0a3",
+      "font": "Songti SC"
+    },
+    {
+      "text": "实拍金属反射",
+      "x": 55,
+      "y": 776,
+      "size": 25,
+      "color": "#f1e4d5",
+      "font": "Heiti SC"
+    },
+    {
+      "text": "接头开口",
+      "x": 485,
+      "y": 731,
+      "size": 36,
+      "color": "#efd0a3",
+      "font": "Songti SC"
+    },
+    {
+      "text": "内圈与网格可见",
+      "x": 485,
+      "y": 776,
+      "size": 25,
+      "color": "#f1e4d5",
+      "font": "Heiti SC"
+    },
+    {
+      "text": "背部接头",
+      "x": 55,
+      "y": 1156,
+      "size": 36,
+      "color": "#efd0a3",
+      "font": "Songti SC"
+    },
+    {
+      "text": "侧面外观实拍",
+      "x": 55,
+      "y": 1201,
+      "size": 25,
+      "color": "#f1e4d5",
+      "font": "Heiti SC"
+    },
+    {
+      "text": "短针细节",
+      "x": 485,
+      "y": 1156,
+      "size": 36,
+      "color": "#efd0a3",
+      "font": "Songti SC"
+    },
+    {
+      "text": "操作局部实拍",
+      "x": 485,
+      "y": 1201,
+      "size": 25,
+      "color": "#f1e4d5",
+      "font": "Heiti SC"
+    }
+  ],
+  "transforms": [],
+  "note": "参考396六宫格层级，替换无依据六大功能为六处实拍细节。不复制材料层、防爆、硅胶、增压等。侧边局部保留真实环境反射。"
+}

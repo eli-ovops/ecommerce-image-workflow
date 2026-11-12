@@ -1,0 +1,23 @@
+[
+  {
+    "order": 1,
+    "source": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-31_同款商户电商参考/微信图片_20261031133902_388_2.jpg",
+    "saved": "inputs/image1-reference388.jpg",
+    "role": "layout and lighting only",
+    "sha256": "151dc464c5f42ac07a9aa7c2f8eada93634fa51f6e6eb0dc8b50aa05521618a5"
+  },
+  {
+    "order": 2,
+    "source": "/Volumes/EXTERNAL/电商 作图工作流/products/长方形拉钮顶喷/原始实拍20261030/微信图片_20261030154107_372_2.jpg",
+    "saved": "inputs/image2-product372.jpg",
+    "role": "silver product at bottom identity and holes",
+    "sha256": "c1f3664cc110b85d819bf6609f54b6f10b2943127dad85c3833c1f125443d017"
+  },
+  {
+    "order": 3,
+    "source": "/Volumes/EXTERNAL/电商 作图工作流/products/长方形拉钮顶喷/原始实拍20261030/微信图片_20261030154107_376_2.jpg",
+    "saved": "inputs/image3-product376.jpg",
+    "role": "silver product face texture and knob",
+    "sha256": "f5d7d1e2c3839298bafb20d5ec4a7b19ff8990c9efd02f34b484b4bc07ad3965"
+  }
+]

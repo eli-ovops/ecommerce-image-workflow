@@ -1,0 +1,26 @@
+{
+  "actual_viewed": [
+    "01_银色完整顶喷_磨砂精修.jpg",
+    "02_静态红钮近景_非拉出_磨砂精修.jpg",
+    "前后对照.jpg",
+    "实拍与材质对照.jpg",
+    "372-native-detail.jpg"
+  ],
+  "improvements": [
+    "近景细微磨砂可见",
+    "面板偏棕减轻",
+    "圆点与花瓣槽边局部高光增加"
+  ],
+  "remaining": [
+    "颗粒比实拍更均匀且反差较弱",
+    "花瓣槽线仍薄且过于规则",
+    "红钮仍偏浅/略粉，缺乏实拍细微表面变化",
+    "全貌仍有CG感"
+  ],
+  "geometry_preservation": "PASS",
+  "image_decode_dimensions": "PASS",
+  "photoreal_acceptance": "NOT_PASS",
+  "pull_action_demo": "NOT_DONE",
+  "customer_acceptance": "UNKNOWN",
+  "review_scope": "实际打开两张最终JPG及两个对照；不是物理材质测量或全部孔位验收"
+}

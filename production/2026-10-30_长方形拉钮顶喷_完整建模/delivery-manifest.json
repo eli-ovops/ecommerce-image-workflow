@@ -1,0 +1,218 @@
+[
+  {
+    "name": "长方形拉钮顶喷_v3.blend",
+    "bytes": 2407986,
+    "sha256": "05b80b0ebc072c1a01cdf597c08f16e33d8033eb3771a9fe48dc2c18a0079905"
+  },
+  {
+    "name": "build_model.py",
+    "bytes": 11994,
+    "sha256": "545186a22c4fe13e57de1ff7e8df0bbbdb12c3a959c0fe47e6811bc1f318256e"
+  },
+  {
+    "name": "verify_model.py",
+    "bytes": 2438,
+    "sha256": "a52f7a4bc3b6d33ad1a2da560f10374e837886d1587219e213988e13489314bd"
+  },
+  {
+    "name": "README.md",
+    "bytes": 6097,
+    "sha256": "1f269854322bb1a3d70f68cd11edeb6a5879ef2f800013e16c8ee8a97db4732d"
+  },
+  {
+    "name": "hole-map.csv",
+    "bytes": 19088,
+    "sha256": "d9da92ec0680a79f483149ae41701ef7aa65f0a90c465b6fcc680ac3c2ff720e"
+  },
+  {
+    "name": "geometry-check.json",
+    "bytes": 6756,
+    "sha256": "4b9ef8821c4a999e47e01b17ff05a16d0985a34b777bfeb10c588fb60a4f1b91"
+  },
+  {
+    "name": "reopen-verification.json",
+    "bytes": 23611,
+    "sha256": "4098f19079a1959aa80f7e02a56672a39f7ca9655e5fe1855cbcfbe1661542b0"
+  },
+  {
+    "name": "source-verification.json",
+    "bytes": 1366,
+    "sha256": "335bdefe89326b602cca8f7bf181d085dec40cd882d26fbe55cce0ae1bc99faa"
+  },
+  {
+    "name": "visual-review.json",
+    "bytes": 2038,
+    "sha256": "c2663ddca5a79619435c5ca8a41abb6f241421db522dfbc216228d624d8d82f7"
+  },
+  {
+    "name": "hole-map-source-overlay.jpg",
+    "bytes": 1785812,
+    "sha256": "2acf2576fec382c19e4aadc0514dbdd7882ddd75cbaf053a590c402bc8ec54d6",
+    "dimensions": [
+      1800,
+      1200
+    ]
+  },
+  {
+    "name": "circle-contact.jpg",
+    "bytes": 711026,
+    "sha256": "298f387ade4d06083b8f42712106ad00bf12816458c7373bf174cb0ce205a392",
+    "dimensions": [
+      1120,
+      1360
+    ]
+  },
+  {
+    "name": "sources-contact.jpg",
+    "bytes": 233225,
+    "sha256": "fc42571d8488a0e36c4b96d441ddac67f5693e600ac152fbe2be8ab11ba407c1",
+    "dimensions": [
+      1600,
+      1800
+    ]
+  },
+  {
+    "name": "372-front-rectified.jpg",
+    "bytes": 1559863,
+    "sha256": "3be7dc1bd8214915fd5589e89e334f3d20a9a8b077bd8dd28efdc1075460a533",
+    "dimensions": [
+      1800,
+      1200
+    ]
+  },
+  {
+    "name": "372-native-detail.jpg",
+    "bytes": 279176,
+    "sha256": "cdd51f993dcc9a9a84bed732c6b7b81c2aff3dbfd000c1a8da515beed4b92dde",
+    "dimensions": [
+      650,
+      650
+    ]
+  },
+  {
+    "name": "373-native-detail.jpg",
+    "bytes": 190271,
+    "sha256": "9c8b309f058078ef18096007aefd755ab11d6f2a017bc622c0b72734236d4f68",
+    "dimensions": [
+      750,
+      700
+    ]
+  },
+  {
+    "name": "382-native-detail.jpg",
+    "bytes": 1106330,
+    "sha256": "7422767bbe925e9ae9a88f44e54f58ca30e73e6e9a119cf03e0e589cdfc72a2c",
+    "dimensions": [
+      1200,
+      1150
+    ]
+  },
+  {
+    "name": "review-overview.jpg",
+    "bytes": 215994,
+    "sha256": "b46603a2842ca3ef4063c3d9d0f381e44dfe23b8aa68c3db9724d04e69718868",
+    "dimensions": [
+      1600,
+      1140
+    ]
+  },
+  {
+    "name": "front-source-comparison.jpg",
+    "bytes": 579871,
+    "sha256": "3edebc21380ded3697f7a19a5571d0177e61ac30f63446654f44be4fd61ca07a",
+    "dimensions": [
+      1800,
+      650
+    ]
+  },
+  {
+    "name": "01_gray_front_v3.jpg",
+    "bytes": 260027,
+    "sha256": "a80d5271e5091c2c56a57324fc5b6dafe5b1ff3812af04c03e8c889172c04c76",
+    "dimensions": [
+      1400,
+      1050
+    ]
+  },
+  {
+    "name": "02_gray_back_v3.jpg",
+    "bytes": 87843,
+    "sha256": "c8b1aa6950ff2a25e30430ff7e285f93b7cf4936e1cb5a14d2035afb48dee64f",
+    "dimensions": [
+      1400,
+      1050
+    ]
+  },
+  {
+    "name": "03_gray_long_side_v3.jpg",
+    "bytes": 83041,
+    "sha256": "2bb4a3455ccbe2fe8a444b66316330558f39312119c79f2f300a8378360762af",
+    "dimensions": [
+      1400,
+      1050
+    ]
+  },
+  {
+    "name": "04_gray_short_side_v3.jpg",
+    "bytes": 82552,
+    "sha256": "1d6831a2d371e57c1d33b5c2b10ae8a717314fa6f9278a62eaeb472ae418d51c",
+    "dimensions": [
+      1400,
+      1050
+    ]
+  },
+  {
+    "name": "05_gray_oblique_v3.jpg",
+    "bytes": 197341,
+    "sha256": "96850ba2ad9d9040eb3530c44f4a5e85b2872601e85bc147a98bd5bdb67be9ba",
+    "dimensions": [
+      1400,
+      1050
+    ]
+  },
+  {
+    "name": "06_silver_front_v3.jpg",
+    "bytes": 273856,
+    "sha256": "a6b4cd3087e196f874eb1df044a132b9019e9b5a7088aed998ff8cb3928272a4",
+    "dimensions": [
+      1400,
+      1050
+    ]
+  },
+  {
+    "name": "07_silver_back_v3.jpg",
+    "bytes": 118780,
+    "sha256": "f9812f89e9a2c2fe62b2a93fdec0e89078098efc9572866ead406afd8ec9e761",
+    "dimensions": [
+      1400,
+      1050
+    ]
+  },
+  {
+    "name": "08_black_back_v3.jpg",
+    "bytes": 113293,
+    "sha256": "8eaff3c1f558d8a3dd5aeba4c229af9edad77f773f957f1f625adfa3c2291bcf",
+    "dimensions": [
+      1400,
+      1050
+    ]
+  },
+  {
+    "name": "09_gunmetal_back_v3.jpg",
+    "bytes": 113520,
+    "sha256": "e53beb09ebf52f75638afbdf4bdc96f68e5cabf4db7b529d23ca0a546ed4b2e3",
+    "dimensions": [
+      1400,
+      1050
+    ]
+  },
+  {
+    "name": "10_panel_detail_v3.jpg",
+    "bytes": 209899,
+    "sha256": "51fa4217159c06a13e1dec6d41b544a668676f5733c6105fb29c1904683e3762",
+    "dimensions": [
+      1400,
+      1050
+    ]
+  }
+]

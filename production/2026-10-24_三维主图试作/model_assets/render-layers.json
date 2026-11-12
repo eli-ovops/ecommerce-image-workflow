@@ -1,0 +1,182 @@
+[
+  {
+    "layer": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u4e09\u7ef4\u4e3b\u56fe\u8bd5\u4f5c/renders/back3q-v003.png",
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "product_alpha_bbox": [
+      675,
+      127,
+      1440,
+      1870
+    ],
+    "sha256": "f459d4ebb648ffad834db108cfd88f2b57d240cac77a2373c4238d6c3d317c5c",
+    "mask": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u4e09\u7ef4\u4e3b\u56fe\u8bd5\u4f5c/renders/back3q-v003-mask.png",
+    "review_only_jpg": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u4e09\u7ef4\u4e3b\u56fe\u8bd5\u4f5c/renders/back3q-v003-review.jpg"
+  },
+  {
+    "layer": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u4e09\u7ef4\u4e3b\u56fe\u8bd5\u4f5c/renders/back3q-v004.png",
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "product_alpha_bbox": [
+      675,
+      127,
+      1440,
+      1870
+    ],
+    "sha256": "1eedb18f8d479b5d57d60d701b27fc6de5858e991ab96d25b9a9af6b7c7938dd",
+    "mask": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u4e09\u7ef4\u4e3b\u56fe\u8bd5\u4f5c/renders/back3q-v004-mask.png",
+    "review_only_jpg": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u4e09\u7ef4\u4e3b\u56fe\u8bd5\u4f5c/renders/back3q-v004-review.jpg"
+  },
+  {
+    "layer": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u4e09\u7ef4\u4e3b\u56fe\u8bd5\u4f5c/renders/buttonclose-v003.png",
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "product_alpha_bbox": [
+      335,
+      148,
+      1670,
+      2000
+    ],
+    "sha256": "8a94b30b23b674c6c711557e9d80d1f1effcafce19be98d2c9c082a6ecfec84d",
+    "mask": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u4e09\u7ef4\u4e3b\u56fe\u8bd5\u4f5c/renders/buttonclose-v003-mask.png",
+    "review_only_jpg": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u4e09\u7ef4\u4e3b\u56fe\u8bd5\u4f5c/renders/buttonclose-v003-review.jpg"
+  },
+  {
+    "layer": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u4e09\u7ef4\u4e3b\u56fe\u8bd5\u4f5c/renders/buttonclose-v004.png",
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "product_alpha_bbox": [
+      335,
+      148,
+      1670,
+      2000
+    ],
+    "sha256": "34fdabeead25697c930d2a89041b19fa59de630b5c7e4a95ea4c1439736cbbab",
+    "mask": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u4e09\u7ef4\u4e3b\u56fe\u8bd5\u4f5c/renders/buttonclose-v004-mask.png",
+    "review_only_jpg": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u4e09\u7ef4\u4e3b\u56fe\u8bd5\u4f5c/renders/buttonclose-v004-review.jpg"
+  },
+  {
+    "layer": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u4e09\u7ef4\u4e3b\u56fe\u8bd5\u4f5c/renders/front3q-v002.png",
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "product_alpha_bbox": [
+      507,
+      132,
+      1330,
+      1875
+    ],
+    "sha256": "08960b4199b724fdaa684ce5bc5536b311d3695e208cf7889d8be103ad2cb8b3",
+    "mask": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u4e09\u7ef4\u4e3b\u56fe\u8bd5\u4f5c/renders/front3q-v002-mask.png",
+    "review_only_jpg": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u4e09\u7ef4\u4e3b\u56fe\u8bd5\u4f5c/renders/front3q-v002-review.jpg"
+  },
+  {
+    "layer": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u4e09\u7ef4\u4e3b\u56fe\u8bd5\u4f5c/renders/front3q-v003.png",
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "product_alpha_bbox": [
+      507,
+      132,
+      1330,
+      1875
+    ],
+    "sha256": "46fedefce146364a282cc1d5391310a37c46388e186a819a007d87d5b1d94e42",
+    "mask": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u4e09\u7ef4\u4e3b\u56fe\u8bd5\u4f5c/renders/front3q-v003-mask.png",
+    "review_only_jpg": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u4e09\u7ef4\u4e3b\u56fe\u8bd5\u4f5c/renders/front3q-v003-review.jpg"
+  },
+  {
+    "layer": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u4e09\u7ef4\u4e3b\u56fe\u8bd5\u4f5c/renders/front3q-v004.png",
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "product_alpha_bbox": [
+      507,
+      132,
+      1330,
+      1875
+    ],
+    "sha256": "b61f8dd59e6fc7b7d7779332eb38b04778001cfbe9c7bf46400cb7d36eebd8c6",
+    "mask": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u4e09\u7ef4\u4e3b\u56fe\u8bd5\u4f5c/renders/front3q-v004-mask.png",
+    "review_only_jpg": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u4e09\u7ef4\u4e3b\u56fe\u8bd5\u4f5c/renders/front3q-v004-review.jpg"
+  },
+  {
+    "layer": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u4e09\u7ef4\u4e3b\u56fe\u8bd5\u4f5c/renders/front3q.png",
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "product_alpha_bbox": [
+      507,
+      132,
+      1330,
+      1875
+    ],
+    "sha256": "cedc4d68646898c0d4d8cb63e2f45d41ad40982d1ca549485a9d396b9e2fff15",
+    "mask": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u4e09\u7ef4\u4e3b\u56fe\u8bd5\u4f5c/renders/front3q-mask.png",
+    "review_only_jpg": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u4e09\u7ef4\u4e3b\u56fe\u8bd5\u4f5c/renders/front3q-review.jpg"
+  },
+  {
+    "layer": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u4e09\u7ef4\u4e3b\u56fe\u8bd5\u4f5c/renders/strictside-v003.png",
+    "dimensions": [
+      2000,
+      2000
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "product_alpha_bbox": [
+      871,
+      121,
+      1169,
+      1874
+    ],
+    "sha256": "e9a42a7e466421aa206c3b4811aedac0c7d5793d22d4310140f0208c8516a16b",
+    "mask": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u4e09\u7ef4\u4e3b\u56fe\u8bd5\u4f5c/renders/strictside-v003-mask.png",
+    "review_only_jpg": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u4e09\u7ef4\u4e3b\u56fe\u8bd5\u4f5c/renders/strictside-v003-review.jpg"
+  }
+]

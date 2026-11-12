@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "reviewer": "root",
+  "reviewed_at": "2026-10-24T23:37:47+08:00",
+  "jpg_sha256": "3d5e0489dc32cb65a3855b0b778163c0721ed1a2dc27762f80c571b5c477f956",
+  "finding": "冷蓝五窗细节，出水大窗配红钮/白孔小窗及双底窗；大小窗关系清楚。水流直接使用SIL009原照片。",
+  "checks": {
+    "product": "PASS",
+    "reference_style": "PASS",
+    "copy": "PASS",
+    "layout": "PASS",
+    "export": "PASS"
+  },
+  "visual_method": "本轮实际查看成品及对应参考；未改变的已审图复用哈希，最新改字/侧窗/尾端遮罩作定向复核，长图另查总览与接缝。",
+  "limits": "内部人工视觉检查；不等同客户接受、精密3D测量或自动逐孔水流识别。水流/按压照片为原实拍；广告商品图层部分为实拍引导生成层。"
+}

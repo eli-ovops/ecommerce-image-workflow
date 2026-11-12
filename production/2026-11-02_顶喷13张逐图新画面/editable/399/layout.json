@@ -1,0 +1,52 @@
+{
+  "text": [
+    {
+      "text": "银色长方形顶喷",
+      "x": 65,
+      "y": 67,
+      "size": 35,
+      "color": "#efd0a3",
+      "font": "Songti SC"
+    },
+    {
+      "text": "提拉红钮 辅助除垢",
+      "x": 63,
+      "y": 148,
+      "size": 70,
+      "color": "#efd0a3",
+      "font": "Songti SC"
+    },
+    {
+      "text": "银色边框 长方形面板",
+      "x": 63,
+      "y": 242,
+      "size": 62,
+      "color": "#efd0a3",
+      "font": "Songti SC"
+    },
+    {
+      "text": "向外提拉红钮，短针辅助清理出水孔",
+      "x": 65,
+      "y": 344,
+      "size": 32,
+      "color": "#efd0a3",
+      "font": "Songti SC"
+    }
+  ],
+  "transforms": [
+    {
+      "source": "product376.png",
+      "angle": 68,
+      "xy": [
+        25,
+        506
+      ],
+      "size": [
+        860,
+        1012
+      ],
+      "uniform": true
+    }
+  ],
+  "note": "参考399黑金石材、斜置整件、上部金色宋体层级。商品376原始整件层等比旋转；无新造孔纹。原照近正视，厚度和参考透视不能等同。未使用侧边拼接伪造厚度。"
+}

@@ -1,0 +1,916 @@
+{
+  "created_at": "2026-10-22T10:23:31.979368+00:00",
+  "source_archive": {
+    "path": "/Users/USER/Downloads/10.11鼎江.rar",
+    "bytes": 20313107,
+    "sha256": "a2d05b9f2fc5e3c682b9f011ef346b741ecd5abfb4696b5721b00ff313310ad2"
+  },
+  "copied_archive": {
+    "relative_path": "10.11鼎江.rar",
+    "bytes": 20313107,
+    "sha256": "a2d05b9f2fc5e3c682b9f011ef346b741ecd5abfb4696b5721b00ff313310ad2",
+    "byte_identical": true
+  },
+  "safety_check": {
+    "absolute_paths": false,
+    "path_traversal": false,
+    "symlinks_or_other_special_members": false,
+    "duplicate_paths": false,
+    "declared_uncompressed_bytes": 21008815,
+    "volume_free_bytes_before": 1688643334144
+  },
+  "extraction": {
+    "tool": "/usr/bin/bsdtar",
+    "version": "bsdtar 3.5.3 - libarchive 3.7.4 zlib/1.2.12 liblzma/5.4.3 bz2lib/1.0.8",
+    "exit_code": 0,
+    "stderr": "",
+    "verification": "Each regular member extracted byte count and SHA256 matched an independent bsdtar -xOf member stream; all images decoded and Pillow verify passed. Archive source and copy SHA256 matched."
+  },
+  "file_count": 39,
+  "image_count": 39,
+  "directory_count": 3,
+  "non_image_files": [],
+  "preview_notes": "Full images with original aspect ratio, no cropping, maximum 12 per PNG. Labels map to reference_id. Tall composites reduced to fit; originals remain in extracted/.",
+  "limitations": [
+    "Contact sheets are navigation aids; tall composite images require opening originals for details.",
+    "No OCR or semantic review performed. No scripts or document instructions executed."
+  ],
+  "members": [
+    {
+      "relative_path": "主图.jpg",
+      "bytes": 2806277,
+      "kind": "file",
+      "sha256": "589fc71c3ffca3b8c4b4041f570138b09904f9d3d1911e67a598a520d5ef480d",
+      "extracted_bytes": 2806277,
+      "archive_stream_sha256": "589fc71c3ffca3b8c4b4041f570138b09904f9d3d1911e67a598a520d5ef480d",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 4000,
+        "height": 1600,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A001",
+      "preview": {
+        "page": "previews/contact_sheet_01.png",
+        "cell": 1
+      }
+    },
+    {
+      "relative_path": "sku/主图_06.jpg",
+      "bytes": 331607,
+      "kind": "file",
+      "sha256": "7322e6cb6300f08ec40fee24691091880eb74a10d6fcb9bdba1f6715a67e1c07",
+      "extracted_bytes": 331607,
+      "archive_stream_sha256": "7322e6cb6300f08ec40fee24691091880eb74a10d6fcb9bdba1f6715a67e1c07",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 800,
+        "height": 800,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A002",
+      "preview": {
+        "page": "previews/contact_sheet_01.png",
+        "cell": 2
+      }
+    },
+    {
+      "relative_path": "sku/主图_07.jpg",
+      "bytes": 333171,
+      "kind": "file",
+      "sha256": "a03b30dfc08c4fa3509a3f20dc7e2d934b4d741dcff0fc41d03c0f1fbfb9de7a",
+      "extracted_bytes": 333171,
+      "archive_stream_sha256": "a03b30dfc08c4fa3509a3f20dc7e2d934b4d741dcff0fc41d03c0f1fbfb9de7a",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 800,
+        "height": 800,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A003",
+      "preview": {
+        "page": "previews/contact_sheet_01.png",
+        "cell": 3
+      }
+    },
+    {
+      "relative_path": "sku/主图_08.jpg",
+      "bytes": 338887,
+      "kind": "file",
+      "sha256": "741811c6add34bc9afd0f49043a5ba262a779e81a3492d4a852cd197e3d9c6e0",
+      "extracted_bytes": 338887,
+      "archive_stream_sha256": "741811c6add34bc9afd0f49043a5ba262a779e81a3492d4a852cd197e3d9c6e0",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 800,
+        "height": 800,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A004",
+      "preview": {
+        "page": "previews/contact_sheet_01.png",
+        "cell": 4
+      }
+    },
+    {
+      "relative_path": "sku/主图_09.jpg",
+      "bytes": 347884,
+      "kind": "file",
+      "sha256": "323f1fb7cc367d496316c3402a64848bccdc77d90fce10fcdfe5990d0dffe5b9",
+      "extracted_bytes": 347884,
+      "archive_stream_sha256": "323f1fb7cc367d496316c3402a64848bccdc77d90fce10fcdfe5990d0dffe5b9",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 800,
+        "height": 800,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A005",
+      "preview": {
+        "page": "previews/contact_sheet_01.png",
+        "cell": 5
+      }
+    },
+    {
+      "relative_path": "详情/详情_01.jpg",
+      "bytes": 300375,
+      "kind": "file",
+      "sha256": "e4bd2d1ab17bf4f62cebbb235535aff5e27058a8fbecfbf2a924b835674bdd40",
+      "extracted_bytes": 300375,
+      "archive_stream_sha256": "e4bd2d1ab17bf4f62cebbb235535aff5e27058a8fbecfbf2a924b835674bdd40",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 790,
+        "height": 941,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A006",
+      "preview": {
+        "page": "previews/contact_sheet_01.png",
+        "cell": 6
+      }
+    },
+    {
+      "relative_path": "详情/详情_02.jpg",
+      "bytes": 224518,
+      "kind": "file",
+      "sha256": "d825f0e18de89a851cce4f656fd8127a15c11cb7834dfa8d4aacf4d7bf1b6c4f",
+      "extracted_bytes": 224518,
+      "archive_stream_sha256": "d825f0e18de89a851cce4f656fd8127a15c11cb7834dfa8d4aacf4d7bf1b6c4f",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 790,
+        "height": 597,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A007",
+      "preview": {
+        "page": "previews/contact_sheet_01.png",
+        "cell": 7
+      }
+    },
+    {
+      "relative_path": "详情/详情_03.jpg",
+      "bytes": 365096,
+      "kind": "file",
+      "sha256": "585d978887eb1dc864fbd241b1770eedb0c6101c84e74e3b87badc3837d57124",
+      "extracted_bytes": 365096,
+      "archive_stream_sha256": "585d978887eb1dc864fbd241b1770eedb0c6101c84e74e3b87badc3837d57124",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 790,
+        "height": 1096,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A008",
+      "preview": {
+        "page": "previews/contact_sheet_01.png",
+        "cell": 8
+      }
+    },
+    {
+      "relative_path": "详情/详情_04.jpg",
+      "bytes": 394841,
+      "kind": "file",
+      "sha256": "1d2a95b1ee312ebc60030fd77298fb866d80c667ff09030418f9c91176c66999",
+      "extracted_bytes": 394841,
+      "archive_stream_sha256": "1d2a95b1ee312ebc60030fd77298fb866d80c667ff09030418f9c91176c66999",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 790,
+        "height": 1150,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A009",
+      "preview": {
+        "page": "previews/contact_sheet_01.png",
+        "cell": 9
+      }
+    },
+    {
+      "relative_path": "详情/详情_05.jpg",
+      "bytes": 183119,
+      "kind": "file",
+      "sha256": "e53a1578612c5555ca7890691a7fd4809ddda57fde6eb61dc6b60cba6a8e736a",
+      "extracted_bytes": 183119,
+      "archive_stream_sha256": "e53a1578612c5555ca7890691a7fd4809ddda57fde6eb61dc6b60cba6a8e736a",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 790,
+        "height": 437,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A010",
+      "preview": {
+        "page": "previews/contact_sheet_01.png",
+        "cell": 10
+      }
+    },
+    {
+      "relative_path": "详情/详情_06.jpg",
+      "bytes": 382460,
+      "kind": "file",
+      "sha256": "e2cda2131c18bd64f09d764a86d8f7773fb0d6bfaf5eb85d171408a5b97b2d23",
+      "extracted_bytes": 382460,
+      "archive_stream_sha256": "e2cda2131c18bd64f09d764a86d8f7773fb0d6bfaf5eb85d171408a5b97b2d23",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 790,
+        "height": 1168,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A011",
+      "preview": {
+        "page": "previews/contact_sheet_01.png",
+        "cell": 11
+      }
+    },
+    {
+      "relative_path": "详情/详情_07.jpg",
+      "bytes": 243077,
+      "kind": "file",
+      "sha256": "169d803bde733117614618dc14199f127fe91daa180eb0d8d4d675f44acd53d0",
+      "extracted_bytes": 243077,
+      "archive_stream_sha256": "169d803bde733117614618dc14199f127fe91daa180eb0d8d4d675f44acd53d0",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 790,
+        "height": 1109,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A012",
+      "preview": {
+        "page": "previews/contact_sheet_01.png",
+        "cell": 12
+      }
+    },
+    {
+      "relative_path": "详情/详情_08.jpg",
+      "bytes": 146370,
+      "kind": "file",
+      "sha256": "298309080a72cbc29ce18f3041f45ee9931e09a958c31a57fecce423bb4dfaa8",
+      "extracted_bytes": 146370,
+      "archive_stream_sha256": "298309080a72cbc29ce18f3041f45ee9931e09a958c31a57fecce423bb4dfaa8",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 790,
+        "height": 430,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A013",
+      "preview": {
+        "page": "previews/contact_sheet_02.png",
+        "cell": 1
+      }
+    },
+    {
+      "relative_path": "详情/详情_09.jpg",
+      "bytes": 267960,
+      "kind": "file",
+      "sha256": "fe989b00dab0d409b52650d1b36bb5eb436db23e6a336fd5b7ca1670dbe70217",
+      "extracted_bytes": 267960,
+      "archive_stream_sha256": "fe989b00dab0d409b52650d1b36bb5eb436db23e6a336fd5b7ca1670dbe70217",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 790,
+        "height": 737,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A014",
+      "preview": {
+        "page": "previews/contact_sheet_02.png",
+        "cell": 2
+      }
+    },
+    {
+      "relative_path": "详情/详情_10.jpg",
+      "bytes": 287070,
+      "kind": "file",
+      "sha256": "fa96028c43b3bf55a0900f8417c9964f6243bd3f1fd85ad95bd635d1a5775602",
+      "extracted_bytes": 287070,
+      "archive_stream_sha256": "fa96028c43b3bf55a0900f8417c9964f6243bd3f1fd85ad95bd635d1a5775602",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 790,
+        "height": 737,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A015",
+      "preview": {
+        "page": "previews/contact_sheet_02.png",
+        "cell": 3
+      }
+    },
+    {
+      "relative_path": "详情/详情_11.jpg",
+      "bytes": 291649,
+      "kind": "file",
+      "sha256": "44703903c1931a1efb3b0b2e57869679d3a1b495d84a64c84f20edafe116b8a6",
+      "extracted_bytes": 291649,
+      "archive_stream_sha256": "44703903c1931a1efb3b0b2e57869679d3a1b495d84a64c84f20edafe116b8a6",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 790,
+        "height": 970,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A016",
+      "preview": {
+        "page": "previews/contact_sheet_02.png",
+        "cell": 4
+      }
+    },
+    {
+      "relative_path": "详情/详情_12.jpg",
+      "bytes": 446510,
+      "kind": "file",
+      "sha256": "44250c946ff9e810b534a30797a94859550a60b9d79382d7fd04a8c607bb23ee",
+      "extracted_bytes": 446510,
+      "archive_stream_sha256": "44250c946ff9e810b534a30797a94859550a60b9d79382d7fd04a8c607bb23ee",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 790,
+        "height": 1113,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A017",
+      "preview": {
+        "page": "previews/contact_sheet_02.png",
+        "cell": 5
+      }
+    },
+    {
+      "relative_path": "详情/详情_13.jpg",
+      "bytes": 260113,
+      "kind": "file",
+      "sha256": "0e4d10d99370247e604cb2aef27b918ace843a76f204074752079ccbd9f54f4d",
+      "extracted_bytes": 260113,
+      "archive_stream_sha256": "0e4d10d99370247e604cb2aef27b918ace843a76f204074752079ccbd9f54f4d",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 790,
+        "height": 819,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A018",
+      "preview": {
+        "page": "previews/contact_sheet_02.png",
+        "cell": 6
+      }
+    },
+    {
+      "relative_path": "详情/详情_14.jpg",
+      "bytes": 325120,
+      "kind": "file",
+      "sha256": "136ef1ac88fccea833d80996b92cfd5ec1b8d7789be620d10400a822d9c0ffb0",
+      "extracted_bytes": 325120,
+      "archive_stream_sha256": "136ef1ac88fccea833d80996b92cfd5ec1b8d7789be620d10400a822d9c0ffb0",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 790,
+        "height": 976,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A019",
+      "preview": {
+        "page": "previews/contact_sheet_02.png",
+        "cell": 7
+      }
+    },
+    {
+      "relative_path": "详情/详情_15.jpg",
+      "bytes": 208083,
+      "kind": "file",
+      "sha256": "80c0f2df083f06cb2f3eb89eeee27a21b9969213f3f693035b559a25736ed034",
+      "extracted_bytes": 208083,
+      "archive_stream_sha256": "80c0f2df083f06cb2f3eb89eeee27a21b9969213f3f693035b559a25736ed034",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 790,
+        "height": 625,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A020",
+      "preview": {
+        "page": "previews/contact_sheet_02.png",
+        "cell": 8
+      }
+    },
+    {
+      "relative_path": "详情/详情_16.jpg",
+      "bytes": 308200,
+      "kind": "file",
+      "sha256": "c3e243b6999c8dae442bfa296546970ebfb3f06d627f4641da49e6f6e91143ea",
+      "extracted_bytes": 308200,
+      "archive_stream_sha256": "c3e243b6999c8dae442bfa296546970ebfb3f06d627f4641da49e6f6e91143ea",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 790,
+        "height": 1030,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A021",
+      "preview": {
+        "page": "previews/contact_sheet_02.png",
+        "cell": 9
+      }
+    },
+    {
+      "relative_path": "详情/详情_17.jpg",
+      "bytes": 360770,
+      "kind": "file",
+      "sha256": "da6affcc2c5c3f47587bf7daea09a2492884da0059cf7df0d630f2eb2ac07dbf",
+      "extracted_bytes": 360770,
+      "archive_stream_sha256": "da6affcc2c5c3f47587bf7daea09a2492884da0059cf7df0d630f2eb2ac07dbf",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 790,
+        "height": 1205,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A022",
+      "preview": {
+        "page": "previews/contact_sheet_02.png",
+        "cell": 10
+      }
+    },
+    {
+      "relative_path": "详情/详情_18.jpg",
+      "bytes": 348393,
+      "kind": "file",
+      "sha256": "2159c43045000b669ed3d67e26ab674910a41adaad67d1da40f3c5de0923fb6c",
+      "extracted_bytes": 348393,
+      "archive_stream_sha256": "2159c43045000b669ed3d67e26ab674910a41adaad67d1da40f3c5de0923fb6c",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 790,
+        "height": 1007,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A023",
+      "preview": {
+        "page": "previews/contact_sheet_02.png",
+        "cell": 11
+      }
+    },
+    {
+      "relative_path": "详情/详情_19.jpg",
+      "bytes": 291391,
+      "kind": "file",
+      "sha256": "5e8e8e5d4b5a20eb1866e2746a0a8dc5795e11c43414e1dca1e2e97edc1b0cdd",
+      "extracted_bytes": 291391,
+      "archive_stream_sha256": "5e8e8e5d4b5a20eb1866e2746a0a8dc5795e11c43414e1dca1e2e97edc1b0cdd",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 790,
+        "height": 1034,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A024",
+      "preview": {
+        "page": "previews/contact_sheet_02.png",
+        "cell": 12
+      }
+    },
+    {
+      "relative_path": "详情/详情_20.jpg",
+      "bytes": 382655,
+      "kind": "file",
+      "sha256": "3f746d882e83ad3646d5fd6a8638414dd425c0e03a3b2c5962406d0f1143888e",
+      "extracted_bytes": 382655,
+      "archive_stream_sha256": "3f746d882e83ad3646d5fd6a8638414dd425c0e03a3b2c5962406d0f1143888e",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 790,
+        "height": 1062,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A025",
+      "preview": {
+        "page": "previews/contact_sheet_03.png",
+        "cell": 1
+      }
+    },
+    {
+      "relative_path": "详情/详情_21.jpg",
+      "bytes": 147088,
+      "kind": "file",
+      "sha256": "fef953c92593aa7192faf6522ace726912f253276891ce03f1d0c82fe0b43455",
+      "extracted_bytes": 147088,
+      "archive_stream_sha256": "fef953c92593aa7192faf6522ace726912f253276891ce03f1d0c82fe0b43455",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 790,
+        "height": 580,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A026",
+      "preview": {
+        "page": "previews/contact_sheet_03.png",
+        "cell": 2
+      }
+    },
+    {
+      "relative_path": "详情/详情_22.jpg",
+      "bytes": 359301,
+      "kind": "file",
+      "sha256": "7d8e57cebe77dcb02d4e46c4ddcc31da89bb5fc39e1441553fe5348c7c3f5ae3",
+      "extracted_bytes": 359301,
+      "archive_stream_sha256": "7d8e57cebe77dcb02d4e46c4ddcc31da89bb5fc39e1441553fe5348c7c3f5ae3",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 790,
+        "height": 1109,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A027",
+      "preview": {
+        "page": "previews/contact_sheet_03.png",
+        "cell": 3
+      }
+    },
+    {
+      "relative_path": "详情/详情_23.jpg",
+      "bytes": 303298,
+      "kind": "file",
+      "sha256": "1db582f01465a49b001b4186d34eef4713266c69a732d546880b5e49a30d758b",
+      "extracted_bytes": 303298,
+      "archive_stream_sha256": "1db582f01465a49b001b4186d34eef4713266c69a732d546880b5e49a30d758b",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 790,
+        "height": 843,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A028",
+      "preview": {
+        "page": "previews/contact_sheet_03.png",
+        "cell": 4
+      }
+    },
+    {
+      "relative_path": "详情/详情_24.jpg",
+      "bytes": 209942,
+      "kind": "file",
+      "sha256": "44d52287c3c2baf66eb3251c88b52baa1578fb8b844283f7801f7ba878b09ab4",
+      "extracted_bytes": 209942,
+      "archive_stream_sha256": "44d52287c3c2baf66eb3251c88b52baa1578fb8b844283f7801f7ba878b09ab4",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 790,
+        "height": 820,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A029",
+      "preview": {
+        "page": "previews/contact_sheet_03.png",
+        "cell": 5
+      }
+    },
+    {
+      "relative_path": "详情/详情_25.jpg",
+      "bytes": 298374,
+      "kind": "file",
+      "sha256": "ca3662cbfa3073d2359d705f4d67e3520acb42d2fc5bc136197e92d26a217417",
+      "extracted_bytes": 298374,
+      "archive_stream_sha256": "ca3662cbfa3073d2359d705f4d67e3520acb42d2fc5bc136197e92d26a217417",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 790,
+        "height": 856,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A030",
+      "preview": {
+        "page": "previews/contact_sheet_03.png",
+        "cell": 6
+      }
+    },
+    {
+      "relative_path": "详情/详情_26.jpg",
+      "bytes": 167083,
+      "kind": "file",
+      "sha256": "4b84d28ac5d4d91ac9e5565962d219a18bcd106073520505f7c77d443ba134ea",
+      "extracted_bytes": 167083,
+      "archive_stream_sha256": "4b84d28ac5d4d91ac9e5565962d219a18bcd106073520505f7c77d443ba134ea",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 790,
+        "height": 905,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A031",
+      "preview": {
+        "page": "previews/contact_sheet_03.png",
+        "cell": 7
+      }
+    },
+    {
+      "relative_path": "详情/详情_27.jpg",
+      "bytes": 135424,
+      "kind": "file",
+      "sha256": "876375ecfc0fe01f87c19948d24d8349faa2aba2c1d42c192fc64c6d384b7303",
+      "extracted_bytes": 135424,
+      "archive_stream_sha256": "876375ecfc0fe01f87c19948d24d8349faa2aba2c1d42c192fc64c6d384b7303",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 790,
+        "height": 1034,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A032",
+      "preview": {
+        "page": "previews/contact_sheet_03.png",
+        "cell": 8
+      }
+    },
+    {
+      "relative_path": "详情/详情_28.jpg",
+      "bytes": 57956,
+      "kind": "file",
+      "sha256": "fdd68b0dad49cfa6ef02495cdf02640d26d12b46d1f4abdba0f456dc4fce088d",
+      "extracted_bytes": 57956,
+      "archive_stream_sha256": "fdd68b0dad49cfa6ef02495cdf02640d26d12b46d1f4abdba0f456dc4fce088d",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 790,
+        "height": 553,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A033",
+      "preview": {
+        "page": "previews/contact_sheet_03.png",
+        "cell": 9
+      }
+    },
+    {
+      "relative_path": "主图/主图_01.jpg",
+      "bytes": 363621,
+      "kind": "file",
+      "sha256": "c9eb34ab7c3930539b2a7393aedfad97e3c00fd5f4165a1972d4e54207d7a663",
+      "extracted_bytes": 363621,
+      "archive_stream_sha256": "c9eb34ab7c3930539b2a7393aedfad97e3c00fd5f4165a1972d4e54207d7a663",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 800,
+        "height": 800,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A034",
+      "preview": {
+        "page": "previews/contact_sheet_03.png",
+        "cell": 10
+      }
+    },
+    {
+      "relative_path": "主图/主图_02.jpg",
+      "bytes": 271928,
+      "kind": "file",
+      "sha256": "6357f10b2f0eae6e794b6aeae7854b6059b54cb6c4a93c333ef1072f39111d1a",
+      "extracted_bytes": 271928,
+      "archive_stream_sha256": "6357f10b2f0eae6e794b6aeae7854b6059b54cb6c4a93c333ef1072f39111d1a",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 800,
+        "height": 800,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A035",
+      "preview": {
+        "page": "previews/contact_sheet_03.png",
+        "cell": 11
+      }
+    },
+    {
+      "relative_path": "主图/主图_03.jpg",
+      "bytes": 367949,
+      "kind": "file",
+      "sha256": "207e1e845fbf9c2e4ac93d14a8d622a712325e927de5f42f62f260edfee2b4c5",
+      "extracted_bytes": 367949,
+      "archive_stream_sha256": "207e1e845fbf9c2e4ac93d14a8d622a712325e927de5f42f62f260edfee2b4c5",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 800,
+        "height": 800,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A036",
+      "preview": {
+        "page": "previews/contact_sheet_03.png",
+        "cell": 12
+      }
+    },
+    {
+      "relative_path": "主图/主图_04.jpg",
+      "bytes": 336148,
+      "kind": "file",
+      "sha256": "6f7891d876e8a86844b71144d182fb0aa2fde908c59d4199801affc32fcfb985",
+      "extracted_bytes": 336148,
+      "archive_stream_sha256": "6f7891d876e8a86844b71144d182fb0aa2fde908c59d4199801affc32fcfb985",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 800,
+        "height": 800,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A037",
+      "preview": {
+        "page": "previews/contact_sheet_04.png",
+        "cell": 1
+      }
+    },
+    {
+      "relative_path": "主图/主图_05.jpg",
+      "bytes": 89614,
+      "kind": "file",
+      "sha256": "32584bc1f2be07bc6e076cbbe6c24c70b11d949244e035918567de9977591ab4",
+      "extracted_bytes": 89614,
+      "archive_stream_sha256": "32584bc1f2be07bc6e076cbbe6c24c70b11d949244e035918567de9977591ab4",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 800,
+        "height": 800,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A038",
+      "preview": {
+        "page": "previews/contact_sheet_04.png",
+        "cell": 2
+      }
+    },
+    {
+      "relative_path": "详情.jpg",
+      "bytes": 7725493,
+      "kind": "file",
+      "sha256": "d98ba50a25ef2539520b91e4d494969ccfe32e613730aa2d6d8e43983618436f",
+      "extracted_bytes": 7725493,
+      "archive_stream_sha256": "d98ba50a25ef2539520b91e4d494969ccfe32e613730aa2d6d8e43983618436f",
+      "integrity_verified": true,
+      "image": {
+        "format": "JPEG",
+        "width": 790,
+        "height": 25920,
+        "mode": "RGB"
+      },
+      "readable": true,
+      "document_kind": null,
+      "reference_id": "A039",
+      "preview": {
+        "page": "previews/contact_sheet_04.png",
+        "cell": 3
+      }
+    },
+    {
+      "relative_path": "sku",
+      "bytes": 0,
+      "kind": "directory",
+      "verified_directory": true
+    },
+    {
+      "relative_path": "详情",
+      "bytes": 0,
+      "kind": "directory",
+      "verified_directory": true
+    },
+    {
+      "relative_path": "主图",
+      "bytes": 0,
+      "kind": "directory",
+      "verified_directory": true
+    }
+  ]
+}

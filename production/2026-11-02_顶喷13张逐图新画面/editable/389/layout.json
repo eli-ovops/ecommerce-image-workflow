@@ -1,0 +1,89 @@
+{
+  "text": [
+    {
+      "text": "提拉",
+      "x": 805,
+      "y": 65,
+      "size": 120,
+      "color": "#0c1720",
+      "font": "Heiti SC"
+    },
+    {
+      "text": "除垢",
+      "x": 805,
+      "y": 218,
+      "size": 120,
+      "color": "#0c1720",
+      "font": "Heiti SC"
+    },
+    {
+      "text": "长方形顶喷",
+      "x": 765,
+      "y": 390,
+      "size": 65,
+      "color": "#0c1720",
+      "font": "Heiti SC"
+    },
+    {
+      "text": "约30×20cm",
+      "x": 797,
+      "y": 529,
+      "size": 42,
+      "color": "#17212a",
+      "font": "Heiti SC"
+    },
+    {
+      "text": "中央红钮",
+      "x": 825,
+      "y": 640,
+      "size": 48,
+      "color": "#15212a",
+      "font": "Heiti SC"
+    },
+    {
+      "text": "向外提拉",
+      "x": 825,
+      "y": 719,
+      "size": 48,
+      "color": "#15212a",
+      "font": "Heiti SC"
+    },
+    {
+      "text": "银色长方形顶喷",
+      "x": 500,
+      "y": 1080,
+      "size": 68,
+      "color": "#fff7e9",
+      "font": "Heiti SC"
+    }
+  ],
+  "transforms": [
+    {
+      "source": "product372.png",
+      "angle": -10,
+      "xy": [
+        2,
+        35
+      ],
+      "size": [
+        775,
+        585
+      ],
+      "uniform": true
+    },
+    {
+      "source": "product372.png",
+      "angle": 83,
+      "xy": [
+        42,
+        585
+      ],
+      "size": [
+        391,
+        535
+      ],
+      "uniform": true
+    }
+  ],
+  "note": "参考389综合双主体构图、浴室主色和强标题。实拍整件只能保留现有视角，未添加水幕/支架/通用接口/增压等；动态安装主图覆盖不足，当前为静态版候选而非原参考完整复现。"
+}

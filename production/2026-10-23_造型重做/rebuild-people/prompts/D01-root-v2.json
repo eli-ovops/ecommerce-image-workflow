@@ -1,0 +1,17 @@
+{
+  "id": "D01",
+  "prompt": "Precise LOCAL PRODUCT ONLY correction to image1, preserve every pixel of both women identity/face/skin/hair/clothing/poses/hand/typography/blue layout/two scenes, no skin editing. ONLY rebuild upper large showerhead blackFACE interior surface that contains broken/mergedwhiteports and grayclosedloops aroundredcenter. Actualphoto2 is exact physical pattern: lowflush uniform circular whiteeyelets spaced distinct/clean, each with one rounddarkcenter; continuousmatte blackspace, fineblackoutermicroholerings, redraisedcenter ring unchanged; NOgrayblob/closedcaps/twinnedbrokeneyelets/streaks/whitepillars. Keep upperchrome outer silhouette/headangle/shallowSneck/grip and lowerbutton asimage1; don'tmoveproduct/person. Do nottouch lower scene. End actualsilverbarethread retained. Never turn circularhead into differentproduct. Alltext unchanged.",
+  "referenced_image_paths": [
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/D01-rebuild-v1.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/silver-side-v1.png"
+  ],
+  "actual_viewed_related_originals": [
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/D01-rebuild-v1.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/silver-side-v1.png"
+  ],
+  "date": "2026-10-23",
+  "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+  "status": "PREFLIGHT_COMPLETE"
+}

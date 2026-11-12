@@ -1,0 +1,2061 @@
+{
+  "route": {
+    "requested_model": "gpt-6-astra",
+    "requested_effort": "medium",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN",
+    "rules": "ROUTING-2026-10-13-v4"
+  },
+  "assets": [
+    {
+      "id": "M01",
+      "role": "银色白底素材",
+      "sku": "silver",
+      "reference_ids": [
+        "A038"
+      ],
+      "source_images": [],
+      "approved_claims": [],
+      "aspect": "1:1",
+      "target_dimensions": null,
+      "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/prompts/M01-v2.txt",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/M01.png",
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "issues": [],
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/M01-v2.png",
+      "reuse_source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_花洒套图/final/SIL-P01.png",
+      "sha256": "7b2908e389af894835329ab67a0cb13dff1720bf640c71208cf20d2c1cd93fcd",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "self_review": "Only bare thread recolored silver per user confirmation; actual image reviewed; limited independent QA passed.",
+      "user_acceptance": "PENDING",
+      "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/M01-v2.png",
+      "candidate_history": [
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/M01-reused-v1.png",
+          "sha256": "598e6aca38da8c3d3947259d6a7a328a6e0d4d9f347cae16303e7c252127368e",
+          "qa_status": "HISTORIC_PASS_WITH_LIMITATIONS_SUPERSEDED_BY_USER_THREAD_COLOR_CONFIRMATION",
+          "preserved": true
+        }
+      ],
+      "selected_revision": "v2",
+      "tool_output_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-db4f3e0e-04dc-4ea7-b2cd-ae42570f4d8f.png",
+      "thread_color_status": "USER_CONFIRMED_SILVER",
+      "derivation": {
+        "parent": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/M01-reused-v1.png",
+        "parent_sha256": "598e6aca38da8c3d3947259d6a7a328a6e0d4d9f347cae16303e7c252127368e",
+        "operation": "image_gen local bare-thread recolor",
+        "same_bytes_as_parent": false
+      },
+      "reuse_note": "Original reused-v1 remains byte-identical to historical SIL-P01; current v2 is a local edited derivative, not byte-identical."
+    },
+    {
+      "id": "M02",
+      "role": "棕金单品广告",
+      "sku": "silver",
+      "reference_ids": [
+        "R001",
+        "R009"
+      ],
+      "source_images": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184345_91_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg"
+      ],
+      "approved_claims": [
+        "3 modes; manually pressed central descaling button; lower selector; silver single shower"
+      ],
+      "aspect": "1:1",
+      "target_dimensions": [
+        1536,
+        1536
+      ],
+      "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/prompts/M02-v3.txt",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/M02.png",
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "issues": [],
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/M02-v3.png",
+      "tool_output_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-2a20a378-25ad-4c43-800c-e11ac64b1bd2.png",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "13dab4ac3f6d164f3474154421ae426a639afa7ac13754f34119c3ebed6b2167",
+      "self_review": "Only bare thread recolored silver per user confirmation; actual image reviewed; limited independent QA passed.",
+      "candidates": [
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/M02-v1.png",
+          "sha256": "6b42427d7303ff5a18b738e6cb75bc3536a1cf8e638ba72f4c250f05d43c4299",
+          "qa_status": "NEEDS_FIX",
+          "issue": "Domed white nozzle rings"
+        }
+      ],
+      "user_acceptance": "PENDING",
+      "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/M02-v3.png",
+      "candidate_history": [
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/M02-v2.png",
+          "sha256": "ffe41c8b241876d67709d1794884e9119933be5a01cb2085fbcfd3ce699068e4",
+          "qa_status": "HISTORIC_PASS_WITH_LIMITATIONS_SUPERSEDED_BY_USER_THREAD_COLOR_CONFIRMATION",
+          "preserved": true
+        }
+      ],
+      "selected_revision": "v3",
+      "thread_color_status": "USER_CONFIRMED_SILVER",
+      "derivation": {
+        "parent": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/M02-v2.png",
+        "parent_sha256": "ffe41c8b241876d67709d1794884e9119933be5a01cb2085fbcfd3ce699068e4",
+        "operation": "image_gen local bare-thread recolor",
+        "same_bytes_as_parent": false
+      }
+    },
+    {
+      "id": "M03",
+      "role": "冷蓝双视角广告",
+      "sku": "silver",
+      "reference_ids": [
+        "A034"
+      ],
+      "source_images": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184344_90_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184355_94_2.jpg"
+      ],
+      "approved_claims": [
+        "Silver single shower",
+        "Three modes; lower key changes modes",
+        "Manual central red button assists descaling"
+      ],
+      "aspect": "1:1",
+      "target_dimensions": [
+        1536,
+        1536
+      ],
+      "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/prompts/M03-v3.txt",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/M03.png",
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "issues": [],
+      "tool_references": [
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/主图/主图_01.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184344_90_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184355_94_2.jpg"
+      ],
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/M03-v3.png",
+      "tool_output_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-b66098d4-a2a8-4d2e-8a2d-ccfb75698c88.png",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "ee97ef49f90f269a9dd571a0a7418ada6b7745692ea77db4edff02f62990965c",
+      "candidate_history": [
+        {
+          "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/M03-v1.png",
+          "sha256": "68f351c3e5e624acf8d8dfd2c24e69e5ad903fdcf1e1a27a9baab6b22c926f35",
+          "qa_status": "SELF_REVIEW_NEEDS_FIX",
+          "issues": [
+            "Main unpressed view shows red centers in nearly all holes; should retain dark centers as real 93. Inset may retain sparse tiny red dots."
+          ]
+        },
+        {
+          "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/M03-v2.png",
+          "sha256": "3879043dcf151f98e0f4a94d8206c5703f0d13191e38ccec7e6a9abbe92330ac",
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "Rear shell imported raised wedge/spine from A034; restore real 90 continuous smooth shell."
+          ]
+        }
+      ],
+      "selected_revision": 3,
+      "user_acceptance": "PENDING",
+      "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/M03-v3.png"
+    },
+    {
+      "id": "M04",
+      "role": "手持主图与三水型窗",
+      "sku": "silver",
+      "reference_ids": [
+        "R002",
+        "A036"
+      ],
+      "source_images": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184402_99_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184358_96_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184357_95_2.jpg"
+      ],
+      "approved_claims": [
+        "三档出水：常规、喷雾、混合",
+        "下方按键切档"
+      ],
+      "aspect": "1:1",
+      "target_dimensions": [
+        1536,
+        1536
+      ],
+      "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/prompts/M04-v2.txt",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/M04.png",
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "issues": [],
+      "tool_references": [
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/01_微信参考原图/R002_功能_四档出水.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184402_99_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184358_96_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184357_95_2.jpg"
+      ],
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/M04-v2.png",
+      "tool_output_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-036ddcce-ebf5-4f94-9cbe-9511d66aae96.png",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "ef1337db50fcab9727dd9588961fbc2301ff7de44c6be53469e5f28f835259f2",
+      "candidate_history": [
+        {
+          "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/M04-v1.png",
+          "sha256": "703d93ee5c1ffaa1bc6325fe95be3077974c107369e6f9f3a6cd35605116b0b2",
+          "qa_status": "SELF_REVIEW_NEEDS_FIX",
+          "issues": [
+            "Main face has isolated grey ghost ring near x818 y351, above-left of red button."
+          ]
+        }
+      ],
+      "selected_revision": 2,
+      "user_acceptance": "PENDING",
+      "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/M04-v2.png"
+    },
+    {
+      "id": "M05",
+      "role": "冷蓝除垢近景主图",
+      "sku": "silver",
+      "reference_ids": [
+        "A035"
+      ],
+      "source_images": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184355_94_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg"
+      ],
+      "approved_claims": [],
+      "aspect": "1:1",
+      "target_dimensions": [
+        1536,
+        1536
+      ],
+      "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/prompts/M05-v1.txt",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/M05.png",
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "issues": [
+        "短红针为可见外观示意；不宣称定量清洁效果"
+      ],
+      "selected_revision": "v1",
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/M05-v1.png",
+      "tool_output_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-83215b33-7cd7-4446-b5e8-e31c55a12c26.png",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "fe7b1c626258e7591d2333e8a853da3b066ed9eaa20cff3406a559f141100a8b",
+      "user_acceptance": "PENDING",
+      "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/M05-v1.png"
+    },
+    {
+      "id": "M06",
+      "role": "场景与SKU同屏",
+      "sku": "silver",
+      "reference_ids": [
+        "R008"
+      ],
+      "source_images": [
+        "/Volumes/EXTERNAL/电商 作图工作流/models/M001/master-v1.png",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184402_99_2.jpg"
+      ],
+      "approved_claims": [],
+      "aspect": "1:1",
+      "target_dimensions": [
+        1536,
+        1536
+      ],
+      "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/prompts/M06-v3.txt",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/M06.png",
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "issues": [
+        "人物仅场景表达，非测试证据"
+      ],
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/M06-v3.png",
+      "tool_output_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-effca126-23f8-4ed5-89b0-b0100b750879.png",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "607bd5cee3ec66eae98c9ba14bdf6eb71e05acfd79fa20747d325df9217305c3",
+      "candidate_history": [
+        {
+          "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/M06-v1.png",
+          "sha256": "3135ad615ccddefc391993737229059d2cde2930e520265d7434da6f39aebe71",
+          "qa_status": "SELF_REVIEW_NEEDS_FIX",
+          "issues": [
+            "右栏单品多处白环附近灰白碎影，需按93定向清理"
+          ]
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/M06-v2.png",
+          "sha256": "75be562b53f46d88712c711d98c19e84544650f3c7c04fef0b93e11740dce931",
+          "qa_status": "HISTORIC_PASS_WITH_LIMITATIONS_SUPERSEDED_BY_USER_THREAD_COLOR_CONFIRMATION",
+          "preserved": true
+        }
+      ],
+      "selected_revision": "v3",
+      "user_acceptance": "PENDING",
+      "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/M06-v3.png",
+      "self_review": "Bare thread recolored silver; minor generated layout shift does not break split hierarchy. Limited QA passed.",
+      "thread_color_status": "USER_CONFIRMED_SILVER",
+      "derivation": {
+        "parent": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/M06-v2.png",
+        "parent_sha256": "75be562b53f46d88712c711d98c19e84544650f3c7c04fef0b93e11740dce931",
+        "operation": "image_gen local bare-thread recolor",
+        "same_bytes_as_parent": false
+      }
+    },
+    {
+      "id": "M07",
+      "role": "暗底冲击主视觉",
+      "sku": "silver",
+      "reference_ids": [
+        "R004"
+      ],
+      "source_images": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184345_91_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184402_99_2.jpg"
+      ],
+      "approved_claims": [
+        "三档出水",
+        "下方按键切换"
+      ],
+      "aspect": "1:1",
+      "target_dimensions": [
+        1536,
+        1536
+      ],
+      "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/prompts/M07-v3.txt",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/M07.png",
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "issues": [],
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/M07-v3.png",
+      "tool_output_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-4e546951-d444-4adb-9c29-5775f81fd0ec.png",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "1a6026830bb3696645794676215c52ed015d906040513f5367f9a5cb5f94ccab",
+      "candidate_history": [
+        {
+          "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/M07-v1.png",
+          "sha256": "b8b0c3e2fb0b2297abfbbebe5d59c12bad8346a8895300dd4f2c279dff30baad",
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "红钮右上及右下有灰黑幽灵孔；未喷水白孔仍偏凸珠，应按93压平为低平独立白环"
+          ],
+          "tool_output_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-8fd6aeb1-bee3-4aa3-942b-90253d0cff92.png"
+        },
+        {
+          "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/M07-v2.png",
+          "sha256": "122be6ab91f61f9d6c2fd833ec21ca50aa6f8b966023054159b6c4ab374e7d68",
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "三条水线端点落在红钮，需移除错误水束"
+          ],
+          "tool_output_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-c5847792-7a1a-40d3-8fa8-df727f8c8867.png"
+        }
+      ],
+      "selected_revision": "v3",
+      "user_acceptance": "PENDING",
+      "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/M07-v3.png"
+    },
+    {
+      "id": "M08",
+      "role": "三项概览卡",
+      "sku": "silver",
+      "reference_ids": [
+        "R012"
+      ],
+      "source_images": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184355_94_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184402_99_2.jpg"
+      ],
+      "approved_claims": [
+        "三档出水",
+        "下方按键切换出水档位",
+        "中央红钮手动按压辅助除垢"
+      ],
+      "aspect": "750:796",
+      "target_dimensions": [
+        1500,
+        1592
+      ],
+      "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/prompts/M08-v2.txt",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/M08.png",
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "issues": [
+        "低对比暗痕未形成新孔或凸嘴，独审不列必修；不解释为实物结构"
+      ],
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/M08-v2.png",
+      "tool_output_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-6309683e-47ab-460f-a214-03500d688508.png",
+      "actual_dimensions": [
+        1216,
+        1293
+      ],
+      "sha256": "e5781bed8f170b7abcd020f395a2eb09c0daf07ed3682fd62781ebccd2b5123d",
+      "candidate_history": [
+        {
+          "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/M08-v1.png",
+          "sha256": "275f1b079ccb2168684e8e784dad43702dfa662f0a38c2a4800e4372ff2db6d6",
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "中栏白孔灰白碎影/粘连，右栏白孔偏凸且全红孔心需恢复部分暗孔"
+          ],
+          "tool_output_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-a1a0a994-520f-4e35-b2b0-ab65c6d06891.png"
+        }
+      ],
+      "selected_revision": "v2",
+      "user_acceptance": "PENDING",
+      "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/M08-v2.png"
+    },
+    {
+      "id": "K01",
+      "role": "银色选色SKU",
+      "sku": "silver",
+      "reference_ids": [
+        "A002",
+        "A005"
+      ],
+      "source_images": [
+        "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/K02.png",
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/sku/主图_06.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184345_91_2.jpg"
+      ],
+      "approved_claims": [
+        "银色",
+        "单花洒"
+      ],
+      "aspect": "1:1",
+      "target_dimensions": [
+        1536,
+        1536
+      ],
+      "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/prompts/K01-v6.txt",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/K01.png",
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "issues": [],
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/K01-v6.png",
+      "tool_output_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-83022256-8e16-4444-808c-2bf5d37c1bc9.png",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "1601f0b8fd3bb9583e1032f47719d3c443b393c2cc1b74394d5bdd64eb452f88",
+      "candidate_history": [
+        {
+          "revision": "v2",
+          "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/K01-v2.png",
+          "sha256": "a07de04a00aa8fa8567aedce9e716bdeaa48321202da09c22a2e1ef09d352d6c",
+          "actual_dimensions": [
+            1254,
+            1254
+          ],
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "灰黑幽灵圆环仍存在，编辑未有效清除"
+          ],
+          "tool_output_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-66b648a3-9422-4064-82fd-514bbb9b0517.png"
+        },
+        {
+          "revision": "v3",
+          "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/K01-v3.png",
+          "sha256": "84cea2ff31450ac77ced1ef57f2d41f21c05f7244bec6b24f9042aff9d660a93",
+          "actual_dimensions": [
+            1254,
+            1254
+          ],
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "局部清理第二次仍保留明确暗圆环"
+          ],
+          "tool_output_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-bcbba20d-b5b1-4a0b-9908-e2847f8e6ea7.png"
+        },
+        {
+          "revision": "v4",
+          "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/K01-v4.png",
+          "sha256": "02c62c380bf97446dbdc7bf7673ffa5e87eb108f9aaa8896b64db1d7408b53e8",
+          "actual_dimensions": [
+            1254,
+            1254
+          ],
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "内面板白环重排但仍有暗环，停止使用此缺陷图编辑链"
+          ],
+          "tool_output_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-e79f80f1-3c2b-453d-81d6-125d51fb6082.png"
+        },
+        {
+          "revision": "v5",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/K01-v5.png",
+          "sha256": "4d3cef222a647f7b8183b328f8f7dda115939b7580677ecd0f217bcc4636ad4d",
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "下键周围三角面板误成银色，实拍为黑色；待集中QA"
+          ]
+        }
+      ],
+      "selected_revision": "v6",
+      "user_acceptance": "PENDING",
+      "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/K01-v6.png"
+    },
+    {
+      "id": "K02",
+      "role": "黑色选色SKU",
+      "sku": "black",
+      "reference_ids": [
+        "A003"
+      ],
+      "source_images": [
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/sku/主图_07.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185739_102_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185740_103_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185803_104_2.jpg"
+      ],
+      "approved_claims": [],
+      "aspect": "1:1",
+      "target_dimensions": [
+        1536,
+        1536
+      ],
+      "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/prompts/K02-v1.txt",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/K02.png",
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "issues": [
+        "三色组一致性待K01/K03最终对比；黑字作为选定组版式"
+      ],
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/K02-v1.png",
+      "tool_output_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-6362b54e-c90c-40f5-abac-94a5f4751443.png",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "a53a0230db1997fce3f97369583051cd9ecbce273b10727348a14302e38ddd37",
+      "selected_revision": "v1",
+      "user_acceptance": "PENDING",
+      "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/K02-v1.png"
+    },
+    {
+      "id": "K03",
+      "role": "枪灰选色SKU",
+      "sku": "gunmetal",
+      "reference_ids": [
+        "A004"
+      ],
+      "source_images": [
+        "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/K02-v1.png",
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/sku/主图_08.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/枪灰色/原图/微信图片_20261022185804_106_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/枪灰色/原图/微信图片_20261022185805_107_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/枪灰色/原图/微信图片_20261022185807_111_2.jpg"
+      ],
+      "approved_claims": [],
+      "aspect": "1:1",
+      "target_dimensions": [
+        1536,
+        1536
+      ],
+      "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/prompts/K03-v1.txt",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/K03.png",
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "issues": [],
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/K03-v1.png",
+      "tool_output_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-618626d3-c135-4008-b2cf-2547d9790119.png",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "sha256": "f67cadbe92921e727cacbe0e197497104190b2955cac5e8997bce4c49fcc0179",
+      "selected_revision": "v1",
+      "user_acceptance": "PENDING",
+      "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/K03-v1.png"
+    },
+    {
+      "id": "D01",
+      "role": "时尚人物首屏",
+      "sku": "silver",
+      "reference_ids": [
+        "A006",
+        "A007"
+      ],
+      "source_images": [
+        "/Volumes/EXTERNAL/电商 作图工作流/models/M001/master-v1.png",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184345_91_2.jpg"
+      ],
+      "approved_claims": [
+        "3 modes; lower button changes mode"
+      ],
+      "aspect": "790:1538",
+      "target_dimensions": [
+        1580,
+        3076
+      ],
+      "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/prompts/D01-v3.txt",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/D01.png",
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "issues": [],
+      "section_proportions": {
+        "A006": 0.61,
+        "A007": 0.39
+      },
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D01-v3.png",
+      "tool_output_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-66baae62-201c-4bf8-a69a-88f9f58b4ced.png",
+      "actual_dimensions": [
+        900,
+        1748
+      ],
+      "sha256": "94554ee729ee91671132256d1523a198ea50dd8e6d4763a5bbd5c572e7ef64b4",
+      "candidate_history": [
+        {
+          "revision": 1,
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D01-v1.png",
+          "sha256": "365523749c0ea1ef338ce2b2d3c02c93fc0629219cb4a9d22ef108ea7475f6b6",
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "Merged white rings"
+          ]
+        },
+        {
+          "revision": 2,
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D01-v2.png",
+          "sha256": "c7413546ee70c5774b008d29431c99d165c5d7bcc650164320505d8e5fe72e44",
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "Residual gray-white ghost fragments"
+          ]
+        }
+      ],
+      "selected_revision": 3,
+      "user_acceptance": "PENDING",
+      "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D01-v3.png"
+    },
+    {
+      "id": "D03",
+      "role": "错落三色相册",
+      "sku": "silver",
+      "reference_ids": [
+        "A008"
+      ],
+      "source_images": [
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_03.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185739_102_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/枪灰色/原图/微信图片_20261022185804_106_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg"
+      ],
+      "approved_claims": [],
+      "aspect": "近790:1096",
+      "target_dimensions": null,
+      "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/prompts/D03-v4.txt",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/D03.png",
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "issues": [
+        "Silver thread color UNKNOWN; concealed, not evidence."
+      ],
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D03-v4.png",
+      "tool_output_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-621bfcdb-b82c-4f0b-91f7-ad69f44729d9.png",
+      "actual_dimensions": [
+        1065,
+        1477
+      ],
+      "sha256": "773748153e89acc4cf34ab59019c5dd2d26a5549364ef977ba07dc643eb64439",
+      "candidate_history": [
+        {
+          "revision": "v1",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D03-v1.png",
+          "sha256": "681525446187a3d2ef6a4aa42d2d813ec198eb970624c090f044b8d5eba8ad1f",
+          "issues": [
+            "White nozzle beads and phantom dark rings across all three panels; restore flat annuli and clean interstitial black surface."
+          ]
+        },
+        {
+          "revision": "v2",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D03-v2.png",
+          "sha256": "fd2c734c95c604a6de8330900ac8c8e90a144fd3ce5e3be3bedb25869b1e0071",
+          "issues": [
+            "Top false buttons removed and white annuli flattened; dark ghost rings still remain around all central buttons."
+          ]
+        },
+        {
+          "revision": "v3",
+          "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D03-v3.png",
+          "sha256": "eb590de9e5a9c3d1b38ac0c7699ad4b2b012b91e91c555ef88d6754d92a75060",
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "Silver selector surround incorrectly silver instead of continuous black triangle; silver handle ending concealed by deletion not natural overlap; check residual tiny ring artifacts with QA."
+          ]
+        },
+        {
+          "revision": "v4",
+          "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D03-v4.png",
+          "sha256": "773748153e89acc4cf34ab59019c5dd2d26a5549364ef977ba07dc643eb64439",
+          "qa_status": "SELF_REVIEWED_PENDING_INDEPENDENT_QA",
+          "issues": [
+            "QA to check silver lower end occlusion; no confirmed thread color shown."
+          ]
+        }
+      ],
+      "user_acceptance": "PENDING",
+      "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D03-v4.png"
+    },
+    {
+      "id": "D04",
+      "role": "bathroom foreground-background plus macro strip",
+      "sku": "silver",
+      "reference_ids": [
+        "A009",
+        "A010"
+      ],
+      "source_images": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184402_99_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg"
+      ],
+      "approved_claims": [
+        "handheld shower context only"
+      ],
+      "aspect": "790:1400",
+      "target_dimensions": [
+        1010,
+        1790
+      ],
+      "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/prompts/D04-v2.txt",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/D04.png",
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "issues": [
+        "Complex water highlights obscure some outlets; not precise hole count evidence."
+      ],
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D04-v2.png",
+      "actual_dimensions": [
+        942,
+        1669
+      ],
+      "sha256": "1e80135da2dabb830e79ec48bc9fd35971e6becc0d579b31c725d55298f4a9b4",
+      "candidate_history": [
+        {
+          "revision": "v1",
+          "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D04-v1.png",
+          "sha256": "5a59bdf9c5f75630af4a646fbaedc2eac32635b5eadacc1cfab6eadb9d390e7e",
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "White outlets protruding cylinders in main and lower strip; missing lower selector and black triangle; red button shape needs actual reference."
+          ]
+        },
+        {
+          "revision": "v2",
+          "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D04-v2.png",
+          "sha256": "1e80135da2dabb830e79ec48bc9fd35971e6becc0d579b31c725d55298f4a9b4",
+          "qa_status": "PASS_WITH_LIMITATIONS",
+          "issues": []
+        }
+      ],
+      "user_acceptance": "PENDING",
+      "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D04-v2.png"
+    },
+    {
+      "id": "D05",
+      "role": "五格功能与外观索引",
+      "sku": "silver",
+      "reference_ids": [
+        "A011",
+        "R017"
+      ],
+      "source_images": [],
+      "approved_claims": [],
+      "aspect": "近790:1168",
+      "target_dimensions": null,
+      "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/prompts/D05-v2.txt",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/D05.png",
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "issues": [
+        "Subtle annular edge shadows remain, not protruding bead geometry."
+      ],
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D05-v2.png",
+      "actual_dimensions": [
+        1030,
+        1526
+      ],
+      "sha256": "a09498beb4cf2deb3dd08a95f8486e59692880677653945fbd6b659221522192",
+      "candidate_history": [
+        {
+          "revision": "v1",
+          "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D05-v1.png",
+          "sha256": "56bbabfd520652ef8133ffddf2299e525e6a2e92ac51f6c8205a43110d322417",
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "Macro white annuli appear more convex than real 93; targeted independent judgment pending."
+          ]
+        },
+        {
+          "revision": "v2",
+          "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D05-v2.png",
+          "sha256": "a09498beb4cf2deb3dd08a95f8486e59692880677653945fbd6b659221522192",
+          "qa_status": "PASS_WITH_LIMITATIONS",
+          "issues": []
+        }
+      ],
+      "user_acceptance": "PENDING",
+      "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D05-v2.png"
+    },
+    {
+      "id": "D06",
+      "role": "water origins macro with low angle strip",
+      "sku": "silver",
+      "reference_ids": [
+        "A012",
+        "A013",
+        "R007"
+      ],
+      "source_images": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184402_99_2.jpg"
+      ],
+      "approved_claims": [
+        "three modes index",
+        "external appearance"
+      ],
+      "aspect": "790:1100",
+      "target_dimensions": [
+        1080,
+        1504
+      ],
+      "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/prompts/D06-v2.txt",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/D06.png",
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "issues": [
+        "Water overlap not usable for exact outlet count"
+      ],
+      "candidates": [
+        {
+          "revision": "v1",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D06-v1.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-949ad231-248f-48f0-be89-80d22889bb3f.png",
+          "sha256": "0cc3714dec35afbb364d5710237ddbed02c95c44cfa5afe6b8d35d22e56b31d6",
+          "actual_dimensions": [
+            1063,
+            1479
+          ],
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "upper white rings overly rounded; flatten to actual93; check water origins near red button"
+          ]
+        },
+        {
+          "revision": "v2",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D06-v2.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-57e08bab-1513-4b8d-b6e8-591c4b687c00.png",
+          "sha256": "503c2382f2572428d25221f12af5282eb12811d4bb81a3a9c2a3282fabe5f1b8",
+          "actual_dimensions": [
+            1063,
+            1479
+          ],
+          "qa_status": "PASS_WITH_LIMITATIONS",
+          "issues": [
+            "water overlap limits exact counting"
+          ]
+        }
+      ],
+      "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D06-v2.png",
+      "sha256": "503c2382f2572428d25221f12af5282eb12811d4bb81a3a9c2a3282fabe5f1b8",
+      "actual_dimensions": [
+        1063,
+        1479
+      ],
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D07",
+      "role": "large held head lower-key location plus independent dual-button cards",
+      "sku": "silver",
+      "reference_ids": [
+        "A014",
+        "A015",
+        "R025",
+        "A020",
+        "R020",
+        "R021",
+        "R005"
+      ],
+      "source_images": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg"
+      ],
+      "approved_claims": [
+        "three mode names",
+        "lower key selects mode",
+        "central red button manually assists descaling"
+      ],
+      "aspect": "790:2099",
+      "target_dimensions": [
+        790,
+        2099
+      ],
+      "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/prompts/D07-v4.txt",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/D07.png",
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "issues": [
+        "Hole arrangement is not a measured exact reproduction; no exact count claim"
+      ],
+      "candidates": [
+        {
+          "revision": "v1",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D07-v1.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-5db6d94f-fa22-464b-bd29-23211febc6dd.png",
+          "sha256": "ab53ce5432fe8bc9981a1fd5b0e2698daf2939a6d02986076213c3635a7a8f63",
+          "actual_dimensions": [
+            770,
+            2043
+          ],
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "Main face ghost ring patterns and white smears; macro rings too inflated"
+          ]
+        },
+        {
+          "revision": "v2",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D07-v2.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-a45fad42-6df3-4971-892b-aa7d16a7e8ed.png",
+          "sha256": "179e19df1fd1748117981107323fd0967f1dd2cde5b92d40a57778f96749fb99",
+          "actual_dimensions": [
+            770,
+            2043
+          ],
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "Residual low contrast edge marks and macro annular volume require targeted QA"
+          ]
+        },
+        {
+          "revision": "v3",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D07-v3.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-359bfac7-e6d2-4eba-a130-065e22662182.png",
+          "sha256": "c704f258d1335cd30fe7b5fcf968722e7edb566ab699511f70ac8d0f816b97ab",
+          "actual_dimensions": [
+            770,
+            2043
+          ],
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "Persistent dark ghost rings and new lower-left merged white pair; stop localized erase chain, reconstruct main face from actual 93"
+          ]
+        },
+        {
+          "revision": "v4",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D07-v4.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-d50d1567-385c-4869-ae16-66cf4e43306c.png",
+          "sha256": "b22a39eff7cc361ffb4052de730d9543a2fccb0c7f10ced6172f5e65bedf5d87",
+          "actual_dimensions": [
+            770,
+            2042
+          ],
+          "qa_status": "PASS_WITH_LIMITATIONS",
+          "issues": []
+        }
+      ],
+      "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D07-v4.png",
+      "sha256": "b22a39eff7cc361ffb4052de730d9543a2fccb0c7f10ced6172f5e65bedf5d87",
+      "actual_dimensions": [
+        770,
+        2042
+      ],
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D08",
+      "role": "三档黑底水型章",
+      "sku": "silver",
+      "reference_ids": [
+        "A016",
+        "A017",
+        "A018",
+        "R023"
+      ],
+      "source_images": [
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_11.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184402_99_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184358_96_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184357_95_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/K01.png"
+      ],
+      "approved_claims": [
+        "01 常规出水",
+        "02 喷雾出水",
+        "03 混合出水",
+        "下方按键 切换三档"
+      ],
+      "aspect": "790:1300",
+      "target_dimensions": [
+        790,
+        1300
+      ],
+      "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/prompts/D08-v1.txt",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/D08.png",
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "issues": [],
+      "candidates": [
+        {
+          "revision": "v1",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D08-v1.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-ce8970bd-8376-4a73-b7b0-273698b9f4ff.png",
+          "sha256": "c1ec89b8bc5efc3af0b22ab4023c931d4621e13b4db7503916b7c77336470676",
+          "actual_dimensions": [
+            978,
+            1608
+          ],
+          "qa_status": "PASS_WITH_LIMITATIONS",
+          "issues": [
+            "Water overlaps red button in regular and mixed cards; confirm origins during visual QA"
+          ]
+        }
+      ],
+      "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D08-v1.png",
+      "sha256": "c1ec89b8bc5efc3af0b22ab4023c931d4621e13b4db7503916b7c77336470676",
+      "actual_dimensions": [
+        978,
+        1608
+      ],
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D11",
+      "role": "two independent wordless lifestyle scenes incl D09",
+      "sku": "silver",
+      "reference_ids": [
+        "A021",
+        "R026"
+      ],
+      "source_images": [
+        "/Volumes/EXTERNAL/电商 作图工作流/models/M001/master-v1.png",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184402_99_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg"
+      ],
+      "approved_claims": [],
+      "aspect": "790:2006",
+      "target_dimensions": [
+        790,
+        2006
+      ],
+      "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/prompts/D11-v2.txt",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/D11.png",
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "issues": [],
+      "candidates": [
+        {
+          "revision": "v1",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D11-v1.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-1ff09df0-dd38-484d-9de6-185eaa4a7899.png",
+          "sha256": "4192bfeabecff5fabec3db04310ee2d1ae3c45ce668aa47b990aa0351843ccbe",
+          "actual_dimensions": [
+            787,
+            1997
+          ],
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "Ribbed coupling-like neck segment introduced from reference product; restore actual continuous silver neck and correct lower key"
+          ]
+        },
+        {
+          "revision": "v2",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D11-v2.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-9c6bba87-ff4f-4161-a43c-35ab229ec8b4.png",
+          "sha256": "befa88c38309a058617a3d6a6e46550fd5d8fb8f409f38b5c5fd15d492220dfa",
+          "actual_dimensions": [
+            788,
+            1996
+          ],
+          "qa_status": "PASS_WITH_LIMITATIONS",
+          "issues": []
+        }
+      ],
+      "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D11-v2.png",
+      "sha256": "befa88c38309a058617a3d6a6e46550fd5d8fb8f409f38b5c5fd15d492220dfa",
+      "actual_dimensions": [
+        788,
+        1996
+      ],
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D12",
+      "role": "正背外观并置",
+      "sku": "silver",
+      "reference_ids": [
+        "A022"
+      ],
+      "source_images": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184344_90_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg"
+      ],
+      "approved_claims": [
+        "front and back appearance"
+      ],
+      "aspect": "近790:1000",
+      "target_dimensions": [
+        1264,
+        1600
+      ],
+      "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/prompts/D12-v4.txt",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/D12.png",
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "issues": [],
+      "candidates": [
+        {
+          "revision": "v1",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D12-v1.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-8b0e47fc-23e4-419e-943b-7b6c4df6a8e9.png",
+          "sha256": "3e46f59e01cbd029047fb004ce0c2497a2b6681e8692806b48a14bfc67cb3ca9",
+          "actual_dimensions": [
+            1115,
+            1411
+          ],
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "Possible weak dark ring outlines near lower inner perimeter; QA to assess."
+          ]
+        },
+        {
+          "revision": "v2",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D12-v2.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-9f9f9f00-c254-4ab6-b84e-2c5036fcdfe8.png",
+          "sha256": "33fa42c40f710cbba42f53372c2e8a651f9f42de16a7db6b0938b5b817513de2",
+          "actual_dimensions": [
+            1115,
+            1410
+          ],
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "Targeted ring cleanup ineffective; lower inner-edge dark closed circles remain."
+          ]
+        },
+        {
+          "revision": "v3",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D12-v3.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-c0d3f3b2-67e1-444c-b395-8db818ac7ad8.png",
+          "sha256": "d59fc902864c3be7f5175106a58af9ac1aeff8d7552e2a6b6cb6e689175f7a4f",
+          "actual_dimensions": [
+            1116,
+            1410
+          ],
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "Self review: original lower-left and lower-right ghost rings persist despite full face rebuild prompt. Next fresh layout generation must omit defective candidate entirely."
+          ]
+        },
+        {
+          "revision": "v4",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D12-v4.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-a7363ef2-2c8f-459b-b79d-1d0cf34eba25.png",
+          "sha256": "9c7a949d0c1060cd23f37adf1d8b535b3f4c88f8b583792d3b06fc23640fb72e",
+          "actual_dimensions": [
+            1115,
+            1411
+          ],
+          "qa_status": "PASS_WITH_LIMITATIONS",
+          "issues": [
+            "Fresh reconstruction excludes defective candidate. Faint low-contrast inner-edge markings remain for independent judgment; original obvious lower double rings no longer dominate."
+          ]
+        }
+      ],
+      "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D12-v4.png",
+      "sha256": "9c7a949d0c1060cd23f37adf1d8b535b3f4c88f8b583792d3b06fc23640fb72e",
+      "actual_dimensions": [
+        1115,
+        1411
+      ],
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D13",
+      "role": "外部部位放大图",
+      "sku": "silver",
+      "reference_ids": [
+        "A023",
+        "A037"
+      ],
+      "source_images": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg"
+      ],
+      "approved_claims": [
+        "external visible details"
+      ],
+      "aspect": "近790:1007",
+      "target_dimensions": [
+        1264,
+        1611
+      ],
+      "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/prompts/D13-v2.txt",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/D13.png",
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "issues": [],
+      "candidates": [
+        {
+          "revision": "v1",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D13-v1.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-2e4a0eae-0411-4917-b9f9-6d9a01a75d49.png",
+          "sha256": "6943b774bf3b320e72172bcecf2545521c7bde4b8059471fc7d46b19b5a0e85e",
+          "actual_dimensions": [
+            1111,
+            1415
+          ],
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "White annuli too rounded on main face and top two macros; faint ghost rings around inner perimeter."
+          ]
+        },
+        {
+          "revision": "v2",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D13-v2.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-35769548-78c7-44ee-b1d3-b78af71b96a4.png",
+          "sha256": "da03e4ac1d4fe8204ee02032f5f0bdeeb5ac9eb4add5e6d1cf6f4a375b26a868",
+          "actual_dimensions": [
+            1111,
+            1416
+          ],
+          "qa_status": "PASS_WITH_LIMITATIONS",
+          "issues": [
+            "White ring volume reduced; faint dark substrate markings need independent targeted review."
+          ]
+        }
+      ],
+      "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D13-v2.png",
+      "sha256": "da03e4ac1d4fe8204ee02032f5f0bdeeb5ac9eb4add5e6d1cf6f4a375b26a868",
+      "actual_dimensions": [
+        1111,
+        1416
+      ],
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D14",
+      "role": "detail manual descaling operation and states",
+      "sku": "SIL",
+      "reference_ids": [
+        "A024",
+        "A025",
+        "A026"
+      ],
+      "source_images": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184355_94_2.jpg"
+      ],
+      "approved_claims": [
+        "Manual central red button descaling; short red plastic pins from corresponding holes"
+      ],
+      "aspect": "790:1300",
+      "target_dimensions": [
+        1264,
+        2080
+      ],
+      "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/prompts/D14-v5.txt",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/D14.png",
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "issues": [],
+      "candidates": [
+        {
+          "revision": "v1",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D14-v1.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-5aa99128-9c4b-4d08-928c-1c32ae7b76b3.png",
+          "sha256": "16ba81b0ce47aa426a93e7987b170ae1266b42289bbf8a127b186e49396d5816",
+          "actual_dimensions": [
+            977,
+            1610
+          ],
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "Multiple panels contain white fragments/doubled holes; macro rings too rounded and red pins too pointed; pressed lower state nearly all holes red instead of partial. Layout/text/operation correct."
+          ]
+        },
+        {
+          "revision": "v2",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D14-v2.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-3793f3bc-d6cd-4684-8fc4-580bb48f86dd.png",
+          "sha256": "943b265008b2fe1fbd3424bde61ebb3ffb00d2a0b7541fbecf2cb464b6e0668f",
+          "actual_dimensions": [
+            977,
+            1610
+          ],
+          "qa_status": "SELF_REVIEWED_PENDING_INDEPENDENT_QA",
+          "issues": [
+            "Top decorative head retains faint small light traces near red button; independent review requested. Macro rings reduced and partial red points restored."
+          ]
+        },
+        {
+          "revision": "v3",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D14-v3.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-8f15fb47-a577-4ea3-b575-b4cacf4132f6.png",
+          "sha256": "102a308acdd908f6c89efb30185b522627cc894465a20a3b17e74c9744098a71",
+          "actual_dimensions": [
+            977,
+            1610
+          ],
+          "qa_status": "SELF_REVIEWED_PENDING_INDEPENDENT_QA",
+          "issues": [
+            "Small residual light fleck above-left red button needs independent check."
+          ]
+        },
+        {
+          "revision": 4,
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D14-v4.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-b5821bec-f6fd-4b2f-bace-c120cc0f0a30.png",
+          "sha256": "e5de86d2a5abb95957933f400c6b0b804279a2b6d45af000d938e2671b3cc5f0",
+          "actual_dimensions": [
+            977,
+            1610
+          ],
+          "qa_status": "SELF_REVIEW_NEEDS_FIX",
+          "issues": [
+            "Top decorative inner face retains broken white fleck despite rebuild instruction; change decorative view to true back/side next."
+          ]
+        },
+        {
+          "revision": 5,
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D14-v5.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-f3133a34-09ad-4db5-bd47-65c5feda74e7.png",
+          "sha256": "193b7253b4647e6eb9e4598dd78e4459cff591fa90c0000c5339c61ec5981f59",
+          "actual_dimensions": [
+            977,
+            1609
+          ],
+          "qa_status": "PASS_WITH_LIMITATIONS",
+          "issues": [
+            "Decorative top view changed to real smooth rear view under root authorization; five operation/state panels preserved. Gray rear mark appearance only UNKNOWN nature."
+          ]
+        }
+      ],
+      "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D14-v5.png",
+      "sha256": "193b7253b4647e6eb9e4598dd78e4459cff591fa90c0000c5339c61ec5981f59",
+      "actual_dimensions": [
+        977,
+        1609
+      ],
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D15",
+      "role": "背面侧壁双景别",
+      "sku": "silver",
+      "reference_ids": [
+        "A027"
+      ],
+      "source_images": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184344_90_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184345_91_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg"
+      ],
+      "approved_claims": [],
+      "aspect": "790:1109",
+      "target_dimensions": [
+        1264,
+        1774
+      ],
+      "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/prompts/D15-v1.txt",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/D15.png",
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "issues": [],
+      "candidates": [
+        {
+          "revision": "v1",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D15-v1.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-bf973013-0749-473e-9bbe-31051642b9bd.png",
+          "sha256": "014f3f8aec2aeb30269cd69af626d386cd81dc0230815f24b31952196f6d8edc",
+          "actual_dimensions": [
+            1059,
+            1485
+          ],
+          "qa_status": "PASS_WITH_LIMITATIONS",
+          "issues": []
+        }
+      ],
+      "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D15-v1.png",
+      "sha256": "014f3f8aec2aeb30269cd69af626d386cd81dc0230815f24b31952196f6d8edc",
+      "actual_dimensions": [
+        1059,
+        1485
+      ],
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D16",
+      "role": "switching operation instructions",
+      "sku": "SIL",
+      "reference_ids": [
+        "A028",
+        "R032",
+        "R006"
+      ],
+      "source_images": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg"
+      ],
+      "approved_claims": [
+        "Three modes: regular, mist, mixed",
+        "Lower key switches modes"
+      ],
+      "aspect": "790:1000",
+      "target_dimensions": [
+        1264,
+        1600
+      ],
+      "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/prompts/D16-v2.txt",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/D16.png",
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "issues": [],
+      "candidates": [
+        {
+          "revision": 1,
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D16-v1.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-46e2d499-b4f9-4fc5-9d01-1a6112ea4b92.png",
+          "sha256": "7496e3a61bc767faec50f082656adff1fcc62fd2b9d85f97c6d8dd8a6a95faf2",
+          "actual_dimensions": [
+            1115,
+            1410
+          ],
+          "qa_status": "SELF_REVIEW_NEEDS_FIX",
+          "issues": [
+            "Main face has repeated broken white rings and horizontal ghost fragments; rebuild main face from clean mother, preserve key/hand/layout. Bottom dot icons are abstract but may imply mode hole layouts; replace with text-only names."
+          ]
+        },
+        {
+          "revision": 2,
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D16-v2.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-b0d4da12-3961-47d8-8095-306c7e3d4b11.png",
+          "sha256": "6f11a57b3905654bedc9d3985799896208b749fb29db5a8777cad1bb94f381f2",
+          "actual_dimensions": [
+            1116,
+            1410
+          ],
+          "qa_status": "PASS_WITH_LIMITATIONS",
+          "issues": [
+            "Main face rebuilt with clear discrete flat rings; bottom dot diagrams removed, names retained."
+          ]
+        }
+      ],
+      "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D16-v2.png",
+      "sha256": "6f11a57b3905654bedc9d3985799896208b749fb29db5a8777cad1bb94f381f2",
+      "actual_dimensions": [
+        1116,
+        1410
+      ],
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D17",
+      "role": "握柄与曲面细节",
+      "sku": "silver",
+      "reference_ids": [
+        "A029",
+        "A030",
+        "A031"
+      ],
+      "source_images": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184345_91_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg"
+      ],
+      "approved_claims": [
+        "手持",
+        "下方切档",
+        "中央按压除垢",
+        "银色手柄外观"
+      ],
+      "aspect": "近790:1200",
+      "target_dimensions": [
+        1264,
+        1920
+      ],
+      "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/prompts/D17-v2.txt",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/D17.png",
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "issues": [],
+      "candidates": [
+        {
+          "revision": "v1",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D17-v1.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-d797c6a8-c38c-4d7e-b4e7-ac1384cfaa02.png",
+          "sha256": "c54838cb4e81a54800882209115b2155872b89bc58a8df2cc056c90c6a29fde8",
+          "actual_dimensions": [
+            1017,
+            1546
+          ],
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "下静置面板白孔偏鼓，右上局部碎白重影；需低平化并清碎影"
+          ]
+        },
+        {
+          "revision": "v2",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D17-v2.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-93ed2083-53f1-470d-b84a-b3667640f33f.png",
+          "sha256": "84882e0c2eb9f803b1f4a8294e54bbc3871451cf7445f3a99c4c0115195228ee",
+          "actual_dimensions": [
+            1017,
+            1546
+          ],
+          "qa_status": "PASS_WITH_LIMITATIONS",
+          "issues": []
+        }
+      ],
+      "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D17-v2.png",
+      "sha256": "84882e0c2eb9f803b1f4a8294e54bbc3871451cf7445f3a99c4c0115195228ee",
+      "actual_dimensions": [
+        1017,
+        1546
+      ],
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D18",
+      "role": "B端已知信息收尾",
+      "sku": "silver",
+      "reference_ids": [
+        "A032",
+        "A033",
+        "R034"
+      ],
+      "source_images": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg"
+      ],
+      "approved_claims": [
+        "商品信息",
+        "三档手持花洒",
+        "银色 / 黑色 / 枪灰色",
+        "常规 / 喷雾 / 混合",
+        "下方按键切档",
+        "中央红钮手动按压辅助除垢",
+        "单花洒，不含软管和支架"
+      ],
+      "aspect": "近790:1200",
+      "target_dimensions": [
+        1264,
+        1920
+      ],
+      "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/prompts/D18-v2.txt",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/D18.png",
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "issues": [],
+      "candidates": [
+        {
+          "revision": "v1",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D18-v1.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-5a490cc8-a032-452d-8548-3ed2f30f19bf.png",
+          "sha256": "d59add6303991a8ee234731311a69901bce716768b0c1604860190d88da3a4e5",
+          "actual_dimensions": [
+            1018,
+            1544
+          ],
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "面板右上/右侧/左下若干白碎影及重影需清理"
+          ]
+        },
+        {
+          "revision": "v2",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D18-v2.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-2f6e9a32-2ada-4979-965d-a094dbe9362b.png",
+          "sha256": "a68e9ed11f8712b26f3ae5c1f4b4a77610fe6692fd083cff19e08d5dd5ebeedf",
+          "actual_dimensions": [
+            1019,
+            1544
+          ],
+          "qa_status": "PASS_WITH_LIMITATIONS",
+          "issues": []
+        }
+      ],
+      "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/D18-v2.png",
+      "sha256": "a68e9ed11f8712b26f3ae5c1f4b4a77610fe6692fd083cff19e08d5dd5ebeedf",
+      "actual_dimensions": [
+        1019,
+        1544
+      ],
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "V01",
+      "role": "暖木场景及独立棕金章节桥",
+      "sku": "silver",
+      "reference_ids": [
+        "R003",
+        "R013",
+        "R015",
+        "R018",
+        "R014",
+        "R030"
+      ],
+      "source_images": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184345_91_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184402_99_2.jpg"
+      ],
+      "approved_claims": [
+        "日常淋浴 手持呈现",
+        "中央红钮",
+        "下方按键",
+        "侧面轮廓",
+        "三档出水",
+        "下方切档",
+        "中央按压除垢"
+      ],
+      "aspect": "750:1900",
+      "target_dimensions": [
+        1200,
+        3040
+      ],
+      "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/prompts/V01-v2.txt",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/V01.png",
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "issues": [],
+      "candidates": [
+        {
+          "revision": "v1",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/V01-v1.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-15c0f669-80b5-4ce9-b9ec-419cc7f002e2.png",
+          "sha256": "421e48782f92fe14a379614256e93ed01efd1900dda0a73fb9c89bdc8a06090d",
+          "actual_dimensions": [
+            994,
+            1582
+          ],
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "三细节窗白孔凸珠/短柱，需压为93低平环；主下键读作暗镜面应核银面"
+          ]
+        },
+        {
+          "revision": "v2",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/V01-v2.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-19834683-f16c-4e21-bff9-e37adbe2c20e.png",
+          "sha256": "eb7a288e3f1e9a098f07df458bfa095b4062a1b661077f7ce0c58627627101f1",
+          "actual_dimensions": [
+            994,
+            1582
+          ],
+          "qa_status": "PASS_WITH_LIMITATIONS",
+          "issues": []
+        }
+      ],
+      "actual_section_review": "实际场景57%+三窗21%+独立棕金桥22%，桥有独立标题/胶囊与留白，目标比例未原生照回",
+      "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/V01-v2.png",
+      "sha256": "eb7a288e3f1e9a098f07df458bfa095b4062a1b661077f7ce0c58627627101f1",
+      "actual_dimensions": [
+        994,
+        1582
+      ],
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "V02",
+      "role": "干态人物切档时尚页",
+      "sku": "silver",
+      "reference_ids": [
+        "R022"
+      ],
+      "source_images": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg"
+      ],
+      "approved_claims": [
+        "下方切档",
+        "按键靠近手柄"
+      ],
+      "aspect": "750:1104",
+      "target_dimensions": [
+        1200,
+        1766
+      ],
+      "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/prompts/V02-v2.txt",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/V02.png",
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "issues": [],
+      "candidates": [
+        {
+          "revision": "v1",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/V02-v1.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-8ffe7069-ac9e-47d7-ad42-89cf850bb3fb.png",
+          "sha256": "c2368f0798e0497a5214b5e0b09536551ae0cca0cacae23e4de5911a74fc01d1",
+          "actual_dimensions": [
+            1034,
+            1521
+          ],
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "Repeated malformed white holes across face; rebuild inner panel from K01 and real93"
+          ]
+        },
+        {
+          "revision": "v2",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/V02-v2.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-2ebbee93-249a-40fc-9462-fa49c25250c9.png",
+          "sha256": "51ef16fd2848c03e6673be41232bd4e7b6ba7152e8d176feeb4ea486628f1cf7",
+          "actual_dimensions": [
+            1034,
+            1521
+          ],
+          "qa_status": "PASS_WITH_LIMITATIONS",
+          "issues": []
+        }
+      ],
+      "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/V02-v2.png",
+      "sha256": "51ef16fd2848c03e6673be41232bd4e7b6ba7152e8d176feeb4ea486628f1cf7",
+      "actual_dimensions": [
+        1034,
+        1521
+      ],
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "V03",
+      "role": "暗底多角度曲面展示",
+      "sku": "silver",
+      "reference_ids": [
+        "R027",
+        "R029"
+      ],
+      "source_images": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184344_90_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184345_91_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg"
+      ],
+      "approved_claims": [
+        "front side back exterior views"
+      ],
+      "aspect": "近750:1300",
+      "target_dimensions": [
+        1200,
+        2080
+      ],
+      "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/prompts/V03-v3.txt",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/V03.png",
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "issues": [],
+      "candidates": [
+        {
+          "revision": "v1",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/V03-v1.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-911c44eb-f9f2-4899-b4de-5d5e3b5b4394.png",
+          "sha256": "7cc35189354f87a11dc4261d5ed0c8eb39fb4521bee5bd5419b8b55bfb8a47de",
+          "actual_dimensions": [
+            954,
+            1649
+          ],
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "Front inner face orphan dark rings; back view exposes unknown silver thread, must naturally occlude."
+          ]
+        },
+        {
+          "revision": "v2",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/V03-v2.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-dc8e2f7d-019b-4ee9-8be1-3eacf0c8ee21.png",
+          "sha256": "33dbcea1f4330fb7d9e869635b94640524f2502acdbd048586c07148716fed64",
+          "actual_dimensions": [
+            954,
+            1649
+          ],
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "Rear endpoint now occluded; front lower white rings gained duplicate white flecks. Rebuild inner face from clean mother."
+          ]
+        },
+        {
+          "revision": "v3",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/V03-v3.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-82481c4d-dd6f-4cab-9322-d448d75b527f.png",
+          "sha256": "b2a619761e3d94daaf5c99548a65603b63145185955fa11842bd9bb589e9a91b",
+          "actual_dimensions": [
+            954,
+            1649
+          ],
+          "qa_status": "PASS_WITH_LIMITATIONS",
+          "issues": []
+        }
+      ],
+      "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/V03-v3.png",
+      "sha256": "b2a619761e3d94daaf5c99548a65603b63145185955fa11842bd9bb589e9a91b",
+      "actual_dimensions": [
+        954,
+        1649
+      ],
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "V04",
+      "role": "warm desert manual pressing detail",
+      "sku": "SIL",
+      "reference_ids": [
+        "R024",
+        "R028"
+      ],
+      "source_images": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184355_94_2.jpg"
+      ],
+      "approved_claims": [
+        "manual central red button pressing",
+        "short plastic red pins assist hole cleaning"
+      ],
+      "aspect": "750:1300",
+      "target_dimensions": [
+        1200,
+        2080
+      ],
+      "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/prompts/V04-v4.txt",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/V04.png",
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "issues": [],
+      "candidates": [
+        {
+          "revision": "v1",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/V04-v1.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-0c163739-7baf-4323-91f7-e0b8bcafd5c8.png",
+          "sha256": "5dce0640fc6dd07a45fa35790ccda50d8838a2a5a39b42b71ebdbb125b0c26ea",
+          "actual_dimensions": [
+            953,
+            1650
+          ],
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "Main face central broken white fragments and doubled holes; all panels white rings too rounded, flatten per93."
+          ]
+        },
+        {
+          "revision": "v2",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/V04-v2.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-1d2101ca-5dbd-46b4-a33c-82a08b75ee96.png",
+          "sha256": "a9cd71eae9a7e70cf67bb022350f4cffae9f4eaaa30dba02f4cafbe62da0051b",
+          "actual_dimensions": [
+            954,
+            1649
+          ],
+          "qa_status": "PENDING_INDEPENDENT_QA",
+          "issues": [
+            "Main center x600/y630 dark partial remnant and x720/y638 tiny pale mark need QA; white fragments otherwise cleared and rings flattened."
+          ]
+        },
+        {
+          "revision": "v3",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/V04-v3.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-7ce76ace-07f8-48d4-bb48-63a443e5419d.png",
+          "sha256": "ee9cd8ff9d018ec8fd6dc0201416f0823d35d696d4505feb787957d7a1d174b0",
+          "actual_dimensions": [
+            954,
+            1649
+          ],
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "dark half ring near600/630 persists; lower left card has new doubled white ring"
+          ]
+        },
+        {
+          "revision": "v4",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/V04-v4.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-63f1f5de-6062-4e50-b471-9f1afac62fcd.png",
+          "sha256": "5694aa1485d19ed281afb6af20808c0b2304deb37425944d0f20c1cd9bbb6f59",
+          "actual_dimensions": [
+            954,
+            1649
+          ],
+          "qa_status": "PASS_WITH_LIMITATIONS",
+          "issues": []
+        }
+      ],
+      "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/V04-v4.png",
+      "sha256": "5694aa1485d19ed281afb6af20808c0b2304deb37425944d0f20c1cd9bbb6f59",
+      "actual_dimensions": [
+        954,
+        1649
+      ],
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "V05",
+      "role": "岩石舞台单品",
+      "sku": "silver",
+      "reference_ids": [
+        "R033",
+        "R031"
+      ],
+      "source_images": [
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/01_微信参考原图/R033_规格_产品尺寸.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/01_微信参考原图/R031_配件_软管展示.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/K01.png",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184345_91_2.jpg"
+      ],
+      "approved_claims": [],
+      "aspect": "近750:1222",
+      "target_dimensions": [
+        1200,
+        1955
+      ],
+      "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/prompts/V05-v3.txt",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/V05.png",
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "issues": [],
+      "candidates": [
+        {
+          "revision": "v1",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/V05-v1.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-2cf46c1f-fe06-49cb-bddd-9f42c94ea2b9.png",
+          "sha256": "bb0eb4f676ef849598b041628ac80e1b0661fa8b6663f3d83ddbd3aa1f6d6be0",
+          "actual_dimensions": [
+            983,
+            1601
+          ],
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "main isolated dark ghost rings; macro white rings too rounded"
+          ]
+        },
+        {
+          "revision": "v2",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/V05-v2.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-3a1cae27-de19-4ddb-8f09-33abf8eb7469.png",
+          "sha256": "091a62b78bb8d3a364a4aff2cebda9431d1df3e26c90744c076968bd44f00225",
+          "actual_dimensions": [
+            983,
+            1601
+          ],
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "middle card ghost hole persists at378/1220; main dark isolated rings persist"
+          ]
+        },
+        {
+          "revision": "v3",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/V05-v3.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-8517a616-de2f-4515-b95d-992d7ad47354.png",
+          "sha256": "6bd048e7489f61054dc2112f4d2928528b15a76d33b4eb92835e295c383b4af2",
+          "actual_dimensions": [
+            983,
+            1601
+          ],
+          "qa_status": "PASS_WITH_LIMITATIONS",
+          "issues": [
+            "left macro ring volume needs independent judgment; faint edge texture not asserted as structure"
+          ]
+        }
+      ],
+      "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/V05-v3.png",
+      "sha256": "6bd048e7489f61054dc2112f4d2928528b15a76d33b4eb92835e295c383b4af2",
+      "actual_dimensions": [
+        983,
+        1601
+      ],
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "V06",
+      "role": "外观图鉴与买前问答",
+      "sku": "silver",
+      "reference_ids": [
+        "R010",
+        "R011",
+        "R016",
+        "R035"
+      ],
+      "source_images": [
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/01_微信参考原图/R011_品牌_甄选与承诺.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/01_微信参考原图/R035_服务_售后与水效标识.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/K01.png",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184344_90_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg"
+      ],
+      "approved_claims": [],
+      "aspect": "近790:1500",
+      "target_dimensions": [
+        1200,
+        2278
+      ],
+      "prompt": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/prompts/V06-v4.txt",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/final/V06.png",
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "issues": [],
+      "candidates": [
+        {
+          "revision": "v1",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/V06-v1.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-aee15cfb-1888-481a-94ee-e257a721907e.png",
+          "sha256": "717a75c4ffe0fe06bda72a4f89d35bcbc4c73248142da3946a3dfe909f7cf259",
+          "actual_dimensions": [
+            910,
+            1728
+          ],
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "main and frontal grid fragmented rings; macro bead volume; background shower hardware; exposed dark connector edge"
+          ]
+        },
+        {
+          "revision": "v2",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/V06-v2.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-d40f6e94-ca1b-4ac0-8eeb-388cec31c71a.png",
+          "sha256": "6781508fbdd9a41905aa6820e93a4fdb3603f68c0b39e3eb1565549401c03a4f",
+          "actual_dimensions": [
+            910,
+            1728
+          ],
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "主面板和六格正面白碎影仍在；主柄黑接口仍外露。背景配件已移除，宏观白环已压低。"
+          ]
+        },
+        {
+          "revision": "v3",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/V06-v3.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-9a1a30b3-d311-44f1-a890-bea8828a41fc.png",
+          "sha256": "266c11738f93ecb9eabf0a3730c11e1a80a319417402f91bcb2b58feff364f58",
+          "actual_dimensions": [
+            910,
+            1729
+          ],
+          "qa_status": "NEEDS_FIX",
+          "issues": [
+            "主面板白碎影未清、主柄末端仍露，下一版顶部改真实背视及掌部自然遮完整末端。"
+          ]
+        },
+        {
+          "revision": "v4",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/V06-v4.png",
+          "source_path": "/Users/USER/.codex/generated_images/01a16361-05a7-70e2-bfeb-2eb1f4c3f8ad/exec-3234533e-f88d-459a-a975-235f1b78ce96.png",
+          "sha256": "dea0772008f21286d9b982de3b497cafded3779c3e6f1ba6a8af10d3d6301fbe",
+          "actual_dimensions": [
+            910,
+            1729
+          ],
+          "qa_status": "PASS_WITH_LIMITATIONS",
+          "issues": []
+        }
+      ],
+      "selected_candidate": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/V06-v4.png",
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/generated/V06-v4.png",
+      "sha256": "dea0772008f21286d9b982de3b497cafded3779c3e6f1ba6a8af10d3d6301fbe",
+      "actual_dimensions": [
+        910,
+        1729
+      ],
+      "user_acceptance": "PENDING"
+    }
+  ]
+}

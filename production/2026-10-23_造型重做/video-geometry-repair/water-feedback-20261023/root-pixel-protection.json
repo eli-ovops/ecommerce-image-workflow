@@ -1,0 +1,34 @@
+{
+  "D04": {
+    "candidate_sha256": "e69f9dd6b66bd1b99a2ed29d95f963a0e4df6d4cddd45061e568a2023c3a9db6",
+    "outside_water_alpha_changed_pixels": 0,
+    "protected_boxes_changed_pixels": {
+      "face_body": 0,
+      "switch_grip": 0,
+      "lower_grip": 0,
+      "text": 0
+    },
+    "note": "Exact equality on lossless internal composite. Delivered JPG is lossy encoding."
+  },
+  "D06": {
+    "candidate_sha256": "7d4b331f9d04e15e2c547699c9f11e3129b4369eccb3d96967a8a8d22c21e14d",
+    "outside_water_alpha_changed_pixels": 0,
+    "protected_boxes_changed_pixels": {
+      "text": 0,
+      "left_mode_key": 0,
+      "lower_grip": 0
+    },
+    "note": "Exact equality on lossless internal composite. Delivered JPG is lossy encoding."
+  },
+  "D11": {
+    "candidate_sha256": "4f2e8e585a89fd833eaaf0906cb26ada8dda20d8146d11431ba2649417346008",
+    "outside_water_alpha_changed_pixels": 0,
+    "protected_boxes_changed_pixels": {
+      "upper_person": 0,
+      "lower_person": 0,
+      "upper_key_grip": 0,
+      "lower_key_grip": 0
+    },
+    "note": "Exact equality on lossless internal composite. Delivered JPG is lossy encoding."
+  }
+}

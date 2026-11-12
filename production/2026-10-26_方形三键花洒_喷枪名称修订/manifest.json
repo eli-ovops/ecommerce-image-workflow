@@ -1,0 +1,232 @@
+{
+  "count": 17,
+  "independent": 16,
+  "long_chapters": 12,
+  "long_size": [
+    1000,
+    13695
+  ],
+  "excluded": [
+    "M01:用户反馈长度仍错误，本轮从交付排除，旧文件保留。",
+    "D04/N01：用户要求从交付排除；历史目录及原包保留。"
+  ],
+  "items": [
+    {
+      "id": "D01",
+      "file": "JPG/D01_三键操作定位.jpg",
+      "size": [
+        1086,
+        1448
+      ],
+      "sha256": "121a88a6a4acd04c3d4a43910bc482b9e42b7aa5eb61800d27749e50ef962975",
+      "review": "LOCAL_TEXT_REVIEWED_PENDING_USER",
+      "customer_acceptance": "PENDING"
+    },
+    {
+      "id": "D02",
+      "file": "JPG/D02_心形面板.jpg",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "44105d26385db174c57244e8f5d57317e93e7e742305401e1ff193dc19d7ba14",
+      "review": "PRIOR_REVIEW_REUSED",
+      "customer_acceptance": "UNKNOWN"
+    },
+    {
+      "id": "D03",
+      "file": "JPG/D03_顶部激光水型.jpg",
+      "size": [
+        1000,
+        1333
+      ],
+      "sha256": "381ef48454063fd9a89ca38a71b6a7f1e81c1de1e552532aa54df445484acd39",
+      "review": "LOCAL_TEXT_REVIEWED_PENDING_USER",
+      "customer_acceptance": "PENDING"
+    },
+    {
+      "id": "D05",
+      "file": "JPG/D05_侧面弧线.jpg",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "eda75f95663d151332601317a851708fc251a68151350545c8182813736e3428",
+      "review": "PRIOR_REVIEW_REUSED",
+      "customer_acceptance": "REJECTED"
+    },
+    {
+      "id": "D06",
+      "file": "JPG/D06_顶部排孔.jpg",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "50ce18f0826c77713f7de96bd578edf1fad2c7720025671004c754fe863bab53",
+      "review": "ROOT_LOCAL_VISUAL_REVIEWED_PENDING_USER",
+      "customer_acceptance": "PENDING"
+    },
+    {
+      "id": "D07",
+      "file": "JPG/D07_三色选择.jpg",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "e6fcd86b913da16487b4a8b432d3cc2a1c8c41b67e07c890c9159fb800cfe692",
+      "review": "ROOT_LOCAL_VISUAL_REVIEWED_PENDING_USER",
+      "customer_acceptance": "PENDING"
+    },
+    {
+      "id": "D08",
+      "file": "JPG/D08_花洒水型.jpg",
+      "size": [
+        1000,
+        1333
+      ],
+      "sha256": "d7e116e0a4a6c456668bd91e30c9cf138a38ce891d83c6bd4a669d87addd6fe9",
+      "review": "PRIOR_REVIEW_REUSED",
+      "customer_acceptance": "UNKNOWN"
+    },
+    {
+      "id": "L01",
+      "file": "JPG/L01_完整长详情.jpg",
+      "size": [
+        1000,
+        13695
+      ],
+      "sha256": "6f870eec9d013cddec47804db4766d9bd2439a4425f0ce318f5f68d39dd459c5",
+      "review": "LOCAL_TEXT_REVIEWED_PENDING_USER",
+      "customer_acceptance": "PENDING"
+    },
+    {
+      "id": "M02",
+      "file": "JPG/M02_手持浴室广告.jpg",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "52c220ba60d19a682e0cd4a204eb206919b7e9721a4f514c3c3c833e8702b161",
+      "review": "ROOT_LOCAL_VISUAL_REVIEWED_PENDING_USER",
+      "customer_acceptance": "PENDING"
+    },
+    {
+      "id": "M03",
+      "file": "JPG/M03_黑金广告主图.jpg",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "163b4bc2a54e52f4c5291c367f49787005519b123fdd00e2667d8b33a566ca05",
+      "review": "ROOT_LOCAL_VISUAL_REVIEWED_PENDING_USER",
+      "customer_acceptance": "PENDING"
+    },
+    {
+      "id": "M04",
+      "file": "JPG/M04_正背双视角.jpg",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "64927824a3957bb605fc3efbc738981ecfe62bd9378b0c54746711b8a0fbc978",
+      "review": "ROOT_LOCAL_VISUAL_REVIEWED_PENDING_USER",
+      "customer_acceptance": "PENDING"
+    },
+    {
+      "id": "M05",
+      "file": "JPG/M05_三档水型对比.jpg",
+      "size": [
+        1000,
+        1800
+      ],
+      "sha256": "eabd629e7ffedae188567b3d426aa255f8008089069f320799c07a2a14561d93",
+      "review": "LOCAL_TEXT_REVIEWED_PENDING_USER",
+      "customer_acceptance": "PENDING"
+    },
+    {
+      "id": "N02",
+      "file": "JPG/N02_前侧厚边.jpg",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "c03a6a26c8f6d7bb328085cdfa5ce4bfcaee9c5aceb39ccabe9554207bdf1496",
+      "review": "PRIOR_REVIEW_REUSED",
+      "customer_acceptance": "UNKNOWN"
+    },
+    {
+      "id": "N03",
+      "file": "JPG/N03_顶槽背侧关系.jpg",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "78bdd93a86c9fe4de8e87c1c9a56df9a1a3573f848455da4076b7208ed6a876f",
+      "review": "ROOT_LOCAL_VISUAL_REVIEWED_PENDING_USER",
+      "customer_acceptance": "PENDING"
+    },
+    {
+      "id": "N04",
+      "file": "JPG/N04_拇指切换双状态.jpg",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "de9053252264db53a273f2ea774ec0266a0b6159e9ccf94653408ac5788da030",
+      "review": "PRIOR_REVIEW_REUSED",
+      "customer_acceptance": "REJECTED"
+    },
+    {
+      "id": "N05",
+      "file": "JPG/N05_按键与顶槽对应.jpg",
+      "size": [
+        1000,
+        1300
+      ],
+      "sha256": "fc5538ae2b394536da61fe1ab31683a16eafac9c49fdc6577e899e23da5aa42e",
+      "review": "ROOT_LOCAL_VISUAL_REVIEWED_PENDING_USER",
+      "customer_acceptance": "PENDING"
+    },
+    {
+      "id": "N06",
+      "file": "JPG/N06_握持与侧轮廓.jpg",
+      "size": [
+        994,
+        1254
+      ],
+      "sha256": "e51a5261962fcbc90ce925cda80c15aaa4e25e92cad64d528383d923528ca575",
+      "review": "LOCAL_VISUAL_REVIEWED_PENDING_USER",
+      "customer_acceptance": "PENDING"
+    }
+  ],
+  "limitations": [
+    "仅文字更新：D03顶部喷枪，D01/M05喷枪；历史ID和文件名保留。商品、水流和人物未重绘。既有图像与合成限制延续。"
+  ],
+  "optional_sku_zip": null,
+  "status": "TERM_CORRECTION_PENDING_USER",
+  "version_title": "喷枪名称修订",
+  "root_review": "局部实拍与成品对照，待用户复核，不代表精密几何标定或客户接受。",
+  "changes": {
+    "main_independent": [
+      "D01",
+      "D03",
+      "M05"
+    ],
+    "long_chapters": [
+      "M05"
+    ],
+    "unchanged_files": 13
+  },
+  "customer_acceptance": "PENDING",
+  "historical_source_revision_deleted": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-26_方形三键花洒_N06完整场景",
+  "retention": {
+    "date": "2026-10-26",
+    "user_authorized_cleanup": true,
+    "historical_production_deleted": 19,
+    "original_photo_video_deleted": true,
+    "downloads_original_paths_already_absent": 33,
+    "editable_assets": "编辑源/说明.md",
+    "cleanup_receipt": "/Volumes/EXTERNAL/电商 作图工作流/workflow/收尾-20261026_方形三键花洒/执行回执.json",
+    "limitations": "仅保留现有最终合成编辑能力，不保留原始实拍、失败候选或旧辅助模型。新角度或重新抠图须重新取得实拍。"
+  }
+}

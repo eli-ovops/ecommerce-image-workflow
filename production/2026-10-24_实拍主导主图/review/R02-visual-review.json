@@ -1,0 +1,33 @@
+{
+  "status": "PASS",
+  "asset_id": "R02",
+  "candidate_sha256": "75ad6d53764ce9e3f3712264ad32c39a1fc4160ab32221d55996830071de1b11",
+  "jpg_sha256": "0f151260bbb504d3f0543958fe2e612ff3871dfb06140dc39f894518e3ca25d3",
+  "appearance_source_sha256": [
+    "6de02f19793c568c799762525475cd0241af1b9c41487580383be4efbd2a1fa2",
+    "8d41d23e8e762b1e9208796587c36db70ea8e452ee2e3fdd3604f97c7f40dd60",
+    "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90"
+  ],
+  "secondary_geometry_reference": {
+    "path": "production/2026-10-24_实物建模/blender/v010a/renders/strict_side.jpg",
+    "sha256": "87b0d943d94882adf26b46b88b1a52d0012f9780aedac3d6c571d7fcff1b4eeb"
+  },
+  "reviewer": "root",
+  "reviewed_at": "2026-10-24T21:17:58.230207+08:00",
+  "finding": "Actually compared final JPG after copy relocation with silver front/side photos, R001 diagonal warm advertisement and R033 brown/gold rock lighting. Silver product stays readable under warm environment; original red center and lower silver switch retained. One small deformed ring repaired by reusing actual tool-generated patch, external PNG pixels unchanged. At extreme enlargement minor local black-face tone variation remains but no obvious seam at normal size. Full product not cropped; title, three mode names and silver/single-head label readable in dark left space. No model, accessory, size or unverified gain/filter claim. Stylized generated photograph; not exact physical reproduction.",
+  "checks": {
+    "photo_appearance": "PASS",
+    "geometry": "PASS",
+    "reference_style": "PASS",
+    "copy": "PASS",
+    "no_model": "PASS",
+    "export": "PASS"
+  },
+  "independent_layout_review": {
+    "path": "production/2026-10-24_实拍主导主图/review/independent-layout-review.json",
+    "sha256": "23c5bf182800dc0b21a5fe8dd6d4c12a0eac21878e3f282009f95ee36f0aa9bb"
+  },
+  "exact_pixel_identity_to_real_photo": false,
+  "hard_shape_lock": false,
+  "client_acceptance": "NOT_RECEIVED"
+}

@@ -1,0 +1,103 @@
+{
+  "source_model": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v010a/shower_black_clay_v010a.blend",
+  "source_model_sha256": "e3de47e1ddd7ee4741d2a698e8fb22078839297c0834f6bad32af4b4341d4a97",
+  "render_model": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_三维主图试作/model_assets/silver_product_v003.blend",
+  "render_model_sha256": "2eddc6ce31cfb5fe5fac9af37bbd7264cf93aa55f5d4d42aaa3fa3691c090b42",
+  "source_geometry_sha256": "f5448c7c64a8e58e70a92722a6196fb6894a92551839ccf3cd16ea9f98629a26",
+  "saved_geometry_sha256": "f5448c7c64a8e58e70a92722a6196fb6894a92551839ccf3cd16ea9f98629a26",
+  "body_geometry_unchanged": true,
+  "body_world_transform_unchanged": true,
+  "body_world_transform": [
+    [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "body_vertices": 29617,
+  "body_faces": 29793,
+  "actual_saved_file_reopened": true,
+  "silver_inputs": [
+    {
+      "id": "SIL001",
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+      "sha256": "6de02f19793c568c799762525475cd0241af1b9c41487580383be4efbd2a1fa2",
+      "manifest_sha256_match": true
+    },
+    {
+      "id": "SIL002",
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184344_90_2.jpg",
+      "sha256": "9f6e724d9fc0e01a0670fbd1964d4a3e2e32d985447bcdb99fc98fe147526eb1",
+      "manifest_sha256_match": true
+    },
+    {
+      "id": "SIL003",
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184345_91_2.jpg",
+      "sha256": "8d41d23e8e762b1e9208796587c36db70ea8e452ee2e3fdd3604f97c7f40dd60",
+      "manifest_sha256_match": true
+    },
+    {
+      "id": "SIL004",
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg",
+      "sha256": "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90",
+      "manifest_sha256_match": true
+    },
+    {
+      "id": "SIL005",
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+      "sha256": "0b388756f0ee2e35630dac7789237153d390fa8aaab8f58f6e2643d4181be21d",
+      "manifest_sha256_match": true
+    }
+  ],
+  "front3q_camera": {
+    "location": [
+      0.32863008975982666,
+      -0.6010633111000061,
+      0.15800000727176666
+    ],
+    "euler_xyz_radians": [
+      1.534546971321106,
+      0.1744205504655838,
+      0.4823988974094391
+    ],
+    "type": "ORTHO",
+    "ortho_scale_m": 0.3050000071525574
+  },
+  "renderer": "CYCLES",
+  "samples": 96,
+  "film_transparent": true,
+  "packed_referenced_images": [
+    {
+      "name": "face-photo-rectified-v002.png",
+      "packed": true
+    },
+    {
+      "name": "neck-black-mask.png",
+      "packed": true
+    }
+  ],
+  "limits": [
+    "Geometry preservation is proven; SKU photographic equivalence not claimed",
+    "Pure dry product renders; no waterflow or skin check applies",
+    "No interface standard or physical material certification"
+  ]
+}

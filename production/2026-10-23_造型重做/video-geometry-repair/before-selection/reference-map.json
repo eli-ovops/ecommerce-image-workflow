@@ -1,0 +1,3328 @@
+{
+  "date": "2026-10-22",
+  "owner": "image_production",
+  "scope": "Same 74-reference mapping and 32 tasks; geometry rebuilt from current actual side photographs.",
+  "route": {
+    "requested_model": "gpt-6-astra",
+    "requested_effort": "medium",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN",
+    "rules": "ROUTING-2026-10-13-v4"
+  },
+  "user_acceptance": {
+    "first_version_style_and_completeness": "NOT_ACCEPTED",
+    "coverage_method": "CONFIRMED_MERGE_DUPLICATES_AND_UNSUITABLE_CONTENT",
+    "new_design": "PENDING"
+  },
+  "visual_receipt": {
+    "preview_pages_viewed": [
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/previews/微信参考_总览_01.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/previews/微信参考_总览_02.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/previews/微信参考_总览_03.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/previews/微信参考_总览_04.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/previews/微信参考_总览_05.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/previews/contact_sheet_01.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/previews/contact_sheet_02.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/previews/contact_sheet_03.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/previews/contact_sheet_04.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/previews/A039_长详情_可读分页_01.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/previews/A039_长详情_可读分页_02.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/previews/A039_长详情_可读分页_03.png",
+      "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/previews/A039_长详情_可读分页_04.png"
+    ],
+    "enlarged_original_ids": [
+      "A001",
+      "R004",
+      "R029",
+      "A006",
+      "A011"
+    ],
+    "first_version_overviews_viewed": [
+      "delivery_overview_01.jpg",
+      "delivery_overview_02.jpg"
+    ],
+    "coverage_count": 74,
+    "limitations": "本轮未逐一放大74原图；13页全幅预览及五张原图足以区分布局与主要内容。小字不作逐字核验；正式制作每图须重看全部参考并放大其实际引用原图。",
+    "current_rule_note": "Historical per-call all-reference wording above is superseded by BATCH-REF-20261023-v1. This batch inherits its actual full74 record, then reviews directed originals and current SKU photos per changed task."
+  },
+  "deduplication": {
+    "exact_duplicate": [
+      "R009=R001（既有索引标注字节重复，本轮视觉相同，未重算哈希）"
+    ],
+    "collections": [
+      "A001为A002—A005及A034—A038的联系表",
+      "A039为A006—A033顺序长图集合，按四页已看全"
+    ],
+    "same_topic_different_format": [
+      "A035与A025/A026",
+      "A036与A014—A017",
+      "A037与A023",
+      "R002与R023",
+      "R007与R018",
+      "R033与A032",
+      "R034与A033"
+    ],
+    "principle": "内容重复可合并，景别/主次/色调/长短节奏不同须在对应画面实际保留；不是每条索引都新增一图。"
+  },
+  "quantity": {
+    "working_plan": 36,
+    "range": [
+      32,
+      38
+    ],
+    "count_basis": "8张银色独立广告/素材+3张SKU+18张冷蓝主详情模块+7张暖色/暗底补充模块。集合总览与拼接长图不算新生图。36是可审查候选工作清单，不是配额。",
+    "reduce_to_32": [
+      "D02横幅并入D01底部，保留其左人物右文构图",
+      "D09无字人物停顿并入D11前段，保留不同景别而不另做同功能海报",
+      "D10双按钮识别并入D07底部双卡，保持两个按钮准确分工",
+      "V07短文字桥并入V01/V03拼接间隔，不独立生成"
+    ],
+    "expand_to_38_only_if_needed": [
+      "D04底部细节横幅单独导出",
+      "D17静置石材头部与握柄分别导出"
+    ],
+    "recommendation": "先以36槽位审查参考对应；实际生产可采用32个独立生成资产+4个由其内容完成的版式/短段组合，避免为数字重复生图。是否拆分按信息可读性决定，不需新增设计批准。"
+  },
+  "production_contract": {
+    "reference_priority": "每张以指定R/A原图为视觉核心，真实SKU为结构核心；首版生成图不替代R/A引用。",
+    "five_reference_selection": "单品：2张最相关SKU实拍+1—2张R/A原图；人物：M001+2张实拍+1—2张R/A原图；三色：各1张真实SKU+1张A008+1张其他适用参考。每次记明实际选择理由。",
+    "visual_acceptance": "逐张对照参考核构图、主从比例、色光、字体层级、信息密度、场景及图序；仅卖点/文案相同不算视觉覆盖。",
+    "facts": "无品牌/证书/未知参数/过滤/多余模式/内部结构/软管支架；替代画面本身也不能暗示这些能力。"
+  },
+  "entries": [
+    {
+      "id": "R001",
+      "scene": "棕金托盘上的斜置整套",
+      "layout": "斜轴大主体、四角贴片、底部双标题带",
+      "light": "暖金轮廓高光与深棕阴影",
+      "typography": "粗黑白黑体+描边倾斜推荐字",
+      "information_density": "高密度",
+      "specific_borrow_points": "保留托盘透视、斜向单品和分层标题，改成银色单花洒广告",
+      "group_or_duplicate_relation": "R009字节重复；R004同广告组",
+      "adaptation_and_prohibitions": "可改编；取消软管支架和赠送贴，换正背侧局部角标；增压/耐摔/速发无依据",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "P02只覆盖功能标题；无棕金斜托盘、贴片节奏和强明暗"
+      },
+      "proposed_outputs": [
+        "M02"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "M02"
+      ]
+    },
+    {
+      "id": "R002",
+      "scene": "手持方头切档示范",
+      "layout": "右侧巨幅主体、左列四个水型小窗",
+      "light": "暖棕布面反射",
+      "typography": "白色粗黑体、金胶囊",
+      "information_density": "中高密度",
+      "specific_borrow_points": "改成左三水型+右下键按压，保持大小主次和手部引导",
+      "group_or_duplicate_relation": "R023功能展开版",
+      "adaptation_and_prohibitions": "可改编；四档改三档，去喷枪",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "P04/D03有三档，但等大分栏丢掉大主图加小窗"
+      },
+      "proposed_outputs": [
+        "M04"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "M04"
+      ]
+    },
+    {
+      "id": "R003",
+      "scene": "暖木浴室人物喷淋",
+      "layout": "上部人物、右中文字、底部肤感特写横带",
+      "light": "暖顶灯+亮白水束",
+      "typography": "黑色粗黑体叠图",
+      "information_density": "中密度",
+      "specific_borrow_points": "保留人物与水滴细节上下双镜头，真实水量、M001得体服装",
+      "group_or_duplicate_relation": "R013/R019同体验组",
+      "adaptation_and_prohibitions": "可改编；不写增压、养肤、SPA功效；底条换水滴可见外观",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "P03仅单场景，无底部细节带与暖木包围感"
+      },
+      "proposed_outputs": [
+        "V01"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "V01"
+      ]
+    },
+    {
+      "id": "R004",
+      "scene": "黑金空间斜向产品及蓝光内部",
+      "layout": "大头截边、横向水束、底部红金标题条",
+      "light": "硬边高光、黑底金布、蓝冷色点缀",
+      "typography": "白色大黑体+底部宋体",
+      "information_density": "高密度",
+      "specific_borrow_points": "保留夸张近景透视和冷暖对照，用完整外壳及圆形面板微距替代剖面",
+      "group_or_duplicate_relation": "R027结构组",
+      "adaptation_and_prohibitions": "视觉可改编；禁内部增压结构、证书和保证退款，水束按实拍",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版无黑金主视觉；不能以禁证书为由删除整种构图"
+      },
+      "proposed_outputs": [
+        "M07"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "M07"
+      ]
+    },
+    {
+      "id": "R005",
+      "scene": "两名人物左右对照",
+      "layout": "左亮右灰、斜底说明牌",
+      "light": "暖主区与灰暗区",
+      "typography": "顶部白黑体、底部大数字",
+      "information_density": "高密度",
+      "specific_borrow_points": "仅借左右双区分屏和标签层级；语义替换为中央红钮/下方按键两种操作，不保留双人物或强弱对比。",
+      "group_or_duplicate_relation": "R020/R021对照组",
+      "adaptation_and_prohibitions": "原参考低水压/竞品性能比较无依据，合并入D07双按钮识别。",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版三档横列不等于双场景并置；无人物选型页"
+      },
+      "proposed_outputs": [
+        "D10"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D07"
+      ]
+    },
+    {
+      "id": "R006",
+      "scene": "卫生间清洁与喷枪细节",
+      "layout": "厕所占上部、下部背面+手指按键、小标卡",
+      "light": "窗光、米金色",
+      "typography": "顶部大白字、橙色数字牌",
+      "information_density": "高密度",
+      "specific_borrow_points": "保留场景+动作局部双层结构，改干态浴室手持下键示范；合并入D16场景操作与步骤窗口，不保留厕所语义。",
+      "group_or_duplicate_relation": "A027/A028清洁组",
+      "adaptation_and_prohibitions": "结构可改编；无喷枪功能，不画冲厕/测试次数；换真实切档操作",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "P06只有动作特写，缺场景与动作窗口联动"
+      },
+      "proposed_outputs": [
+        "D16"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D16"
+      ]
+    },
+    {
+      "id": "R007",
+      "scene": "贴近面板的斜向出水",
+      "layout": "几乎全画幅微距、底部半透明文字带",
+      "light": "明亮窗光与强反光",
+      "typography": "白顶标题、底部细黑字",
+      "information_density": "中低密度",
+      "specific_borrow_points": "保留面板截边和出水起点近景；底部实心浅色条只标三档名称",
+      "group_or_duplicate_relation": "R018同画面方向",
+      "adaptation_and_prohibitions": "可改编；去尺寸孔径，不复制方形头",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "D02干态细节，P04远水型；缺完整出水起点微距"
+      },
+      "proposed_outputs": [
+        "D06"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D06"
+      ]
+    },
+    {
+      "id": "R008",
+      "scene": "人物体验与白底SKU并排",
+      "layout": "左约三分之二场景、右窄白栏单品+字",
+      "light": "左暖右中性高光",
+      "typography": "右侧黑粗字、黑底白标签",
+      "information_density": "中密度",
+      "specific_borrow_points": "明确场景与所售单品的对应，保留非对称双栏",
+      "group_or_duplicate_relation": "R013/R026场景组",
+      "adaptation_and_prohibitions": "可改编；右栏单花洒无支架，去增压热水器加压字",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "P03与P08分图存在但未做场景+SKU同屏"
+      },
+      "proposed_outputs": [
+        "M06"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "M06"
+      ]
+    },
+    {
+      "id": "R009",
+      "scene": "棕金托盘套装广告",
+      "layout": "与R001相同",
+      "light": "与R001相同",
+      "typography": "与R001相同",
+      "information_density": "高密度",
+      "specific_borrow_points": "合并覆盖时指向R001；逐一模式做相同语法的反向斜轴版本",
+      "group_or_duplicate_relation": "R001已知字节完全重复",
+      "adaptation_and_prohibitions": "可改编；与R001相同限制，不能计为新增独特设计",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版没有R001视觉，重复来源也未形成覆盖映射"
+      },
+      "proposed_outputs": [
+        "M02"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "M02"
+      ]
+    },
+    {
+      "id": "R010",
+      "scene": "蓝调夜景品牌建筑",
+      "layout": "上部天空大留白、中部斜屋檐、底部两栏服务",
+      "light": "冷蓝暮色+窗内暖光",
+      "typography": "浅色英文字与细中文字",
+      "information_density": "中密度",
+      "specific_borrow_points": "借冷暖建筑纵深和顶部留白，替换为不带机构归属的浴室空间与近景单品",
+      "group_or_duplicate_relation": "R011/R035品牌组",
+      "adaptation_and_prohibitions": "结构可改编；不伪造工厂门店品牌/客服/发货承诺",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版浅米浴室无夜蓝空间路线"
+      },
+      "proposed_outputs": [
+        "V06"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "V06"
+      ]
+    },
+    {
+      "id": "R011",
+      "scene": "六格高端室内拼贴",
+      "layout": "大标题、2×3场景网格、底部图标说明",
+      "light": "黑白灰建筑光",
+      "typography": "大衬线品牌字+小无衬线",
+      "information_density": "高密度",
+      "specific_borrow_points": "改六个真实商品视角/局部网格，底部只写已确认颜色/三档/除垢",
+      "group_or_duplicate_relation": "R010/R035机构信息组",
+      "adaptation_and_prohibitions": "结构可改编；禁品牌官方正品/质保/配送；不暗示工厂",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版无六格图鉴；参数少不意味着没有可排细节"
+      },
+      "proposed_outputs": [
+        "V06"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "V06"
+      ]
+    },
+    {
+      "id": "R012",
+      "scene": "三张竖卡优势总览",
+      "layout": "白底居中标题、等宽三卡、浅金底签",
+      "light": "棕金卡内硬亮边",
+      "typography": "粗黑标题、细黑脚注",
+      "information_density": "中密度",
+      "specific_borrow_points": "三卡分别圆头外观、三档水型、中央红钮，保留竖向卡片比例",
+      "group_or_duplicate_relation": "R017/A011功能索引组",
+      "adaptation_and_prohibitions": "可改编；不沿用通用接口规格或增压能力",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "P02只有口号，D02局部不能代替三项导航"
+      },
+      "proposed_outputs": [
+        "M08"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "M08"
+      ]
+    },
+    {
+      "id": "R013",
+      "scene": "暖浴室人物首屏",
+      "layout": "人物居右、巨大斜水束占左、底部嵌入下节卡片",
+      "light": "暖自然光",
+      "typography": "上方白粗字、底部米金小字",
+      "information_density": "中密度",
+      "specific_borrow_points": "保留首屏冲击与下节预告，但用正常尺度水流及安全得体M001",
+      "group_or_duplicate_relation": "R003/R008近似场景",
+      "adaptation_and_prohibitions": "可改编；去低水压推荐、增压功效；水源接口出画",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "D01干态白袍不是此暖场景首屏，P03也无衔接设计"
+      },
+      "proposed_outputs": [
+        "V01"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "V01"
+      ]
+    },
+    {
+      "id": "R014",
+      "scene": "棕黑渐变标题过渡段",
+      "layout": "中轴两行标题、胶囊、下双列文字",
+      "light": "由暗到金的渐变",
+      "typography": "大白黑体、金色标签",
+      "information_density": "中密度",
+      "specific_borrow_points": "长图章节间用这类文字桥，写三档与按压除垢双主题",
+      "group_or_duplicate_relation": "R013后接/R017前接",
+      "adaptation_and_prohibitions": "可改编；去专利/新品年份/四功能/AIR技术",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版六屏全为独立海报，无短标题桥"
+      },
+      "proposed_outputs": [
+        "V07"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "V01"
+      ]
+    },
+    {
+      "id": "R015",
+      "scene": "大幅水流与证书台面",
+      "layout": "上三分之二斜向出水、底三分之一小图群",
+      "light": "暖白窗光",
+      "typography": "少量细字与底部标记",
+      "information_density": "中密度",
+      "specific_borrow_points": "底区改三个真实细节窗：红钮、下键、侧厚；保留上大下小视觉权重",
+      "group_or_duplicate_relation": "R007/R018同水流组",
+      "adaptation_and_prohibitions": "结构可改编；全部证书检测图标禁用，替代为可见外观",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版未覆盖上大水流+下细节组，删除证书不是删除版式理由"
+      },
+      "proposed_outputs": [
+        "V01"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "V01"
+      ]
+    },
+    {
+      "id": "R016",
+      "scene": "白底问题页",
+      "layout": "上棕色气泡、中央问题、下2×2灰图警示",
+      "light": "灰度低对比",
+      "typography": "大灰黑体+警示符号",
+      "information_density": "高密度",
+      "specific_borrow_points": "改买前识别四问：哪种水型、怎么切、怎么清垢、选什么色；用正向实物四格",
+      "group_or_duplicate_relation": "R024/A022疑问对照组",
+      "adaptation_and_prohibitions": "结构可改编；不编竞品伤身/故障问题、不制造健康恐惧",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版没有采购问题导览或四格答疑"
+      },
+      "proposed_outputs": [
+        "V06"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "V06"
+      ]
+    },
+    {
+      "id": "R017",
+      "scene": "棕金五块功能拼版",
+      "layout": "左上高卡、右上下两卡、下方两横卡",
+      "light": "暗金聚光",
+      "typography": "白大标题、卡内白黑字",
+      "information_density": "高密度",
+      "specific_borrow_points": "改五块真实要点：三水型、红钮、下键、正面孔阵列、侧面轮廓",
+      "group_or_duplicate_relation": "R012/A011同索引但网格不同",
+      "adaptation_and_prohibitions": "可改编；去机械增压/耐摔/材质/接口承诺",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版六屏单一主图，缺五块不等大信息拼版"
+      },
+      "proposed_outputs": [
+        "D05"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D05"
+      ]
+    },
+    {
+      "id": "R018",
+      "scene": "斜水流照片与标题",
+      "layout": "上约2/3照片，下白区黑棕两行标题小字",
+      "light": "暖窗光",
+      "typography": "黑粗标题+棕色重点",
+      "information_density": "中密度",
+      "specific_borrow_points": "保留照片/文字明确分区，写三种水型可选、下键切换",
+      "group_or_duplicate_relation": "R007同素材方向",
+      "adaptation_and_prohibitions": "可改编；删0.3mm/40%/黑科技",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "P04功能有但无上图下白文的照片版式"
+      },
+      "proposed_outputs": [
+        "V01"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "V01"
+      ]
+    },
+    {
+      "id": "R019",
+      "scene": "侧脸闭眼淋浴体验",
+      "layout": "无字满幅人物侧脸、顶部水滴",
+      "light": "柔和暖自然光",
+      "typography": "无字",
+      "information_density": "低密度",
+      "specific_borrow_points": "作为长图情绪停顿页，用M001得体着装、自然脸部水滴且不暗示实测",
+      "group_or_duplicate_relation": "R003/R026人物组",
+      "adaptation_and_prohibitions": "可改编；不写功效，不复现不合适裸露",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版没有无字人物停顿，P03仍是商品标题页"
+      },
+      "proposed_outputs": [
+        "D09"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D11"
+      ]
+    },
+    {
+      "id": "R020",
+      "scene": "新旧肤感比较",
+      "layout": "两张近景横排、下两行说明",
+      "light": "左暖右灰",
+      "typography": "细黑灰字",
+      "information_density": "低中密度",
+      "specific_borrow_points": "仅借横向双近景和下方说明的版式；两格分别中央红钮与下方按键，不保留双水型或肤感比较。",
+      "group_or_duplicate_relation": "R005/R021对照组",
+      "adaptation_and_prohibitions": "AIR与刺痛/亲肤暗示无依据；用真实两按钮分工替代。",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版没有双近景并排，也未覆盖短横页节奏"
+      },
+      "proposed_outputs": [
+        "D10"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D07"
+      ]
+    },
+    {
+      "id": "R021",
+      "scene": "上下横条水流比较",
+      "layout": "棕底白框、上亮下灰两条",
+      "light": "上暖亮下灰暗",
+      "typography": "小白字+灰标签",
+      "information_density": "中密度",
+      "specific_borrow_points": "仅借上下两条短窗及清楚标签；用于两按钮识别的双区结构，不保留新旧或水流优劣。",
+      "group_or_duplicate_relation": "R020横排变纵排",
+      "adaptation_and_prohibitions": "新旧强弱比较无依据；合并入D07双按钮区，两格等亮度。",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "P04三条等大模式卡不等于上下短横幅形式"
+      },
+      "proposed_outputs": [
+        "D10"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D07"
+      ]
+    },
+    {
+      "id": "R022",
+      "scene": "干态人物与手持商品",
+      "layout": "左大字+前景商品、右人物托腮、台面落点",
+      "light": "浅米柔光",
+      "typography": "左侧超大棕斜体、右小黑体",
+      "information_density": "中密度",
+      "specific_borrow_points": "保留人物托腮和超大两行字，明确下键切档；M001穿得体服装",
+      "group_or_duplicate_relation": "A006/A007时尚人物组",
+      "adaptation_and_prohibitions": "可改编；四改三、去国旗，商品保持真比例",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "P06借了浅色却无人物；D01白袍也没此时尚姿态和巨字"
+      },
+      "proposed_outputs": [
+        "V02"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "V02"
+      ]
+    },
+    {
+      "id": "R023",
+      "scene": "四模式纵向条卡",
+      "layout": "白底四棕色圆角横窗、左产品右标题",
+      "light": "棕金逆光突出水束",
+      "typography": "白粗标题+小副文",
+      "information_density": "高密度",
+      "specific_borrow_points": "原结构改三条，分别常规喷雾混合，保留左侧出水方向和右上标签",
+      "group_or_duplicate_relation": "R002/A016-A018模式组",
+      "adaptation_and_prohibitions": "可改编；删第四喷枪，正常水量",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "D03三卡有主题对应，但淡背景/排列与此棕色条卡差距大"
+      },
+      "proposed_outputs": [
+        "D08"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D08"
+      ]
+    },
+    {
+      "id": "R024",
+      "scene": "水垢痛点三栏",
+      "layout": "警示标题+下三列灰度照片",
+      "light": "灰白平光",
+      "typography": "黑大字与棕重点",
+      "information_density": "高密度",
+      "specific_borrow_points": "改三步认识除垢：找红钮、手动按压、观察短针；三列同等强调",
+      "group_or_duplicate_relation": "R016/A025除垢组",
+      "adaptation_and_prohibitions": "结构可改编；删硬水健康危害/寿命断言，不能捏造堵塞前后",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "P05/D04展示除垢但无三列过程导读"
+      },
+      "proposed_outputs": [
+        "V04"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "V04"
+      ]
+    },
+    {
+      "id": "R025",
+      "scene": "浅灰短文字桥",
+      "layout": "左对齐两行标题+细说明、大留白",
+      "light": "浅灰渐变",
+      "typography": "棕粗黑体",
+      "information_density": "中低密度",
+      "specific_borrow_points": "保留短桥作为面板章节开头，写圆形面板/孔位与红钮",
+      "group_or_duplicate_relation": "R026前导片段",
+      "adaptation_and_prohibitions": "可改编；删116mm/媲美顶喷/润护",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版无独立短桥，统一海报导致节奏平"
+      },
+      "proposed_outputs": [
+        "D07"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D07"
+      ]
+    },
+    {
+      "id": "R026",
+      "scene": "明亮白浴室回眸人物",
+      "layout": "人物居右回头、左上手持与斜水束",
+      "light": "高调窗光",
+      "typography": "无主要文字",
+      "information_density": "低密度",
+      "specific_borrow_points": "借回眸姿态、白空间及自然层次，M001服装安全得体，水源底端出画",
+      "group_or_duplicate_relation": "R019/R013场景变体",
+      "adaptation_and_prohibitions": "可改编；不把毛巾人物当实测",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "P03只有正侧手持，D01干态；没有回眸白光场景"
+      },
+      "proposed_outputs": [
+        "D11"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D11"
+      ]
+    },
+    {
+      "id": "R027",
+      "scene": "黑底蓝紫爆炸科技图",
+      "layout": "面板前后错层、斜金光线、水花、底部三标签",
+      "light": "强冷暖轮廓光",
+      "typography": "白粗标题、黑字底签",
+      "information_density": "中高密度",
+      "specific_borrow_points": "改为完整商品的正面/侧面/背面三视图错落，分离但不伪装拆件",
+      "group_or_duplicate_relation": "R004/R029结构特效组",
+      "adaptation_and_prohibitions": "视觉可改编；禁虚构内部、机械增压和材质分层；底签写可见部位",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "P07有背侧却没有暗底分离层次/光线，不能宣称已覆盖"
+      },
+      "proposed_outputs": [
+        "V03"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "V03"
+      ]
+    },
+    {
+      "id": "R028",
+      "scene": "沙地暖景面板特写",
+      "layout": "上标题、中巨头、底白卡动作示意",
+      "light": "夕阳金边与沙纹",
+      "typography": "棕黑标题、细说明和小图标",
+      "information_density": "高密度",
+      "specific_borrow_points": "保留沙纹暖地、巨大头部和底动作卡，改红钮按压与短针局部",
+      "group_or_duplicate_relation": "A025/A026除垢组",
+      "adaptation_and_prohibitions": "可改编；不揉捏孔、不写抗菌抗老化/硅胶已核",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "P05/D04做了红钮主题，缺沙地场景及上大下步骤"
+      },
+      "proposed_outputs": [
+        "V04"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "V04"
+      ]
+    },
+    {
+      "id": "R029",
+      "scene": "黑金镀层卷起剖面",
+      "layout": "中央卷层巨物、引线、下红车",
+      "light": "强橙光与银反射",
+      "typography": "白粗标题+多条细标注",
+      "information_density": "高密度",
+      "specific_borrow_points": "保留镜面弧线与多点引线；换真实外壳曲面微距，不画剥层，删除车",
+      "group_or_duplicate_relation": "R027/R004科技组",
+      "adaptation_and_prohibitions": "视觉可改编；禁航空级/瑞士/ABS及镀层顺序/耐刮证明",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "P07外观未展示宏观曲面反光与引线结构"
+      },
+      "proposed_outputs": [
+        "V03"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "V03"
+      ]
+    },
+    {
+      "id": "R030",
+      "scene": "深棕配件标题短屏",
+      "layout": "左标题、下两组大数字",
+      "light": "暗棕渐变",
+      "typography": "白大黑体+数字",
+      "information_density": "中密度",
+      "specific_borrow_points": "保留短屏双信息结构，改中央红钮/下方按键两操作，禁止数字长度",
+      "group_or_duplicate_relation": "R031前导；原图文错配",
+      "adaptation_and_prohibitions": "结构可改编；不售软管，1.5m/2m禁用，原标题与正文冲突不可沿袭",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版无双操作短标题段"
+      },
+      "proposed_outputs": [
+        "V07"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "V01"
+      ]
+    },
+    {
+      "id": "R031",
+      "scene": "金水面盘绕软管",
+      "layout": "中间大曲线主体、下三微距窗",
+      "light": "暖金逆光和水纹倒影",
+      "typography": "底部小黑字",
+      "information_density": "中密度",
+      "specific_borrow_points": "保留暖金水面倒影、大主体与下方三细节窗；改真实银色单花洒，落V05棕金岩石舞台，去软管。",
+      "group_or_duplicate_relation": "R032配件组",
+      "adaptation_and_prohibitions": "视觉可改编；删软管/拉伸/防爆/承重场景",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "P07视角有但没有金水面及大主体+三细节"
+      },
+      "proposed_outputs": [
+        "V05"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "V05"
+      ]
+    },
+    {
+      "id": "R032",
+      "scene": "支架与安装步骤",
+      "layout": "左大主体、右三步竖排、下三功能格",
+      "light": "棕金柔侧光",
+      "typography": "白大标题+小黑卡签",
+      "information_density": "高密度",
+      "specific_borrow_points": "改左手持花洒、右找下键/按键/选水型三步，下格真结构",
+      "group_or_duplicate_relation": "R031/A028多窗结构",
+      "adaptation_and_prohibitions": "结构可改编；不画支架安装/粘贴/防漏/承重测试",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "P06动作单张，无完整步骤图"
+      },
+      "proposed_outputs": [
+        "D16"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D16"
+      ]
+    },
+    {
+      "id": "R033",
+      "scene": "岩石谷地中的正面单品",
+      "layout": "上标题、中央单品、两条尺寸线",
+      "light": "金色地平线与深色岩石",
+      "typography": "白粗字+细尺寸标记",
+      "information_density": "中密度",
+      "specific_borrow_points": "保留岩石舞台、直立商品、负空间；尺寸线改指向红钮与下键的非测量引线",
+      "group_or_duplicate_relation": "A032参数组",
+      "adaptation_and_prohibitions": "可改编；不写未知116/255尺寸",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "P01白底不是岩石舞台，P07也无引线全身图"
+      },
+      "proposed_outputs": [
+        "V05"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "V05"
+      ]
+    },
+    {
+      "id": "R034",
+      "scene": "深底白参数卡",
+      "layout": "上四枚圆徽、下2列3行表",
+      "light": "金水面暗底、白卡平光",
+      "typography": "黑小标题、黑白标签",
+      "information_density": "高密度",
+      "specific_borrow_points": "上徽改三档与除垢概览，下表只名称/三色/三档/切档/除垢/单花洒",
+      "group_or_duplicate_relation": "A033规格表组",
+      "adaptation_and_prohibitions": "可改编；去服务承诺、ABS、4分接口、一键止水和错误尺寸栏",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版完全缺B端已知信息汇总表"
+      },
+      "proposed_outputs": [
+        "D18"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D18"
+      ]
+    },
+    {
+      "id": "R035",
+      "scene": "灰色品牌服务收尾",
+      "layout": "手托发光字、两条深卡各三图标、下水效证件",
+      "light": "灰柔光、顶部发光",
+      "typography": "品牌衬线+小字",
+      "information_density": "高密度",
+      "specific_borrow_points": "V06前景双手自然托真实单花洒，背景夜蓝中性浴室；下方白底六格与已知事实收口，无机构或品牌暗示。",
+      "group_or_duplicate_relation": "R010/R011品牌组",
+      "adaptation_and_prohibitions": "结构可改编；禁品牌服务/水效证件/退换政策",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版最后仅三色，没有事实索引式结束页"
+      },
+      "proposed_outputs": [
+        "V06"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "V06"
+      ]
+    },
+    {
+      "id": "A001",
+      "scene": "冷蓝整套图联系表",
+      "layout": "上排五张主图、下排四SKU，末格白底跨行",
+      "light": "蓝白清亮",
+      "typography": "黑白粗标题、蓝标签",
+      "information_density": "高密度",
+      "specific_borrow_points": "借主图卖点分工与SKU统一模板，输出总览用于检查差异",
+      "group_or_duplicate_relation": "A002-A005+A034-A038集合，非第十独立主题",
+      "adaptation_and_prohibitions": "合并为交付总览；去滤芯、粉色第四色、六档与假参数",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版有总览但内容层次和蓝色路线未沿用"
+      },
+      "proposed_outputs": [
+        "ASSEMBLY_OVERVIEW"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "ASSEMBLY_OVERVIEW"
+      ]
+    },
+    {
+      "id": "A002",
+      "scene": "蓝色银色SKU图",
+      "layout": "右大竖单品、左模式窗、外围尺寸线",
+      "light": "冷蓝高调银高光",
+      "typography": "白粗标题、黑细参数、蓝胶囊",
+      "information_density": "高密度",
+      "specific_borrow_points": "银色SKU保留右大左小三档栏和蓝色背景，不标尺寸",
+      "group_or_duplicate_relation": "A003-A005同版换色；A001子图",
+      "adaptation_and_prohibitions": "可改编；去透明滤芯/六档/材质数值，SKU原则仅色名单品时将模式放公共说明页",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "P08银色仅居中单品，无蓝底非对称信息结构"
+      },
+      "proposed_outputs": [
+        "K01"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "K01"
+      ]
+    },
+    {
+      "id": "A003",
+      "scene": "蓝底黑色SKU",
+      "layout": "右黑色主体、左六窗、独立滤芯",
+      "light": "冷蓝平光、深黑柔亮边",
+      "typography": "白大字蓝色标签",
+      "information_density": "高密度",
+      "specific_borrow_points": "黑SKU保持和A002一致的光向与比例；黑色自身实拍绑定",
+      "group_or_duplicate_relation": "A002/A004同版",
+      "adaptation_and_prohibitions": "可改编；去滤芯/参数/六档，公共模式另页",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "BLK-P01色差基本正确，但不能视为参考版式覆盖"
+      },
+      "proposed_outputs": [
+        "K02"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "K02"
+      ]
+    },
+    {
+      "id": "A004",
+      "scene": "蓝底枪灰SKU",
+      "layout": "右灰色产品与左模式窗",
+      "light": "冷蓝背景灰金属感",
+      "typography": "白黑文字蓝胶囊",
+      "information_density": "高密度",
+      "specific_borrow_points": "枪灰SKU按其实际照片保留中灰亮度，蓝背景统一选色系列",
+      "group_or_duplicate_relation": "A002/A003同版",
+      "adaptation_and_prohibitions": "可改编；不直接银色换色；去参考假参数/透明柄",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "GMT-P01仅颜色对应，无冷蓝结构"
+      },
+      "proposed_outputs": [
+        "K03"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "K03"
+      ]
+    },
+    {
+      "id": "A005",
+      "scene": "蓝底粉紫SKU",
+      "layout": "右粉紫环产品、透明珠柄、左模式窗",
+      "light": "冷蓝高调",
+      "typography": "白粗标题、黑细参数",
+      "information_density": "高密度",
+      "specific_borrow_points": "合并SKU模板，不新造粉紫SKU；用真实三色共同遵循此页留白比例",
+      "group_or_duplicate_relation": "A002-A004同版第四色",
+      "adaptation_and_prohibitions": "合并非售颜色；只借模板，粉色/珠子过滤不存在",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版三色范围正确，但未借此信息布局"
+      },
+      "proposed_outputs": [
+        "K01"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "K01"
+      ]
+    },
+    {
+      "id": "A006",
+      "scene": "冷蓝时尚人物首屏",
+      "layout": "上大标题、下圆角框、人物手部与商品越框",
+      "light": "冷柔侧光、蓝灰几何面",
+      "typography": "黑粗大标题+细副文",
+      "information_density": "中密度",
+      "specific_borrow_points": "M001黑色得体上衣、前景圆头、手跨框，橙小环作轻装饰",
+      "group_or_duplicate_relation": "A039首段；A007续镜头",
+      "adaptation_and_prohibitions": "可改编；去过滤功效，文字写三档/按压除垢或银色外观",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "D01正面白袍图没有越框手势/时装/冷蓝几何"
+      },
+      "proposed_outputs": [
+        "D01"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D01"
+      ]
+    },
+    {
+      "id": "A007",
+      "scene": "冷蓝横向时尚人物",
+      "layout": "左人物举花洒、右留白说明，圆角底",
+      "light": "柔侧光+流动布景",
+      "typography": "右细黑字",
+      "information_density": "低密度",
+      "specific_borrow_points": "保留横幅与偏左人物、风吹发丝、商品朝镜头；M001着装可变",
+      "group_or_duplicate_relation": "A006搭配/A039第二段",
+      "adaptation_and_prohibitions": "可改编；不用艺术品/卓越效果作验证，陈述外观",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版无横幅时尚场景，只有方与固定3:4"
+      },
+      "proposed_outputs": [
+        "D02"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D01"
+      ]
+    },
+    {
+      "id": "A008",
+      "scene": "三色漂浮相册",
+      "layout": "三件错位斜置突破白框，底部社交图标",
+      "light": "冷蓝柔光、轻影",
+      "typography": "底灰黑粗字",
+      "information_density": "低中密度",
+      "specific_borrow_points": "保留三件交错高低与相册框，改本项目三色；不必模拟点赞数量",
+      "group_or_duplicate_relation": "A039三色段",
+      "adaptation_and_prohibitions": "可改编；无粉色/滤芯，去无意义社交动作图标可留版框",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "D06三件平排直立与本图错位动势明显不同"
+      },
+      "proposed_outputs": [
+        "D03"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D03"
+      ]
+    },
+    {
+      "id": "A009",
+      "scene": "蓝浴室产品与人物",
+      "layout": "大商品左前景、右下侧脸、上左文",
+      "light": "窗光、浅蓝壁龛",
+      "typography": "黑粗标题+细文",
+      "information_density": "中密度",
+      "specific_borrow_points": "保留空间前后景和头像尺度差但真握持比例，正常水流",
+      "group_or_duplicate_relation": "A010接续/A039场景段",
+      "adaptation_and_prohibitions": "可改编；去过滤/增压/亲肤功效；裸接口出画",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "P03暖单镜头缺蓝壁龛和前后景层次"
+      },
+      "proposed_outputs": [
+        "D04"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D04"
+      ]
+    },
+    {
+      "id": "A010",
+      "scene": "肩部水滴与接口局部",
+      "layout": "横幅左金属件右人物背肩",
+      "light": "明亮侧窗光",
+      "typography": "无字",
+      "information_density": "低密度",
+      "specific_borrow_points": "改银色侧壁与手背水滴并置短横幅，不含支架软管",
+      "group_or_duplicate_relation": "A009续片",
+      "adaptation_and_prohibitions": "结构可改编；所售无墙装配件；不做人体功效暗示",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版无短横细节过渡，不能仅凭人物存在算覆盖"
+      },
+      "proposed_outputs": [
+        "D04"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D04"
+      ]
+    },
+    {
+      "id": "A011",
+      "scene": "冷蓝五细节拼版",
+      "layout": "左大水流卡、右二卡、底双卡",
+      "light": "蓝白柔光与银亮边",
+      "typography": "黑大标题、卡内粗字",
+      "information_density": "高密度",
+      "specific_borrow_points": "五卡改常规水流、孔阵列、中央红钮、下键、侧背外观",
+      "group_or_duplicate_relation": "A039功能总览；R017同结构不同色",
+      "adaptation_and_prohibitions": "可改编；去过滤剖面/喷枪/六档旋钮",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版没有这种不等大五卡，D02少量细节不等同"
+      },
+      "proposed_outputs": [
+        "D05"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D05"
+      ]
+    },
+    {
+      "id": "A012",
+      "scene": "白底标题和巨幅水帘",
+      "layout": "上三图标、中水平比较线、下满幅水流",
+      "light": "冷蓝背景白水束",
+      "typography": "黑粗标题、蓝小图标及数字",
+      "information_density": "高密度",
+      "specific_borrow_points": "保留标题/图标/水流三层，图标改三水型，比较线改三段模式索引",
+      "group_or_duplicate_relation": "A013续片/A039水流章节",
+      "adaptation_and_prohibitions": "结构可改编；去500%/低压场景/止痛功效与竞品对比",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版无纵向水帘大景、章节索引"
+      },
+      "proposed_outputs": [
+        "D06"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D06"
+      ]
+    },
+    {
+      "id": "A013",
+      "scene": "近水平头部向上出水",
+      "layout": "低机位侧厚占横幅，水纹底景",
+      "light": "冷蓝反光水面",
+      "typography": "无字",
+      "information_density": "低密度",
+      "specific_borrow_points": "真实花洒头部低角度短幅，水流可按实拍合理方向，接口出画",
+      "group_or_duplicate_relation": "A012下接片/R007微距",
+      "adaptation_and_prohibitions": "可改编；不为构图把水流变柱状放大",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "P07无水侧面，D03无极近侧厚出水"
+      },
+      "proposed_outputs": [
+        "D06"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D06"
+      ]
+    },
+    {
+      "id": "A014",
+      "scene": "蓝色功能标题与面板上半部",
+      "layout": "左上两行文，下方大圆头被截断",
+      "light": "蓝白竖纹柔光",
+      "typography": "黑粗标题+细副标题",
+      "information_density": "中密度",
+      "specific_borrow_points": "将三档标题与大头截边建立视觉预告，后接下键页",
+      "group_or_duplicate_relation": "A015连续片/A039同章",
+      "adaptation_and_prohibitions": "可改编；六改三、删增压技术/不刺痛",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版无跨屏接续的大面板章节"
+      },
+      "proposed_outputs": [
+        "D07"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D07"
+      ]
+    },
+    {
+      "id": "A015",
+      "scene": "手持面板及弧线数字",
+      "layout": "圆头占上部、颈部弧线1-6、右数字列",
+      "light": "浅蓝冷光",
+      "typography": "蓝色大数字+黑小字",
+      "information_density": "高密度",
+      "specific_borrow_points": "弧线箭头改下键按压指示，旁列三档名称不用孔数尺寸",
+      "group_or_duplicate_relation": "A014连续下半/A036重组",
+      "adaptation_and_prohibitions": "可改编；不暗示旋转六档、120孔/125mm",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "P06按键图未使用手持大面板+弧线引导布局"
+      },
+      "proposed_outputs": [
+        "D07"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D07"
+      ]
+    },
+    {
+      "id": "A016",
+      "scene": "黑底水型两条卡",
+      "layout": "白外底、蓝斜角01/02、两黑窗",
+      "light": "黑背景逆光白细水束",
+      "typography": "黑标题、卡内白字蓝编号",
+      "information_density": "中密度",
+      "specific_borrow_points": "常规/喷雾两条保留，依据实拍水型和方向",
+      "group_or_duplicate_relation": "A017/A018顺序；A039模式章",
+      "adaptation_and_prohibitions": "可改编；删亲肤补水含氧字",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "P04/D03主题同，首版浅色背景降低水束分辨，缺蓝斜角编号"
+      },
+      "proposed_outputs": [
+        "D08"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D08"
+      ]
+    },
+    {
+      "id": "A017",
+      "scene": "黑底三模式续卡",
+      "layout": "三条黑圆角卡、蓝03/04/05",
+      "light": "白水束逆光",
+      "typography": "白标题与蓝大编号",
+      "information_density": "高密度",
+      "specific_borrow_points": "取混合一条与A016组成3模式章节，其余合并不造新档",
+      "group_or_duplicate_relation": "A016/A018同组",
+      "adaptation_and_prohibitions": "合并三档；脉冲/混合1/清污不可增加",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版无完整黑底水型组，不能以三档少于六档只删全部"
+      },
+      "proposed_outputs": [
+        "D08"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D08"
+      ]
+    },
+    {
+      "id": "A018",
+      "scene": "第六模式与蓝色文字桥",
+      "layout": "上黑卡、下蓝底标题副文",
+      "light": "黑白对照转浅蓝",
+      "typography": "白大字",
+      "information_density": "中密度",
+      "specific_borrow_points": "喷枪卡替换混合或下键过渡，蓝桥写下方按键切换三档",
+      "group_or_duplicate_relation": "A017接续/A019前导",
+      "adaptation_and_prohibitions": "结构可改编；去喷枪/AIR/水珠饱满功效",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版无暗转亮过渡段，缺图序节奏"
+      },
+      "proposed_outputs": [
+        "D08"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D08"
+      ]
+    },
+    {
+      "id": "A019",
+      "scene": "蓝浴室正面洗发场景",
+      "layout": "人物居下中，花洒头上方斜置、双臂构图",
+      "light": "冷蓝明窗、亮水丝",
+      "typography": "无主字",
+      "information_density": "低密度",
+      "specific_borrow_points": "M001自然手持淋浴动作、得体服装，以头肩近景收接口",
+      "group_or_duplicate_relation": "A020下续/A039人物体验",
+      "adaptation_and_prohibitions": "可改编；人物非实测，水流正常范围",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "P03不同姿态暖侧镜头，未覆盖冷蓝举臂场景"
+      },
+      "proposed_outputs": [
+        "D09"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D11"
+      ]
+    },
+    {
+      "id": "A020",
+      "scene": "水珠与皮肤剖面比较",
+      "layout": "左右两示意+中VS、蓝灰下文字卡",
+      "light": "医疗式粉绿平面色",
+      "typography": "黑标题、白字蓝牌",
+      "information_density": "中高密度",
+      "specific_borrow_points": "剖面改两张真实外部操作近景：中央红钮/下方按键；无VS优劣",
+      "group_or_duplicate_relation": "A019下续/R020对照",
+      "adaptation_and_prohibitions": "结构可改编；禁皮肤层科学图/刺痛护肤和AIR机制",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版D05同操作主题但无双卡清晰分工对照"
+      },
+      "proposed_outputs": [
+        "D10"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D07"
+      ]
+    },
+    {
+      "id": "A021",
+      "scene": "巨幅头部顶淋人物",
+      "layout": "上标题、横贯头部、竖直水帘、底人物",
+      "light": "冷蓝明光与银侧壁",
+      "typography": "大白标题、细白说明",
+      "information_density": "中密度",
+      "specific_borrow_points": "保留竖直水线与低机位观看头部，实际尺度；服装得体M001",
+      "group_or_duplicate_relation": "A022接续/A019同场景族",
+      "adaptation_and_prohibitions": "可改编；删125mm/覆盖全身功效，不能把真实手持变顶喷套装",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版无此竖向构图，需与A019区分角度"
+      },
+      "proposed_outputs": [
+        "D11"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D11"
+      ]
+    },
+    {
+      "id": "A022",
+      "scene": "蓝灰面板大小比较",
+      "layout": "顶部蓝气泡、两列产品和尺寸、底功能栏",
+      "light": "蓝白与灰色对照",
+      "typography": "白蓝粗字、黑尺寸",
+      "information_density": "高密度",
+      "specific_borrow_points": "改正面/背面同尺寸双视图，等色亮度，说明黑面孔阵/光面背部",
+      "group_or_duplicate_relation": "A021下续/R016对照组",
+      "adaptation_and_prohibitions": "结构可改编；禁止125/75mm、竞品堵塞与性能差",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "P07分离背侧但未做双列大对照"
+      },
+      "proposed_outputs": [
+        "D12"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D12"
+      ]
+    },
+    {
+      "id": "A023",
+      "scene": "蓝色滤芯爆炸结构",
+      "layout": "右大商品、左分层过滤板与箭头",
+      "light": "淡蓝科技光",
+      "typography": "黑大标题、黑小标注",
+      "information_density": "高密度",
+      "specific_borrow_points": "改右完整单品、左外观分区微距层叠卡，箭头只连外部红钮/下键/孔",
+      "group_or_duplicate_relation": "A024下续/A037方图同主题",
+      "adaptation_and_prohibitions": "视觉可改编；不画滤芯/细菌阻隔/净水健康，无透明柄",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版无冷蓝左细节堆叠右商品关系"
+      },
+      "proposed_outputs": [
+        "D13"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D13"
+      ]
+    },
+    {
+      "id": "A024",
+      "scene": "滤芯时间序列与水杯比较",
+      "layout": "上三根滤芯123、下两杯前后",
+      "light": "白底蓝色标题栏",
+      "typography": "蓝白粗标题、红编号",
+      "information_density": "高密度",
+      "specific_borrow_points": "改三步手动操作小照片序列+下两张红钮/下键识别；不作清垢效果证明",
+      "group_or_duplicate_relation": "A023下续/A039过滤章",
+      "adaptation_and_prohibitions": "结构可改编；无过滤寿命/除氯实验/污水变清水",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版没有三步加双细节组合，禁过滤不删除此叙事结构"
+      },
+      "proposed_outputs": [
+        "D14"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D14"
+      ]
+    },
+    {
+      "id": "A025",
+      "scene": "大面板手指揉孔",
+      "layout": "上标题、右三图标、下手指大近景",
+      "light": "淡蓝竖纹软光",
+      "typography": "黑粗标题、蓝小图标",
+      "information_density": "中高密度",
+      "specific_borrow_points": "改手指实际压中央红钮，右侧图标写找按钮/手动按压/短针辅助",
+      "group_or_duplicate_relation": "A026续片/A035方图重排",
+      "adaptation_and_prohibitions": "可改编；不用揉孔、硅胶/抗菌/久用不堵",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "P05/D04动作已覆盖，缺右图标列和冷蓝全幅大头"
+      },
+      "proposed_outputs": [
+        "D14"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D14"
+      ]
+    },
+    {
+      "id": "A026",
+      "scene": "软孔按压示意横卡",
+      "layout": "上手柄局部、下白示意卡与蓝底条",
+      "light": "浅蓝白柔光",
+      "typography": "细黑字蓝箭头",
+      "information_density": "中密度",
+      "specific_borrow_points": "改真实红钮按压前/按住两张微距与箭头，不生成抽象材料形变",
+      "group_or_duplicate_relation": "A025连续片/R028动作底卡",
+      "adaptation_and_prohibitions": "结构可改编；禁抗菌/回弹/抗老化；短针按实际94图",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版除垢单镜头为主，缺并排动作状态横卡"
+      },
+      "proposed_outputs": [
+        "D14"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D14"
+      ]
+    },
+    {
+      "id": "A027",
+      "scene": "蓝色喷枪背面双角度",
+      "layout": "标题上方、背面大圆盘与侧厚浮窗",
+      "light": "冷蓝几何台面",
+      "typography": "黑粗标题+细黑文",
+      "information_density": "中密度",
+      "specific_borrow_points": "改背面整体与侧壁厚度双角度，保留蓝几何台阶空间",
+      "group_or_duplicate_relation": "A028下续/R006同功能",
+      "adaptation_and_prohibitions": "视觉可改编；无喷枪喷口和清污水流",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "P07背侧主题有，但无蓝台阶与双尺度构图"
+      },
+      "proposed_outputs": [
+        "D15"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D15"
+      ]
+    },
+    {
+      "id": "A028",
+      "scene": "四种清洁场景",
+      "layout": "白圆角底、2×2图卡、蓝色脚签",
+      "light": "日常明光",
+      "typography": "黑标题蓝白标签",
+      "information_density": "高密度",
+      "specific_borrow_points": "四格替换常规/喷雾/混合/干态按键近景，第四是操作不是第四档",
+      "group_or_duplicate_relation": "A027续片/R032步骤组",
+      "adaptation_and_prohibitions": "结构可改编；不画喷枪冲厕/拖把等未支持用途",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版三档与按钮分散，没有四格用途/操作导航"
+      },
+      "proposed_outputs": [
+        "D16"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D16"
+      ]
+    },
+    {
+      "id": "A029",
+      "scene": "手柄与测试数字",
+      "layout": "右斜柄出画、左三巨大蓝数字",
+      "light": "冷蓝软光",
+      "typography": "黑标题、蓝数字",
+      "information_density": "高密度",
+      "specific_borrow_points": "保留斜柄和左侧三条大文字，改握持/下键/红钮三个已知要点，不用测试数",
+      "group_or_duplicate_relation": "A030下续/R029工艺组",
+      "adaptation_and_prohibitions": "可改编；禁ABS、耐摔硬度循环测试",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版无手柄为主的大图，也无大字列信息"
+      },
+      "proposed_outputs": [
+        "D17"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D17"
+      ]
+    },
+    {
+      "id": "A030",
+      "scene": "撞裂地面与安装标题",
+      "layout": "上冲击特写、下白标题",
+      "light": "冷蓝碎地硬光",
+      "typography": "黑粗标题",
+      "information_density": "中密度",
+      "specific_borrow_points": "冲击改完整头部静置石材微距，下段转背侧结构介绍",
+      "group_or_duplicate_relation": "A029续片/A031前导",
+      "adaptation_and_prohibitions": "视觉可改编；不画撞碎地面耐摔证明、不承诺99%安装",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版无石材静物和章节转换；可真实替换，不直接省略"
+      },
+      "proposed_outputs": [
+        "D17"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D17"
+      ]
+    },
+    {
+      "id": "A031",
+      "scene": "透明手柄接口大特写",
+      "layout": "蓝圆角底、斜向手柄、左上图标、右下气泡",
+      "light": "冷蓝柔反射",
+      "typography": "白图标、蓝百分比",
+      "information_density": "高密度",
+      "specific_borrow_points": "换本品不透明银色握柄与下键近景，左上标两个按钮的功能，气泡改单花洒",
+      "group_or_duplicate_relation": "A030后接/R034参数组",
+      "adaptation_and_prohibitions": "可改编；无滤芯透明柄、4分/99%/防漏承诺",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版无斜柄特写信息页"
+      },
+      "proposed_outputs": [
+        "D17"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D17"
+      ]
+    },
+    {
+      "id": "A032",
+      "scene": "白底尺寸图",
+      "layout": "竖单品居中、上标题、左右尺寸线",
+      "light": "白底中性商品光",
+      "typography": "黑粗标题+细尺寸",
+      "information_density": "中密度",
+      "specific_borrow_points": "保留白底完整正面，尺寸线换非测量部位标注，或纯白底无字作为素材",
+      "group_or_duplicate_relation": "A033续页/R033规格组",
+      "adaptation_and_prohibitions": "可改编；不写125/270等未知数字",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "P01白底覆盖一部分，但缺有用的外观定位标注"
+      },
+      "proposed_outputs": [
+        "D18"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D18"
+      ]
+    },
+    {
+      "id": "A033",
+      "scene": "六格产品信息卡",
+      "layout": "浅灰圆角矩形、2列3行文字",
+      "light": "白灰平光",
+      "typography": "黑小标题+灰正文",
+      "information_density": "中密度",
+      "specific_borrow_points": "填名称/颜色/三档/切档方式/除垢方式/销售范围六项",
+      "group_or_duplicate_relation": "R034同表结构",
+      "adaptation_and_prohibitions": "可改编；材质/接口未知不能填，不使用大面板增压防漏",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版缺此B端信息总表"
+      },
+      "proposed_outputs": [
+        "D18"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D18"
+      ]
+    },
+    {
+      "id": "A034",
+      "scene": "蓝色正背双主体广告",
+      "layout": "双头叠置、右喷枪浮窗、底红黄黑横条",
+      "light": "冷蓝银亮反光",
+      "typography": "黑大字、彩色强标签",
+      "information_density": "高密度",
+      "specific_borrow_points": "双主体改真前背外观，浮窗放红钮按压；底条写三档出水/按压除垢",
+      "group_or_duplicate_relation": "A001首格；R001广告组",
+      "adaptation_and_prohibitions": "可改编；删680%/净水/喷枪与过滤芯",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "P02太稀疏，未覆盖冷蓝密集主图语言"
+      },
+      "proposed_outputs": [
+        "M03"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "M03"
+      ]
+    },
+    {
+      "id": "A035",
+      "scene": "方形除垢近景",
+      "layout": "面板占下2/3、手指从右入、右三标",
+      "light": "冷蓝自然高光",
+      "typography": "黑粗标题、细文、蓝图标",
+      "information_density": "高密度",
+      "specific_borrow_points": "保持方形裁切手势，改中央红钮实际动作，不改成揉白孔",
+      "group_or_duplicate_relation": "A025方图改排/A001子格",
+      "adaptation_and_prohibitions": "可改编；删硅胶抗菌与长期不堵等",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "P05已有中央按压但景别/蓝图标/密度不同"
+      },
+      "proposed_outputs": [
+        "M05"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "M05"
+      ]
+    },
+    {
+      "id": "A036",
+      "scene": "方形模式概览",
+      "layout": "左巨大面板+弧数字、右6小窗",
+      "light": "蓝白竖纹背景",
+      "typography": "右黑标题、蓝编号",
+      "information_density": "高密度",
+      "specific_borrow_points": "改左下键手持大图，右3水型窗，箭头准确指下键",
+      "group_or_duplicate_relation": "A014-A017浓缩/A001子格",
+      "adaptation_and_prohibitions": "可改编；六改三、去原旋转拨片；不新增模式",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "P04三条等大横卡不是左主右从结构"
+      },
+      "proposed_outputs": [
+        "M04"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "M04"
+      ]
+    },
+    {
+      "id": "A037",
+      "scene": "方形过滤结构",
+      "layout": "右直立商品+左分层芯、上标题",
+      "light": "冷蓝科技光",
+      "typography": "黑粗标题与细标注",
+      "information_density": "高密度",
+      "specific_borrow_points": "改右完整商品、左红钮及孔位外部放大图，用连线解释位置",
+      "group_or_duplicate_relation": "A023方图/A001子格",
+      "adaptation_and_prohibitions": "结构可改编；过滤芯/除菌/水质健康全禁，保留左右信息关系",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版没有方形右整品左机制外观图"
+      },
+      "proposed_outputs": [
+        "D13"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "D13"
+      ]
+    },
+    {
+      "id": "A038",
+      "scene": "纯白无字单品",
+      "layout": "竖向三分之四单品居中、四周白留白",
+      "light": "均匀棚拍柔亮边",
+      "typography": "无字",
+      "information_density": "最低密度",
+      "specific_borrow_points": "同视角银色真实圆头白底，精确保留侧厚和整体比例",
+      "group_or_duplicate_relation": "A001白底格/A032信息版",
+      "adaptation_and_prohibitions": "可直接改编视觉；换真实不透明柄和黑面红钮",
+      "first_version_coverage": {
+        "status": "VISUAL_LANGUAGE_COVERED",
+        "gap": "P01已真正覆盖白底单品语言，但不等于整套参考覆盖"
+      },
+      "proposed_outputs": [
+        "M01"
+      ],
+      "visual_read_method": "对应完整无裁切总览，逐项视觉查看",
+      "actual_outputs_32": [
+        "M01"
+      ]
+    },
+    {
+      "id": "A039",
+      "scene": "完整蓝白长详情",
+      "layout": "人物首屏→三色→体验→功能索引→水流→模式→体验→外观/清洁→握柄→信息收尾，28切片",
+      "light": "冷蓝白主线，黑水型卡和白参数卡形成节奏",
+      "typography": "粗黑主标题、白反字、蓝编号、少量橙环",
+      "information_density": "疏密交替",
+      "specific_borrow_points": "保留章节顺序与长短屏交替，以真实三档/红钮/下键/外观替代过滤喷枪与测试模块；人物休止与功能密集页交错",
+      "group_or_duplicate_relation": "A006-A033拼接合集，不能当第29个新主题；四页y0—25920已实际逐列查看",
+      "adaptation_and_prohibitions": "整体可改编；所有禁止功能改为本商品真实模块，非原封复制宣称",
+      "first_version_coverage": {
+        "status": "NOT_FULLY_COVERED",
+        "gap": "首版6张同高浅米海报仅拼接，没有28切片的层级、色调跳转、长短节奏和完整信息链"
+      },
+      "proposed_outputs": [
+        "ASSEMBLY_DETAIL_SCROLL"
+      ],
+      "visual_read_method": "全部四页可读分页，按左中右逐列从上到下；非仅长条缩略",
+      "actual_outputs_32": [
+        "ASSEMBLY_DETAIL_SCROLL"
+      ]
+    }
+  ],
+  "proposed_group": [
+    {
+      "id": "M01",
+      "reading_task": "银色白底素材",
+      "reference_ids": [
+        "A038"
+      ],
+      "aspect_guidance": "1:1",
+      "visual_route": "白底中性",
+      "composition": "完整三分之四单品，无字，保留真侧厚；可沿用首版已合格白底候选但须新清单注明复用",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "M02",
+      "reading_task": "棕金单品广告",
+      "reference_ids": [
+        "R001",
+        "R009"
+      ],
+      "aspect_guidance": "1:1",
+      "visual_route": "暖棕金",
+      "composition": "斜托盘仅单花洒，分层底标题，局部小窗替代附件",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "M03",
+      "reading_task": "冷蓝双视角广告",
+      "reference_ids": [
+        "A034"
+      ],
+      "aspect_guidance": "1:1",
+      "visual_route": "冷蓝高密度",
+      "composition": "正背两件同款叠置，红钮局部窗，底部三档/除垢两标题条",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "M04",
+      "reading_task": "手持主图与三水型窗",
+      "reference_ids": [
+        "R002",
+        "A036"
+      ],
+      "aspect_guidance": "1:1",
+      "visual_route": "暖棕",
+      "composition": "右大手持下键动作，左三小窗，三档名称；不同于等大模式卡",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "M05",
+      "reading_task": "冷蓝除垢近景主图",
+      "reference_ids": [
+        "A035"
+      ],
+      "aspect_guidance": "1:1",
+      "visual_route": "冷蓝白",
+      "composition": "大圆头截边，真实按红钮，右图标列说明手动操作",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "M06",
+      "reading_task": "场景与SKU同屏",
+      "reference_ids": [
+        "R008"
+      ],
+      "aspect_guidance": "1:1",
+      "visual_route": "暖浴室+白栏",
+      "composition": "左M001场景占2/3，右1/3白底完整单品，仅银色单花洒",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "M07",
+      "reading_task": "暗底冲击主视觉",
+      "reference_ids": [
+        "R004"
+      ],
+      "aspect_guidance": "1:1",
+      "visual_route": "黑金+冷银",
+      "composition": "完整大头斜轴截边、真实水束、红金标题条；不剖开商品",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "M08",
+      "reading_task": "三项概览卡",
+      "reference_ids": [
+        "R012"
+      ],
+      "aspect_guidance": "1:1",
+      "visual_route": "白底棕金卡",
+      "composition": "三竖卡：三档、下键切换、红钮除垢，作为后续详情导航",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "K01",
+      "reading_task": "银色选色SKU",
+      "reference_ids": [
+        "A002",
+        "A005"
+      ],
+      "aspect_guidance": "1:1",
+      "visual_route": "冷蓝",
+      "composition": "与K02/K03统一位置大小角度，简化为颜色+单花洒，不放滤芯或参数",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "K02",
+      "reading_task": "黑色选色SKU",
+      "reference_ids": [
+        "A003"
+      ],
+      "aspect_guidance": "1:1",
+      "visual_route": "冷蓝",
+      "composition": "按黑色自身实拍，黑色柔高光，唯一色名与单花洒",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "K03",
+      "reading_task": "枪灰选色SKU",
+      "reference_ids": [
+        "A004"
+      ],
+      "aspect_guidance": "1:1",
+      "visual_route": "冷蓝",
+      "composition": "按枪灰实拍，亮度高于黑色，与K01/K02等尺度",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D01",
+      "reading_task": "时尚人物首屏",
+      "reference_ids": [
+        "A006"
+      ],
+      "aspect_guidance": "近790:941",
+      "visual_route": "冷蓝几何",
+      "composition": "M001黑色得体上衣，手和商品越过实心圆角框，上方两行大标题",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D02",
+      "reading_task": "横幅时尚人物",
+      "reference_ids": [
+        "A007"
+      ],
+      "aspect_guidance": "近790:597",
+      "visual_route": "冷蓝柔光",
+      "composition": "人物居左，右留短文，发丝与商品形成斜线，避免同D01正面姿态",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D03",
+      "reading_task": "错落三色相册",
+      "reference_ids": [
+        "A008"
+      ],
+      "aspect_guidance": "近790:1096",
+      "visual_route": "冷蓝白框",
+      "composition": "三色高低错落斜置，完整轮廓与白框越界关系，不画粉色",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D04",
+      "reading_task": "浴室场景与细节续幅",
+      "reference_ids": [
+        "A009",
+        "A010"
+      ],
+      "aspect_guidance": "纵向约790:1400",
+      "visual_route": "冷蓝窗光",
+      "composition": "左前景产品右下M001，底部短带为银侧壁/手部水滴；接口出画，无配件",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D05",
+      "reading_task": "五格功能与外观索引",
+      "reference_ids": [
+        "A011",
+        "R017"
+      ],
+      "aspect_guidance": "近790:1168",
+      "visual_route": "冷蓝白",
+      "composition": "左大水流、右红钮/孔、底下键/侧背；借R017不等大卡的节奏，禁虚构结构",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D06",
+      "reading_task": "出水起点微距",
+      "reference_ids": [
+        "A012",
+        "A013",
+        "R007"
+      ],
+      "aspect_guidance": "近790:1100",
+      "visual_route": "蓝白与高光",
+      "composition": "上标题+三模式索引，下大水流近景及低机位侧壁，无增压比较线",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D07",
+      "reading_task": "手持面板与下键定位",
+      "reference_ids": [
+        "A014",
+        "A015",
+        "R025"
+      ],
+      "aspect_guidance": "近790:1200",
+      "visual_route": "冷蓝竖纹",
+      "composition": "上短标题桥，下大头+手，箭头只指下键，右三档名称无尺寸孔数",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D08",
+      "reading_task": "三档黑底水型章",
+      "reference_ids": [
+        "A016",
+        "A017",
+        "A018",
+        "R023"
+      ],
+      "aspect_guidance": "近790:1300",
+      "visual_route": "黑卡蓝编号",
+      "composition": "三条逆光黑卡，01常规02喷雾03混合，接底部浅蓝短过渡；不沿袭原六档",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D09",
+      "reading_task": "无字人物停顿",
+      "reference_ids": [
+        "A019",
+        "R019"
+      ],
+      "aspect_guidance": "近790:976",
+      "visual_route": "冷蓝自然光",
+      "composition": "M001头肩与举臂淋浴情境、得体服装，正常水束，无功效字",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D10",
+      "reading_task": "两按钮分工双卡",
+      "reference_ids": [
+        "A020",
+        "R020",
+        "R021",
+        "R005"
+      ],
+      "aspect_guidance": "横向近790:625",
+      "visual_route": "白蓝等权重",
+      "composition": "左右实际外部按钮近景+准确标签，无皮肤剖面/VS/竞品；可选择上下短条但不重复两版",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D11",
+      "reading_task": "明亮浴室回眸",
+      "reference_ids": [
+        "A021",
+        "R026"
+      ],
+      "aspect_guidance": "近790:1030",
+      "visual_route": "白蓝高调",
+      "composition": "M001回眸或低机位手持，正常比例头部、水线竖向；与D09构图不同，无顶喷暗示",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D12",
+      "reading_task": "正背外观并置",
+      "reference_ids": [
+        "A022"
+      ],
+      "aspect_guidance": "近790:1000",
+      "visual_route": "蓝白同亮度",
+      "composition": "双列同尺度正背视图、部位说明，不用尺寸线或弱化竞品",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D13",
+      "reading_task": "外部部位放大图",
+      "reference_ids": [
+        "A023",
+        "A037"
+      ],
+      "aspect_guidance": "近790:1007",
+      "visual_route": "冷蓝",
+      "composition": "右整品、左三个外观放大卡，细线连真孔/红钮/下键；不用滤芯分层",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D14",
+      "reading_task": "手动除垢过程与状态",
+      "reference_ids": [
+        "A024",
+        "A025",
+        "A026"
+      ],
+      "aspect_guidance": "近790:1300",
+      "visual_route": "蓝白",
+      "composition": "上三步：定位/按住/孔位观察；下未按与按住状态微距，非清洁效果前后",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D15",
+      "reading_task": "背面侧壁双景别",
+      "reference_ids": [
+        "A027",
+        "R031"
+      ],
+      "aspect_guidance": "近790:1109",
+      "visual_route": "冷蓝台阶",
+      "composition": "大背面与侧壁浮窗，下三细节；吸收R031大主体+下小窗，去软管",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D16",
+      "reading_task": "切档操作步骤页",
+      "reference_ids": [
+        "A028",
+        "R032",
+        "R006"
+      ],
+      "aspect_guidance": "近790:1000",
+      "visual_route": "白底蓝脚签",
+      "composition": "左大手持，右找下键/按下/选择水型步骤，下小窗说明；不写固定循环顺序",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D17",
+      "reading_task": "握柄与曲面细节",
+      "reference_ids": [
+        "A029",
+        "A030",
+        "A031"
+      ],
+      "aspect_guidance": "近790:1200",
+      "visual_route": "蓝灰石材",
+      "composition": "大斜银柄、左侧短文字列，底完整头部静置石材；无砸地试验、透明柄或接口承诺",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D18",
+      "reading_task": "B端已知信息收尾",
+      "reference_ids": [
+        "A032",
+        "A033",
+        "R034"
+      ],
+      "aspect_guidance": "近790:1200",
+      "visual_route": "白灰",
+      "composition": "上完整单品带部位定位细线，下2列3行已知信息；无尺寸测量线，未知项不列",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "V01",
+      "reading_task": "暖木场景与水流细节",
+      "reference_ids": [
+        "R003",
+        "R013",
+        "R015",
+        "R018"
+      ],
+      "aspect_guidance": "近750:1300",
+      "visual_route": "暖木浴室",
+      "composition": "上M001和真实水流、下三局部窗替代证书，黑棕标题；与冷蓝详情分开作为暖路线补充",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "V02",
+      "reading_task": "干态人物切档时尚页",
+      "reference_ids": [
+        "R022"
+      ],
+      "aspect_guidance": "近750:1104",
+      "visual_route": "浅米暖光",
+      "composition": "M001托腮、左前景商品、左超大棕字“下方切档”；非白袍证件式站姿",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "V03",
+      "reading_task": "暗底多角度曲面展示",
+      "reference_ids": [
+        "R027",
+        "R029"
+      ],
+      "aspect_guidance": "近750:1300",
+      "visual_route": "黑金蓝紫边光",
+      "composition": "完整正/侧/背错落，不画拆件；引线标真实外观，取消车和层材质",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "V04",
+      "reading_task": "沙纹除垢特写",
+      "reference_ids": [
+        "R024",
+        "R028"
+      ],
+      "aspect_guidance": "近750:1300",
+      "visual_route": "夕阳沙纹",
+      "composition": "上巨面板、中实际按压、底三步短卡；三列从灰痛点改正向操作，不健康恐吓",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "V05",
+      "reading_task": "岩石舞台单品",
+      "reference_ids": [
+        "R033",
+        "R031"
+      ],
+      "aspect_guidance": "近750:1222",
+      "visual_route": "棕金地平线",
+      "composition": "直立银色大主体、岩石层次、非测量部位标注，无未知数字",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "V06",
+      "reading_task": "外观图鉴与买前问答",
+      "reference_ids": [
+        "R010",
+        "R011",
+        "R016",
+        "R035"
+      ],
+      "aspect_guidance": "近790:1500",
+      "visual_route": "夜蓝上区+白底六格",
+      "composition": "顶部中性浴室空间与单品，不厂房；中间正背侧/面板/下键/红钮六格，底已知问题索引；无品牌资质服务承诺",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "V07",
+      "reading_task": "棕色短章节桥",
+      "reference_ids": [
+        "R014",
+        "R030"
+      ],
+      "aspect_guidance": "近750:450",
+      "visual_route": "深棕金渐变",
+      "composition": "主标题三档出水，胶囊下键切档/中央按压除垢；短版面连接暖路线，不数字凑参数",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    }
+  ],
+  "candidate_history_36": [
+    {
+      "id": "M01",
+      "reading_task": "银色白底素材",
+      "reference_ids": [
+        "A038"
+      ],
+      "aspect_guidance": "1:1",
+      "visual_route": "白底中性",
+      "composition": "完整三分之四单品，无字，保留真侧厚；可沿用首版已合格白底候选但须新清单注明复用",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "M02",
+      "reading_task": "棕金单品广告",
+      "reference_ids": [
+        "R001",
+        "R009"
+      ],
+      "aspect_guidance": "1:1",
+      "visual_route": "暖棕金",
+      "composition": "斜托盘仅单花洒，分层底标题，局部小窗替代附件",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "M03",
+      "reading_task": "冷蓝双视角广告",
+      "reference_ids": [
+        "A034"
+      ],
+      "aspect_guidance": "1:1",
+      "visual_route": "冷蓝高密度",
+      "composition": "正背两件同款叠置，红钮局部窗，底部三档/除垢两标题条",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "M04",
+      "reading_task": "手持主图与三水型窗",
+      "reference_ids": [
+        "R002",
+        "A036"
+      ],
+      "aspect_guidance": "1:1",
+      "visual_route": "暖棕",
+      "composition": "右大手持下键动作，左三小窗，三档名称；不同于等大模式卡",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "M05",
+      "reading_task": "冷蓝除垢近景主图",
+      "reference_ids": [
+        "A035"
+      ],
+      "aspect_guidance": "1:1",
+      "visual_route": "冷蓝白",
+      "composition": "大圆头截边，真实按红钮，右图标列说明手动操作",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "M06",
+      "reading_task": "场景与SKU同屏",
+      "reference_ids": [
+        "R008"
+      ],
+      "aspect_guidance": "1:1",
+      "visual_route": "暖浴室+白栏",
+      "composition": "左M001场景占2/3，右1/3白底完整单品，仅银色单花洒",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "M07",
+      "reading_task": "暗底冲击主视觉",
+      "reference_ids": [
+        "R004"
+      ],
+      "aspect_guidance": "1:1",
+      "visual_route": "黑金+冷银",
+      "composition": "完整大头斜轴截边、真实水束、红金标题条；不剖开商品",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "M08",
+      "reading_task": "三项概览卡",
+      "reference_ids": [
+        "R012"
+      ],
+      "aspect_guidance": "1:1",
+      "visual_route": "白底棕金卡",
+      "composition": "三竖卡：三档、下键切换、红钮除垢，作为后续详情导航",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "K01",
+      "reading_task": "银色选色SKU",
+      "reference_ids": [
+        "A002",
+        "A005"
+      ],
+      "aspect_guidance": "1:1",
+      "visual_route": "冷蓝",
+      "composition": "与K02/K03统一位置大小角度，简化为颜色+单花洒，不放滤芯或参数",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "K02",
+      "reading_task": "黑色选色SKU",
+      "reference_ids": [
+        "A003"
+      ],
+      "aspect_guidance": "1:1",
+      "visual_route": "冷蓝",
+      "composition": "按黑色自身实拍，黑色柔高光，唯一色名与单花洒",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "K03",
+      "reading_task": "枪灰选色SKU",
+      "reference_ids": [
+        "A004"
+      ],
+      "aspect_guidance": "1:1",
+      "visual_route": "冷蓝",
+      "composition": "按枪灰实拍，亮度高于黑色，与K01/K02等尺度",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D01",
+      "reading_task": "时尚人物首屏",
+      "reference_ids": [
+        "A006"
+      ],
+      "aspect_guidance": "近790:941",
+      "visual_route": "冷蓝几何",
+      "composition": "M001黑色得体上衣，手和商品越过实心圆角框，上方两行大标题",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D02",
+      "reading_task": "横幅时尚人物",
+      "reference_ids": [
+        "A007"
+      ],
+      "aspect_guidance": "近790:597",
+      "visual_route": "冷蓝柔光",
+      "composition": "人物居左，右留短文，发丝与商品形成斜线，避免同D01正面姿态",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D03",
+      "reading_task": "错落三色相册",
+      "reference_ids": [
+        "A008"
+      ],
+      "aspect_guidance": "近790:1096",
+      "visual_route": "冷蓝白框",
+      "composition": "三色高低错落斜置，完整轮廓与白框越界关系，不画粉色",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D04",
+      "reading_task": "浴室场景与细节续幅",
+      "reference_ids": [
+        "A009",
+        "A010"
+      ],
+      "aspect_guidance": "纵向约790:1400",
+      "visual_route": "冷蓝窗光",
+      "composition": "左前景产品右下M001，底部短带为银侧壁/手部水滴；接口出画，无配件",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D05",
+      "reading_task": "五格功能与外观索引",
+      "reference_ids": [
+        "A011",
+        "R017"
+      ],
+      "aspect_guidance": "近790:1168",
+      "visual_route": "冷蓝白",
+      "composition": "左大水流、右红钮/孔、底下键/侧背；借R017不等大卡的节奏，禁虚构结构",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D06",
+      "reading_task": "出水起点微距",
+      "reference_ids": [
+        "A012",
+        "A013",
+        "R007"
+      ],
+      "aspect_guidance": "近790:1100",
+      "visual_route": "蓝白与高光",
+      "composition": "上标题+三模式索引，下大水流近景及低机位侧壁，无增压比较线",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D07",
+      "reading_task": "手持面板与下键定位",
+      "reference_ids": [
+        "A014",
+        "A015",
+        "R025"
+      ],
+      "aspect_guidance": "近790:1200",
+      "visual_route": "冷蓝竖纹",
+      "composition": "上短标题桥，下大头+手，箭头只指下键，右三档名称无尺寸孔数",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D08",
+      "reading_task": "三档黑底水型章",
+      "reference_ids": [
+        "A016",
+        "A017",
+        "A018",
+        "R023"
+      ],
+      "aspect_guidance": "近790:1300",
+      "visual_route": "黑卡蓝编号",
+      "composition": "三条逆光黑卡，01常规02喷雾03混合，接底部浅蓝短过渡；不沿袭原六档",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D09",
+      "reading_task": "无字人物停顿",
+      "reference_ids": [
+        "A019",
+        "R019"
+      ],
+      "aspect_guidance": "近790:976",
+      "visual_route": "冷蓝自然光",
+      "composition": "M001头肩与举臂淋浴情境、得体服装，正常水束，无功效字",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D10",
+      "reading_task": "两按钮分工双卡",
+      "reference_ids": [
+        "A020",
+        "R020",
+        "R021",
+        "R005"
+      ],
+      "aspect_guidance": "横向近790:625",
+      "visual_route": "白蓝等权重",
+      "composition": "左右实际外部按钮近景+准确标签，无皮肤剖面/VS/竞品；可选择上下短条但不重复两版",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D11",
+      "reading_task": "明亮浴室回眸",
+      "reference_ids": [
+        "A021",
+        "R026"
+      ],
+      "aspect_guidance": "近790:1030",
+      "visual_route": "白蓝高调",
+      "composition": "M001回眸或低机位手持，正常比例头部、水线竖向；与D09构图不同，无顶喷暗示",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D12",
+      "reading_task": "正背外观并置",
+      "reference_ids": [
+        "A022"
+      ],
+      "aspect_guidance": "近790:1000",
+      "visual_route": "蓝白同亮度",
+      "composition": "双列同尺度正背视图、部位说明，不用尺寸线或弱化竞品",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D13",
+      "reading_task": "外部部位放大图",
+      "reference_ids": [
+        "A023",
+        "A037"
+      ],
+      "aspect_guidance": "近790:1007",
+      "visual_route": "冷蓝",
+      "composition": "右整品、左三个外观放大卡，细线连真孔/红钮/下键；不用滤芯分层",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D14",
+      "reading_task": "手动除垢过程与状态",
+      "reference_ids": [
+        "A024",
+        "A025",
+        "A026"
+      ],
+      "aspect_guidance": "近790:1300",
+      "visual_route": "蓝白",
+      "composition": "上三步：定位/按住/孔位观察；下未按与按住状态微距，非清洁效果前后",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D15",
+      "reading_task": "背面侧壁双景别",
+      "reference_ids": [
+        "A027",
+        "R031"
+      ],
+      "aspect_guidance": "近790:1109",
+      "visual_route": "冷蓝台阶",
+      "composition": "大背面与侧壁浮窗，下三细节；吸收R031大主体+下小窗，去软管",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D16",
+      "reading_task": "切档操作步骤页",
+      "reference_ids": [
+        "A028",
+        "R032",
+        "R006"
+      ],
+      "aspect_guidance": "近790:1000",
+      "visual_route": "白底蓝脚签",
+      "composition": "左大手持，右找下键/按下/选择水型步骤，下小窗说明；不写固定循环顺序",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D17",
+      "reading_task": "握柄与曲面细节",
+      "reference_ids": [
+        "A029",
+        "A030",
+        "A031"
+      ],
+      "aspect_guidance": "近790:1200",
+      "visual_route": "蓝灰石材",
+      "composition": "大斜银柄、左侧短文字列，底完整头部静置石材；无砸地试验、透明柄或接口承诺",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "D18",
+      "reading_task": "B端已知信息收尾",
+      "reference_ids": [
+        "A032",
+        "A033",
+        "R034"
+      ],
+      "aspect_guidance": "近790:1200",
+      "visual_route": "白灰",
+      "composition": "上完整单品带部位定位细线，下2列3行已知信息；无尺寸测量线，未知项不列",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "V01",
+      "reading_task": "暖木场景与水流细节",
+      "reference_ids": [
+        "R003",
+        "R013",
+        "R015",
+        "R018"
+      ],
+      "aspect_guidance": "近750:1300",
+      "visual_route": "暖木浴室",
+      "composition": "上M001和真实水流、下三局部窗替代证书，黑棕标题；与冷蓝详情分开作为暖路线补充",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "V02",
+      "reading_task": "干态人物切档时尚页",
+      "reference_ids": [
+        "R022"
+      ],
+      "aspect_guidance": "近750:1104",
+      "visual_route": "浅米暖光",
+      "composition": "M001托腮、左前景商品、左超大棕字“下方切档”；非白袍证件式站姿",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "V03",
+      "reading_task": "暗底多角度曲面展示",
+      "reference_ids": [
+        "R027",
+        "R029"
+      ],
+      "aspect_guidance": "近750:1300",
+      "visual_route": "黑金蓝紫边光",
+      "composition": "完整正/侧/背错落，不画拆件；引线标真实外观，取消车和层材质",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "V04",
+      "reading_task": "沙纹除垢特写",
+      "reference_ids": [
+        "R024",
+        "R028"
+      ],
+      "aspect_guidance": "近750:1300",
+      "visual_route": "夕阳沙纹",
+      "composition": "上巨面板、中实际按压、底三步短卡；三列从灰痛点改正向操作，不健康恐吓",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "V05",
+      "reading_task": "岩石舞台单品",
+      "reference_ids": [
+        "R033",
+        "R031"
+      ],
+      "aspect_guidance": "近750:1222",
+      "visual_route": "棕金地平线",
+      "composition": "直立银色大主体、岩石层次、非测量部位标注，无未知数字",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "V06",
+      "reading_task": "外观图鉴与买前问答",
+      "reference_ids": [
+        "R010",
+        "R011",
+        "R016",
+        "R035"
+      ],
+      "aspect_guidance": "近790:1500",
+      "visual_route": "夜蓝上区+白底六格",
+      "composition": "顶部中性浴室空间与单品，不厂房；中间正背侧/面板/下键/红钮六格，底已知问题索引；无品牌资质服务承诺",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    },
+    {
+      "id": "V07",
+      "reading_task": "棕色短章节桥",
+      "reference_ids": [
+        "R014",
+        "R030"
+      ],
+      "aspect_guidance": "近750:450",
+      "visual_route": "深棕金渐变",
+      "composition": "主标题三档出水，胶囊下键切档/中央按压除垢；短版面连接暖路线，不数字凑参数",
+      "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+    }
+  ],
+  "actual_execution_32": [
+    {
+      "id": "M01",
+      "reading_task": "银色白底素材",
+      "reference_ids": [
+        "A038"
+      ],
+      "aspect_guidance": "1:1",
+      "visual_route": "白底中性",
+      "composition": "完整三分之四单品，无字，保留真侧厚；可沿用首版已合格白底候选但须新清单注明复用",
+      "production_status": "CURRENT_GEOMETRY_QA_PASS_WITH_LIMITATIONS",
+      "merged_reading_tasks": [],
+      "user_acceptance": "PENDING",
+      "selected_revision": "v2",
+      "thread_color_status": "USER_CONFIRMED_SILVER",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/M01.png",
+      "selected_sha256": "f63af37ee572ef996ddb155826b6251183ba0eac834e7f1d42f78334f10daa4d",
+      "actual_dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "M02",
+      "reading_task": "棕金单品广告",
+      "reference_ids": [
+        "R001",
+        "R009"
+      ],
+      "aspect_guidance": "1:1",
+      "visual_route": "暖棕金",
+      "composition": "斜托盘仅单花洒，分层底标题，局部小窗替代附件",
+      "production_status": "CURRENT_GEOMETRY_QA_PASS_WITH_LIMITATIONS",
+      "merged_reading_tasks": [],
+      "user_acceptance": "PENDING",
+      "selected_revision": "v3",
+      "thread_color_status": "USER_CONFIRMED_SILVER",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/M02.png",
+      "selected_sha256": "566e25acbedeb606186758baafea6b9b0aa4f61e0821f25f34f1186d638ce821",
+      "actual_dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "M03",
+      "reading_task": "冷蓝双视角广告",
+      "reference_ids": [
+        "A034"
+      ],
+      "aspect_guidance": "1:1",
+      "visual_route": "冷蓝高密度",
+      "composition": "正背两件同款叠置，红钮局部窗，底部三档/除垢两标题条",
+      "production_status": "CURRENT_GEOMETRY_QA_PASS_WITH_LIMITATIONS",
+      "merged_reading_tasks": [],
+      "user_acceptance": "PENDING",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/M03.png",
+      "selected_sha256": "d9e3ca71770fd3557e5cd643ee2601c63b3e73ea682487ead819f2210801215a",
+      "actual_dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "M04",
+      "reading_task": "手持主图与三水型窗",
+      "reference_ids": [
+        "R002",
+        "A036"
+      ],
+      "aspect_guidance": "1:1",
+      "visual_route": "暖棕",
+      "composition": "右大手持下键动作，左三小窗，三档名称；不同于等大模式卡",
+      "production_status": "CURRENT_GEOMETRY_QA_PASS_WITH_LIMITATIONS",
+      "merged_reading_tasks": [],
+      "user_acceptance": "PENDING",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/M04.png",
+      "selected_sha256": "f2b1fa01f3aecc8c3ca7d5e6303a26d49cfcaecedd51ec5510e670d01351a0cd",
+      "actual_dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "M05",
+      "reading_task": "冷蓝除垢近景主图",
+      "reference_ids": [
+        "A035"
+      ],
+      "aspect_guidance": "1:1",
+      "visual_route": "冷蓝白",
+      "composition": "大圆头截边，真实按红钮，右图标列说明手动操作",
+      "production_status": "CURRENT_GEOMETRY_QA_PASS_WITH_LIMITATIONS",
+      "merged_reading_tasks": [],
+      "user_acceptance": "PENDING",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/M05.png",
+      "selected_sha256": "bda91eff2cf534d44b25f99c2e3a889c7100d850c0d40af367dbdb63ef281ad1",
+      "actual_dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "M06",
+      "reading_task": "场景与SKU同屏",
+      "reference_ids": [
+        "R008"
+      ],
+      "aspect_guidance": "1:1",
+      "visual_route": "暖浴室+白栏",
+      "composition": "左M001场景占2/3，右1/3白底完整单品，仅银色单花洒",
+      "production_status": "CURRENT_GEOMETRY_QA_PASS_WITH_LIMITATIONS",
+      "merged_reading_tasks": [],
+      "user_acceptance": "PENDING",
+      "selected_revision": "v3",
+      "thread_color_status": "USER_CONFIRMED_SILVER",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/M06.png",
+      "selected_sha256": "47ee91952772cd88c34bbaa1ca8b8fd8954d6177317487a539e2004e4f95501e",
+      "actual_dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "M07",
+      "reading_task": "暗底冲击主视觉",
+      "reference_ids": [
+        "R004"
+      ],
+      "aspect_guidance": "1:1",
+      "visual_route": "黑金+冷银",
+      "composition": "完整大头斜轴截边、真实水束、红金标题条；不剖开商品",
+      "production_status": "CURRENT_GEOMETRY_QA_PASS_WITH_LIMITATIONS",
+      "merged_reading_tasks": [],
+      "user_acceptance": "PENDING",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/M07.png",
+      "selected_sha256": "02a5b2066de7ae1a52768555d81f20b53a30aa1694fd99c08a470cffc17bd173",
+      "actual_dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "M08",
+      "reading_task": "三项概览卡",
+      "reference_ids": [
+        "R012"
+      ],
+      "aspect_guidance": "1:1",
+      "visual_route": "白底棕金卡",
+      "composition": "三竖卡：三档、下键切换、红钮除垢，作为后续详情导航",
+      "production_status": "CURRENT_GEOMETRY_QA_PASS_WITH_LIMITATIONS",
+      "merged_reading_tasks": [],
+      "user_acceptance": "PENDING",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/M08.png",
+      "selected_sha256": "e4a39c6aa3bda285e0c5f47f1e6c0358c0d5bbd454b96dbf848b5949f01b0b4d",
+      "actual_dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "K01",
+      "reading_task": "银色选色SKU",
+      "reference_ids": [
+        "A002",
+        "A005"
+      ],
+      "aspect_guidance": "1:1",
+      "visual_route": "冷蓝",
+      "composition": "与K02/K03统一位置大小角度，简化为颜色+单花洒，不放滤芯或参数",
+      "production_status": "CURRENT_GEOMETRY_QA_PASS_WITH_LIMITATIONS",
+      "merged_reading_tasks": [],
+      "user_acceptance": "PENDING",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/K01.png",
+      "selected_sha256": "f350fbf3c5c2e46c89e5a06a0f94030e07f8d865402e8777acc649a51d51c13b",
+      "actual_dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "K02",
+      "reading_task": "黑色选色SKU",
+      "reference_ids": [
+        "A003"
+      ],
+      "aspect_guidance": "1:1",
+      "visual_route": "冷蓝",
+      "composition": "按黑色自身实拍，黑色柔高光，唯一色名与单花洒",
+      "production_status": "CURRENT_GEOMETRY_QA_PASS_WITH_LIMITATIONS",
+      "merged_reading_tasks": [],
+      "user_acceptance": "PENDING",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/K02.png",
+      "selected_sha256": "5f3fa907b9388b98e8b0cc97499e04f18e386e46048c4276ea33e765ec52edc8",
+      "actual_dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "K03",
+      "reading_task": "枪灰选色SKU",
+      "reference_ids": [
+        "A004"
+      ],
+      "aspect_guidance": "1:1",
+      "visual_route": "冷蓝",
+      "composition": "按枪灰实拍，亮度高于黑色，与K01/K02等尺度",
+      "production_status": "CURRENT_GEOMETRY_QA_PASS_WITH_LIMITATIONS",
+      "merged_reading_tasks": [],
+      "user_acceptance": "PENDING",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/K03.png",
+      "selected_sha256": "b1bfeb26b6ad14ac22963172d6d573682f80ff64d4e44c28039a9dffd7925de2",
+      "actual_dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "D01",
+      "reading_task": "时尚人物首屏",
+      "reference_ids": [
+        "A006"
+      ],
+      "aspect_guidance": "790:1538",
+      "visual_route": "冷蓝几何",
+      "composition": "M001黑色得体上衣，手和商品越过实心圆角框，上方两行大标题",
+      "production_status": "CURRENT_GEOMETRY_QA_PASS_WITH_LIMITATIONS",
+      "merged_reading_tasks": [
+        {
+          "id": "D02",
+          "reading_task": "横幅时尚人物",
+          "reference_ids": [
+            "A007"
+          ],
+          "aspect_guidance": "近790:597",
+          "visual_route": "冷蓝柔光",
+          "composition": "人物居左，右留短文，发丝与商品形成斜线，避免同D01正面姿态",
+          "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+        }
+      ],
+      "section_plan": "上61% A006黑衣人物越框首屏+下39% A007白衣独立横幅，右侧无字空间，copy-v2 intentional_blank；原生实得900:1748。",
+      "user_acceptance": "PENDING",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/D01.png",
+      "selected_sha256": "2986e8d8f02eda136342e55da108c8b70dc8541251351a484135a7368015da86",
+      "actual_dimensions": [
+        900,
+        1748
+      ]
+    },
+    {
+      "id": "D03",
+      "reading_task": "错落三色相册",
+      "reference_ids": [
+        "A008"
+      ],
+      "aspect_guidance": "近790:1096",
+      "visual_route": "冷蓝白框",
+      "composition": "三色高低错落斜置，完整轮廓与白框越界关系，不画粉色",
+      "production_status": "CURRENT_GEOMETRY_QA_PASS_WITH_LIMITATIONS",
+      "merged_reading_tasks": [],
+      "user_acceptance": "PENDING",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/D03.png",
+      "selected_sha256": "59c3b271f555c42a49cce72e5ad17349bc27c6e1254de33b2770fc779185151b",
+      "actual_dimensions": [
+        1065,
+        1477
+      ]
+    },
+    {
+      "id": "D04",
+      "reading_task": "浴室场景与细节续幅",
+      "reference_ids": [
+        "A009",
+        "A010"
+      ],
+      "aspect_guidance": "纵向约790:1400",
+      "visual_route": "冷蓝窗光",
+      "composition": "左前景产品右下M001，底部短带为银侧壁/手部水滴；接口出画，无配件",
+      "production_status": "CURRENT_GEOMETRY_QA_PASS_WITH_LIMITATIONS",
+      "merged_reading_tasks": [],
+      "user_acceptance": "PENDING",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/D04.png",
+      "selected_sha256": "a2e623014baefbe8f617b762dca716f303f23de[REDACTED_PHONE]a4f06fdeeed203",
+      "actual_dimensions": [
+        942,
+        1670
+      ]
+    },
+    {
+      "id": "D05",
+      "reading_task": "五格功能与外观索引",
+      "reference_ids": [
+        "A011",
+        "R017"
+      ],
+      "aspect_guidance": "近790:1168",
+      "visual_route": "冷蓝白",
+      "composition": "左大水流、右红钮/孔、底下键/侧背；借R017不等大卡的节奏，禁虚构结构",
+      "production_status": "CURRENT_GEOMETRY_QA_PASS_WITH_LIMITATIONS",
+      "merged_reading_tasks": [],
+      "user_acceptance": "PENDING",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/D05.png",
+      "selected_sha256": "71433e2a3f152a9188098da410aba44c4f8bb11773efd6619ea1af8dff0b9480",
+      "actual_dimensions": [
+        1030,
+        1526
+      ]
+    },
+    {
+      "id": "D06",
+      "reading_task": "出水起点微距",
+      "reference_ids": [
+        "A012",
+        "A013",
+        "R007"
+      ],
+      "aspect_guidance": "近790:1100",
+      "visual_route": "蓝白与高光",
+      "composition": "上标题+三模式索引，下大水流近景及低机位侧壁，无增压比较线",
+      "production_status": "CURRENT_GEOMETRY_QA_PASS_WITH_LIMITATIONS",
+      "merged_reading_tasks": [],
+      "user_acceptance": "PENDING",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/D06.png",
+      "selected_sha256": "80a532b6a2ea07aaa8fba26b66c07fd8bdc2826979ddbb380fdc6ff233f21d1d",
+      "actual_dimensions": [
+        1063,
+        1479
+      ]
+    },
+    {
+      "id": "D07",
+      "reading_task": "手持面板与下键定位",
+      "reference_ids": [
+        "A014",
+        "A015",
+        "R025"
+      ],
+      "aspect_guidance": "790:2099",
+      "visual_route": "冷蓝竖纹",
+      "composition": "上短标题桥，下大头+手，箭头只指下键，右三档名称无尺寸孔数",
+      "production_status": "CURRENT_GEOMETRY_QA_PASS_WITH_LIMITATIONS",
+      "merged_reading_tasks": [
+        {
+          "id": "D10",
+          "reading_task": "两按钮分工双卡",
+          "reference_ids": [
+            "A020",
+            "R020",
+            "R021",
+            "R005"
+          ],
+          "aspect_guidance": "横向近790:625",
+          "visual_route": "白蓝等权重",
+          "composition": "左右实际外部按钮近景+准确标签，无皮肤剖面/VS/竞品；可选择上下短条但不重复两版",
+          "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+        }
+      ],
+      "section_plan": "上70% A014/A015大头部与下键握持定位，下30% A020双卡分别识别中央红钮和下方切档；不是水型/人物对比。",
+      "user_acceptance": "PENDING",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/D07.png",
+      "selected_sha256": "99430354269ac91dabc9025234cc36278661164d706d695b88117ead287f5ad7",
+      "actual_dimensions": [
+        876,
+        1795
+      ]
+    },
+    {
+      "id": "D08",
+      "reading_task": "三档黑底水型章",
+      "reference_ids": [
+        "A016",
+        "A017",
+        "A018",
+        "R023"
+      ],
+      "aspect_guidance": "近790:1300",
+      "visual_route": "黑卡蓝编号",
+      "composition": "三条逆光黑卡，01常规02喷雾03混合，接底部浅蓝短过渡；不沿袭原六档",
+      "production_status": "CURRENT_GEOMETRY_QA_PASS_WITH_LIMITATIONS",
+      "merged_reading_tasks": [],
+      "user_acceptance": "PENDING",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/D08.png",
+      "selected_sha256": "4029c2681ab701f6ccf5b491e5da0a9e8b5a125093e89b79749cd41f3610f233",
+      "actual_dimensions": [
+        978,
+        1608
+      ]
+    },
+    {
+      "id": "D11",
+      "reading_task": "明亮浴室回眸",
+      "reference_ids": [
+        "A021",
+        "R026"
+      ],
+      "aspect_guidance": "790:2006",
+      "visual_route": "白蓝高调",
+      "composition": "M001回眸或低机位手持，正常比例头部、水线竖向；与D09构图不同，无顶喷暗示",
+      "production_status": "CURRENT_GEOMETRY_QA_PASS_WITH_LIMITATIONS",
+      "merged_reading_tasks": [
+        {
+          "id": "D09",
+          "reading_task": "无字人物停顿",
+          "reference_ids": [
+            "A019",
+            "R019"
+          ],
+          "aspect_guidance": "近790:976",
+          "visual_route": "冷蓝自然光",
+          "composition": "M001头肩与举臂淋浴情境、得体服装，正常水束，无功效字",
+          "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+        }
+      ],
+      "section_plan": "上51% A021/R026回眸主景，下49% A019/R019独立无字人物停顿区；姿态构图必须不同。",
+      "user_acceptance": "PENDING",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/D11.png",
+      "selected_sha256": "cac9de536f4799e08efa024cb845eb8f00021ef969d1f15370ecc18cac9823dc",
+      "actual_dimensions": [
+        899,
+        1749
+      ]
+    },
+    {
+      "id": "D12",
+      "reading_task": "正背外观并置",
+      "reference_ids": [
+        "A022"
+      ],
+      "aspect_guidance": "近790:1000",
+      "visual_route": "蓝白同亮度",
+      "composition": "双列同尺度正背视图、部位说明，不用尺寸线或弱化竞品",
+      "production_status": "CURRENT_GEOMETRY_QA_PASS_WITH_LIMITATIONS",
+      "merged_reading_tasks": [],
+      "user_acceptance": "PENDING",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/D12.png",
+      "selected_sha256": "68f16ab422240f88a5837c4d3069cfce120bed694c98d82a1248fed2af262bea",
+      "actual_dimensions": [
+        1115,
+        1411
+      ]
+    },
+    {
+      "id": "D13",
+      "reading_task": "外部部位放大图",
+      "reference_ids": [
+        "A023",
+        "A037"
+      ],
+      "aspect_guidance": "近790:1007",
+      "visual_route": "冷蓝",
+      "composition": "右整品、左三个外观放大卡，细线连真孔/红钮/下键；不用滤芯分层",
+      "production_status": "CURRENT_GEOMETRY_QA_PASS_WITH_LIMITATIONS",
+      "merged_reading_tasks": [],
+      "user_acceptance": "PENDING",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/D13.png",
+      "selected_sha256": "a953bce0ecb6b8852c236d95241c287f1b250e652fbdc41b434ede4a412bd92d",
+      "actual_dimensions": [
+        1111,
+        1415
+      ]
+    },
+    {
+      "id": "D14",
+      "reading_task": "手动除垢过程与状态",
+      "reference_ids": [
+        "A024",
+        "A025",
+        "A026"
+      ],
+      "aspect_guidance": "近790:1300",
+      "visual_route": "蓝白",
+      "composition": "上三步：定位/按住/孔位观察；下未按与按住状态微距，非清洁效果前后",
+      "production_status": "CURRENT_GEOMETRY_QA_PASS_WITH_LIMITATIONS",
+      "merged_reading_tasks": [],
+      "user_acceptance": "PENDING",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/D14.png",
+      "selected_sha256": "54e6cabad39ffbb5f10d9b63a2cd0ea66ffe3db637064023ec3a85d56cf56d27",
+      "actual_dimensions": [
+        979,
+        1607
+      ]
+    },
+    {
+      "id": "D15",
+      "reading_task": "背面侧壁双景别",
+      "reference_ids": [
+        "A027"
+      ],
+      "aspect_guidance": "近790:1109",
+      "visual_route": "冷蓝台阶",
+      "composition": "冷蓝几何台阶，大背面与侧壁双景别；不沿用R031金水面。",
+      "production_status": "CURRENT_GEOMETRY_QA_PASS_WITH_LIMITATIONS",
+      "merged_reading_tasks": [],
+      "user_acceptance": "PENDING",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/D15.png",
+      "selected_sha256": "4116a6d138269948a342267c080bb55826a7d782c4135d950936657a885e2070",
+      "actual_dimensions": [
+        1058,
+        1486
+      ]
+    },
+    {
+      "id": "D16",
+      "reading_task": "切档操作步骤页",
+      "reference_ids": [
+        "A028",
+        "R032",
+        "R006"
+      ],
+      "aspect_guidance": "近790:1000",
+      "visual_route": "白底蓝脚签",
+      "composition": "左大手持，右找下键/按下/选择水型步骤，下小窗说明；不写固定循环顺序",
+      "production_status": "CURRENT_GEOMETRY_QA_PASS_WITH_LIMITATIONS",
+      "merged_reading_tasks": [],
+      "user_acceptance": "PENDING",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/D16.png",
+      "selected_sha256": "693fcdff9ee286f0860624faa683ae4161b6c02bd024e7e33f4de90ddd6565a2",
+      "actual_dimensions": [
+        1116,
+        1410
+      ]
+    },
+    {
+      "id": "D17",
+      "reading_task": "握柄与曲面细节",
+      "reference_ids": [
+        "A029",
+        "A030",
+        "A031"
+      ],
+      "aspect_guidance": "近790:1200",
+      "visual_route": "蓝灰石材",
+      "composition": "大斜银柄、左侧短文字列，底完整头部静置石材；无砸地试验、透明柄或接口承诺",
+      "production_status": "CURRENT_GEOMETRY_QA_PASS_WITH_LIMITATIONS",
+      "merged_reading_tasks": [],
+      "user_acceptance": "PENDING",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/D17.png",
+      "selected_sha256": "219330112d1a15091926d46e6939d47176b70fef684691325abe80338948e916",
+      "actual_dimensions": [
+        1018,
+        1545
+      ]
+    },
+    {
+      "id": "D18",
+      "reading_task": "B端已知信息收尾",
+      "reference_ids": [
+        "A032",
+        "A033",
+        "R034"
+      ],
+      "aspect_guidance": "近790:1200",
+      "visual_route": "白灰",
+      "composition": "上完整单品带部位定位细线，下2列3行已知信息；无尺寸测量线，未知项不列",
+      "production_status": "CURRENT_GEOMETRY_QA_PASS_WITH_LIMITATIONS",
+      "merged_reading_tasks": [],
+      "user_acceptance": "PENDING",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/D18.png",
+      "selected_sha256": "e40fc3e78ef8a747af53b7938d7e74450474a93e008a5f8a86be89ebfedf1ae4",
+      "actual_dimensions": [
+        1019,
+        1544
+      ]
+    },
+    {
+      "id": "V01",
+      "reading_task": "暖木场景与水流细节",
+      "reference_ids": [
+        "R003",
+        "R013",
+        "R015",
+        "R018"
+      ],
+      "aspect_guidance": "750:1900",
+      "visual_route": "暖木浴室",
+      "composition": "上M001和真实水流、下三局部窗替代证书，黑棕标题；与冷蓝详情分开作为暖路线补充",
+      "production_status": "CURRENT_GEOMETRY_QA_PASS_WITH_LIMITATIONS",
+      "merged_reading_tasks": [
+        {
+          "id": "V07",
+          "reading_task": "棕色短章节桥",
+          "reference_ids": [
+            "R014",
+            "R030"
+          ],
+          "aspect_guidance": "近750:450",
+          "visual_route": "深棕金渐变",
+          "composition": "主标题三档出水，胶囊下键切档/中央按压除垢；短版面连接暖路线，不数字凑参数",
+          "production_status": "ANALYSIS_ONLY_NOT_GENERATED"
+        }
+      ],
+      "section_plan": "上72%暖人物水流主体和下三外部细节，下28% R014/R030真正深棕金短章节桥，单独标题层级，非贴标签。",
+      "user_acceptance": "PENDING",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/V01.png",
+      "selected_sha256": "6ed0fd410244c5a076d0cd824e63da81afcbaa02cc298403397f2972a5dd161a",
+      "actual_dimensions": [
+        936,
+        1680
+      ]
+    },
+    {
+      "id": "V02",
+      "reading_task": "干态人物切档时尚页",
+      "reference_ids": [
+        "R022"
+      ],
+      "aspect_guidance": "近750:1104",
+      "visual_route": "浅米暖光",
+      "composition": "M001托腮、左前景商品、左超大棕字“下方切档”；非白袍证件式站姿",
+      "production_status": "CURRENT_GEOMETRY_QA_PASS_WITH_LIMITATIONS",
+      "merged_reading_tasks": [],
+      "user_acceptance": "PENDING",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/V02.png",
+      "selected_sha256": "6152c8167fec88045fc5347c709f686588ac3888741f1cf6fee6a428e31d8782",
+      "actual_dimensions": [
+        1034,
+        1521
+      ]
+    },
+    {
+      "id": "V03",
+      "reading_task": "暗底多角度曲面展示",
+      "reference_ids": [
+        "R027",
+        "R029"
+      ],
+      "aspect_guidance": "近750:1300",
+      "visual_route": "黑金蓝紫边光",
+      "composition": "完整正/侧/背错落，不画拆件；引线标真实外观，取消车和层材质",
+      "production_status": "CURRENT_GEOMETRY_QA_PASS_WITH_LIMITATIONS",
+      "merged_reading_tasks": [],
+      "user_acceptance": "PENDING",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/V03.png",
+      "selected_sha256": "d16649c4ff5bfaa7f450cbdaa2d47d56183a6bfa81bcf68a46d82e4ae4f71752",
+      "actual_dimensions": [
+        953,
+        1651
+      ]
+    },
+    {
+      "id": "V04",
+      "reading_task": "沙纹除垢特写",
+      "reference_ids": [
+        "R024",
+        "R028"
+      ],
+      "aspect_guidance": "近750:1300",
+      "visual_route": "夕阳沙纹",
+      "composition": "上巨面板、中实际按压、底三步短卡；三列从灰痛点改正向操作，不健康恐吓",
+      "production_status": "CURRENT_GEOMETRY_QA_PASS_WITH_LIMITATIONS",
+      "merged_reading_tasks": [],
+      "user_acceptance": "PENDING",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/V04.png",
+      "selected_sha256": "6c75e186733f540f76d2f1a2f76761fd7105d7f70bb2a6628f1e0e55f30fc1d2",
+      "actual_dimensions": [
+        953,
+        1651
+      ]
+    },
+    {
+      "id": "V05",
+      "reading_task": "岩石舞台单品",
+      "reference_ids": [
+        "R033",
+        "R031"
+      ],
+      "aspect_guidance": "近750:1222",
+      "visual_route": "棕金地平线",
+      "composition": "直立银色大主体、岩石层次、非测量部位标注，无未知数字；加入局部金水面倒影与下三细节窗，不含软管。",
+      "production_status": "CURRENT_GEOMETRY_QA_PASS_WITH_LIMITATIONS",
+      "merged_reading_tasks": [],
+      "user_acceptance": "PENDING",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/V05.png",
+      "selected_sha256": "fd842ecb73a5a100612ff1a2395f34c03e45aae636c0cc2298aa042ce537c100",
+      "actual_dimensions": [
+        983,
+        1601
+      ]
+    },
+    {
+      "id": "V06",
+      "reading_task": "外观图鉴与买前问答",
+      "reference_ids": [
+        "R010",
+        "R011",
+        "R016",
+        "R035"
+      ],
+      "aspect_guidance": "近790:1500",
+      "visual_route": "夜蓝上区+白底六格",
+      "composition": "前景双手自然托真实单花洒；夜蓝中性浴室仅空间背景；下方白底六格外观及事实收口，无品牌机构。",
+      "production_status": "CURRENT_GEOMETRY_QA_PASS_WITH_LIMITATIONS",
+      "merged_reading_tasks": [],
+      "user_acceptance": "PENDING",
+      "execution_adaptation": "顶部双手托真实连续光面背视，末端由正常手掌遮挡；正面/孔位/两按钮由下方六格完整承担。背景仅夜蓝空间无淋浴硬件，三问答保持。",
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/V06.png",
+      "selected_sha256": "763f3947eea7458c90057f0fdaf507517fcda12298362e3d7b3768a36a48e7d6",
+      "actual_dimensions": [
+        911,
+        1727
+      ]
+    }
+  ],
+  "merge_map": {
+    "D02": "D01",
+    "D09": "D11",
+    "D10": "D07",
+    "V07": "V01"
+  },
+  "execution_status": "GEOMETRY_REOPENED_NOT_FINAL_ACCEPTED",
+  "historical_analysis_status_note": "candidate_history_36及proposed_group中的分析状态仅为生成前历史；当前结果以actual_execution_32为准。",
+  "geometry_revision": "2026-10-23",
+  "current_user_acceptance": "NOT_ACCEPTED_GEOMETRY_FEEDBACK",
+  "current_delivery": {
+    "date": "2026-10-23",
+    "images": 32,
+    "format": "JPG_ONLY",
+    "archive": "花洒参考重构_JPG交付.zip",
+    "root_review": "root-delivery-review.json",
+    "independent_review": "qa-review.json",
+    "old_geometry_acceptance_reused": false
+  },
+  "geometry_reopened_20261023": {
+    "reason": "User reports some shapes remain wrong; adversarial32 review finds visible contradictions and unresolved perspectives.",
+    "report": "geometry-adversarial-review/review-summary.json",
+    "priority_confirmed": [
+      "D06",
+      "D11"
+    ],
+    "priority_suspect": [
+      "D04"
+    ],
+    "user_acceptance": "NOT_ACCEPTED_GEOMETRY_FEEDBACK"
+  }
+}

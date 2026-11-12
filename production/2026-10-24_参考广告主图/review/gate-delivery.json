@@ -1,0 +1,22 @@
+{
+  "stage": "delivery",
+  "status": "REJECTED",
+  "issues": [
+    {
+      "code": "MISSING_FILE",
+      "item": "client_acceptance",
+      "detail": "Current file/hash required"
+    },
+    {
+      "code": "CUSTOMER_ACCEPTANCE",
+      "item": "manifest",
+      "detail": "Customer acceptance of current final images is absent"
+    },
+    {
+      "code": "MISSING_FILE",
+      "item": "customer_receipt",
+      "detail": "Current file/hash required"
+    }
+  ],
+  "limitations": "Manual real-photo and secondary-3D comparison. No hard shape lock, source-photo pixel identity, automatic physical IoU, flow or skin check. Typesetting comparison only protects generated native pixels outside text areas."
+}

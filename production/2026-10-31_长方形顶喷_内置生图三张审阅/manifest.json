@@ -1,0 +1,29 @@
+{
+  "images": [
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-31_长方形顶喷_内置生图参考387/银色顶喷_参考387_无字广告候选.jpg",
+      "bytes": 885083,
+      "sha256": "be1b99b98fbdeb6d08b3fad4646d222c143bb6333cd790d0441728cb6c06553b"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-31_长方形顶喷_内置生图安装场景/银色顶喷_安装出水_无字广告候选.jpg",
+      "bytes": 999519,
+      "sha256": "964c677a1ad14f62ff93599d764b6498f3aebbe6613c3546a64285b3ee102b59"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-31_长方形顶喷_内置生图参考399/银色顶喷_参考399_斜放无字广告候选.jpg",
+      "bytes": 885583,
+      "sha256": "bc73aa3b7f5061d09f5ed719155119e705f014f4b5cabd632fb4cd33569c996d"
+    }
+  ],
+  "zip": {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-31_长方形顶喷_内置生图三张审阅/银色顶喷_三张无字广告候选_JPG.zip",
+    "bytes": 2768785,
+    "sha256": "4c9359e31343f16aed30593c7c04d54e05f5b73a7db669b3ab66fce8323410a8"
+  },
+  "zip_crc_and_member_sha": "PASS",
+  "status": "3 style candidates; exact geometry/hole mapping and customer acceptance NOT passed",
+  "no_publication": true,
+  "user_acceptance": "REJECTED",
+  "latest_batch": "../2026-10-31_同行13张逐张对应_银色无字/"
+}

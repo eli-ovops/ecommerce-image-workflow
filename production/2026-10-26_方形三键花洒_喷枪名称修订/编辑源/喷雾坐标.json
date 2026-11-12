@@ -1,0 +1,70 @@
+{
+  "source": "/Volumes/EXTERNAL/电商 作图工作流/products/方形三键花洒/喷雾补充20261026/微信图片_20261026134001_210_2.jpg",
+  "anchors_source": [
+    [
+      416.0,
+      727.0
+    ],
+    [
+      478.0,
+      744.0
+    ],
+    [
+      540.0,
+      760.0
+    ],
+    [
+      500.0,
+      878.0
+    ],
+    [
+      563.0,
+      888.0
+    ],
+    [
+      622.0,
+      898.0
+    ]
+  ],
+  "anchors_crop": [
+    [
+      375.6923076923077,
+      162.8
+    ],
+    [
+      366.0153846153846,
+      198.09230769230768
+    ],
+    [
+      356.9076923076923,
+      233.3846153846154
+    ],
+    [
+      289.73846153846154,
+      210.6153846153846
+    ],
+    [
+      284.04615384615386,
+      246.47692307692307
+    ],
+    [
+      278.3538461538462,
+      280.0615384615385
+    ]
+  ],
+  "rotation_clockwise": 90,
+  "crop": [
+    320,
+    130,
+    1620,
+    973.2432432432432
+  ],
+  "resize": [
+    740,
+    480
+  ],
+  "product": "Real source sample; manual contour mask feather0.65px; interior retains sampled product except water overlay",
+  "water": "Separate locally drawn transparent cone illustration anchored to actual six nozzle coordinates; not real measured flow",
+  "background": "Native charcoal-copper gradient",
+  "status": "CANDIDATE_NOT_APPROVED"
+}

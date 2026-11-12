@@ -1,0 +1,24 @@
+{
+  "candidate_origins": 94,
+  "generated_size": [
+    1254,
+    1254
+  ],
+  "registered_size": [
+    1200,
+    1200
+  ],
+  "protected_pixels": 99153,
+  "protected_pixels_identical": true,
+  "full_product_pixels_identical": false,
+  "reason": "Generated water can cover narrow corridors below candidate origins; all other fully opaque product pixels unchanged before final uniform composition resize.",
+  "per_hole_verified": false,
+  "generated_water_is_measured": false,
+  "source_product": "Native 3D shell with single original372 photographic face",
+  "water_method": "One built-in imagegen generation, then native alpha mask, desaturation and haze suppression; no generated image fed back to model.",
+  "ora_crc_and_recomposition": true,
+  "visual_review": "Full JPG and 200pct origins/droplets reviewed. Breakup improved; source registration imperfect and intermittent connections remain. NOT_ACCEPTED_PHOTOREALISM",
+  "model_runtime": "UNKNOWN",
+  "imagegen_calls": 1,
+  "old_batch_changed": false
+}

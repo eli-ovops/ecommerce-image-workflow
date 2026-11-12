@@ -1,0 +1,83 @@
+{
+  "status": "REALISM_EXPERIMENT_USER_REVIEW_PENDING",
+  "requested_model": "gpt-6-astra",
+  "requested_effort": "medium",
+  "actual_model": "UNKNOWN",
+  "rules": [
+    "PERMISSIONS-2026-10-14-v1",
+    "ROUTING-2026-10-27-v7",
+    "TOKEN-BUDGET-2026-10-25-v2",
+    "IMAGE-REVISION-2026-10-28-v1"
+  ],
+  "inputs": [
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/结构基准20261027/原件/微信图片_20261027161226_345_2.jpg",
+      "sha256": "f5f4c6f3e337b216c083ec58383375ce513c059a265d731459467e5c25105b1c",
+      "role": "Actual appearance reference, no photo pixels in output"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/结构基准20261027/原件/微信图片_20261027161240_351_2.jpg",
+      "sha256": "f8dda608f43806055099c8c176cc8e33be31e9f3fb6ba6d41ffe28ad852e1d00",
+      "role": "Actual appearance reference, no photo pixels in output"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/结构基准20261027/原件/微信图片_20261027161143_339_2.jpg",
+      "sha256": "3cd5202fa1d5229a9a0ea3813852b408c8e255e634bf7c80c64e950a03f3a8f8",
+      "role": "Actual appearance reference, no photo pixels in output"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/结构基准20261027/原件/微信图片_20261027161234_348_2.jpg",
+      "sha256": "5de2ef8512ef69e1ca5113d0c4742ce473b6a1783f90dfe90b8673437e4d8d9a",
+      "role": "Actual appearance reference, no photo pixels in output"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/结构基准20261027/原件/微信图片_20261027161238_350_2.jpg",
+      "sha256": "26559dedbe45e20b17effc09dfaec7e24bc32e8172fe795720019dcdafb66afa",
+      "role": "Actual appearance reference, no photo pixels in output"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/结构基准20261027/原件/微信图片_20261027161223_344_2.jpg",
+      "sha256": "51ec778b1a0082d09643ee3c5889f433225e4e1619981c24e2039707746f7fde",
+      "role": "Actual appearance reference, no photo pixels in output"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/01_微信参考原图/R001_主图_套装推荐.jpg",
+      "sha256": "f84d0f81c6417e52ed367a8756d235450cc63b05a91ef06be6dd7742f860dd2c",
+      "role": "Composition, warm bathroom and typography only; no claims/person/water inherited"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/01_微信参考原图/R026_场景_浅色浴室人物.jpg",
+      "sha256": "a484dc4b39c1f3286f64eb12b46550647ff7217ccb2d0bbca3d24c1ccc3afd55",
+      "role": "Composition, warm bathroom and typography only; no claims/person/water inherited"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-28_圆形花洒_实拍三维融合代表图/sources/baseline.blend",
+      "sha256": "9942b237e23e8de0b530d38948e1ddd5b127da3d4fcb3c0ef0cba04d128796bf",
+      "role": "Native material-refine geometry and surface positions"
+    }
+  ],
+  "reference_receipt": "Same continuing round-shower batch; reuse prior 74-reference read receipt; actual R001 and R026 revisited this turn",
+  "method": "Complete deterministic Blender rendering. Original photos guide material response and shape comparison; no AI pixels, photo cutout, old generated product texture or post-painted hole detail. Native mesh unchanged, common rigid pose only.",
+  "changes": [
+    "Chrome roughness .165 to .09, subtle procedural micro-normal from clean surface observation in 350/351.",
+    "Black panel grain 10000/m, bump strength .32 distance .000028m; grain-linked roughness .40-.55 and subtle albedo; no stains or scratches.",
+    "Warm tile wall, stone counter, partial basin rim, foreground ledge; lights and gradient reflection card together in same scene.",
+    "Off-camera window bars cast shadows but are excluded from glossy visibility to avoid crossing black reflection lines. This is a studio lighting control, not fully physical room reconstruction.",
+    "Camera elevated to improve small aperture readability; product mesh and holes not altered."
+  ],
+  "geometry_audit": "saved-model-audit.json",
+  "review": "visual-review.json",
+  "output": {
+    "file": "圆形花洒_暖白浴室代表图.jpg",
+    "width": 1600,
+    "height": 1600,
+    "sha256": "23e33dd020394ab5624f293cb7479f7c8444fbaa921002cba205f3aba7cfec6a"
+  },
+  "limitations": [
+    "Visible CG character remains in the simplified bathroom environment and broad silver response.",
+    "Neck highlights retain surface-related angular transitions; no geometry repair authorized or performed.",
+    "No camera-calibrated dimensional or photographic truth claim.",
+    "White aperture center visibility depends on view and pixel scale; see actual final review.",
+    "Not a full set, not customer accepted or photorealism passed."
+  ]
+}

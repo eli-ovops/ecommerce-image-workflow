@@ -1,0 +1,590 @@
+{
+  "arm_endpoint_product_local_m": [
+    0.0,
+    -5.21540641784668e-08,
+    -0.03799990937113762
+  ],
+  "axis_alignment_dot": 1.0000000596046448,
+  "opening_lip_z_m": -0.0397,
+  "estimated_insertion_m": 0.0017,
+  "visible_metal_lip_samples_of_96": 0,
+  "samples": [
+    {
+      "sample": 0,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 4.641930592199746,
+      "visible_connector": false
+    },
+    {
+      "sample": 1,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 4.038918418022849,
+      "visible_connector": false
+    },
+    {
+      "sample": 2,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 3.550462766338719,
+      "visible_connector": false
+    },
+    {
+      "sample": 3,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 3.1557862898149236,
+      "visible_connector": false
+    },
+    {
+      "sample": 4,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 2.826332781988491,
+      "visible_connector": false
+    },
+    {
+      "sample": 5,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 2.5596508059284053,
+      "visible_connector": false
+    },
+    {
+      "sample": 6,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 2.342113130295541,
+      "visible_connector": false
+    },
+    {
+      "sample": 7,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 2.1627219898321357,
+      "visible_connector": false
+    },
+    {
+      "sample": 8,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 2.014394359677899,
+      "visible_connector": false
+    },
+    {
+      "sample": 9,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 1.8915159042717218,
+      "visible_connector": false
+    },
+    {
+      "sample": 10,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 1.7898558404769802,
+      "visible_connector": false
+    },
+    {
+      "sample": 11,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 1.6365686640626376,
+      "visible_connector": false
+    },
+    {
+      "sample": 12,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 1.5077486369987636,
+      "visible_connector": false
+    },
+    {
+      "sample": 13,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 1.4040182724545818,
+      "visible_connector": false
+    },
+    {
+      "sample": 14,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 1.3248357740283796,
+      "visible_connector": false
+    },
+    {
+      "sample": 15,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 1.2634819897236995,
+      "visible_connector": false
+    },
+    {
+      "sample": 16,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 1.219790990312645,
+      "visible_connector": false
+    },
+    {
+      "sample": 17,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 1.189266854521548,
+      "visible_connector": false
+    },
+    {
+      "sample": 18,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 1.1596127957656674,
+      "visible_connector": false
+    },
+    {
+      "sample": 19,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 1.1429890498675337,
+      "visible_connector": false
+    },
+    {
+      "sample": 20,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 1.137885724037661,
+      "visible_connector": false
+    },
+    {
+      "sample": 21,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 1.1448829323446246,
+      "visible_connector": false
+    },
+    {
+      "sample": 22,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 1.1537285024318944,
+      "visible_connector": false
+    },
+    {
+      "sample": 23,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 1.1701868219639657,
+      "visible_connector": false
+    },
+    {
+      "sample": 24,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 1.2003108570247731,
+      "visible_connector": false
+    },
+    {
+      "sample": 25,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 1.2436232959703024,
+      "visible_connector": false
+    },
+    {
+      "sample": 26,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 1.3031319525915463,
+      "visible_connector": false
+    },
+    {
+      "sample": 27,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 1.3689892615927064,
+      "visible_connector": false
+    },
+    {
+      "sample": 28,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 1.4545664767902122,
+      "visible_connector": false
+    },
+    {
+      "sample": 29,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 1.5664080370493616,
+      "visible_connector": false
+    },
+    {
+      "sample": 30,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 1.7103321491720382,
+      "visible_connector": false
+    },
+    {
+      "sample": 31,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 1.8412091191243374,
+      "visible_connector": false
+    },
+    {
+      "sample": 32,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 1.956540683805324,
+      "visible_connector": false
+    },
+    {
+      "sample": 33,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 2.094778782582076,
+      "visible_connector": false
+    },
+    {
+      "sample": 34,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 2.2604856579743537,
+      "visible_connector": false
+    },
+    {
+      "sample": 35,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 2.459300355975476,
+      "visible_connector": false
+    },
+    {
+      "sample": 36,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 2.7003266271204667,
+      "visible_connector": false
+    },
+    {
+      "sample": 37,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 2.9942871838902576,
+      "visible_connector": false
+    },
+    {
+      "sample": 38,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 3.357018224505524,
+      "visible_connector": false
+    },
+    {
+      "sample": 39,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 3.8122441182391267,
+      "visible_connector": false
+    },
+    {
+      "sample": 40,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 4.351898519002865,
+      "visible_connector": false
+    },
+    {
+      "sample": 41,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 5.026366088370602,
+      "visible_connector": false
+    },
+    {
+      "sample": 42,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 5.724675666978088,
+      "visible_connector": false
+    },
+    {
+      "sample": 43,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 6.437979821402603,
+      "visible_connector": false
+    },
+    {
+      "sample": 44,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 7.2593754739776655,
+      "visible_connector": false
+    },
+    {
+      "sample": 45,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 8.184558220258321,
+      "visible_connector": false
+    },
+    {
+      "sample": 46,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 9.209274386929978,
+      "visible_connector": false
+    },
+    {
+      "sample": 47,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 10.313885552036407,
+      "visible_connector": false
+    },
+    {
+      "sample": 48,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 11.48415368134852,
+      "visible_connector": false
+    },
+    {
+      "sample": 49,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 12.705275568948485,
+      "visible_connector": false
+    },
+    {
+      "sample": 50,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 13.962690071759727,
+      "visible_connector": false
+    },
+    {
+      "sample": 51,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 15.224588869592898,
+      "visible_connector": false
+    },
+    {
+      "sample": 52,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 16.48514880125775,
+      "visible_connector": false
+    },
+    {
+      "sample": 53,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 17.730080618722166,
+      "visible_connector": false
+    },
+    {
+      "sample": 54,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 18.945558162099918,
+      "visible_connector": false
+    },
+    {
+      "sample": 55,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 20.120522322284355,
+      "visible_connector": false
+    },
+    {
+      "sample": 56,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 21.244797665158885,
+      "visible_connector": false
+    },
+    {
+      "sample": 57,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 22.309539632067516,
+      "visible_connector": false
+    },
+    {
+      "sample": 58,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 23.307473528455393,
+      "visible_connector": false
+    },
+    {
+      "sample": 59,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 24.23203679712964,
+      "visible_connector": false
+    },
+    {
+      "sample": 60,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 25.077200668114486,
+      "visible_connector": false
+    },
+    {
+      "sample": 61,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 25.838045231686905,
+      "visible_connector": false
+    },
+    {
+      "sample": 62,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 26.50926498841601,
+      "visible_connector": false
+    },
+    {
+      "sample": 63,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 27.084347160768964,
+      "visible_connector": false
+    },
+    {
+      "sample": 64,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 27.563889117000127,
+      "visible_connector": false
+    },
+    {
+      "sample": 65,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 27.944955959112182,
+      "visible_connector": false
+    },
+    {
+      "sample": 66,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 28.225606793801536,
+      "visible_connector": false
+    },
+    {
+      "sample": 67,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 28.404743795594463,
+      "visible_connector": false
+    },
+    {
+      "sample": 68,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 28.481211182796724,
+      "visible_connector": false
+    },
+    {
+      "sample": 69,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 28.454332888014555,
+      "visible_connector": false
+    },
+    {
+      "sample": 70,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 28.32306850265782,
+      "visible_connector": false
+    },
+    {
+      "sample": 71,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 28.086355166287532,
+      "visible_connector": false
+    },
+    {
+      "sample": 72,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 27.748727909531876,
+      "visible_connector": false
+    },
+    {
+      "sample": 73,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 27.311574829673113,
+      "visible_connector": false
+    },
+    {
+      "sample": 74,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 26.777410245289555,
+      "visible_connector": false
+    },
+    {
+      "sample": 75,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 26.14937871757397,
+      "visible_connector": false
+    },
+    {
+      "sample": 76,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 25.430637692330354,
+      "visible_connector": false
+    },
+    {
+      "sample": 77,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 24.625441665837695,
+      "visible_connector": false
+    },
+    {
+      "sample": 78,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 23.7382691870619,
+      "visible_connector": false
+    },
+    {
+      "sample": 79,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 22.77459110264284,
+      "visible_connector": false
+    },
+    {
+      "sample": 80,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 21.7386750047317,
+      "visible_connector": false
+    },
+    {
+      "sample": 81,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 20.640023029410834,
+      "visible_connector": false
+    },
+    {
+      "sample": 82,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 19.487051901755486,
+      "visible_connector": false
+    },
+    {
+      "sample": 83,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 18.289474043901688,
+      "visible_connector": false
+    },
+    {
+      "sample": 84,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 17.056403001347324,
+      "visible_connector": false
+    },
+    {
+      "sample": 85,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 15.797251079130458,
+      "visible_connector": false
+    },
+    {
+      "sample": 86,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 14.528687857985732,
+      "visible_connector": false
+    },
+    {
+      "sample": 87,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 13.267591809659574,
+      "visible_connector": false
+    },
+    {
+      "sample": 88,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 12.035764428546598,
+      "visible_connector": false
+    },
+    {
+      "sample": 89,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 10.83400559771963,
+      "visible_connector": false
+    },
+    {
+      "sample": 90,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 9.701935433974086,
+      "visible_connector": false
+    },
+    {
+      "sample": 91,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 8.635073602297265,
+      "visible_connector": false
+    },
+    {
+      "sample": 92,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 7.665201516268724,
+      "visible_connector": false
+    },
+    {
+      "sample": 93,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 6.796324419428743,
+      "visible_connector": false
+    },
+    {
+      "sample": 94,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 6.032791244688638,
+      "visible_connector": false
+    },
+    {
+      "sample": 95,
+      "first_object": "Connector_open_metal_envelope_ESTIMATED",
+      "target_distance_mm": 5.371191770806553,
+      "visible_connector": false
+    }
+  ],
+  "scope": "Finite camera-ray check of estimated visible metal lip, not physical thread fit or full installation approval."
+}

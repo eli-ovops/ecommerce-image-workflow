@@ -1,0 +1,3248 @@
+{
+  "reviews": [
+    {
+      "id": "M04",
+      "candidate": "M04-userfix-v1.png",
+      "status": "NEEDS_FIX",
+      "reason": "Small-window mist roots remain occluded/three dominant visible; unintended big hero mist plus raised origins. Keep failed candidate; fresh attempt from original layout and actual photo, never select this candidate."
+    },
+    {
+      "id": "M06",
+      "candidate": "M06-userfix-v1.png",
+      "status": "NEEDS_FIX",
+      "reason": "Fresh generation still black exposed thread; visible repetitive forehead/cheek microtexture. Do not edit this portrait as next base; regenerate from M001, cleaner positive commercial-retouch description. Actual89 connector may bias thread color: use clean K01 silver product mother plus real93 face as refs instead of attached connector."
+    },
+    {
+      "id": "M04",
+      "revision": "userfix_v2_review",
+      "supersedes_revision": "M04-userfix-v1_root_initial",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/M04-userfix-v2.png",
+      "sha256": "24950d21095f197358812c41c8c0ac3eb24b39b96fc5b6b6ce6ada41aee56c1b",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "method": "实际view_image定向核灰环修补区及相邻孔、红钮、手部与三窗连带影响，沿用v1实际R002/A036及99/96/95五轴/水型证据。",
+      "reference_fidelity": {
+        "inherited_from": "M04/v1_candidate",
+        "composition": {
+          "status": "PASS",
+          "reason": "右大手持/左三窗关系保持。"
+        },
+        "subject_scale": {
+          "status": "PASS",
+          "reason": "大面板与小窗主从未变。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "深棕金布面/银亮边保持。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "左上大白字与窗内标签保持。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "三小水型窗加大动作主体，密度关系保持。"
+        }
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "喷雾窗与混合窗的上左/上右两雾根连成一团，无法逐点辨认六个指定孔口；清晰可读为上1团+中左右2+下左右2。需仅定向分离近根并露出指定孔口。",
+        "improvements": "右大图保持干态，常规水型覆盖已改善；红钮/下键及商品轮廓未见明显连带异常。"
+      },
+      "water_form": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "三水型窗与v1有效核对保持，常规细束/喷雾锥束/混合束雾；仅视觉对应非实测或用户逐张标定。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "标题和三窗标签保持，无新增功能文字。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "沿用v1暖棕操作主图＋三小窗任务证据。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "定向修补复核，未知孔数尺寸及功能效果不测。"
+      ],
+      "user_acceptance": "PENDING",
+      "status": "NEEDS_FIX",
+      "reference_evidence_inheritance": {
+        "source_revision": "v2_fix_review",
+        "source_sha256": "ef1337db50fcab9727dd9588961fbc2301ff7de44c6be53469e5f28f835259f2",
+        "method": "继承原五轴原图对照证据；当前整图实际确认棕金右大主体/左三窗、比例、硬暖光、字级和信息密度保持。水型依本批新事实另核。",
+        "axes_reverified_for_layout_continuity": [
+          "composition",
+          "subject_scale",
+          "color_light",
+          "type_layout",
+          "information_density"
+        ]
+      },
+      "water_revision_check": {
+        "regular_full_effective_face": "improved_no_additional_clear_failure",
+        "mist_six_specified_origins": "NEEDS_FIX",
+        "mixed_regular_plus_six_mist_at_origins": "NEEDS_FIX",
+        "hero_dry": "PASS"
+      }
+    },
+    {
+      "id": "M06",
+      "revision": "userfix_v2_fresh_review",
+      "supersedes_revision": "M06-userfix-v1_root_initial",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/M06-userfix-v2.png",
+      "sha256": "ba984e745aa4b953cbbc174acac6bfe53cfd0faf314475677143a29e4eecce8d",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "method": "实际4页总览32图覆盖后，仅原生露端定向核，继承已过五轴/文案/人物等；用户2026-10-23新确认银裸螺纹银色。",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS",
+          "reason": "实际重看R008及新全图：左暖木人物持品淋浴、右独立白栏单品分区保留。"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "人物/水流占左大区，完整银色单品占右小区，头身重心与参考相近；本SKU圆头与参考方头作真实商品适配。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "左暖木与湿肤暖光、右白底中性银色反光分离，保留参考场景/白栏对比。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "右栏黑色银色/单花洒两级大字可读，删参考增压等无依据宣传；左无额外文案。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "一人物场景加一完整单品，仍两信息区，不增证件/参数/配件。"
+        }
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "银色裸牙纹正确，暗内孔合理；完整单品红钮/下键/黑三角等可读，常规覆盖改善，无新增明确必修；未知精确孔数及规格不推断。"
+      },
+      "person_and_water": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "M001、手部、不透明衣着和正面细水束未见明显连带改变，水源在画外仍属未核。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "银色/单花洒保持，无新增功能或附件。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "沿用v1情境与白栏SKU对应任务证据。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "只复核修补及连带，不测真实尺寸孔数或流量。",
+        "合成人物情境非真人试用；用户审阅PENDING。"
+      ],
+      "user_acceptance": "PENDING",
+      "status": "NEEDS_FIX",
+      "reference_ids": [
+        "R008"
+      ],
+      "viewed_reference_originals": [
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/01_微信参考原图/R008_SKU_场景与单品.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/models/M001/master-v1.png"
+      ],
+      "fresh_full_frame_review": {
+        "method": "actual_full_native_plus_face_neck_enlargement_in_memory_no_saved_crop",
+        "skin_status": "NEEDS_FIX",
+        "reason": "右外颊/下颊至下颌x520–625/y320–470仍有重复斜向鳞格细纹，额部连续浅网格。较旧图改善，但不能以PWL放过。",
+        "identity_appearance": "M001_consistent_no_obvious_drift",
+        "hand": "no_obvious_defect",
+        "water": "coverage_improved_no_additional_clear_failure",
+        "silver_bare_thread": "PASS",
+        "next_portrait_method": "fresh_M001_original_product_original_layout_no_failed_portrait_input"
+      }
+    },
+    {
+      "id": "M03",
+      "revision": "userfix_v1_back_clean_review",
+      "supersedes_revision": "v3_fix_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/M03-userfix-v1.png",
+      "sha256": "de436674c3ed7ed97b27c181f1d690ed2358ac51f22b060d1524bff503233842",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "method": "实际view_image定向核左后背凸脊修补和圆形痕迹、相邻颈柄及其他明显连带变化；沿用v2实际A034与90/93/94对照。",
+      "reference_fidelity": {
+        "inherited_from": "M03/v2_initial_independent",
+        "composition": {
+          "status": "PASS",
+          "reason": "双视图叠置、右功能签和操作窗、底部红黑条保持。"
+        },
+        "subject_scale": {
+          "status": "PASS",
+          "reason": "大正面、小后背及从属窗主从比例保持。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "冷蓝背景、银色反光与蓝签保持。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "品名/两蓝签/操作窗标签/底部反白字保持清晰。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "高密度双商品视图加操作窗的信息分区保持。"
+        }
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "按用户新事实恢复连续干净背壳，无圆贴/水垢；未测规格/精确孔数，其他既过商品证据继承。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "既有品名与已确认功能文本保持，无新增结构/材质或功效解释。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "沿用v2冷蓝双视图高密度广告任务证据，修补未改变信息角色。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "90浅灰圆形痕迹的性质UNKNOWN，不能确认为永久贴片、保护贴或反射；本图仅外观表现。",
+        "定向复核未逐孔计数/测尺寸，沿用此前限制。"
+      ],
+      "user_acceptance": "PENDING",
+      "candidate_only": true,
+      "local_change_review": {
+        "scope": "remove_back_circular_patch",
+        "method": "actual_native_view_image",
+        "result": "左后壳圆片消失，连续银色渐变无圆形边界；外壳轮廓/颈部衔接自然。前面板/两钮、按压窗和中文无明显连带异常。",
+        "minor_deviation": "轻微位置差异不破坏原冷蓝正背大主体/右按压小窗/底字条层次。"
+      },
+      "reference_evidence_inheritance": {
+        "source_revision": "v3_fix_review",
+        "source_sha256": "ee97ef49f90f269a9dd571a0a7418ada6b7745692ea77db4edff02f62990965c",
+        "method": "原五轴及原参考对照证据继承；当前实际核构图、比例、冷蓝光、字级及信息密度连续性，未重审未改项。"
+      }
+    },
+    {
+      "id": "M03",
+      "revision": "userfix_v1_back_clean_final_receipt",
+      "supersedes_revision": "userfix_v1_back_clean_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/final/M03.png",
+      "sha256": "de436674c3ed7ed97b27c181f1d690ed2358ac51f22b060d1524bff503233842",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "method": "实际view_image定向核左后背凸脊修补和圆形痕迹、相邻颈柄及其他明显连带变化；沿用v2实际A034与90/93/94对照。",
+      "reference_fidelity": {
+        "inherited_from": "M03/v2_initial_independent",
+        "composition": {
+          "status": "PASS",
+          "reason": "双视图叠置、右功能签和操作窗、底部红黑条保持。"
+        },
+        "subject_scale": {
+          "status": "PASS",
+          "reason": "大正面、小后背及从属窗主从比例保持。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "冷蓝背景、银色反光与蓝签保持。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "品名/两蓝签/操作窗标签/底部反白字保持清晰。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "高密度双商品视图加操作窗的信息分区保持。"
+        }
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "按用户新事实恢复连续干净背壳，无圆贴/水垢；未测规格/精确孔数，其他既过商品证据继承。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "既有品名与已确认功能文本保持，无新增结构/材质或功效解释。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "沿用v2冷蓝双视图高密度广告任务证据，修补未改变信息角色。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "90浅灰圆形痕迹的性质UNKNOWN，不能确认为永久贴片、保护贴或反射；本图仅外观表现。",
+        "定向复核未逐孔计数/测尺寸，沿用此前限制。"
+      ],
+      "user_acceptance": "PENDING",
+      "candidate_only": false,
+      "local_change_review": {
+        "scope": "remove_back_circular_patch",
+        "method": "actual_native_view_image",
+        "result": "左后壳圆片消失，连续银色渐变无圆形边界；外壳轮廓/颈部衔接自然。前面板/两钮、按压窗和中文无明显连带异常。",
+        "minor_deviation": "轻微位置差异不破坏原冷蓝正背大主体/右按压小窗/底字条层次。"
+      },
+      "reference_evidence_inheritance": {
+        "source_revision": "v3_fix_review",
+        "source_sha256": "ee97ef49f90f269a9dd571a0a7418ada6b7745692ea77db4edff02f62990965c",
+        "method": "原五轴及原参考对照证据继承；当前实际核构图、比例、冷蓝光、字级及信息密度连续性，未重审未改项。"
+      },
+      "source_candidate_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/M03-userfix-v1.png",
+      "finalization_receipt": {
+        "sha_equal": true,
+        "actual_final_sha256": "de436674c3ed7ed97b27c181f1d690ed2358ac51f22b060d1524bff503233842",
+        "visual_reinspection": false
+      }
+    },
+    {
+      "id": "D12",
+      "revision": "userfix_v1_back_clean_review",
+      "supersedes_revision": "v4_final_receipt",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/D12-userfix-v1.png",
+      "sha256": "49a7288331e23b1a5dd44d0cd2956c4ba77b4860473d60c5e5dda3c15d11e4f3",
+      "actual_dimensions": [
+        1115,
+        1410
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "method": "实际核final同完整SHA，仅文件回执，不重审画面。",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS",
+          "reason": "蓝缺口标题、深灰底、双栏与两级底条结构保留，同款正背替优劣比较。"
+        },
+        "subject_scale": {
+          "status": "PASS",
+          "reason": "正背头径/柄长和上下落位同尺度协调。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "双栏同亮浅蓝底、银镜壳无贬低式灰化，蓝条/深灰外底保留。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "大白标题/正背列名/短说明两级底条清楚。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "正背外观及短说明，删原参数与优劣承诺。"
+        }
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "按用户新事实移除背壳圆片；其余已过产品核验继承，无新增明确必修。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "标题及正背说明符合copy-v2，无新增功能参数。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "等尺度正背外观双栏任务完整。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "灰圆痕只呈照片外观，性质UNKNOWN。",
+        "v2/v3未独审；不数孔测尺寸/材质。"
+      ],
+      "user_acceptance": "PENDING",
+      "local_change_review": {
+        "scope": "remove_back_circular_patch",
+        "method": "actual_native_view_image",
+        "result": "右背中央圆片清除，连续银灰反光无闭合圆边；外轮廓/颈部自然。正面孔圈/两钮及标题/底条文字无明显连带异常。"
+      },
+      "reference_evidence_inheritance": {
+        "source_revision": "v4_final_receipt",
+        "source_sha256": "9c7a949d0c1060cd23f37adf1d8b535b3f4c88f8b583792d3b06fc23640fb72e",
+        "method": "原五轴原图证据继承；本次实际核同尺度正背双栏、深灰底、冷蓝光、蓝缺口标题/两级底条及信息密度连续性。"
+      },
+      "dimension_variance": {
+        "previous": [
+          1115,
+          1411
+        ],
+        "actual": [
+          1115,
+          1410
+        ],
+        "status": "ACCEPTED_TARGET_VARIANCE",
+        "reason": "one_pixel_native_height_difference_no_readability_impact"
+      }
+    },
+    {
+      "id": "D12",
+      "revision": "userfix_v1_back_clean_final_receipt",
+      "supersedes_revision": "userfix_v1_back_clean_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/final/D12.png",
+      "sha256": "49a7288331e23b1a5dd44d0cd2956c4ba77b4860473d60c5e5dda3c15d11e4f3",
+      "actual_dimensions": [
+        1115,
+        1410
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": false,
+      "method": "实际核final同完整SHA，仅文件回执，不重审画面。",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS",
+          "reason": "蓝缺口标题、深灰底、双栏与两级底条结构保留，同款正背替优劣比较。"
+        },
+        "subject_scale": {
+          "status": "PASS",
+          "reason": "正背头径/柄长和上下落位同尺度协调。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "双栏同亮浅蓝底、银镜壳无贬低式灰化，蓝条/深灰外底保留。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "大白标题/正背列名/短说明两级底条清楚。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "正背外观及短说明，删原参数与优劣承诺。"
+        }
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "按用户新事实移除背壳圆片；其余已过产品核验继承，无新增明确必修。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "标题及正背说明符合copy-v2，无新增功能参数。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "等尺度正背外观双栏任务完整。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "灰圆痕只呈照片外观，性质UNKNOWN。",
+        "v2/v3未独审；不数孔测尺寸/材质。"
+      ],
+      "user_acceptance": "PENDING",
+      "local_change_review": {
+        "scope": "remove_back_circular_patch",
+        "method": "actual_native_view_image",
+        "result": "右背中央圆片清除，连续银灰反光无闭合圆边；外轮廓/颈部自然。正面孔圈/两钮及标题/底条文字无明显连带异常。"
+      },
+      "reference_evidence_inheritance": {
+        "source_revision": "v4_final_receipt",
+        "source_sha256": "9c7a949d0c1060cd23f37adf1d8b535b3f4c88f8b583792d3b06fc23640fb72e",
+        "method": "原五轴原图证据继承；本次实际核同尺度正背双栏、深灰底、冷蓝光、蓝缺口标题/两级底条及信息密度连续性。"
+      },
+      "dimension_variance": {
+        "previous": [
+          1115,
+          1411
+        ],
+        "actual": [
+          1115,
+          1410
+        ],
+        "status": "ACCEPTED_TARGET_VARIANCE",
+        "reason": "one_pixel_native_height_difference_no_readability_impact"
+      },
+      "source_candidate_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/D12-userfix-v1.png",
+      "finalization_receipt": {
+        "sha_equal": true,
+        "actual_final_sha256": "49a7288331e23b1a5dd44d0cd2956c4ba77b4860473d60c5e5dda3c15d11e4f3",
+        "visual_reinspection": false
+      }
+    },
+    {
+      "id": "D14",
+      "revision": "userfix_v1_back_clean_review",
+      "supersedes_revision": "v5_final_receipt",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/D14-userfix-v1.png",
+      "sha256": "f9049f57d1a5047a786dc5f5752a00b41cbdca589b40e51c2de4d4ca0238e022",
+      "actual_dimensions": [
+        977,
+        1610
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "method": "实际核final同完整SHA，仅文件回执，不重审画面。",
+      "reference_fidelity": {
+        "inherited_from": "D14/v1_candidate and v2_fix_review",
+        "composition": {
+          "status": "PASS",
+          "reason": "顶同占位大轮廓改背侧视，三步与下双状态蓝白卡保持，教学信息仍完整。"
+        },
+        "subject_scale": {
+          "status": "PASS",
+          "reason": "装饰大头与五操作全头/宏观层次保持。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "冷蓝竖纹、银镜反光/蓝白卡保持。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "巨黑标题、圆编号与状态/机制白字保持。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "操作三步+两状态完整，不靠装饰头额外堆孔阵信息。"
+        }
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "用户要求干净背壳已实现；按压三步及双状态保持，短红点未夸大；其余既过商品层继承。"
+      },
+      "hand_action": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "两按压手势保持，中央红钮操作不与下键混淆。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "三步、状态及底句保持copy-v2，无新增效果承诺。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "三步与两按压状态任务完整，装饰头改背侧不删操作信息。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "顶部替换为root授权适配；灰痕性质UNKNOWN。",
+        "v4未独审；未数孔测红针或证明清洁效果。"
+      ],
+      "user_acceptance": "PENDING",
+      "local_change_review": {
+        "scope": "remove_top_back_circular_patch",
+        "method": "actual_native_view_image",
+        "result": "顶背圆片消失，环境直线反射保留但无闭合圆片残迹，壳颈连续；下五面板手指/短红点、箭头及中文无明显连带变化。"
+      },
+      "reference_evidence_inheritance": {
+        "source_revision": "v5_final_receipt",
+        "source_sha256": "193b7253b4647e6eb9e4598dd78e4459cff591fa90c0000c5339c61ec5981f59",
+        "method": "原五轴原图证据继承；本次实际核蓝白卡、顶背视和大字、三步/双状态分层、字级及信息密度连续性。"
+      },
+      "dimension_variance": {
+        "previous": [
+          977,
+          1609
+        ],
+        "actual": [
+          977,
+          1610
+        ],
+        "status": "ACCEPTED_TARGET_VARIANCE"
+      }
+    },
+    {
+      "id": "D14",
+      "revision": "userfix_v1_back_clean_final_receipt",
+      "supersedes_revision": "userfix_v1_back_clean_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/final/D14.png",
+      "sha256": "f9049f57d1a5047a786dc5f5752a00b41cbdca589b40e51c2de4d4ca0238e022",
+      "actual_dimensions": [
+        977,
+        1610
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": false,
+      "method": "实际核final同完整SHA，仅文件回执，不重审画面。",
+      "reference_fidelity": {
+        "inherited_from": "D14/v1_candidate and v2_fix_review",
+        "composition": {
+          "status": "PASS",
+          "reason": "顶同占位大轮廓改背侧视，三步与下双状态蓝白卡保持，教学信息仍完整。"
+        },
+        "subject_scale": {
+          "status": "PASS",
+          "reason": "装饰大头与五操作全头/宏观层次保持。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "冷蓝竖纹、银镜反光/蓝白卡保持。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "巨黑标题、圆编号与状态/机制白字保持。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "操作三步+两状态完整，不靠装饰头额外堆孔阵信息。"
+        }
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "用户要求干净背壳已实现；按压三步及双状态保持，短红点未夸大；其余既过商品层继承。"
+      },
+      "hand_action": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "两按压手势保持，中央红钮操作不与下键混淆。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "三步、状态及底句保持copy-v2，无新增效果承诺。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "三步与两按压状态任务完整，装饰头改背侧不删操作信息。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "顶部替换为root授权适配；灰痕性质UNKNOWN。",
+        "v4未独审；未数孔测红针或证明清洁效果。"
+      ],
+      "user_acceptance": "PENDING",
+      "local_change_review": {
+        "scope": "remove_top_back_circular_patch",
+        "method": "actual_native_view_image",
+        "result": "顶背圆片消失，环境直线反射保留但无闭合圆片残迹，壳颈连续；下五面板手指/短红点、箭头及中文无明显连带变化。"
+      },
+      "reference_evidence_inheritance": {
+        "source_revision": "v5_final_receipt",
+        "source_sha256": "193b7253b4647e6eb9e4598dd78e4459cff591fa90c0000c5339c61ec5981f59",
+        "method": "原五轴原图证据继承；本次实际核蓝白卡、顶背视和大字、三步/双状态分层、字级及信息密度连续性。"
+      },
+      "dimension_variance": {
+        "previous": [
+          977,
+          1609
+        ],
+        "actual": [
+          977,
+          1610
+        ],
+        "status": "ACCEPTED_TARGET_VARIANCE"
+      },
+      "source_candidate_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/D14-userfix-v1.png",
+      "finalization_receipt": {
+        "sha_equal": true,
+        "actual_final_sha256": "f9049f57d1a5047a786dc5f5752a00b41cbdca589b40e51c2de4d4ca0238e022",
+        "visual_reinspection": false
+      }
+    },
+    {
+      "id": "D15",
+      "revision": "userfix_v1_back_clean_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/D15-userfix-v1.png",
+      "sha256": "b7cce21f4383a993270078f52d1db06fe55521b41e33e6ea60b6e6718ff7114d",
+      "actual_dimensions": [
+        1059,
+        1486
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "method": "实际核final同完整SHA，仅文件回执，不重审画面。",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS",
+          "reason": "A027右下斜背大景、左侧壁浮景与冷蓝台阶竖纹空间保留，移除原侧喷凸脊。"
+        },
+        "subject_scale": {
+          "status": "PASS",
+          "reason": "大背面近景和小侧壁景别明确，不是正背同列重复D12。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "冷蓝台阶/竖窗与银镜反光成立；R031暖金语法由执行32映射转V05。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "左上巨黑两行标题与侧壁/背面细线短标签清楚。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "双景别外观低中密度；当前执行32表D15只A027，R031下三窗任务转V05，未以无窗当漏任务。"
+        }
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "干净连续背壳符合新事实；其余已过商品证据继承，不推断材质或规格。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "标题换个角度 看清外观及侧壁轮廓/背面整体准确；copy-v2后三detail_label按layout_notes仅实际对应局部出现，本图无三小窗不空补。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "背面大景/侧壁浮景任务与D12等尺度双列不同。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "reference_task_routing": {
+        "R031": "按reference-map执行32表转V05，须在V05核暖金大主体/下三细节窗；旧候选D15含R031不作为当前必修。"
+      },
+      "limitations": [
+        "原生1059×1485记录，不测厚度材质。"
+      ],
+      "user_acceptance": "PENDING",
+      "supersedes_revision": "v1_final_receipt",
+      "local_change_review": {
+        "scope": "remove_back_circular_patch",
+        "method": "actual_native_view_image",
+        "result": "右下圆片清除，连续反光无圆边/水垢斑；外轮廓/柄颈/手部/左侧视厚度和中文无明显连带变化。"
+      },
+      "reference_evidence_inheritance": {
+        "source_revision": "v1_final_receipt",
+        "source_sha256": "014f3f8aec2aeb30269cd69af626d386cd81dc0230815f24b31952196f6d8edc",
+        "method": "原五轴原图证据继承，当前实际核冷蓝台阶/竖纹、左小侧视右大背视的比例、光线、字级/密度连续性。"
+      },
+      "dimension_variance": {
+        "previous": [
+          1059,
+          1485
+        ],
+        "actual": [
+          1059,
+          1486
+        ],
+        "status": "ACCEPTED_TARGET_VARIANCE"
+      }
+    },
+    {
+      "id": "D15",
+      "revision": "userfix_v1_back_clean_final_receipt",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/final/D15.png",
+      "sha256": "b7cce21f4383a993270078f52d1db06fe55521b41e33e6ea60b6e6718ff7114d",
+      "actual_dimensions": [
+        1059,
+        1486
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": false,
+      "method": "实际核final同完整SHA，仅文件回执，不重审画面。",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS",
+          "reason": "A027右下斜背大景、左侧壁浮景与冷蓝台阶竖纹空间保留，移除原侧喷凸脊。"
+        },
+        "subject_scale": {
+          "status": "PASS",
+          "reason": "大背面近景和小侧壁景别明确，不是正背同列重复D12。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "冷蓝台阶/竖窗与银镜反光成立；R031暖金语法由执行32映射转V05。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "左上巨黑两行标题与侧壁/背面细线短标签清楚。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "双景别外观低中密度；当前执行32表D15只A027，R031下三窗任务转V05，未以无窗当漏任务。"
+        }
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "干净连续背壳符合新事实；其余已过商品证据继承，不推断材质或规格。"
+      },
+      "copy_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "标题换个角度 看清外观及侧壁轮廓/背面整体准确；copy-v2后三detail_label按layout_notes仅实际对应局部出现，本图无三小窗不空补。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "背面大景/侧壁浮景任务与D12等尺度双列不同。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "reference_task_routing": {
+        "R031": "按reference-map执行32表转V05，须在V05核暖金大主体/下三细节窗；旧候选D15含R031不作为当前必修。"
+      },
+      "limitations": [
+        "原生1059×1485记录，不测厚度材质。"
+      ],
+      "user_acceptance": "PENDING",
+      "supersedes_revision": "userfix_v1_back_clean_review",
+      "local_change_review": {
+        "scope": "remove_back_circular_patch",
+        "method": "actual_native_view_image",
+        "result": "右下圆片清除，连续反光无圆边/水垢斑；外轮廓/柄颈/手部/左侧视厚度和中文无明显连带变化。"
+      },
+      "reference_evidence_inheritance": {
+        "source_revision": "v1_final_receipt",
+        "source_sha256": "014f3f8aec2aeb30269cd69af626d386cd81dc0230815f24b31952196f6d8edc",
+        "method": "原五轴原图证据继承，当前实际核冷蓝台阶/竖纹、左小侧视右大背视的比例、光线、字级/密度连续性。"
+      },
+      "dimension_variance": {
+        "previous": [
+          1059,
+          1485
+        ],
+        "actual": [
+          1059,
+          1486
+        ],
+        "status": "ACCEPTED_TARGET_VARIANCE"
+      },
+      "source_candidate_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/D15-userfix-v1.png",
+      "finalization_receipt": {
+        "sha_equal": true,
+        "actual_final_sha256": "b7cce21f4383a993270078f52d1db06fe55521b41e33e6ea60b6e6718ff7114d",
+        "visual_reinspection": false
+      }
+    },
+    {
+      "id": "V06",
+      "revision": "userfix_v1_back_clean_review",
+      "supersedes_revision": "v4_final_receipt",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/V06-userfix-v1.png",
+      "sha256": "b528ec6851b2cd570c9f56dd234fc8f0dde3ecc30ff8e48790462b6fb2020bb8",
+      "actual_dimensions": [
+        910,
+        1729
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "method": "实际计算final SHA同已审v4，只记文件回执，不重审画面。",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS",
+          "reason": "夜蓝双手托商品改连续背视，白底六格图鉴与三问答独立保持；root授权角度适配，不丢正面信息。"
+        },
+        "subject_scale": {
+          "status": "PASS",
+          "reason": "上大商品手托、中六近景/下问答观看层次完整。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "夜蓝空间暖线光与白底灰图鉴深浅对比保持。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "图鉴大标题、六标签、三问答粗问细答层级清楚。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "上空间/六外观/买前问答三任务完整，无品牌服务等未知文案。"
+        }
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "干净连续背壳符合用户新事实；正背侧/孔位/两钮仍在六格承接，接口手遮，其他已过层继承。"
+      },
+      "hand_action": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "双手承托/握持自然，无明显修补畸形；遮末端不证明未知接口色。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "六标签与三问答符合copy-v2，未增品牌/售后/水效承诺。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "正面/孔/按键仍由六格完整展示，顶部翻背视保夜蓝承托任务，非删除内容。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "顶部翻背视为root授权适配，灰痕性质UNKNOWN。",
+        "银裸接口颜色UNKNOWN；未数孔/测材质性能。"
+      ],
+      "user_acceptance": "PENDING",
+      "local_change_review": {
+        "scope": "remove_top_back_circular_patch",
+        "method": "actual_native_view_image",
+        "result": "顶部背壳圆痕清除、反光连续；双手遮端与壳颈自然。下六格/三FAQ无明显连带变化。"
+      },
+      "reference_evidence_inheritance": {
+        "source_revision": "v4_final_receipt",
+        "source_sha256": "dea0772008f21286d9b982de3b497cafded3779c3e6f1ba6a8af10d3d6301fbe",
+        "method": "原五轴原图证据继承，当前实际核夜蓝顶部—白六格—FAQ分区、主从比例、冷暖光、字级和密度连续性。"
+      }
+    },
+    {
+      "id": "V06",
+      "revision": "userfix_v1_back_clean_final_receipt",
+      "supersedes_revision": "userfix_v1_back_clean_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/final/V06.png",
+      "sha256": "b528ec6851b2cd570c9f56dd234fc8f0dde3ecc30ff8e48790462b6fb2020bb8",
+      "actual_dimensions": [
+        910,
+        1729
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": false,
+      "method": "实际计算final SHA同已审v4，只记文件回执，不重审画面。",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS",
+          "reason": "夜蓝双手托商品改连续背视，白底六格图鉴与三问答独立保持；root授权角度适配，不丢正面信息。"
+        },
+        "subject_scale": {
+          "status": "PASS",
+          "reason": "上大商品手托、中六近景/下问答观看层次完整。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "夜蓝空间暖线光与白底灰图鉴深浅对比保持。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "图鉴大标题、六标签、三问答粗问细答层级清楚。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "上空间/六外观/买前问答三任务完整，无品牌服务等未知文案。"
+        }
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "干净连续背壳符合用户新事实；正背侧/孔位/两钮仍在六格承接，接口手遮，其他已过层继承。"
+      },
+      "hand_action": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "双手承托/握持自然，无明显修补畸形；遮末端不证明未知接口色。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "六标签与三问答符合copy-v2，未增品牌/售后/水效承诺。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "正面/孔/按键仍由六格完整展示，顶部翻背视保夜蓝承托任务，非删除内容。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "顶部翻背视为root授权适配，灰痕性质UNKNOWN。",
+        "银裸接口颜色UNKNOWN；未数孔/测材质性能。"
+      ],
+      "user_acceptance": "PENDING",
+      "local_change_review": {
+        "scope": "remove_top_back_circular_patch",
+        "method": "actual_native_view_image",
+        "result": "顶部背壳圆痕清除、反光连续；双手遮端与壳颈自然。下六格/三FAQ无明显连带变化。"
+      },
+      "reference_evidence_inheritance": {
+        "source_revision": "v4_final_receipt",
+        "source_sha256": "dea0772008f21286d9b982de3b497cafded3779c3e6f1ba6a8af10d3d6301fbe",
+        "method": "原五轴原图证据继承，当前实际核夜蓝顶部—白六格—FAQ分区、主从比例、冷暖光、字级和密度连续性。"
+      },
+      "source_candidate_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/V06-userfix-v1.png",
+      "finalization_receipt": {
+        "sha_equal": true,
+        "actual_final_sha256": "b528ec6851b2cd570c9f56dd234fc8f0dde3ecc30ff8e48790462b6fb2020bb8",
+        "visual_reinspection": false
+      }
+    },
+    {
+      "id": "M04",
+      "revision": "userfix_v4_review",
+      "supersedes_revision": "userfix_v2_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/M04-userfix-v4.png",
+      "sha256": "c4337b61d9e1e522334d6be5b1b9d010d6b8e50a00dd1f45792ce313fa1e8ab3",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "method": "实际view_image定向核灰环修补区及相邻孔、红钮、手部与三窗连带影响，沿用v1实际R002/A036及99/96/95五轴/水型证据。",
+      "reference_fidelity": {
+        "inherited_from": "M04/v1_candidate",
+        "composition": {
+          "status": "PASS",
+          "reason": "右大手持/左三窗关系保持。"
+        },
+        "subject_scale": {
+          "status": "PASS",
+          "reason": "大面板与小窗主从未变。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "深棕金布面/银亮边保持。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "左上大白字与窗内标签保持。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "三小水型窗加大动作主体，密度关系保持。"
+        }
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "中/下窗六个雾根口新增大于邻孔约2–3倍的凸出圆套口，暗外圈/银亮厚边可辨，属于改样而非纯雾根高光。须恢复同尺度低平白孔，从孔心起雾，不加套筒。",
+        "improvements": "六根已独立、位置与正面角度清楚，右主干态/常规覆盖及中文保持。"
+      },
+      "water_form": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "三水型窗与v1有效核对保持，常规细束/喷雾锥束/混合束雾；仅视觉对应非实测或用户逐张标定。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "标题和三窗标签保持，无新增功能文字。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "沿用v1暖棕操作主图＋三小窗任务证据。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "定向修补复核，未知孔数尺寸及功能效果不测。"
+      ],
+      "user_acceptance": "PENDING",
+      "status": "NEEDS_FIX",
+      "reference_evidence_inheritance": {
+        "source_revision": "v2_fix_review",
+        "source_sha256": "ef1337db50fcab9727dd9588961fbc2301ff7de44c6be53469e5f28f835259f2",
+        "method": "继承原五轴原图对照证据；当前整图实际确认棕金右大主体/左三窗、比例、硬暖光、字级和信息密度保持。水型依本批新事实另核。",
+        "axes_reverified_for_layout_continuity": [
+          "composition",
+          "subject_scale",
+          "color_light",
+          "type_layout",
+          "information_density"
+        ],
+        "current_adaptation": "喷雾/混合小窗改近正面以读清六根，原右大品/左三窗棕金布局及层次保持。"
+      },
+      "water_revision_check": {
+        "regular_full_effective_face": "improved_no_additional_clear_failure",
+        "mist_six_specified_origins": "six_visible_but_hardware_NEEDS_FIX",
+        "mixed_regular_plus_six_mist_at_origins": "both_types_visible_but_hardware_NEEDS_FIX",
+        "hero_dry": "PASS"
+      }
+    },
+    {
+      "id": "M04",
+      "revision": "userfix_v5_review",
+      "supersedes_revision": "userfix_v4_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/M04-userfix-v5.png",
+      "sha256": "b3ffa30a10f79d896e9bfb6e7e0dc2b7768c7e7116e200043661647a0cd7a768",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "method": "实际view_image定向核灰环修补区及相邻孔、红钮、手部与三窗连带影响，沿用v1实际R002/A036及99/96/95五轴/水型证据。",
+      "reference_fidelity": {
+        "inherited_from": "M04/v1_candidate",
+        "composition": {
+          "status": "PASS",
+          "reason": "右大手持/左三窗关系保持。"
+        },
+        "subject_scale": {
+          "status": "PASS",
+          "reason": "大面板与小窗主从未变。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "深棕金布面/银亮边保持。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "左上大白字与窗内标签保持。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "三小水型窗加大动作主体，密度关系保持。"
+        }
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "六根后仍可辨约邻孔2–3倍透明/灰边球罩，尤其中窗左中、下左/下右，有闭合罩边而非纯雾高光。须去罩恢复同径低平白孔。"
+      },
+      "water_form": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "三水型窗与v1有效核对保持，常规细束/喷雾锥束/混合束雾；仅视觉对应非实测或用户逐张标定。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "标题和三窗标签保持，无新增功能文字。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "沿用v1暖棕操作主图＋三小窗任务证据。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "定向修补复核，未知孔数尺寸及功能效果不测。"
+      ],
+      "user_acceptance": "PENDING",
+      "status": "NEEDS_FIX",
+      "reference_evidence_inheritance": {
+        "source_revision": "v2_fix_review",
+        "source_sha256": "ef1337db50fcab9727dd9588961fbc2301ff7de44c6be53469e5f28f835259f2",
+        "method": "继承原五轴原图对照证据；当前整图实际确认棕金右大主体/左三窗、比例、硬暖光、字级和信息密度保持。水型依本批新事实另核。",
+        "axes_reverified_for_layout_continuity": [
+          "composition",
+          "subject_scale",
+          "color_light",
+          "type_layout",
+          "information_density"
+        ],
+        "current_adaptation": "喷雾/混合小窗改近正面以读清六根，原右大品/左三窗棕金布局及层次保持。"
+      },
+      "water_revision_check": {
+        "regular_full_effective_face": "improved_no_additional_clear_failure",
+        "mist_six_specified_origins": "six_visible_but_hardware_NEEDS_FIX",
+        "mixed_regular_plus_six_mist_at_origins": "both_types_visible_but_hardware_NEEDS_FIX",
+        "hero_dry": "PASS"
+      },
+      "actual_detail_method": "full_native_plus_in_memory_root_enlargement"
+    },
+    {
+      "id": "D08",
+      "revision": "userfix_v1_water_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/D08-userfix-v1.png",
+      "sha256": "0a04acb25351559d8b4708def2b05319503a4a3b002e1e152a2b87232c2b413a",
+      "actual_dimensions": [
+        978,
+        1608
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "method": "实际核final同完整SHA，仅文件回执，不重审画面。",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS",
+          "reason": "A016/A017黑色横卡、左蓝斜编号、左商品右出水/白名称保持；A018下部独立蓝桥接段保留，删参考未证04–06。"
+        },
+        "subject_scale": {
+          "status": "PASS",
+          "reason": "各卡面板大近景与向右延伸水形一致，底短幅约15%独立停顿。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "黑底逆光水线高对比、蓝编号与底蓝桥成立，R023只取分栏不复制棕金。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "白色01–03与右模式名层级清楚，底白大字下方按键 切换三档可读。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "三模式图像并列加短过渡，删副功效/四至六档，无信息过载。"
+        }
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "中喷雾/下混合面板新增以红钮为中心的多层同心灰暗圆带，尤其红钮下方及右下，实物应为连续黑底；需清除新增分圈。",
+        "water_improvements": "六根独立并低平，常规/混合水型类别可读；无M04式大套口。"
+      },
+      "water_form": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "01细束对应99视觉，02多处雾锥对应96，03细束+雾对应95；01/03红钮前线可读跨越，未见明确在钮口终止的独立喷束。接口出画。非用户逐张标定或性能实测，01–03仅展示编号非实际切档循环顺序。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "三模式名称及底桥文字符合copy-v2，无喷枪/第四档/肤感强弱或量化承诺。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "黑卡逆光三水型与底蓝桥独立任务完成。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "原生978×1608记录；不量测喷幅强弱或流量。"
+      ],
+      "user_acceptance": "PENDING",
+      "supersedes_revision": "v1_final_receipt",
+      "status": "NEEDS_FIX",
+      "water_revision_check": {
+        "regular_full_effective_face": "no_additional_clear_failure",
+        "mist_six_specified_origins": "PASS_WITH_LIMITATIONS",
+        "mixed_regular_plus_six_mist_at_origins": "PASS_WITH_LIMITATIONS",
+        "new_panel_rings": "NEEDS_FIX"
+      },
+      "reference_evidence_inheritance": {
+        "source_revision": "v1_final_receipt",
+        "source_sha256": "c1ec89b8bc5efc3af0b22ab4023c931d4621e13b4db7503916b7c77336470676",
+        "method": "原五轴原参考证据继承，本次实际核黑横卡/蓝斜编号/底蓝桥、主体尺度、黑蓝白光、字级及密度连续性。小窗近正面用于六根可读，不换既定风格。"
+      },
+      "actual_detail_method": "full_native_plus_in_memory_root_enlargement"
+    },
+    {
+      "id": "M07",
+      "revision": "userfix_v1_water_review",
+      "supersedes_revision": "v3_fix_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/M07-userfix-v1.png",
+      "sha256": "3c754ceace22ef456f148c14d3392164dfac5bd7496acd33c6e3abd4a688f8fe",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "method": "实际view_image定向核红钮错误水线起点修补及相邻孔/水束连带，五轴与R004/93/99有效初审证据沿用。",
+      "reference_fidelity": {
+        "inherited_from": "M07/v1_candidate and v2_fix_review",
+        "composition": {
+          "status": "PASS",
+          "reason": "右巨大斜头、左水束、底双带保持。"
+        },
+        "subject_scale": {
+          "status": "PASS",
+          "reason": "近景主体与出水占画关系保持。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "黑金高对比及银色硬亮边保持。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "红白黑体与金黑宋体清晰不变。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "完整外观/水束/双标题仍为冲击式主视觉。"
+        }
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "全有效白孔面出水已成立、红钮不出水；右侧及下方多颗白环变厚甜甜圈/短套筒，外翻孔口及侧壁较93低平白环明显，需仅压低白环保留水根。"
+      },
+      "water_form": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "原落在红钮上的错误水线已移除，红钮表面与开孔清晰，不再出现从按钮发水端头；邻近水线可见接白孔向左延伸。水流强度/喷幅未实测。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "已确认两处文字保持，无新增功能。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "沿用初审黑金完整外壳水束任务证据。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "定向复核，不量测水压流量/孔数/未知尺寸。",
+        "强对比近景水滴为商业画面，非性能测证。"
+      ],
+      "user_acceptance": "PENDING",
+      "water_revision_check": {
+        "regular_full_effective_face": "PASS_WITH_LIMITATIONS",
+        "red_button_as_source": "NO",
+        "hole_ring_shape": "NEEDS_FIX"
+      },
+      "reference_evidence_inheritance": {
+        "source_revision": "v3_fix_review",
+        "source_sha256": "1a6026830bb3696645794676215c52ed015d906040513f5367f9a5cb5f94ccab",
+        "method": "原五轴原图对照继承；当前实际整图核连续性。",
+        "current_observation": "黑金流布、右巨大头/左水束、底红金字条的构图比例/色光/字级/密度保持。"
+      },
+      "actual_product_detail_viewed": "products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg"
+    },
+    {
+      "id": "M08",
+      "revision": "userfix_v1_water_review",
+      "supersedes_revision": "v2_fix_review_final_receipt",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/M08-userfix-v1.png",
+      "sha256": "6e0f3d975098083c0627623dfaced06dbbf826787d29609bea62611a859707db",
+      "actual_dimensions": [
+        1216,
+        1294
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "method": "仅同步账目：实际shasum核final/M08与final/K02等于各自最新已审候选完整SHA；不重看或重审画面。新增同字节入final回执，保留候选与历史失败。final已审通过11/32，余21项未审；三色组待新K01，用户验收PENDING。",
+      "reference_fidelity": {
+        "inherited_from": "M08/v1_candidate",
+        "composition": {
+          "status": "PASS",
+          "reason": "白底大标题、三竖棕金卡与浅金底签保持。"
+        },
+        "subject_scale": {
+          "status": "PASS",
+          "reason": "三卡大主体与按钮近景占比保持。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "棕金卡面、白底及银色边光未见明显变化。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "大标题、三卡双行底签清晰且内容不变。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "三个操作索引的平行密度与留白保持。"
+        }
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "左卡全有效白孔面均有常规束，无大片干孔，孔心起水；红钮仅被前景束跨过，不是水源。中右卡、手及短红点/中文无明显连带。"
+      },
+      "water_form": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "左水束与起点保持，未见明确从红钮/柄发水；接口出画不证明真实连接或性能。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "标题、三卡标签/副文保持copy-v2，无新增承诺。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "三项操作索引任务保持。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "只定向复核改动及连带；低对比暗痕不解释为已证实商品结构。",
+        "原生1216×1293接受尺寸差异；不测证孔数、针长、清洁效果或水流性能。"
+      ],
+      "user_acceptance": "PENDING",
+      "water_revision_check": {
+        "regular_full_effective_face": "PASS_WITH_LIMITATIONS",
+        "red_button_as_source": "NO",
+        "hole_ring_shape": "PASS_WITH_LIMITATIONS"
+      },
+      "reference_evidence_inheritance": {
+        "source_revision": "v2_fix_review_final_receipt",
+        "source_sha256": "e5781bed8f170b7abcd020f395a2eb09c0daf07ed3682fd62781ebccd2b5123d",
+        "method": "原五轴原图对照继承；当前实际整图核连续性。",
+        "current_observation": "白底大字、棕金三竖卡、浅金标签条的比例/光色/字级/密度连续保持。"
+      },
+      "actual_product_detail_viewed": "products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg"
+    },
+    {
+      "id": "M08",
+      "revision": "userfix_v1_water_final_receipt",
+      "supersedes_revision": "userfix_v1_water_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/final/M08.png",
+      "sha256": "6e0f3d975098083c0627623dfaced06dbbf826787d29609bea62611a859707db",
+      "actual_dimensions": [
+        1216,
+        1294
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": false,
+      "method": "仅同步账目：实际shasum核final/M08与final/K02等于各自最新已审候选完整SHA；不重看或重审画面。新增同字节入final回执，保留候选与历史失败。final已审通过11/32，余21项未审；三色组待新K01，用户验收PENDING。",
+      "reference_fidelity": {
+        "inherited_from": "M08/v1_candidate",
+        "composition": {
+          "status": "PASS",
+          "reason": "白底大标题、三竖棕金卡与浅金底签保持。"
+        },
+        "subject_scale": {
+          "status": "PASS",
+          "reason": "三卡大主体与按钮近景占比保持。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "棕金卡面、白底及银色边光未见明显变化。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "大标题、三卡双行底签清晰且内容不变。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "三个操作索引的平行密度与留白保持。"
+        }
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "左卡全有效白孔面均有常规束，无大片干孔，孔心起水；红钮仅被前景束跨过，不是水源。中右卡、手及短红点/中文无明显连带。"
+      },
+      "water_form": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "左水束与起点保持，未见明确从红钮/柄发水；接口出画不证明真实连接或性能。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "标题、三卡标签/副文保持copy-v2，无新增承诺。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "三项操作索引任务保持。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "只定向复核改动及连带；低对比暗痕不解释为已证实商品结构。",
+        "原生1216×1293接受尺寸差异；不测证孔数、针长、清洁效果或水流性能。"
+      ],
+      "user_acceptance": "PENDING",
+      "water_revision_check": {
+        "regular_full_effective_face": "PASS_WITH_LIMITATIONS",
+        "red_button_as_source": "NO",
+        "hole_ring_shape": "PASS_WITH_LIMITATIONS"
+      },
+      "reference_evidence_inheritance": {
+        "source_revision": "v2_fix_review_final_receipt",
+        "source_sha256": "e5781bed8f170b7abcd020f395a2eb09c0daf07ed3682fd62781ebccd2b5123d",
+        "method": "原五轴原图对照继承；当前实际整图核连续性。",
+        "current_observation": "白底大字、棕金三竖卡、浅金标签条的比例/光色/字级/密度连续保持。"
+      },
+      "actual_product_detail_viewed": "products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+      "source_candidate_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/M08-userfix-v1.png",
+      "finalization_receipt": {
+        "sha_equal": true,
+        "actual_final_sha256": "6e0f3d975098083c0627623dfaced06dbbf826787d29609bea62611a859707db",
+        "visual_reinspection": false
+      }
+    },
+    {
+      "id": "D08",
+      "revision": "userfix_v2_water_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/D08-userfix-v2.png",
+      "sha256": "157ab9a78d43f11daa9b6bfaf8d6ce6fbc9f28f7c45bdfd4667b05722abecb43",
+      "actual_dimensions": [
+        978,
+        1608
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "method": "实际核final同完整SHA，仅文件回执，不重审画面。",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS",
+          "reason": "A016/A017黑色横卡、左蓝斜编号、左商品右出水/白名称保持；A018下部独立蓝桥接段保留，删参考未证04–06。"
+        },
+        "subject_scale": {
+          "status": "PASS",
+          "reason": "各卡面板大近景与向右延伸水形一致，底短幅约15%独立停顿。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "黑底逆光水线高对比、蓝编号与底蓝桥成立，R023只取分栏不复制棕金。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "白色01–03与右模式名层级清楚，底白大字下方按键 切换三档可读。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "三模式图像并列加短过渡，删副功效/四至六档，无信息过载。"
+        }
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "中下环带显著减弱，残留仅柔和弧形明暗，无明确沟槽/台阶/独立圈件。六点低平白孔起雾，无新增套筒；常规面覆盖完整，红钮非水源。"
+      },
+      "water_form": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "01细束对应99视觉，02多处雾锥对应96，03细束+雾对应95；01/03红钮前线可读跨越，未见明确在钮口终止的独立喷束。接口出画。非用户逐张标定或性能实测，01–03仅展示编号非实际切档循环顺序。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "三模式名称及底桥文字符合copy-v2，无喷枪/第四档/肤感强弱或量化承诺。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "黑卡逆光三水型与底蓝桥独立任务完成。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "原生978×1608记录；不量测喷幅强弱或流量。"
+      ],
+      "user_acceptance": "PENDING",
+      "supersedes_revision": "userfix_v1_water_review",
+      "status": "PASS_WITH_LIMITATIONS",
+      "water_revision_check": {
+        "regular_full_effective_face": "PASS_WITH_LIMITATIONS",
+        "mist_six_specified_origins": "PASS_WITH_LIMITATIONS",
+        "mixed_regular_plus_six_mist_at_origins": "PASS_WITH_LIMITATIONS",
+        "new_structural_panel_rings": "NO_CLEAR_GROOVE_OR_STEP",
+        "residual_tonal_arcs": "ACCEPTED_LIMITATION"
+      },
+      "reference_evidence_inheritance": {
+        "source_revision": "v1_final_receipt",
+        "source_sha256": "c1ec89b8bc5efc3af0b22ab4023c931d4621e13b4db7503916b7c77336470676",
+        "method": "原五轴原参考证据继承，本次实际核黑横卡/蓝斜编号/底蓝桥、主体尺度、黑蓝白光、字级及密度连续性。小窗近正面用于六根可读，不换既定风格。"
+      },
+      "actual_detail_method": "actual_native_full_frame_targeted_water_roots_and_panel",
+      "local_revision_limits": "余下柔和弧影属于可见表现限制，不据此认定真实物理分圈；无性能实测或精确流量声称。"
+    },
+    {
+      "id": "D08",
+      "revision": "userfix_v2_water_final_receipt",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/final/D08.png",
+      "sha256": "157ab9a78d43f11daa9b6bfaf8d6ce6fbc9f28f7c45bdfd4667b05722abecb43",
+      "actual_dimensions": [
+        978,
+        1608
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": false,
+      "method": "实际核final同完整SHA，仅文件回执，不重审画面。",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS",
+          "reason": "A016/A017黑色横卡、左蓝斜编号、左商品右出水/白名称保持；A018下部独立蓝桥接段保留，删参考未证04–06。"
+        },
+        "subject_scale": {
+          "status": "PASS",
+          "reason": "各卡面板大近景与向右延伸水形一致，底短幅约15%独立停顿。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "黑底逆光水线高对比、蓝编号与底蓝桥成立，R023只取分栏不复制棕金。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "白色01–03与右模式名层级清楚，底白大字下方按键 切换三档可读。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "三模式图像并列加短过渡，删副功效/四至六档，无信息过载。"
+        }
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "中下环带显著减弱，残留仅柔和弧形明暗，无明确沟槽/台阶/独立圈件。六点低平白孔起雾，无新增套筒；常规面覆盖完整，红钮非水源。"
+      },
+      "water_form": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "01细束对应99视觉，02多处雾锥对应96，03细束+雾对应95；01/03红钮前线可读跨越，未见明确在钮口终止的独立喷束。接口出画。非用户逐张标定或性能实测，01–03仅展示编号非实际切档循环顺序。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "三模式名称及底桥文字符合copy-v2，无喷枪/第四档/肤感强弱或量化承诺。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "黑卡逆光三水型与底蓝桥独立任务完成。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "原生978×1608记录；不量测喷幅强弱或流量。"
+      ],
+      "user_acceptance": "PENDING",
+      "supersedes_revision": "userfix_v2_water_review",
+      "status": "PASS_WITH_LIMITATIONS",
+      "water_revision_check": {
+        "regular_full_effective_face": "PASS_WITH_LIMITATIONS",
+        "mist_six_specified_origins": "PASS_WITH_LIMITATIONS",
+        "mixed_regular_plus_six_mist_at_origins": "PASS_WITH_LIMITATIONS",
+        "new_structural_panel_rings": "NO_CLEAR_GROOVE_OR_STEP",
+        "residual_tonal_arcs": "ACCEPTED_LIMITATION"
+      },
+      "reference_evidence_inheritance": {
+        "source_revision": "v1_final_receipt",
+        "source_sha256": "c1ec89b8bc5efc3af0b22ab4023c931d4621e13b4db7503916b7c77336470676",
+        "method": "原五轴原参考证据继承，本次实际核黑横卡/蓝斜编号/底蓝桥、主体尺度、黑蓝白光、字级及密度连续性。小窗近正面用于六根可读，不换既定风格。"
+      },
+      "actual_detail_method": "actual_native_full_frame_targeted_water_roots_and_panel",
+      "local_revision_limits": "余下柔和弧影属于可见表现限制，不据此认定真实物理分圈；无性能实测或精确流量声称。",
+      "source_candidate_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/D08-userfix-v2.png",
+      "finalization_receipt": {
+        "sha_equal": true,
+        "actual_final_sha256": "157ab9a78d43f11daa9b6bfaf8d6ce6fbc9f28f7c45bdfd4667b05722abecb43",
+        "visual_reinspection": false
+      }
+    },
+    {
+      "id": "M07",
+      "revision": "userfix_v2_water_review",
+      "supersedes_revision": "userfix_v1_water_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/M07-userfix-v2.png",
+      "sha256": "0dad1f942969ce34dedb5fd4f60a217cc7f7dcc635e5b7d27e1488394a0ed13e",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "method": "实际view_image定向核红钮错误水线起点修补及相邻孔/水束连带，五轴与R004/93/99有效初审证据沿用。",
+      "reference_fidelity": {
+        "inherited_from": "M07/v1_candidate and v2_fix_review",
+        "composition": {
+          "status": "PASS",
+          "reason": "右巨大斜头、左水束、底双带保持。"
+        },
+        "subject_scale": {
+          "status": "PASS",
+          "reason": "近景主体与出水占画关系保持。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "黑金高对比及银色硬亮边保持。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "红白黑体与金黑宋体清晰不变。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "完整外观/水束/双标题仍为冲击式主视觉。"
+        }
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "白环较v1压低，无明确长套筒侧壁；自然低环高光允许。全孔水/红钮非水源保持，黑金布局及字无明显连带。"
+      },
+      "water_form": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "原落在红钮上的错误水线已移除，红钮表面与开孔清晰，不再出现从按钮发水端头；邻近水线可见接白孔向左延伸。水流强度/喷幅未实测。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "已确认两处文字保持，无新增功能。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "沿用初审黑金完整外壳水束任务证据。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "定向复核，不量测水压流量/孔数/未知尺寸。",
+        "强对比近景水滴为商业画面，非性能测证。"
+      ],
+      "user_acceptance": "PENDING",
+      "water_revision_check": {
+        "regular_full_effective_face": "PASS_WITH_LIMITATIONS",
+        "red_button_as_source": "NO",
+        "hole_ring_shape": "PASS_WITH_LIMITATIONS"
+      },
+      "reference_evidence_inheritance": {
+        "source_revision": "v3_fix_review",
+        "source_sha256": "1a6026830bb3696645794676215c52ed015d906040513f5367f9a5cb5f94ccab",
+        "method": "原五轴原图对照继承；当前实际整图核连续性。",
+        "current_observation": "黑金流布、右巨大头/左水束、底红金字条的构图比例/色光/字级/密度保持。"
+      },
+      "actual_product_detail_viewed": "products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg"
+    },
+    {
+      "id": "M06",
+      "revision": "userfix_v3_fresh_review",
+      "supersedes_revision": "userfix_v2_fresh_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/M06-userfix-v3.png",
+      "sha256": "abe097e94f19c059f6ea4af5591e1417211e84e553d95961d460c94281fb5d56",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "method": "实际4页总览32图覆盖后，仅原生露端定向核，继承已过五轴/文案/人物等；用户2026-10-23新确认银裸螺纹银色。",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS",
+          "reason": "实际重新看R008及M06v3：左暖木人物持品淋浴、右白底单品，两区保留。"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "左大半身人物水景、右完整单品，圆头及右竖放替参考方头斜放为商品适配。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "左暖木与皮肤暖光、右中性白底银反光清楚分离。"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "右黑大字银色/单花洒集中上方，较参考上字/下字分布作商品标签适配；未复制增压字。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "仍一人物场景加一单品，没有参数/证件/售卖配件增项。"
+        }
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "仅左场景画内裸露未连接柄端却出水；右单品银螺纹/两钮孔面和常规覆盖可用。"
+      },
+      "person_and_water": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "M001、手部、不透明衣着和正面细水束未见明显连带改变，水源在画外仍属未核。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "银色/单花洒保持，无新增功能或附件。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "沿用v1情境与白栏SKU对应任务证据。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "只复核修补及连带，不测真实尺寸孔数或流量。",
+        "合成人物情境非真人试用；用户审阅PENDING。"
+      ],
+      "user_acceptance": "PENDING",
+      "status": "NEEDS_FIX",
+      "reference_ids": [
+        "R008"
+      ],
+      "viewed_reference_originals": [
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/01_微信参考原图/R008_SKU_场景与单品.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/models/M001/master-v1.png"
+      ],
+      "fresh_full_frame_review": {
+        "method": "actual_native_full_frame_face_neck_and_handle_end_enlargement_in_memory",
+        "skin_status": "PASS_WITH_LIMITATIONS",
+        "identity_appearance": "M001_consistent_no_obvious_drift",
+        "skin_reason": "连续肤色改善，无明显重复鳞格；随机细毛孔/水滴不当成网纹。",
+        "hand": "no_obvious_defect",
+        "water": "full_effective_face_no_dry_half",
+        "right_silver_thread": "PASS",
+        "left_water_scene_connector": "NEEDS_FIX",
+        "sole_failure": "左手持柄末端x0–48/y655–684画内裸露未连接底口却出水；须自然出框或掌遮，不能封口。",
+        "next_fix_scope": "local_product_endpoint_only_skin_already_passed"
+      }
+    },
+    {
+      "id": "M07",
+      "revision": "userfix_v2_water_final_receipt",
+      "supersedes_revision": "userfix_v2_water_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/final/M07.png",
+      "sha256": "0dad1f942969ce34dedb5fd4f60a217cc7f7dcc635e5b7d27e1488394a0ed13e",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": false,
+      "method": "实际view_image定向核红钮错误水线起点修补及相邻孔/水束连带，五轴与R004/93/99有效初审证据沿用。",
+      "reference_fidelity": {
+        "inherited_from": "M07/v1_candidate and v2_fix_review",
+        "composition": {
+          "status": "PASS",
+          "reason": "右巨大斜头、左水束、底双带保持。"
+        },
+        "subject_scale": {
+          "status": "PASS",
+          "reason": "近景主体与出水占画关系保持。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "黑金高对比及银色硬亮边保持。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "红白黑体与金黑宋体清晰不变。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "完整外观/水束/双标题仍为冲击式主视觉。"
+        }
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "白环较v1压低，无明确长套筒侧壁；自然低环高光允许。全孔水/红钮非水源保持，黑金布局及字无明显连带。"
+      },
+      "water_form": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "原落在红钮上的错误水线已移除，红钮表面与开孔清晰，不再出现从按钮发水端头；邻近水线可见接白孔向左延伸。水流强度/喷幅未实测。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "已确认两处文字保持，无新增功能。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "沿用初审黑金完整外壳水束任务证据。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "定向复核，不量测水压流量/孔数/未知尺寸。",
+        "强对比近景水滴为商业画面，非性能测证。"
+      ],
+      "user_acceptance": "PENDING",
+      "water_revision_check": {
+        "regular_full_effective_face": "PASS_WITH_LIMITATIONS",
+        "red_button_as_source": "NO",
+        "hole_ring_shape": "PASS_WITH_LIMITATIONS"
+      },
+      "reference_evidence_inheritance": {
+        "source_revision": "v3_fix_review",
+        "source_sha256": "1a6026830bb3696645794676215c52ed015d906040513f5367f9a5cb5f94ccab",
+        "method": "原五轴原图对照继承；当前实际整图核连续性。",
+        "current_observation": "黑金流布、右巨大头/左水束、底红金字条的构图比例/色光/字级/密度保持。"
+      },
+      "actual_product_detail_viewed": "products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+      "source_candidate_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/M07-userfix-v2.png",
+      "finalization_receipt": {
+        "sha_equal": true,
+        "actual_final_sha256": "0dad1f942969ce34dedb5fd4f60a217cc7f7dcc635e5b7d27e1488394a0ed13e",
+        "visual_reinspection": false
+      }
+    },
+    {
+      "id": "D01",
+      "revision": "userfix_v1_fresh_review",
+      "supersedes_revision": "v3_fix_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/D01-userfix-v1.png",
+      "sha256": "0f7e65a4e1a2b9c4470ee7e09a9655e9cd676a1b170398bf23b30f21a22aafa4",
+      "actual_dimensions": [
+        900,
+        1748
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "method": "实际view_image定向核v3上面板原白孔粘连及相邻红钮、手部、脸部和双段连带影响；A006/A007与M001/89实看依据沿用v1候选记录。",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "实际对照A006上黑衣人物、圆角越框持品及A007下白衣风发独立横段；上标题放右侧，保留既定双段结构。"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "上人物/前景商品占大段，下完整低密度人物持品仍独立；上商品较A006大头更小，仍清楚为前景主商品，沿已定版式适配。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "冷蓝浅渐变、斜几何与柔亮银边保持，黑白衣区分两段。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "上三档/银色/下键中文层级清楚；下有意无字按copy-v2，非漏掉A007原右文。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "上主信息与下无字停顿完整分区，未添过滤/参数/证件信息。"
+        }
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "干态商品两钮、孔面及银色裸螺纹可读，手握及主体比例自然；未测精确孔数/规格。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "原三处文案及下段intentional_blank保持，无新增文字。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "沿用v1冷蓝时尚越框与低密度横幅任务证据。"
+      },
+      "merged_tasks_coverage": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "tasks": [
+          {
+            "id": "D02",
+            "reference_ids": [
+              "A007"
+            ],
+            "retained": "下段独立白衣风发、左人物持品、冷蓝圆角几何，无字低密度停顿完整保留。",
+            "adaptation": "下段省略原右短文为已授权intentional_blank，非漏项。"
+          }
+        ]
+      },
+      "limitations": [
+        "定向复核修补与连带影响，未逐孔测量或重审整套；旧候选失败证据保留。",
+        "人物为原创合成形象，非真实试用或功能证据。"
+      ],
+      "user_acceptance": "PENDING",
+      "viewed_reference_originals": [
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_01.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_02.jpg"
+      ],
+      "fresh_full_frame_review": {
+        "method": "actual_full_native_face_neck_and_product_macro_in_memory_enlargement",
+        "skin_status": "PASS_WITH_LIMITATIONS",
+        "skin_reason": "随机细毛孔/水滴保留，无明显重复鳞格。",
+        "identity_appearance": "M001_consistent_no_obvious_drift",
+        "hand": "no_obvious_defect",
+        "flow_connection": "DRY",
+        "water_source": "DRY",
+        "product_macro": "PASS_WITH_LIMITATIONS"
+      }
+    },
+    {
+      "id": "D04",
+      "revision": "userfix_v1_fresh_review",
+      "supersedes_revision": "v2_final_receipt",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/D04-userfix-v1.png",
+      "sha256": "f4d5844b36e452647297383002f53761e2b80f4767863fdce9a111a3580fe295",
+      "actual_dimensions": [
+        942,
+        1669
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "method": "实际shasum核final同已审v2完整SHA，仅文件回执，不重审画面。",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "实际看A009上左前景头、右侧淋浴人物与窗景，下A010独立窄细节带；原软管支架用手握商品细节替代。"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "前景头与脸并列易读，下窄带保持微距；头部较A009原巨幅比例更收敛，保留本批既定手持尺度。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "冷蓝浴室、右亮窗、湿润银色与肤色反光保留。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "左上两行黑大字日常淋浴/手持呈现清楚，下细节带无字。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "一主场景加一独立无字近景，删过滤/增压/刺激等无依据性能文案及不售配件。"
+        }
+      },
+      "product_fidelity": {
+        "status": "NEEDS_FIX",
+        "reason": "仅底独立窄带白孔出现明确短白柱/套筒侧壁，需压低为93低平环；主商品与人物皮肤可用，柄端出画，水源在面板。"
+      },
+      "water_form": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "可见水线与面板白孔相接，红钮未见明确独立发水端点；接口出画不证明实际连接或性能。"
+      },
+      "model_and_hand": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "人物侧脸、手势与衣着保持，未见修补引入明显连带异常，沿用M001初审证据。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "日常淋浴 手持呈现保持准确，下带无字。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "窗光人物主景及下水滴手部短带保持。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "只定向核修补及连带，不数孔、不以水线复杂高光测定结构或性能。"
+      ],
+      "user_acceptance": "PENDING",
+      "viewed_reference_originals": [
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_04.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_05.jpg"
+      ],
+      "fresh_full_frame_review": {
+        "method": "actual_full_native_face_neck_and_product_macro_in_memory_enlargement",
+        "skin_status": "PASS_WITH_LIMITATIONS",
+        "skin_reason": "随机细毛孔/水滴保留，无明显重复鳞格。",
+        "identity_appearance": "M001_consistent_no_obvious_drift",
+        "hand": "no_obvious_defect",
+        "flow_connection": "HANDLE_OUT_OF_FRAME",
+        "water_source": "FACE_HOLES_NOT_RED_BUTTON",
+        "product_macro": "NEEDS_FIX_bottom_short_white_columns"
+      }
+    },
+    {
+      "id": "D01",
+      "revision": "userfix_v1_fresh_final_receipt",
+      "supersedes_revision": "userfix_v1_fresh_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/final/D01.png",
+      "sha256": "0f7e65a4e1a2b9c4470ee7e09a9655e9cd676a1b170398bf23b30f21a22aafa4",
+      "actual_dimensions": [
+        900,
+        1748
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": false,
+      "method": "实际view_image定向核v3上面板原白孔粘连及相邻红钮、手部、脸部和双段连带影响；A006/A007与M001/89实看依据沿用v1候选记录。",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "实际对照A006上黑衣人物、圆角越框持品及A007下白衣风发独立横段；上标题放右侧，保留既定双段结构。"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "上人物/前景商品占大段，下完整低密度人物持品仍独立；上商品较A006大头更小，仍清楚为前景主商品，沿已定版式适配。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "冷蓝浅渐变、斜几何与柔亮银边保持，黑白衣区分两段。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "上三档/银色/下键中文层级清楚；下有意无字按copy-v2，非漏掉A007原右文。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "上主信息与下无字停顿完整分区，未添过滤/参数/证件信息。"
+        }
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "干态商品两钮、孔面及银色裸螺纹可读，手握及主体比例自然；未测精确孔数/规格。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "原三处文案及下段intentional_blank保持，无新增文字。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "沿用v1冷蓝时尚越框与低密度横幅任务证据。"
+      },
+      "merged_tasks_coverage": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "tasks": [
+          {
+            "id": "D02",
+            "reference_ids": [
+              "A007"
+            ],
+            "retained": "下段独立白衣风发、左人物持品、冷蓝圆角几何，无字低密度停顿完整保留。",
+            "adaptation": "下段省略原右短文为已授权intentional_blank，非漏项。"
+          }
+        ]
+      },
+      "limitations": [
+        "定向复核修补与连带影响，未逐孔测量或重审整套；旧候选失败证据保留。",
+        "人物为原创合成形象，非真实试用或功能证据。"
+      ],
+      "user_acceptance": "PENDING",
+      "viewed_reference_originals": [
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_01.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_02.jpg"
+      ],
+      "fresh_full_frame_review": {
+        "method": "actual_full_native_face_neck_and_product_macro_in_memory_enlargement",
+        "skin_status": "PASS_WITH_LIMITATIONS",
+        "skin_reason": "随机细毛孔/水滴保留，无明显重复鳞格。",
+        "identity_appearance": "M001_consistent_no_obvious_drift",
+        "hand": "no_obvious_defect",
+        "flow_connection": "DRY",
+        "water_source": "DRY",
+        "product_macro": "PASS_WITH_LIMITATIONS"
+      },
+      "source_candidate_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/D01-userfix-v1.png",
+      "finalization_receipt": {
+        "sha_equal": true,
+        "actual_final_sha256": "0f7e65a4e1a2b9c4470ee7e09a9655e9cd676a1b170398bf23b30f21a22aafa4",
+        "visual_reinspection": false
+      }
+    },
+    {
+      "id": "M06",
+      "revision": "userfix_v4_fresh_review",
+      "supersedes_revision": "userfix_v3_fresh_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/M06-userfix-v4.png",
+      "sha256": "6cb407f8c6a59cd6c2f8a54eed09a36e700631bc153b0084201c53c3f63a38b9",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "method": "实际4页总览32图覆盖后，仅原生露端定向核，继承已过五轴/文案/人物等；用户2026-10-23新确认银裸螺纹银色。",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS",
+          "reason": "当前新全图实际核：左暖木持品人物淋浴、右白底单品，R008两区关系保持。"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "左大半身场景右完整银色单品；方头改本商品圆头，右竖放为SKU适配。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "左暖木/湿肤暖光，右白底银色中性反光分离。"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "右两行黑大字银色/单花洒，较原上下分布作集中标签适配，无增压字。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "一场景一单品，未添证件/参数/售卖配件。"
+        }
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "流水柄端自然出左框；右银牙纹正确，黑面白孔/红钮下键清楚，全面常规束从面板孔起。"
+      },
+      "person_and_water": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "M001、手部、不透明衣着和正面细水束未见明显连带改变，水源在画外仍属未核。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "银色/单花洒保持，无新增功能或附件。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "沿用v1情境与白栏SKU对应任务证据。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "只复核修补及连带，不测真实尺寸孔数或流量。",
+        "合成人物情境非真人试用；用户审阅PENDING。"
+      ],
+      "user_acceptance": "PENDING",
+      "status": "PASS_WITH_LIMITATIONS",
+      "reference_ids": [
+        "R008"
+      ],
+      "viewed_reference_originals": [
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/01_微信参考原图/R008_SKU_场景与单品.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/models/M001/master-v1.png"
+      ],
+      "fresh_full_frame_review": {
+        "method": "actual_native_full_frame_face_neck_in_memory_enlargement",
+        "skin_status": "PASS_WITH_LIMITATIONS",
+        "identity_appearance": "M001_consistent",
+        "skin_reason": "肤色连续，无明显重复鳞格；随机毛孔/水滴可接受。",
+        "hand": "no_obvious_defect",
+        "water": "full_effective_face_no_dry_half",
+        "right_silver_thread": "PASS",
+        "left_water_scene_connector": "naturally_out_left_frame",
+        "next_fix_scope": "NONE"
+      }
+    },
+    {
+      "id": "M04",
+      "revision": "userfix_v6_water_review",
+      "supersedes_revision": "userfix_v5_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/M04-userfix-v6.png",
+      "sha256": "79f03d08f8abac376519aa85eae6208a39bcc1d760adb0c158e159a500bb0288",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "method": "实际view_image定向核灰环修补区及相邻孔、红钮、手部与三窗连带影响，沿用v1实际R002/A036及99/96/95五轴/水型证据。",
+      "reference_fidelity": {
+        "inherited_from": "M04/v1_candidate",
+        "composition": {
+          "status": "PASS",
+          "reason": "右大手持/左三窗关系保持。"
+        },
+        "subject_scale": {
+          "status": "PASS",
+          "reason": "大面板与小窗主从未变。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "深棕金布面/银亮边保持。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "左上大白字与窗内标签保持。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "三小水型窗加大动作主体，密度关系保持。"
+        }
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "六根旧大闭合球罩显著消除；剩余微亮边无明确大套筒/新增硬件。六指定孔口独立，混合近孔细束+六雾根，常规全面与右大图干态保持。"
+      },
+      "water_form": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "三水型窗与v1有效核对保持，常规细束/喷雾锥束/混合束雾；仅视觉对应非实测或用户逐张标定。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "标题和三窗标签保持，无新增功能文字。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "沿用v1暖棕操作主图＋三小窗任务证据。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "定向修补复核，未知孔数尺寸及功能效果不测。"
+      ],
+      "user_acceptance": "PENDING",
+      "status": "PASS_WITH_LIMITATIONS",
+      "reference_evidence_inheritance": {
+        "source_revision": "v2_fix_review",
+        "source_sha256": "ef1337db50fcab9727dd9588961fbc2301ff7de44c6be53469e5f28f835259f2",
+        "method": "继承原五轴原图对照证据；当前整图实际确认棕金右大主体/左三窗、比例、硬暖光、字级和信息密度保持。水型依本批新事实另核。",
+        "axes_reverified_for_layout_continuity": [
+          "composition",
+          "subject_scale",
+          "color_light",
+          "type_layout",
+          "information_density"
+        ],
+        "current_adaptation": "喷雾/混合小窗改近正面以读清六根，原右大品/左三窗棕金布局及层次保持。"
+      },
+      "water_revision_check": {
+        "regular_full_effective_face": "PASS_WITH_LIMITATIONS",
+        "mist_six_specified_origins": "PASS_WITH_LIMITATIONS",
+        "mixed_regular_plus_six_mist_at_origins": "PASS_WITH_LIMITATIONS",
+        "hero_dry": "PASS",
+        "new_enlarged_hardware": "NO_CLEAR_ENLARGED_HARDWARE"
+      },
+      "actual_detail_method": "actual_full_native_plus_six_roots_in_memory_enlargement"
+    },
+    {
+      "id": "M04",
+      "revision": "userfix_v6_water_final_receipt",
+      "supersedes_revision": "userfix_v6_water_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/final/M04.png",
+      "sha256": "79f03d08f8abac376519aa85eae6208a39bcc1d760adb0c158e159a500bb0288",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": false,
+      "method": "实际view_image定向核灰环修补区及相邻孔、红钮、手部与三窗连带影响，沿用v1实际R002/A036及99/96/95五轴/水型证据。",
+      "reference_fidelity": {
+        "inherited_from": "M04/v1_candidate",
+        "composition": {
+          "status": "PASS",
+          "reason": "右大手持/左三窗关系保持。"
+        },
+        "subject_scale": {
+          "status": "PASS",
+          "reason": "大面板与小窗主从未变。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "深棕金布面/银亮边保持。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "左上大白字与窗内标签保持。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "三小水型窗加大动作主体，密度关系保持。"
+        }
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "六根旧大闭合球罩显著消除；剩余微亮边无明确大套筒/新增硬件。六指定孔口独立，混合近孔细束+六雾根，常规全面与右大图干态保持。"
+      },
+      "water_form": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "三水型窗与v1有效核对保持，常规细束/喷雾锥束/混合束雾；仅视觉对应非实测或用户逐张标定。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "标题和三窗标签保持，无新增功能文字。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "沿用v1暖棕操作主图＋三小窗任务证据。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "定向修补复核，未知孔数尺寸及功能效果不测。"
+      ],
+      "user_acceptance": "PENDING",
+      "status": "PASS_WITH_LIMITATIONS",
+      "reference_evidence_inheritance": {
+        "source_revision": "v2_fix_review",
+        "source_sha256": "ef1337db50fcab9727dd9588961fbc2301ff7de44c6be53469e5f28f835259f2",
+        "method": "继承原五轴原图对照证据；当前整图实际确认棕金右大主体/左三窗、比例、硬暖光、字级和信息密度保持。水型依本批新事实另核。",
+        "axes_reverified_for_layout_continuity": [
+          "composition",
+          "subject_scale",
+          "color_light",
+          "type_layout",
+          "information_density"
+        ],
+        "current_adaptation": "喷雾/混合小窗改近正面以读清六根，原右大品/左三窗棕金布局及层次保持。"
+      },
+      "water_revision_check": {
+        "regular_full_effective_face": "PASS_WITH_LIMITATIONS",
+        "mist_six_specified_origins": "PASS_WITH_LIMITATIONS",
+        "mixed_regular_plus_six_mist_at_origins": "PASS_WITH_LIMITATIONS",
+        "hero_dry": "PASS",
+        "new_enlarged_hardware": "NO_CLEAR_ENLARGED_HARDWARE"
+      },
+      "actual_detail_method": "actual_full_native_plus_six_roots_in_memory_enlargement",
+      "source_candidate_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/M04-userfix-v6.png",
+      "finalization_receipt": {
+        "sha_equal": true,
+        "actual_final_sha256": "79f03d08f8abac376519aa85eae6208a39bcc1d760adb0c158e159a500bb0288",
+        "visual_reinspection": false
+      }
+    },
+    {
+      "id": "M06",
+      "revision": "userfix_v4_fresh_final_receipt",
+      "supersedes_revision": "userfix_v4_fresh_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/final/M06.png",
+      "sha256": "6cb407f8c6a59cd6c2f8a54eed09a36e700631bc153b0084201c53c3f63a38b9",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": false,
+      "method": "实际4页总览32图覆盖后，仅原生露端定向核，继承已过五轴/文案/人物等；用户2026-10-23新确认银裸螺纹银色。",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS",
+          "reason": "当前新全图实际核：左暖木持品人物淋浴、右白底单品，R008两区关系保持。"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "左大半身场景右完整银色单品；方头改本商品圆头，右竖放为SKU适配。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "左暖木/湿肤暖光，右白底银色中性反光分离。"
+        },
+        "type_layout": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "右两行黑大字银色/单花洒，较原上下分布作集中标签适配，无增压字。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "一场景一单品，未添证件/参数/售卖配件。"
+        }
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "流水柄端自然出左框；右银牙纹正确，黑面白孔/红钮下键清楚，全面常规束从面板孔起。"
+      },
+      "person_and_water": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "M001、手部、不透明衣着和正面细水束未见明显连带改变，水源在画外仍属未核。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "银色/单花洒保持，无新增功能或附件。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "沿用v1情境与白栏SKU对应任务证据。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "只复核修补及连带，不测真实尺寸孔数或流量。",
+        "合成人物情境非真人试用；用户审阅PENDING。"
+      ],
+      "user_acceptance": "PENDING",
+      "status": "PASS_WITH_LIMITATIONS",
+      "reference_ids": [
+        "R008"
+      ],
+      "viewed_reference_originals": [
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/01_微信参考原图/R008_SKU_场景与单品.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/models/M001/master-v1.png"
+      ],
+      "fresh_full_frame_review": {
+        "method": "actual_native_full_frame_face_neck_in_memory_enlargement",
+        "skin_status": "PASS_WITH_LIMITATIONS",
+        "identity_appearance": "M001_consistent",
+        "skin_reason": "肤色连续，无明显重复鳞格；随机毛孔/水滴可接受。",
+        "hand": "no_obvious_defect",
+        "water": "full_effective_face_no_dry_half",
+        "right_silver_thread": "PASS",
+        "left_water_scene_connector": "naturally_out_left_frame",
+        "next_fix_scope": "NONE"
+      },
+      "source_candidate_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/M06-userfix-v4.png",
+      "finalization_receipt": {
+        "sha_equal": true,
+        "actual_final_sha256": "6cb407f8c6a59cd6c2f8a54eed09a36e700631bc153b0084201c53c3f63a38b9",
+        "visual_reinspection": false
+      }
+    },
+    {
+      "id": "D04",
+      "revision": "userfix_v2_water_review",
+      "supersedes_revision": "userfix_v1_fresh_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/D04-userfix-v2.png",
+      "sha256": "17c68b8255d73423b35cbdaddc07c60371316a8580f9a312f8b7759e42487c10",
+      "actual_dimensions": [
+        942,
+        1670
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "method": "实际shasum核final同已审v2完整SHA，仅文件回执，不重审画面。",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "实际看A009上左前景头、右侧淋浴人物与窗景，下A010独立窄细节带；原软管支架用手握商品细节替代。"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "前景头与脸并列易读，下窄带保持微距；头部较A009原巨幅比例更收敛，保留本批既定手持尺度。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "冷蓝浴室、右亮窗、湿润银色与肤色反光保留。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "左上两行黑大字日常淋浴/手持呈现清楚，下细节带无字。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "一主场景加一独立无字近景，删过滤/增压/刺激等无依据性能文案及不售配件。"
+        }
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "底白柱已压低，微距低环有自然侧缘高光但无明确长套筒；上人物皮肤/身份/主水与中文沿已过v1证据，当前无明显连带。"
+      },
+      "water_form": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "可见水线与面板白孔相接，红钮未见明确独立发水端点；接口出画不证明实际连接或性能。"
+      },
+      "model_and_hand": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "人物侧脸、手势与衣着保持，未见修补引入明显连带异常，沿用M001初审证据。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "日常淋浴 手持呈现保持准确，下带无字。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "窗光人物主景及下水滴手部短带保持。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "只定向核修补及连带，不数孔、不以水线复杂高光测定结构或性能。"
+      ],
+      "user_acceptance": "PENDING",
+      "viewed_reference_originals": [
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_04.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_05.jpg"
+      ],
+      "fresh_full_frame_review": {
+        "method": "actual_full_native_face_neck_and_product_macro_in_memory_enlargement",
+        "skin_status": "PASS_WITH_LIMITATIONS",
+        "skin_reason": "随机细毛孔/水滴保留，无明显重复鳞格。",
+        "identity_appearance": "M001_consistent_no_obvious_drift",
+        "hand": "no_obvious_defect",
+        "flow_connection": "HANDLE_OUT_OF_FRAME",
+        "water_source": "FACE_HOLES_NOT_RED_BUTTON",
+        "product_macro": "PASS_WITH_LIMITATIONS"
+      },
+      "status": "PASS_WITH_LIMITATIONS",
+      "local_change_review": {
+        "scope": "bottom_detail_white_ring_flattening",
+        "method": "actual_full_frame_and_bottom_macro_enlargement"
+      }
+    },
+    {
+      "id": "D05",
+      "revision": "userfix_v1_water_review",
+      "supersedes_revision": "v2_final_receipt",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/D05-userfix-v1.png",
+      "sha256": "d3b35aac2edc0ac4527fad792c11338cecaf3964191f5d5683913c6970421920",
+      "actual_dimensions": [
+        1030,
+        1527
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "method": "实际shasum核final同已审v2完整SHA，仅文件回执不重审画面。",
+      "reference_fidelity": {
+        "inherited_from": "D05/v1_candidate",
+        "composition": {
+          "status": "PASS",
+          "reason": "不等大五格保持。"
+        },
+        "subject_scale": {
+          "status": "PASS",
+          "reason": "左大水型与四近景尺度层次保持。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "白底冷蓝卡与银亮边保持。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "大标题及五名称保持。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "五格索引密度保持。"
+        }
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "有效面常规束充分，无大片干孔；局部水根被前景束遮挡不当成半片干孔。红钮非水源，接口出画；白环未见明确长套筒。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "文字保持v1已核copy-v2。"
+      },
+      "water_form": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "未改左水型，沿用v1无明确红钮发水端点证据，不重审。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "五格索引任务保持。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "本次仅核局部改动及连带，未数孔测环高或证实材质。"
+      ],
+      "user_acceptance": "PENDING",
+      "status": "PASS_WITH_LIMITATIONS",
+      "water_revision_check": {
+        "regular_full_effective_face": "PASS_WITH_LIMITATIONS",
+        "red_button_as_source": "NO",
+        "flowing_disconnected_connector": "NO_VISIBLE_END"
+      },
+      "reference_evidence_inheritance": {
+        "source_revision": "v2_final_receipt",
+        "source_sha256": "a09498beb4cf2deb3dd08a95f8486e59692880677653945fbd6b659221522192",
+        "method": "原五轴原图证据继承；本次实际全图核布局/比例/色光/字级/密度连续性。",
+        "current_observation": "D05五格不等大冷蓝白版/标题及侧背卡保持；D06白顶巨字、蓝水近景主段和下独立窄幅保持。"
+      }
+    },
+    {
+      "id": "D06",
+      "revision": "userfix_v1_water_review",
+      "supersedes_revision": "v2_final_receipt",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/D06-userfix-v1.png",
+      "sha256": "eb3d3fe3bca3a87ba43b605daa7f6ae1b3f52ef8bf94979b10092ab0d648c06d",
+      "actual_dimensions": [
+        1064,
+        1479
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": true,
+      "method": "实际核final同完整SHA，仅文件回执，不重审画面。",
+      "reference_fidelity": {
+        "inherited_from": "D06/v1_candidate",
+        "composition": {
+          "status": "PASS",
+          "reason": "白顶巨字、主微距与下独立低角度短幅保持。"
+        },
+        "subject_scale": {
+          "status": "PASS",
+          "reason": "主大面板与下侧壁观看距离保持。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "蓝水、银亮边及白顶保持。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "标题及三蓝模式索引保持。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "章节索引/主景/无字短幅密度层次保持。"
+        }
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "有效面常规束充分，无大片干孔；局部水根被前景束遮挡不当成半片干孔。红钮非水源，接口出画；白环未见明确长套筒。"
+      },
+      "water_form": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "主红钮孔口接触水线已移除，钮与暗孔清楚，邻近水线可见与白孔相接；下幅复杂叠线不测证性能。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "文字及三模式仅章节索引保持，无性能对比。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "出水起点微距与下侧壁短幅任务保持。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅定向核改动及连带，不数孔测环高/水压。"
+      ],
+      "user_acceptance": "PENDING",
+      "status": "PASS_WITH_LIMITATIONS",
+      "water_revision_check": {
+        "regular_full_effective_face": "PASS_WITH_LIMITATIONS",
+        "red_button_as_source": "NO",
+        "flowing_disconnected_connector": "NO_VISIBLE_END"
+      },
+      "reference_evidence_inheritance": {
+        "source_revision": "v2_final_receipt",
+        "source_sha256": "503c2382f2572428d25221f12af5282eb12811d4bb81a3a9c2a3282fabe5f1b8",
+        "method": "原五轴原图证据继承；本次实际全图核布局/比例/色光/字级/密度连续性。",
+        "current_observation": "D05五格不等大冷蓝白版/标题及侧背卡保持；D06白顶巨字、蓝水近景主段和下独立窄幅保持。"
+      }
+    },
+    {
+      "id": "V02",
+      "revision": "userfix_v1_fresh_review",
+      "supersedes_revision": "v2_final_receipt",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/V02-userfix-v1.png",
+      "sha256": "369f4f30df998b9abf052cbe588a19e6f5f92c37402078278c910b3df8df8cab",
+      "actual_dimensions": [
+        1034,
+        1521
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "method": "实际核final同完整SHA，仅文件回执，不重审画面。",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS",
+          "reason": "实际看R022，新图仍左巨字/商品、右同人托腮与桌面；手持关系保留。"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "大头商品与半身人物并列，换为本款圆头，保持参考大主体现读。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "奶油浅底/柔肤光/银边反光，深棕主字与黑副字清楚。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "左下方/切档巨字、右按键靠近手柄小字，删四功能等无依据字。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "一持品托腮场景+两级文案，无配件/参数/证件。"
+        }
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "两钮/白孔与银壳可读，V02干态银裸纹正确；V01常规覆盖有效面，柄端自然出框，红钮非水源。"
+      },
+      "model_and_hand": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "人物/托腮与握柄手无明显连带变化。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "两短文保持准确。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "干态奶油时尚任务保持。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "只定向核修补连带，不数孔测尺寸。"
+      ],
+      "user_acceptance": "PENDING",
+      "status": "NEEDS_FIX",
+      "fresh_full_frame_review": {
+        "method": "actual_full_native_face_neck_in_memory_enlargement_and_original_reference_comparison",
+        "skin_status": "NEEDS_FIX",
+        "identity_appearance": "M001_consistent_no_obvious_drift",
+        "skin_reason": "额/颊仍有连续闭合重复网纹，非仅随机毛孔。",
+        "failure_bbox": [
+          640,
+          445,
+          820,
+          535
+        ],
+        "hand": "no_obvious_defect",
+        "next_method": "fresh_from_M001_product_original_layout_no_failed_portrait_input"
+      },
+      "viewed_reference_originals": [
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/01_微信参考原图/R022_场景_人物与按钮切换.jpg"
+      ]
+    },
+    {
+      "id": "V01",
+      "revision": "userfix_v1_fresh_review",
+      "supersedes_revision": "v2_final_receipt",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/V01-userfix-v1.png",
+      "sha256": "ffa49bb7d96a7c0019e6e69cbaf4a7e8437dfa55bae096bbca61906fff77ee49",
+      "actual_dimensions": [
+        994,
+        1582
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "method": "实际核final同完整SHA，仅文件回执，不重审画面。",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "实际看R013/R014/R030：上左花洒右人物斜水，中三独立细节，下棕金短桥，参考场景—信息—章节顺序保留。"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "上人物与水束为大主景、三窗中带、短桥约24.5%而非计划28%，仍独立完整章节。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "暖木/肤色/银反光，上暖场景与浅米细节带、下深棕金光弧有层次。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "上白大字日常淋浴/手持呈现，下更大三档出水及双胶囊完整，字级清楚。"
+        },
+        "information_density": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "三窗替参考证件/不售附件，短桥仅真实切档与手动除垢，删原专利/增压/材质参数。V07密度和独立阅读完整。"
+        }
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "两钮/白孔与银壳可读，V02干态银裸纹正确；V01常规覆盖有效面，柄端自然出框，红钮非水源。"
+      },
+      "model_and_hand": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "人物脸/手与姿态保持，无明显局部改动异常。"
+      },
+      "water_form": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "原水线及起点未见明显连带改变，沿用v1证据。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "场景/窗标签及桥标题双胶囊保持copy-v2。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "暖木场景/细节窗/章节桥各任务保持。"
+      },
+      "merged_tasks_coverage": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "tasks": [
+          "V07"
+        ],
+        "reason": "实际对照R014/R030，独立棕金桥约24.5%仍完整大白标题/双胶囊/金光弧留白，非标签页脚；从28%压缩适配不删任务。"
+      },
+      "limitations": [
+        "仅定向核连带，不测性能/真实试用。"
+      ],
+      "user_acceptance": "PENDING",
+      "status": "NEEDS_FIX",
+      "fresh_full_frame_review": {
+        "method": "actual_full_native_face_neck_in_memory_enlargement_and_original_reference_comparison",
+        "skin_status": "NEEDS_FIX",
+        "identity_appearance": "M001_consistent_no_obvious_drift",
+        "skin_reason": "额/颊仍有连续闭合重复网纹，非仅随机毛孔。",
+        "failure_bbox": [
+          675,
+          145,
+          790,
+          210
+        ],
+        "hand": "no_obvious_defect",
+        "next_method": "fresh_from_M001_product_original_layout_no_failed_portrait_input"
+      },
+      "viewed_reference_originals": [
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/01_微信参考原图/R013_长图_低水压场景首屏.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/01_微信参考原图/R014_长图_新品与功能标题.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/01_微信参考原图/R030_长图_软管长度标题.jpg"
+      ]
+    },
+    {
+      "id": "D04",
+      "revision": "userfix_v2_water_final_receipt",
+      "supersedes_revision": "userfix_v2_water_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/final/D04.png",
+      "sha256": "17c68b8255d73423b35cbdaddc07c60371316a8580f9a312f8b7759e42487c10",
+      "actual_dimensions": [
+        942,
+        1670
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": false,
+      "method": "实际shasum核final同已审v2完整SHA，仅文件回执，不重审画面。",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "实际看A009上左前景头、右侧淋浴人物与窗景，下A010独立窄细节带；原软管支架用手握商品细节替代。"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "前景头与脸并列易读，下窄带保持微距；头部较A009原巨幅比例更收敛，保留本批既定手持尺度。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "冷蓝浴室、右亮窗、湿润银色与肤色反光保留。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "左上两行黑大字日常淋浴/手持呈现清楚，下细节带无字。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "一主场景加一独立无字近景，删过滤/增压/刺激等无依据性能文案及不售配件。"
+        }
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "底白柱已压低，微距低环有自然侧缘高光但无明确长套筒；上人物皮肤/身份/主水与中文沿已过v1证据，当前无明显连带。"
+      },
+      "water_form": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "可见水线与面板白孔相接，红钮未见明确独立发水端点；接口出画不证明实际连接或性能。"
+      },
+      "model_and_hand": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "人物侧脸、手势与衣着保持，未见修补引入明显连带异常，沿用M001初审证据。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "日常淋浴 手持呈现保持准确，下带无字。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "窗光人物主景及下水滴手部短带保持。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "只定向核修补及连带，不数孔、不以水线复杂高光测定结构或性能。"
+      ],
+      "user_acceptance": "PENDING",
+      "viewed_reference_originals": [
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_04.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_05.jpg"
+      ],
+      "fresh_full_frame_review": {
+        "method": "actual_full_native_face_neck_and_product_macro_in_memory_enlargement",
+        "skin_status": "PASS_WITH_LIMITATIONS",
+        "skin_reason": "随机细毛孔/水滴保留，无明显重复鳞格。",
+        "identity_appearance": "M001_consistent_no_obvious_drift",
+        "hand": "no_obvious_defect",
+        "flow_connection": "HANDLE_OUT_OF_FRAME",
+        "water_source": "FACE_HOLES_NOT_RED_BUTTON",
+        "product_macro": "PASS_WITH_LIMITATIONS"
+      },
+      "status": "PASS_WITH_LIMITATIONS",
+      "local_change_review": {
+        "scope": "bottom_detail_white_ring_flattening",
+        "method": "actual_full_frame_and_bottom_macro_enlargement"
+      },
+      "source_candidate_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/D04-userfix-v2.png",
+      "finalization_receipt": {
+        "sha_equal": true,
+        "actual_final_sha256": "17c68b8255d73423b35cbdaddc07c60371316a8580f9a312f8b7759e42487c10",
+        "visual_reinspection": false
+      }
+    },
+    {
+      "id": "D05",
+      "revision": "userfix_v1_water_final_receipt",
+      "supersedes_revision": "userfix_v1_water_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/final/D05.png",
+      "sha256": "d3b35aac2edc0ac4527fad792c11338cecaf3964191f5d5683913c6970421920",
+      "actual_dimensions": [
+        1030,
+        1527
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": false,
+      "method": "实际shasum核final同已审v2完整SHA，仅文件回执不重审画面。",
+      "reference_fidelity": {
+        "inherited_from": "D05/v1_candidate",
+        "composition": {
+          "status": "PASS",
+          "reason": "不等大五格保持。"
+        },
+        "subject_scale": {
+          "status": "PASS",
+          "reason": "左大水型与四近景尺度层次保持。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "白底冷蓝卡与银亮边保持。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "大标题及五名称保持。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "五格索引密度保持。"
+        }
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "有效面常规束充分，无大片干孔；局部水根被前景束遮挡不当成半片干孔。红钮非水源，接口出画；白环未见明确长套筒。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "文字保持v1已核copy-v2。"
+      },
+      "water_form": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "未改左水型，沿用v1无明确红钮发水端点证据，不重审。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "五格索引任务保持。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "本次仅核局部改动及连带，未数孔测环高或证实材质。"
+      ],
+      "user_acceptance": "PENDING",
+      "status": "PASS_WITH_LIMITATIONS",
+      "water_revision_check": {
+        "regular_full_effective_face": "PASS_WITH_LIMITATIONS",
+        "red_button_as_source": "NO",
+        "flowing_disconnected_connector": "NO_VISIBLE_END"
+      },
+      "reference_evidence_inheritance": {
+        "source_revision": "v2_final_receipt",
+        "source_sha256": "a09498beb4cf2deb3dd08a95f8486e59692880677653945fbd6b659221522192",
+        "method": "原五轴原图证据继承；本次实际全图核布局/比例/色光/字级/密度连续性。",
+        "current_observation": "D05五格不等大冷蓝白版/标题及侧背卡保持；D06白顶巨字、蓝水近景主段和下独立窄幅保持。"
+      },
+      "source_candidate_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/D05-userfix-v1.png",
+      "finalization_receipt": {
+        "sha_equal": true,
+        "actual_final_sha256": "d3b35aac2edc0ac4527fad792c11338cecaf3964191f5d5683913c6970421920",
+        "visual_reinspection": false
+      }
+    },
+    {
+      "id": "D06",
+      "revision": "userfix_v1_water_final_receipt",
+      "supersedes_revision": "userfix_v1_water_review",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/final/D06.png",
+      "sha256": "eb3d3fe3bca3a87ba43b605daa7f6ae1b3f52ef8bf94979b10092ab0d648c06d",
+      "actual_dimensions": [
+        1064,
+        1479
+      ],
+      "overall_status": "PASS_WITH_LIMITATIONS",
+      "candidate_only": false,
+      "method": "实际核final同完整SHA，仅文件回执，不重审画面。",
+      "reference_fidelity": {
+        "inherited_from": "D06/v1_candidate",
+        "composition": {
+          "status": "PASS",
+          "reason": "白顶巨字、主微距与下独立低角度短幅保持。"
+        },
+        "subject_scale": {
+          "status": "PASS",
+          "reason": "主大面板与下侧壁观看距离保持。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "蓝水、银亮边及白顶保持。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "标题及三蓝模式索引保持。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "章节索引/主景/无字短幅密度层次保持。"
+        }
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "有效面常规束充分，无大片干孔；局部水根被前景束遮挡不当成半片干孔。红钮非水源，接口出画；白环未见明确长套筒。"
+      },
+      "water_form": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "主红钮孔口接触水线已移除，钮与暗孔清楚，邻近水线可见与白孔相接；下幅复杂叠线不测证性能。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "文字及三模式仅章节索引保持，无性能对比。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "出水起点微距与下侧壁短幅任务保持。"
+      },
+      "merged_tasks_coverage": {
+        "status": "NOT_APPLICABLE",
+        "tasks": []
+      },
+      "limitations": [
+        "仅定向核改动及连带，不数孔测环高/水压。"
+      ],
+      "user_acceptance": "PENDING",
+      "status": "PASS_WITH_LIMITATIONS",
+      "water_revision_check": {
+        "regular_full_effective_face": "PASS_WITH_LIMITATIONS",
+        "red_button_as_source": "NO",
+        "flowing_disconnected_connector": "NO_VISIBLE_END"
+      },
+      "reference_evidence_inheritance": {
+        "source_revision": "v2_final_receipt",
+        "source_sha256": "503c2382f2572428d25221f12af5282eb12811d4bb81a3a9c2a3282fabe5f1b8",
+        "method": "原五轴原图证据继承；本次实际全图核布局/比例/色光/字级/密度连续性。",
+        "current_observation": "D05五格不等大冷蓝白版/标题及侧背卡保持；D06白顶巨字、蓝水近景主段和下独立窄幅保持。"
+      },
+      "source_candidate_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/D06-userfix-v1.png",
+      "finalization_receipt": {
+        "sha_equal": true,
+        "actual_final_sha256": "eb3d3fe3bca3a87ba43b605daa7f6ae1b3f52ef8bf94979b10092ab0d648c06d",
+        "visual_reinspection": false
+      }
+    },
+    {
+      "id": "D11",
+      "revision": "userfix_v4_fresh_review",
+      "supersedes_revision": "v2_final_receipt",
+      "image_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/D11-userfix-v4.png",
+      "sha256": "8280af0d352795b01872d591c70d2c537ac1168f5390b0a56028f1eb2869bf49",
+      "actual_dimensions": [
+        898,
+        1751
+      ],
+      "overall_status": "NEEDS_FIX",
+      "candidate_only": true,
+      "method": "实际核final同完整SHA，仅文件回执，不重审画面。",
+      "reference_fidelity": {
+        "composition": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "实际看A021/A019：独立上下两段浴室人物+手持花洒/水保留，上回眸替A021正视，下举臂承接A019，均无字；属既定姿态/场景适配。"
+        },
+        "subject_scale": {
+          "status": "PASS_WITH_LIMITATIONS",
+          "reason": "898×1751较旧788×1996更宽，人物与花洒仍各段大主体，两独立段近半屏，未缩为小窗或机械拉伸。"
+        },
+        "color_light": {
+          "status": "PASS",
+          "reason": "冷蓝窗景/浅石材、柔亮自然肤色与银边反光延续原参考。"
+        },
+        "type_layout": {
+          "status": "PASS",
+          "reason": "上下两段均有意无字，人物与水承担信息，未引入参考125MM等未知尺寸。"
+        },
+        "information_density": {
+          "status": "PASS",
+          "reason": "两个独立姿态低密度阅读段，删性能/覆盖全身宣传及不售附件；D09完整举臂停顿保留。"
+        }
+      },
+      "product_fidelity": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "低平孔环/红钮下键与壳颈可读，接口自然遮挡；上下水范围扩展，无明确半面干孔，局部根被前景束遮挡合理，不逐孔声称实测。"
+      },
+      "model_and_hand": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "M001两姿态与手指保持，无明显修补连带异常。"
+      },
+      "water_form": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "reason": "面板至头发的水束保持，接口出画，不证明实际连接性能。"
+      },
+      "copy_fidelity": {
+        "status": "PASS",
+        "reason": "两段无字符合copy-v2。"
+      },
+      "information_difference": {
+        "status": "PASS",
+        "reason": "回眸/举臂独立段落保持。"
+      },
+      "merged_tasks_coverage": {
+        "status": "PASS_WITH_LIMITATIONS",
+        "tasks": [
+          "D09"
+        ],
+        "reason": "下段完整独立举臂无字停顿仍近半屏，手持花洒与出画水线清楚；未缩成附属小窗。"
+      },
+      "limitations": [
+        "仅核修补及连带；情境不等于真人试用/尺度测试。"
+      ],
+      "user_acceptance": "PENDING",
+      "status": "NEEDS_FIX",
+      "viewed_reference_originals": [
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_16.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_14.jpg"
+      ],
+      "fresh_full_frame_review": {
+        "method": "actual_native_full_frame_two_face_neck_in_memory_enlargement",
+        "skin_status": "NEEDS_FIX",
+        "identity_appearance": "M001_consistent_no_obvious_drift",
+        "skin_reason": "上下额颊均有闭合重复多边网纹，非随机毛孔。",
+        "failure_regions": [
+          [
+            515,
+            185,
+            600,
+            250
+          ],
+          [
+            550,
+            325,
+            610,
+            410
+          ],
+          [
+            355,
+            1030,
+            455,
+            1090
+          ]
+        ],
+        "hand": "no_obvious_defect",
+        "next_method": "fresh_M001_original_product_original_reference_no_failed_portrait_input"
+      },
+      "water_revision_check": {
+        "readable_effective_face_coverage": "PASS_WITH_LIMITATIONS",
+        "large_dry_half": "NOT_OBSERVED",
+        "red_button_as_source": "NO",
+        "visible_unconnected_flowing_end": "NO"
+      }
+    }
+  ],
+  "scope_audit": {
+    "date": "2026-10-23",
+    "status": "CHANGES_REQUESTED",
+    "actual_viewed_annotations": [
+      "feedback-01",
+      "feedback-02",
+      "feedback-03",
+      "feedback-04",
+      "feedback-05",
+      "feedback-06"
+    ],
+    "actual_viewed_native_ids": [
+      "M03",
+      "D05",
+      "V03",
+      "D12",
+      "D14",
+      "D15",
+      "V06",
+      "M04",
+      "M07",
+      "M08",
+      "D08",
+      "D06",
+      "M06",
+      "D01",
+      "D04",
+      "D11",
+      "V01",
+      "V02"
+    ],
+    "water_required": [
+      "M04",
+      "M07",
+      "M08",
+      "D05",
+      "D06",
+      "D08"
+    ],
+    "fresh_portraits_required": [
+      "M06",
+      "D01",
+      "D04",
+      "D11",
+      "V01",
+      "V02"
+    ],
+    "back_required": [
+      "M03",
+      "D12",
+      "D14",
+      "D15",
+      "V06"
+    ],
+    "back_examined_no_same_issue": [
+      "D05",
+      "V03"
+    ],
+    "mandatory_unique_count": 17,
+    "additional_observation": "M03左后壳约x154/y425可见灰色圆片，纳入修正；V03背壳及D05右下背壳未见同类独立圆片。",
+    "water_evidence": "M07右半面、M08左卡可见大片未出水白孔；M04和D08雾束根部未精准呈现批注六点。其他水图依新事实检查全有效面板覆盖与水根。",
+    "portrait_evidence": "六张人物均可见额/颊网状重复皮纹；D11上下人物均须fresh。",
+    "acceptance_requirements": [
+      "喷雾仅由feedback-02六指定白孔发出，左右上/中/下六点根部明确，不以雾团遮挡冒充六点。",
+      "常规完整有效出水面均匀充分，混合自孔口同时呈常规水束与六点雾束；红钮不出水。",
+      "背面连续干净无圆片/水垢；银色可见裸螺纹仍银色。",
+      "人物fresh仅用M001母版、真实商品及原始参考，不以失败人像续编；实际全图及脸颈细节核查，明显鱼鳞网纹为NEEDS_FIX。",
+      "逐候选保留参考五轴、商品、中文、信息增量与合并覆盖；只有未变同bytes层可继承。"
+    ],
+    "user_acceptance": "PENDING",
+    "candidate_pass_count": 0
+  },
+  "batch_status": "CHANGES_REQUESTED",
+  "latest_status_by_id": {
+    "M04": "PASS_WITH_LIMITATIONS",
+    "M06": "PASS_WITH_LIMITATIONS",
+    "M03": "PASS_WITH_LIMITATIONS",
+    "D12": "PASS_WITH_LIMITATIONS",
+    "D14": "PASS_WITH_LIMITATIONS",
+    "D15": "PASS_WITH_LIMITATIONS",
+    "V06": "PASS_WITH_LIMITATIONS",
+    "D08": "PASS_WITH_LIMITATIONS",
+    "M07": "PASS_WITH_LIMITATIONS",
+    "M08": "PASS_WITH_LIMITATIONS",
+    "D01": "PASS_WITH_LIMITATIONS",
+    "D04": "PASS_WITH_LIMITATIONS",
+    "D05": "PASS_WITH_LIMITATIONS",
+    "D06": "PASS_WITH_LIMITATIONS",
+    "V02": "NEEDS_FIX",
+    "V01": "NEEDS_FIX",
+    "D11": "NEEDS_FIX"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "status": "READY_FOR_USER_REVIEW_NOT_PHOTOREALISM_ACCEPTED",
+  "root_visual_opened": [
+    "圆形花洒_完整三维棚拍验证.jpg",
+    "实拍与灰模对照.jpg",
+    "studio-preview.png",
+    "studio-final-preview.png",
+    "studio-approved-candidate.png"
+  ],
+  "findings": [
+    "Continuous full render avoids cutout fringes",
+    "Opening/ring/backing artifacts corrected during review",
+    "Still visibly CG: panel microtexture weak, silver key very dark, outer holes weak",
+    "Camera not calibrated; dimensions/shape are approximate"
+  ],
+  "zip_crc_bad_member": null,
+  "zip_member_count": 24,
+  "all_members_match_local": true,
+  "zip_bytes": 16432332,
+  "members": [
+    {
+      "member": "圆形花洒_完整三维棚拍验证.jpg",
+      "matches_local": true
+    },
+    {
+      "member": "圆形花洒_三维棚拍.blend",
+      "matches_local": true
+    },
+    {
+      "member": "实拍与灰模对照.jpg",
+      "matches_local": true
+    },
+    {
+      "member": "same-camera-clay.png",
+      "matches_local": true
+    },
+    {
+      "member": "front-clay.png",
+      "matches_local": true
+    },
+    {
+      "member": "studio-exposure-corrected.png",
+      "matches_local": true
+    },
+    {
+      "member": "preview.html",
+      "matches_local": true
+    },
+    {
+      "member": "README.md",
+      "matches_local": true
+    },
+    {
+      "member": "verification.json",
+      "matches_local": true
+    },
+    {
+      "member": "final-reopen.json",
+      "matches_local": true
+    },
+    {
+      "member": "reopen.json",
+      "matches_local": true
+    },
+    {
+      "member": "studio.py",
+      "matches_local": true
+    },
+    {
+      "member": "recess.py",
+      "matches_local": true
+    },
+    {
+      "member": "finish-rings.py",
+      "matches_local": true
+    },
+    {
+      "member": "exposure.py",
+      "matches_local": true
+    },
+    {
+      "member": "review.py",
+      "matches_local": true
+    },
+    {
+      "member": "check_final.py",
+      "matches_local": true
+    },
+    {
+      "member": "compose-review.js",
+      "matches_local": true
+    },
+    {
+      "member": "export.js",
+      "matches_local": true
+    },
+    {
+      "member": "sources/source-v1.blend",
+      "matches_local": true
+    },
+    {
+      "member": "sources/white-hole-layout.json",
+      "matches_local": true
+    },
+    {
+      "member": "sources/parameters.json",
+      "matches_local": true
+    },
+    {
+      "member": "sources/photo339.jpg",
+      "matches_local": true
+    },
+    {
+      "member": "package-manifest.json",
+      "matches_local": true
+    }
+  ]
+}

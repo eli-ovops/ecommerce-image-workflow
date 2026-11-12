@@ -1,0 +1,166 @@
+{
+  "id": "W01",
+  "role": "夕阳沙纹除垢广告",
+  "sku": "银色",
+  "refs_actual_viewed": [
+    {
+      "id": "R024",
+      "path": "references/2026-10-22_首批参考/01_微信参考原图/R024_痛点_水垢三栏.jpg",
+      "sha256": "c8296cb07a2b9eab0a2d6d495bc0142e7507013058f484fb4e9b5911e45494ab"
+    },
+    {
+      "id": "R028",
+      "path": "references/2026-10-22_首批参考/01_微信参考原图/R028_细节_硅胶除垢.jpg",
+      "sha256": "6fa538d24295171f1a157c78f09cf6b1c5ccc7c8e77f4db7c742c55f38c398c6"
+    }
+  ],
+  "actual_inputs": [
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/sand-native.png",
+      "sha256": "4bfebf75048f5c15b894b54e5400d38d41d7240e4b267f708cf527de843c4147"
+    },
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/silver-head-macro.png",
+      "sha256": "84f3b782e50a27bc7f4ee7b41d4e9ae95c1e5aeea0b184463accd0a0f985a3c3"
+    },
+    {
+      "path": "products/主推花洒/银色/原图/微信图片_20261022184355_94_2.jpg",
+      "sha256": "10dcfb2cad17faf397a03e0587da0ad19c76229fe801e090fee527a3fbc1a412"
+    }
+  ],
+  "claims": [
+    "中央红钮手动按压除垢",
+    "辅助清理出水孔"
+  ],
+  "copy": [
+    "中央红钮",
+    "手动按压除垢",
+    "找到中央红钮",
+    "手动按住",
+    "辅助清理出水孔"
+  ],
+  "source_files": [
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/sand-native.png",
+      "sha256": "4bfebf75048f5c15b894b54e5400d38d41d7240e4b267f708cf527de843c4147"
+    },
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/silver-head-macro.png",
+      "sha256": "84f3b782e50a27bc7f4ee7b41d4e9ae95c1e5aeea0b184463accd0a0f985a3c3"
+    },
+    {
+      "path": "products/主推花洒/银色/原图/微信图片_20261022184355_94_2.jpg",
+      "sha256": "10dcfb2cad17faf397a03e0587da0ad19c76229fe801e090fee527a3fbc1a412"
+    }
+  ],
+  "source_layers": [
+    {
+      "resampled_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/6e2b2b4d949b496b.png",
+        "sha256": "2095a410fede42183620a11214a15eb08dce0d0814334bade733d5a7a4a0a737"
+      },
+      "source": {
+        "path": "production/2026-10-24_完整电商套图/generated/sand-native.png",
+        "sha256": "4bfebf75048f5c15b894b54e5400d38d41d7240e4b267f708cf527de843c4147"
+      },
+      "exif_display_size": [
+        1122,
+        1402
+      ],
+      "source_crop": null,
+      "uniform_scale": 1.4265335235378032,
+      "scaled_crop_offset": [
+        0,
+        0
+      ],
+      "destination": [
+        0,
+        0,
+        1600,
+        2000
+      ],
+      "operation": "uniform cover crop; source RGB retained through resampling",
+      "source_kind": "new_generated_empty_environment"
+    },
+    {
+      "source": {
+        "path": "production/2026-10-24_完整电商套图/generated/silver-head-macro.png",
+        "sha256": "84f3b782e50a27bc7f4ee7b41d4e9ae95c1e5aeea0b184463accd0a0f985a3c3"
+      },
+      "uniform_scale": 1.598240469208211,
+      "rotation_deg": -14,
+      "destination_top_left": [
+        420,
+        374
+      ],
+      "resampled_size": [
+        1001,
+        1242
+      ],
+      "operation": "alpha composite existing product RGB, no recolor or local geometry edits",
+      "source_kind": "derived_alpha_or_crop_of_photo_guided_generated_product"
+    },
+    {
+      "resampled_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/9267e28ed6460096.png",
+        "sha256": "0101153a021c5f1a57f24e476cecc79eb2d1234f0d844bb93107d5053638b555"
+      },
+      "source": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184355_94_2.jpg",
+        "sha256": "10dcfb2cad17faf397a03e0587da0ad19c76229fe801e090fee527a3fbc1a412"
+      },
+      "exif_display_size": [
+        4284,
+        5712
+      ],
+      "source_crop": [
+        650,
+        1000,
+        3800,
+        4000
+      ],
+      "uniform_scale": 0.19682539682539682,
+      "scaled_crop_offset": [
+        0,
+        70
+      ],
+      "destination": [
+        80,
+        1470,
+        620,
+        450
+      ],
+      "operation": "uniform cover crop; source RGB retained through resampling",
+      "source_kind": "original_real_photo",
+      "photo_id": "SIL006",
+      "ai_redraw": false
+    }
+  ],
+  "transform": "See source_layers; all photo transforms uniform scaling/cropping; no nonuniform product stretch",
+  "output": {
+    "path": "production/2026-10-24_完整电商套图/generated/W01-v004.jpg",
+    "sha256": "a8079558546f73e6109c0153e1eba37f924d9230870a4120d430d92ecb2591b3"
+  },
+  "working": {
+    "path": "production/2026-10-24_完整电商套图/generated/W01-v004.png",
+    "sha256": "e8e0dc9f3429f9d33a3d780c5630288e6367affb92e278bf98c2ea717185165b"
+  },
+  "dims": [
+    1600,
+    2000
+  ],
+  "notes": "沙纹/夕阳/巨面板借R028，原按压窗SIL006；R024痛点三卡改正向操作；无健康恐吓或清除率",
+  "status": "AWAITING_INDEPENDENT_VISUAL_REVIEW",
+  "refs": [
+    {
+      "id": "R024",
+      "path": "references/2026-10-22_首批参考/01_微信参考原图/R024_痛点_水垢三栏.jpg",
+      "sha256": "c8296cb07a2b9eab0a2d6d495bc0142e7507013058f484fb4e9b5911e45494ab"
+    },
+    {
+      "id": "R028",
+      "path": "references/2026-10-22_首批参考/01_微信参考原图/R028_细节_硅胶除垢.jpg",
+      "sha256": "6fa538d24295171f1a157c78f09cf6b1c5ccc7c8e77f4db7c742c55f38c398c6"
+    }
+  ]
+}

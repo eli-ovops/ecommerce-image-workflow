@@ -1,0 +1,338 @@
+[
+  {
+    "id": 387,
+    "size": [
+      1200,
+      1200
+    ],
+    "note": "参考387黑金、立式整件、浅色展示台、左操作窗、底规格带。无包装/防爆/大水量承诺；382局部只标短针细节，不认定其外缘SKU。原片厚度表达不足。",
+    "source_transforms": [
+      {
+        "source": "product376.png",
+        "angle": 84,
+        "xy": [
+          396,
+          150
+        ],
+        "size": [
+          648,
+          885
+        ],
+        "uniform": true
+      }
+    ],
+    "status": "待审：静态近似，厚边/真实感未通过",
+    "actual_primary_source": "376"
+  },
+  {
+    "id": 388,
+    "size": [
+      1200,
+      1200
+    ],
+    "note": "参考388综合双主体构图、浴室主色和强标题。实拍整件只能保留现有视角，未添加水幕/支架/通用接口/增压等；动态安装主图覆盖不足，当前为静态版候选而非原参考完整复现。",
+    "source_transforms": [
+      {
+        "source": "product372.png",
+        "angle": -7,
+        "xy": [
+          184,
+          35
+        ],
+        "size": [
+          842,
+          615
+        ],
+        "uniform": true
+      },
+      {
+        "source": "product372.png",
+        "angle": 18,
+        "xy": [
+          25,
+          610
+        ],
+        "size": [
+          460,
+          375
+        ],
+        "uniform": true
+      }
+    ],
+    "status": "未完成：缺安装视角与水幕",
+    "actual_primary_source": "372"
+  },
+  {
+    "id": 389,
+    "size": [
+      1200,
+      1200
+    ],
+    "note": "参考389综合双主体构图、浴室主色和强标题。实拍整件只能保留现有视角，未添加水幕/支架/通用接口/增压等；动态安装主图覆盖不足，当前为静态版候选而非原参考完整复现。",
+    "source_transforms": [
+      {
+        "source": "product372.png",
+        "angle": -10,
+        "xy": [
+          2,
+          35
+        ],
+        "size": [
+          775,
+          585
+        ],
+        "uniform": true
+      },
+      {
+        "source": "product372.png",
+        "angle": 83,
+        "xy": [
+          42,
+          585
+        ],
+        "size": [
+          391,
+          535
+        ],
+        "uniform": true
+      }
+    ],
+    "status": "未完成：缺安装视角与水幕",
+    "actual_primary_source": "372"
+  },
+  {
+    "id": 390,
+    "size": [
+      1200,
+      1200
+    ],
+    "note": "参考390综合双主体构图、浴室主色和强标题。实拍整件只能保留现有视角，未添加水幕/支架/通用接口/增压等；动态安装主图覆盖不足，当前为静态版候选而非原参考完整复现。",
+    "source_transforms": [
+      {
+        "source": "product372.png",
+        "angle": -7,
+        "xy": [
+          184,
+          35
+        ],
+        "size": [
+          842,
+          615
+        ],
+        "uniform": true
+      },
+      {
+        "source": "product372.png",
+        "angle": 77,
+        "xy": [
+          109,
+          610
+        ],
+        "size": [
+          292,
+          375
+        ],
+        "uniform": true
+      }
+    ],
+    "status": "未完成：缺安装视角与水幕",
+    "actual_primary_source": "372"
+  },
+  {
+    "id": 391,
+    "size": [
+      1200,
+      1200
+    ],
+    "note": "参考391蓝星空顶、暖大理石墙、上部大商品和下方模特。新原创成年短发模特，AI背景/模特+372实拍整件。缺安装仰视实拍，保留原片角度；未生成未经核对起点的水幕，故参考动态构图尚未完整覆盖。",
+    "source_transforms": [
+      {
+        "source": "product372.png",
+        "angle": -14,
+        "xy": [
+          322,
+          245
+        ],
+        "size": [
+          591,
+          465
+        ],
+        "uniform": true
+      }
+    ],
+    "status": "未完成：缺安装视角与水幕",
+    "actual_primary_source": "372"
+  },
+  {
+    "id": 392,
+    "size": [
+      1200,
+      1200
+    ],
+    "note": "参考392黑金斜置主体、上方金字、右下圆窗。圆窗用382实际短针局部，替换未知剖面；主体为复位实拍，未伪造拉出长针、碎垢或旋转箭头。不能声称完整提拉过程已演示。",
+    "source_transforms": [
+      {
+        "source": "product376.png",
+        "angle": 66,
+        "xy": [
+          237,
+          300
+        ],
+        "size": [
+          725,
+          840
+        ],
+        "uniform": true
+      }
+    ],
+    "status": "待审：静态近似，厚边/真实感未通过",
+    "actual_primary_source": "376"
+  },
+  {
+    "id": 393,
+    "size": [
+      1200,
+      1200
+    ],
+    "note": "参考393暖浴室、金色章节、主物和下部信息卡。AIR/节水/内部爆炸结构完全无证据，主题替换为外观三处；此图不标原AIR功能已覆盖。",
+    "source_transforms": [
+      {
+        "source": "product372.png",
+        "angle": -15,
+        "xy": [
+          271,
+          270
+        ],
+        "size": [
+          673,
+          534
+        ],
+        "uniform": true
+      }
+    ],
+    "status": "替代题材：参考功能无依据",
+    "actual_primary_source": "372"
+  },
+  {
+    "id": 394,
+    "size": [
+      900,
+      1600
+    ],
+    "note": "参考394蓝星空顶、暖大理石墙、上部大商品和下方模特。新原创成年短发模特，AI背景/模特+372实拍整件。缺安装仰视实拍，保留原片角度；未生成未经核对起点的水幕，故参考动态构图尚未完整覆盖。",
+    "source_transforms": [
+      {
+        "source": "product372.png",
+        "angle": -14,
+        "xy": [
+          90,
+          275
+        ],
+        "size": [
+          755,
+          594
+        ],
+        "uniform": true
+      }
+    ],
+    "status": "未完成：缺安装视角与水幕",
+    "actual_primary_source": "372"
+  },
+  {
+    "id": 395,
+    "size": [
+      900,
+      1600
+    ],
+    "note": "参考395黑金斜置主体、上方金字、右下圆窗。圆窗用382实际短针局部，替换未知剖面；主体为复位实拍，未伪造拉出长针、碎垢或旋转箭头。不能声称完整提拉过程已演示。",
+    "source_transforms": [
+      {
+        "source": "product376.png",
+        "angle": 66,
+        "xy": [
+          25,
+          478
+        ],
+        "size": [
+          850,
+          984
+        ],
+        "uniform": true
+      }
+    ],
+    "status": "待审：静态近似，厚边/真实感未通过",
+    "actual_primary_source": "376"
+  },
+  {
+    "id": 396,
+    "size": [
+      900,
+      1600
+    ],
+    "note": "参考396六宫格层级，替换无依据六大功能为六处实拍细节。不复制材料层、防爆、硅胶、增压等。侧边局部保留真实环境反射。",
+    "source_transforms": [],
+    "status": "替代题材：参考功能无依据",
+    "actual_primary_source": "multiple photo details"
+  },
+  {
+    "id": 397,
+    "size": [
+      900,
+      1600
+    ],
+    "note": "参考397暖浴室、金色章节、主物和下部信息卡。AIR/节水/内部爆炸结构完全无证据，主题替换为外观三处；此图不标原AIR功能已覆盖。",
+    "source_transforms": [
+      {
+        "source": "product372.png",
+        "angle": -15,
+        "xy": [
+          55,
+          351
+        ],
+        "size": [
+          805,
+          639
+        ],
+        "uniform": true
+      }
+    ],
+    "status": "替代题材：参考功能无依据",
+    "actual_primary_source": "372"
+  },
+  {
+    "id": 398,
+    "size": [
+      900,
+      1600
+    ],
+    "note": "参考398暖浴室、上标题、中主体、底部双卡。中部改接头实拍、双卡改外观，不画360箭头、安装效果或人体水量比较。安装和转动范围未验证。",
+    "source_transforms": [],
+    "status": "替代题材：参考功能无依据",
+    "actual_primary_source": "multiple photo details"
+  },
+  {
+    "id": 399,
+    "size": [
+      900,
+      1600
+    ],
+    "note": "参考399黑金石材、斜置整件、上部金色宋体层级。商品376原始整件层等比旋转；无新造孔纹。原照近正视，厚度和参考透视不能等同。未使用侧边拼接伪造厚度。",
+    "source_transforms": [
+      {
+        "source": "product376.png",
+        "angle": 68,
+        "xy": [
+          25,
+          506
+        ],
+        "size": [
+          860,
+          1012
+        ],
+        "uniform": true
+      }
+    ],
+    "status": "待审：静态近似，厚边/真实感未通过",
+    "actual_primary_source": "376"
+  }
+]

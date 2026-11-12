@@ -1,0 +1,71 @@
+{
+  "captured_at_utc": "2026-10-23T00:52:34.697735+00:00",
+  "purpose": "Preserve pre-user-confirmation package and review evidence before silver-thread-color correction. Not current delivery.",
+  "files": [
+    {
+      "path": "花洒参考重构_交付.zip",
+      "bytes": 93958598,
+      "sha256": "881bfc1939f346954d2f7832d57de07c743f8018e10539f614183ed021bb1770"
+    },
+    {
+      "path": "delivery-check.json",
+      "bytes": 53952,
+      "sha256": "3917715c5b04174d1741a42b82a3820cc17ee7709b2392519018a8f323752691"
+    },
+    {
+      "path": "image-manifest.json",
+      "bytes": 89650,
+      "sha256": "22568ec5cc7864978da0f3714885dfa3a289c235ab7ea0dcaebeb814191818eb"
+    },
+    {
+      "path": "qa-review.json",
+      "bytes": 250221,
+      "sha256": "0700ad6b7f913f5f5395c69abcee57fad89300b54358b6e25b02ff70eab64845"
+    },
+    {
+      "path": "qa-review.md",
+      "bytes": 54887,
+      "sha256": "5d2ed69e64a17f4fe920826d61e3c3ffefab2bbcaf7d64ae57f93a8456459a50"
+    },
+    {
+      "path": "reference-map.json",
+      "bytes": 126451,
+      "sha256": "9e8f85ba82049a08f135df3691c401ecdc1722f63e5ed3a6a153433eb590b805"
+    },
+    {
+      "path": "PROGRESS.md",
+      "bytes": 639,
+      "sha256": "1d861b9c7be30ca8c6f9fe920acee204f67cdfdd05d973808f3b2e6078d9cfe3"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3775,
+      "sha256": "f936fa86b069cf55f8ff9a95843a62bf2596f242033c9ca41b59ce2d301318f3"
+    },
+    {
+      "path": "delivery-manifest.json",
+      "bytes": 20151,
+      "sha256": "c15784af909517b2ec3a3813b1ac33e00c24ead8a69c2adffea167d69b9f5bdc"
+    },
+    {
+      "path": "previews/overview_02.jpg",
+      "bytes": 679216,
+      "sha256": "4b633cbce440ac303a83fe148d0e5b26e2307ba6dae5f3d220f32c6212827a46"
+    },
+    {
+      "path": "previews/overview_03.jpg",
+      "bytes": 725133,
+      "sha256": "30e3e9f19663bcb331a93c9dfde4de235980acb4d47cb0f089bb693a15181fb0"
+    },
+    {
+      "path": "previews/overview_01.jpg",
+      "bytes": 655171,
+      "sha256": "c22c2cc2eb18853ad0750c786b8e8f8d89006f6403698826edd7d5b88c9951a4"
+    },
+    {
+      "path": "previews/overview_04.jpg",
+      "bytes": 811407,
+      "sha256": "91179a552de1ccdb483f5f1218045c96b89fd38ff5dc06e0e9da6279ec1b2003"
+    }
+  ]
+}

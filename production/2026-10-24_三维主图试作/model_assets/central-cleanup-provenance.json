@@ -1,0 +1,21 @@
+{
+  "source": "face-photo-rectified.png",
+  "donor_rectangle_px": [
+    938,
+    1322,
+    48,
+    48
+  ],
+  "donor_mean_rgb": [
+    62.57074652777778,
+    63.709635416666664,
+    65.57161458333333
+  ],
+  "destination_center_px": [
+    1042,
+    1065
+  ],
+  "radius_px": 183,
+  "feather_px": 14,
+  "purpose": "Replace photographed old central control under the separate 3D red part with nearby real black panel grain; retain every detected nozzle location"
+}

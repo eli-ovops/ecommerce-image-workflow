@@ -1,0 +1,339 @@
+{
+  "status": "REVIEW_PACKAGE_READY",
+  "customer_acceptance": "待审",
+  "baseline": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-25_三档水型与加长详情",
+  "assets": [
+    {
+      "id": "M05",
+      "name": "日常淋浴人物",
+      "file": "M05_日常淋浴人物.jpg",
+      "refs": [
+        "R022",
+        "A019"
+      ],
+      "notes": "用户认可代表图，字节不变复用",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "6f04362218cc187364afc4096ddc311038611c81faa859630306cce18929fc36",
+      "changed": false,
+      "source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-25_三档水型与加长详情/JPG/M05_日常淋浴人物.jpg"
+    },
+    {
+      "id": "M01",
+      "name": "三档主图",
+      "file": "M01_三档主图.jpg",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "00f85355b15ccdf3da092b619da839708e556f3b32382389aa529fb57309c47c",
+      "refs": [
+        "R001",
+        "R004",
+        "R023"
+      ],
+      "notes": "加大商品与模式标题；仅对现有生成商品层等比放置，无新几何重绘",
+      "changed": true
+    },
+    {
+      "id": "M02",
+      "name": "下方按键操作",
+      "file": "M02_下方按键操作.jpg",
+      "refs": [
+        "A014",
+        "A015",
+        "R032"
+      ],
+      "notes": "生成操作示意，不作为实际按压测试证据",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "1fd5920357f6fa3e40f1079b9be81a579b4520d1cfaa703d34b12a455bee47f3",
+      "changed": false,
+      "source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-25_三档水型与加长详情/JPG/M02_下方按键操作.jpg"
+    },
+    {
+      "id": "M03",
+      "name": "中央红钮按压",
+      "file": "M03_中央红钮按压.jpg",
+      "refs": [
+        "A024",
+        "A025"
+      ],
+      "notes": "原始实拍裁切，无红针重绘；未显示原拍摄房间",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "fc772d8eb8b1ee3f26eb2bcdf42df096c67a378d6d55dd13eac02d3fd575be7f",
+      "changed": false,
+      "source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-25_三档水型与加长详情/JPG/M03_中央红钮按压.jpg"
+    },
+    {
+      "id": "M06",
+      "name": "暖白静物",
+      "file": "M06_暖白静物.jpg",
+      "refs": [
+        "R001",
+        "R008"
+      ],
+      "notes": "托盘仅为布景，售卖范围为单花洒",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "2bd0074731109f1827c597d0a8982b4f1b6e82e9f932ea74854219f18a69d17b",
+      "changed": false,
+      "source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-25_三档水型与加长详情/JPG/M06_暖白静物.jpg"
+    },
+    {
+      "id": "K01",
+      "name": "银色SKU",
+      "file": "K01_银色SKU.jpg",
+      "refs": [
+        "A002"
+      ],
+      "notes": "各SKU独立现有生成商品层；等高等比例，底部自然出画",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "6228f12ce7e743f00c7dee742dcb982dc56a98f31e8f0945e8273124b1688978",
+      "changed": false,
+      "source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-25_三档水型与加长详情/JPG/K01_银色SKU.jpg"
+    },
+    {
+      "id": "K02",
+      "name": "黑色SKU",
+      "file": "K02_黑色SKU.jpg",
+      "refs": [
+        "A003"
+      ],
+      "notes": "各SKU独立现有生成商品层；等高等比例，底部自然出画",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "b3f1f5249da02c2f49db1dff5473d22e9db99aca124ffa25bf96914d56e2d362",
+      "changed": false,
+      "source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-25_三档水型与加长详情/JPG/K02_黑色SKU.jpg"
+    },
+    {
+      "id": "K03",
+      "name": "枪灰色SKU",
+      "file": "K03_枪灰色SKU.jpg",
+      "refs": [
+        "A004"
+      ],
+      "notes": "各SKU独立现有生成商品层；等高等比例，底部自然出画",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "8cee8c11d8d7c262b91e1bee5e5e7de76d191bfe03e4593342ff8beffbac29e8",
+      "changed": false,
+      "source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-25_三档水型与加长详情/JPG/K03_枪灰色SKU.jpg"
+    },
+    {
+      "id": "M04",
+      "name": "三档同尺度对照",
+      "file": "M04_三档同尺度对照.jpg",
+      "size": [
+        1254,
+        3260
+      ],
+      "sha256": "62cf2e3dfb6215cffce3114b67066b6a37a0f017417190bea947334d1ea2cd69",
+      "refs": [
+        "R023",
+        "A016",
+        "A017",
+        "A018"
+      ],
+      "notes": "复用95普通96喷雾97混合对应的既有实拍引导候选；同900方形视窗，不重绘不补水。源机位透视不同不伪装相同机位。",
+      "changed": true
+    },
+    {
+      "id": "D01",
+      "name": "三色搭配",
+      "file": "D01_三色搭配.jpg",
+      "size": [
+        1254,
+        1450
+      ],
+      "sha256": "f02f6f95ec4a4978561a397219cf2f118a3f5033876f3d53d9b70ecf7d4f9446",
+      "refs": [
+        "A008"
+      ],
+      "notes": "使用三色各自商品层不换色；一致高度、展示台式色块与大色名，未显示接口",
+      "changed": true
+    },
+    {
+      "id": "D02",
+      "name": "正背一页看清",
+      "file": "D02_正背一页看清.jpg",
+      "size": [
+        1254,
+        1730
+      ],
+      "sha256": "b6e6ad86125cb9629511470f4550852120326ea93d0591755558d5142dfdae80",
+      "refs": [
+        "A022",
+        "A023"
+      ],
+      "notes": "合并旧D02 D07 D08的外观任务；等比保留现有前后商品层。未新增内部结构/材质断言",
+      "changed": true
+    },
+    {
+      "id": "D04",
+      "name": "按压状态实拍",
+      "file": "D04_按压状态实拍.jpg",
+      "refs": [
+        "A024",
+        "A025",
+        "A026"
+      ],
+      "notes": "两张原实拍，不改变孔位红针；非清洁效果前后对比",
+      "size": [
+        1254,
+        1450
+      ],
+      "sha256": "0f073bbf94a3cca97e3975d055b02e81fbc0328b1bd8175649075162ff2144d5",
+      "changed": false,
+      "source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-25_三档水型与加长详情/JPG/D04_按压状态实拍.jpg"
+    },
+    {
+      "id": "D05",
+      "name": "选购信息",
+      "file": "D05_选购信息.jpg",
+      "size": [
+        1254,
+        1550
+      ],
+      "sha256": "6fa8714ac8a84139b782a2c9482f994914968f323813d8fc6ccd9f4975d3e47b",
+      "refs": [
+        "A032",
+        "A033"
+      ],
+      "notes": "集中必要交易信息，正文53px；不再用细小脚注，不填写未知参数",
+      "changed": true
+    },
+    {
+      "id": "W01",
+      "name": "普通出水",
+      "file": "W01_普通出水.jpg",
+      "size": [
+        1254,
+        1540
+      ],
+      "sha256": "ac9cb982f018087c38d86d1a723e87d68b9abfe41cef8255651f3f26523e848a",
+      "refs": [
+        "R023",
+        "A016",
+        "A017",
+        "A018"
+      ],
+      "notes": "对应实拍95；现有生成水型图片不重绘。真实孔位/水流仍待客户复核",
+      "changed": true
+    },
+    {
+      "id": "W02",
+      "name": "混合出水",
+      "file": "W02_混合出水.jpg",
+      "size": [
+        1254,
+        1540
+      ],
+      "sha256": "68c12eb8c44edfccd0524b8fef929e13f052cfc4ff24f3ae98960a561039f15e",
+      "refs": [
+        "R023",
+        "A016",
+        "A017",
+        "A018"
+      ],
+      "notes": "对应实拍97；现有生成水型图片不重绘。真实孔位/水流仍待客户复核",
+      "changed": true
+    },
+    {
+      "id": "W03",
+      "name": "喷雾出水",
+      "file": "W03_喷雾出水.jpg",
+      "size": [
+        1254,
+        1540
+      ],
+      "sha256": "86577e0aff89300cc04bd05d877377da14f2d77130b57a05dd83edc4b3e51299",
+      "refs": [
+        "R023",
+        "A016",
+        "A017",
+        "A018"
+      ],
+      "notes": "对应实拍96；现有生成水型图片不重绘。真实孔位/水流仍待客户复核",
+      "changed": true
+    },
+    {
+      "id": "D06",
+      "name": "面板近看",
+      "file": "D06_面板近看.jpg",
+      "refs": [
+        "A011",
+        "A025"
+      ],
+      "notes": "原实拍面板裁切，保留真实孔位",
+      "size": [
+        1254,
+        1600
+      ],
+      "sha256": "96583b6900255400e08bdf85f68550a7ae5d16e542a720aac1287f547325e92f",
+      "changed": false,
+      "source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-25_三档水型与加长详情/JPG/D06_面板近看.jpg"
+    },
+    {
+      "id": "L01",
+      "name": "广告节奏完整详情",
+      "file": "L01_广告节奏完整详情.jpg",
+      "size": [
+        1000,
+        14888
+      ],
+      "sha256": "53d9016f7106461b5dc198ecb13a54ea7d8ac993d0369ab7f169f0991fde10f8",
+      "refs": [],
+      "notes": "13章；人物开场→三档→颜色→水型→操作→原拍细节→正背→静物→信息。删重复功能页，未为长度添加无事实卖点",
+      "changed": true
+    }
+  ],
+  "long_sequence": [
+    "M05",
+    "M01",
+    "D01",
+    "W01",
+    "W02",
+    "W03",
+    "M02",
+    "M03",
+    "D04",
+    "D06",
+    "D02",
+    "M06",
+    "D05"
+  ],
+  "long_size": [
+    1000,
+    14888
+  ],
+  "reference_read_receipt": "production/2026-10-22_参考重构/reference-map.md:31-37",
+  "limitations": [
+    "产品层与水型为既有实拍引导生成图，不是3D或原像素硬锁定",
+    "原生人物图未改变，未重新生成人物",
+    "水型源机位不同；同尺寸视窗不等于同透视重建"
+  ],
+  "merged": {
+    "D03": "M02+M03",
+    "D07": "D02",
+    "D08": "D02"
+  },
+  "visual_review": "已实际查看17张独立图接触表以及新M01/D02/D05原JPG；水型源图、95/96/97原实拍与R023及新增长参考关键段已对照。原生成图几何/肤质/水流未作自动保证。"
+}

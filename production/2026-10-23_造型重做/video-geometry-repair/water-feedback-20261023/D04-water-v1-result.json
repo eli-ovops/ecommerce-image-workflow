@@ -1,0 +1,11 @@
+{
+  "native": "/Users/USER/.codex/generated_images/01a16319-d848-71d0-95e1-72970644c800/exec-ca4c7224-f925-4d1c-9e27-a7434580efe5.png",
+  "saved": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/water-feedback-20261023/D04-water-v1.png",
+  "sha256": "28b1188e48dc42e7bae3cc95c68b06e07e3627414aea8df11fc7d1791a072d46",
+  "dimensions": [
+    941,
+    1670
+  ],
+  "status": "PENDING_ROW_BY_ROW_WATER_QA",
+  "tool": "builtin image_gen"
+}

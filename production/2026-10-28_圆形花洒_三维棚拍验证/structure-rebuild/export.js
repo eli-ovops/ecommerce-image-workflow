@@ -1,0 +1,1 @@
+const sharp=require('/Users/USER/.local/share/deepseek-harness/node_modules/sharp'),path=require('path');(async()=>{for(const [a,b] of [['studio-structure.png','圆形花洒_截面重建_棚拍验证.jpg'],['structure-gray-v7.png','结构灰模.jpg'],['section-gray.png','截面检查.jpg']])await sharp(path.join(__dirname,a)).jpeg({quality:95,chromaSubsampling:'4:4:4'}).toFile(path.join(__dirname,b));})();

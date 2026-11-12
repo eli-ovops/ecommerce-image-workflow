@@ -1,0 +1,183 @@
+{
+  "id": "M08",
+  "role": "棕金三竖卡功能广告",
+  "sku": "银色",
+  "refs_actual_viewed": [
+    {
+      "id": "R012",
+      "path": "references/2026-10-22_首批参考/01_微信参考原图/R012_总览_三大优势.jpg",
+      "sha256": "317eeb1be504b2cedf6ba3f85143083e1702f491cd982e0e526e8468b18e7fb4"
+    }
+  ],
+  "actual_inputs": [
+    {
+      "path": "production/2026-10-24_实拍主导主图/generated/R02-v002-composite.png",
+      "sha256": "36c2832997bf86ac537e9a7cee1744a63272ea7ca3d6fe33d3851d3cc877636c"
+    },
+    {
+      "path": "production/2026-10-24_实拍主导主图/generated/R03-v001-native.png",
+      "sha256": "d9d55e31035604b0b9fa53ad4031acbea398ba3e47f77fc1db0cfd70044d01de"
+    },
+    {
+      "path": "products/主推花洒/银色/原图/微信图片_20261022184355_94_2.jpg",
+      "sha256": "10dcfb2cad17faf397a03e0587da0ad19c76229fe801e090fee527a3fbc1a412"
+    }
+  ],
+  "claims": [
+    "三档出水",
+    "常规",
+    "喷雾",
+    "混合",
+    "下方按键切换三档",
+    "中央红钮手动按压除垢"
+  ],
+  "copy": [
+    "三档出水 · 双键分工",
+    "常规 / 喷雾 / 混合",
+    "三档出水",
+    "常规 / 喷雾 / 混合",
+    "下方按键",
+    "按键切换三档",
+    "中央红钮",
+    "手动按压除垢"
+  ],
+  "source_files": [
+    {
+      "path": "production/2026-10-24_实拍主导主图/generated/R02-v002-composite.png",
+      "sha256": "36c2832997bf86ac537e9a7cee1744a63272ea7ca3d6fe33d3851d3cc877636c"
+    },
+    {
+      "path": "production/2026-10-24_实拍主导主图/generated/R03-v001-native.png",
+      "sha256": "d9d55e31035604b0b9fa53ad4031acbea398ba3e47f77fc1db0cfd70044d01de"
+    },
+    {
+      "path": "products/主推花洒/银色/原图/微信图片_20261022184355_94_2.jpg",
+      "sha256": "10dcfb2cad17faf397a03e0587da0ad19c76229fe801e090fee527a3fbc1a412"
+    }
+  ],
+  "source_layers": [
+    {
+      "resampled_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/37f0959ed1c48c17.png",
+        "sha256": "143534cd8ad615867723bd3d69b0c255d0a0ce33055be41fde751ba5238e3dd9"
+      },
+      "source": {
+        "path": "production/2026-10-24_实拍主导主图/generated/R02-v002-composite.png",
+        "sha256": "36c2832997bf86ac537e9a7cee1744a63272ea7ca3d6fe33d3851d3cc877636c"
+      },
+      "exif_display_size": [
+        1254,
+        1254
+      ],
+      "source_crop": [
+        380,
+        20,
+        1100,
+        1150
+      ],
+      "uniform_scale": 0.7256637168141593,
+      "scaled_crop_offset": [
+        41,
+        0
+      ],
+      "destination": [
+        80,
+        405,
+        440,
+        820
+      ],
+      "operation": "uniform cover crop; source RGB retained through resampling",
+      "source_kind": "photo_guided_generated_product_or_composite"
+    },
+    {
+      "resampled_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/a3b502b292373660.png",
+        "sha256": "7ddc8b5f53162ba21d461b8e511e6f77c5874131cd4f145ebbd28e8f7dbd423b"
+      },
+      "source": {
+        "path": "production/2026-10-24_实拍主导主图/generated/R03-v001-native.png",
+        "sha256": "d9d55e31035604b0b9fa53ad4031acbea398ba3e47f77fc1db0cfd70044d01de"
+      },
+      "exif_display_size": [
+        1254,
+        1254
+      ],
+      "source_crop": [
+        470,
+        650,
+        950,
+        1254
+      ],
+      "uniform_scale": 1.3576158940397351,
+      "scaled_crop_offset": [
+        106,
+        0
+      ],
+      "destination": [
+        580,
+        405,
+        440,
+        820
+      ],
+      "operation": "uniform cover crop; source RGB retained through resampling",
+      "source_kind": "photo_guided_generated_product_or_composite"
+    },
+    {
+      "resampled_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/7f12b3017f02baa2.png",
+        "sha256": "3122ee9c4c967bacb9c00f111a296607fa69c4657b82f0ee109be251eba1bd94"
+      },
+      "source": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184355_94_2.jpg",
+        "sha256": "10dcfb2cad17faf397a03e0587da0ad19c76229fe801e090fee527a3fbc1a412"
+      },
+      "exif_display_size": [
+        4284,
+        5712
+      ],
+      "source_crop": [
+        1000,
+        1300,
+        3400,
+        4800
+      ],
+      "uniform_scale": 0.2342857142857143,
+      "scaled_crop_offset": [
+        61,
+        0
+      ],
+      "destination": [
+        1080,
+        405,
+        440,
+        820
+      ],
+      "operation": "uniform cover crop; source RGB retained through resampling",
+      "source_kind": "original_real_photo",
+      "photo_id": "SIL006",
+      "ai_redraw": false
+    }
+  ],
+  "transform": "See source_layers; all photo transforms uniform scaling/cropping; no nonuniform product stretch",
+  "output": {
+    "path": "production/2026-10-24_完整电商套图/generated/M08-v004.jpg",
+    "sha256": "9f022222d2a4c8621469d6ea519e83747f0926b43af80d282eec7bdb870b54a3"
+  },
+  "working": {
+    "path": "production/2026-10-24_完整电商套图/generated/M08-v004.png",
+    "sha256": "46b11de6a2eb771e8c30e89bbee707c2ea3417ad9b9582a4ca1446bc674376cc"
+  },
+  "dims": [
+    1600,
+    1600
+  ],
+  "notes": "保留R012三竖卡与强标题；第三卡为SIL006真实按压局部；无模式照片配对",
+  "status": "AWAITING_INDEPENDENT_VISUAL_REVIEW",
+  "refs": [
+    {
+      "id": "R012",
+      "path": "references/2026-10-22_首批参考/01_微信参考原图/R012_总览_三大优势.jpg",
+      "sha256": "317eeb1be504b2cedf6ba3f85143083e1702f491cd982e0e526e8468b18e7fb4"
+    }
+  ]
+}

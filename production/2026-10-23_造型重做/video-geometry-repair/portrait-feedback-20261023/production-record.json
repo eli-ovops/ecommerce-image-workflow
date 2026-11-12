@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-23",
+  "scope": [
+    "D04",
+    "D11"
+  ],
+  "calls": [
+    {
+      "version": "fresh-portrait-v1",
+      "prompt": "Create TWO FRESH high-resolution studio BEAUTY HEADSHOTS side-by-side, large matching scale, of the SAME fictional ADULT black-haired woman in reference image1. Use reference1 ONLY to infer identity (oval face, hazel brown eyes, black long hair, dark arched brows, straight nose, full lips, about28 adult); RE-PHOTOGRAPH HER FROM SCRATCH, do not copy any reference skin pixels or skin surface texture. This is a new clean photographic source for compositing, NOT an edit of an old advertising image. Left panel: straight frontal symmetrical head, no tilt, eyes at camera, relaxed closed lips and slight smile. Right panel: face turned twenty degrees toward viewer's LEFT, both eyes fully visible, eyes look into camera, subtle closed-lip smile. Both panels show complete forehead, chin and neck down to opaque white crewneck top; all head hair comfortably inside frame, neutral light blue-gray seamless background. Same exact person across both photographs, natural adult facial anatomy, beautiful convincing eyes and lip anatomy. Camera at eye level, portrait lens. Exceptionally soft diffuse large-window illumination, broad continuous luminous skin gradients. Retouched commercial beauty photography: even clean smooth satin complexion across forehead, cheeks, chin, nose, neck; preserve facial shape through lighting, keep eyes, eyebrows, eyelashes, lips and hair crisp. Absolutely no visible embossed skin microtexture, no repeated texture, no closed cell outlines, no crosshatching or geometric skin patterns. Do not simulate hyper-detailed skin, do not sharpen or add grain to skin. Smooth clean skin is the priority, not pores. This must look like clean professional editorial photography, not painted CGI or an illustration. Large output about2048x1536. NO text, no logos, no jewelry, no showerhead, no hands, no water, no extra persons. Image2 is real product context only and must NOT appear in this portrait source. Images3-4 are related commercial light/style context ONLY, do not copy their models or text or products.",
+      "refs": [
+        "/Volumes/EXTERNAL/电商 作图工作流/models/M001/master-v1.png",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_04.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_16.jpg"
+      ],
+      "output": "fresh-portrait-v1.png",
+      "verdict": "REJECTED_SKIN_ARTIFACTS"
+    },
+    {
+      "version": "fresh-portrait-v2",
+      "prompt": "Make a completely NEW professional photographic beauty portrait diptych of this SAME fictional adult woman, maintaining her face identity and hazel eyes, near-center parted long black hair, dark curved brows, oval face, straight nose and full lips. The supplied image is a TEXTURE-NEUTRAL IDENTITY GUIDE. Only identity, proportions and hair styling are specified by it. Do not treat its artificially smoothed regions as the final aesthetic. Photograph her fresh with a normal, healthy, believable fine complexion, restrained studio makeup, properly focused face, sharp elegant eyes, nostrils and lips. Absolutely neither wax/plastic airbrushing NOR artificial embossed geometric skin texture. Skin looks like a professional normal-lens beauty campaign with softly rendered minute random pores, NOT a macro dermatology closeup. No visible repeated cell outlines, scales, triangular facets or patterned surface. Soft, flattering, broad window light, consistent with a luminous cool bathroom interior. Left: frontal, head vertical, natural faint closed-lip smile, eyes looking to camera. Right: same woman, face yaw twenty degrees toward viewer's LEFT, eyes at camera, small closed-lip smile. Both complete head-to-upper-chest, identical size, opaque white crewneck top, pale blue-gray neutral background, separated by a narrow vertical gap. No jewelry, text, products, water, hands or extra people. NEW RAW PHOTOGRAPHIC PIXELS AND NATURAL FOCUS THROUGHOUT FACE. High-resolution landscape about2048x1536.",
+      "refs": [
+        "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/portrait-feedback-20261023/identity-texture-neutral-guide.png"
+      ],
+      "output": "fresh-portrait-v2.png",
+      "verdict": "SELECTED_COMPOSITE_INDEPENDENT_PASS_WITH_LIMITS"
+    }
+  ],
+  "source_identity": "models/M001/master-v1.png",
+  "method": "Fresh v2 complete faces and necks composited through expanded mattes, preserving original body and all product/water pixels. No skin blurring; rejected frequency separation and jaw-deformed candidates are retained but not selected.",
+  "user_authority": "Current request to repair distorted people, existing explicit local layered compositing authorization; preserve corrected product and water regions.",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "rejected_candidates": [
+    "D04/D11 portrait-composite variants: excessive soft skin",
+    "D04/D11 portrait-median: posterized skin",
+    "D04/D11 portrait-fresh-face: jaw seams",
+    "D04/D11 portrait-tps: local jaw distortion",
+    "D11 RGB-threshold collar candidate c7318ebb: jagged white triangle/double edge; replaced by continuous original collar contour"
+  ],
+  "final_compositing": {
+    "script": "compose_new_person.py",
+    "fresh_source": "fresh-portrait-v2.png",
+    "method": "Complete freshly rendered faces and necks; affine registration and broad illumination match. Continuous foreground original crewneck contour replaces RGB threshold; real fabric and strands copied from frozen base. No rejected skin texture or jaw geometric deformation.",
+    "affected_ids": [
+      "D04",
+      "D11"
+    ],
+    "portrait_scenes": 3,
+    "preservation_proof": "root-product-water-preservation.json",
+    "selected_sha256": {
+      "D04": "d07c9ec50b59cf697f1ec538e8a5cb3d583c28ae635753c3e2818d6781acfcb0",
+      "D11": "f3458900986918bdb29060f8c827a1c423299d8a2febadf6f232832f7ea6b8d6"
+    },
+    "status": "EXPORTED_ASSEMBLY_REVIEW_PASS_WITH_LIMITATIONS",
+    "independent_review": "independent-person-final.json",
+    "export_receipt": "selection-export-receipt.json"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "reviewer": "root",
+  "reviewed_at": "2026-10-24T23:37:47+08:00",
+  "jpg_sha256": "f0330b30c3299e914b9cf7161f4d118574c976979369aa00b8f625d756b5fcad",
+  "finding": "三色错落相册，银色居中较高、两侧错位，白框与色签可读；没有粉色/滤芯，黑色标签未裁字。",
+  "checks": {
+    "product": "PASS",
+    "reference_style": "PASS",
+    "copy": "PASS",
+    "layout": "PASS",
+    "export": "PASS"
+  },
+  "visual_method": "本轮实际查看成品及对应参考；未改变的已审图复用哈希，最新改字/侧窗/尾端遮罩作定向复核，长图另查总览与接缝。",
+  "limits": "内部人工视觉检查；不等同客户接受、精密3D测量或自动逐孔水流识别。水流/按压照片为原实拍；广告商品图层部分为实拍引导生成层。"
+}

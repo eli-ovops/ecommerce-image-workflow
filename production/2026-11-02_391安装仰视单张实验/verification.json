@@ -1,0 +1,16 @@
+{
+  "jpg_size": [
+    1200,
+    1200
+  ],
+  "ora_recomposition": true,
+  "ora_crc": true,
+  "svg_xml": true,
+  "blend_checks": true,
+  "zip_crc": true,
+  "zip_members_sha": true,
+  "zip_members": 25,
+  "zip_bytes": 24523896,
+  "visual_status": "NOT_ACCEPTED_CG_MATERIAL_AND_WATER_CONTACT",
+  "browser": "NOT_RUN"
+}

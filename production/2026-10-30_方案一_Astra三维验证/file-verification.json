@@ -1,0 +1,19 @@
+{
+  "jpg_decoded": true,
+  "size": [
+    1600,
+    1600
+  ],
+  "files": [
+    {
+      "path": "方案一_Astra_无字审阅.jpg",
+      "bytes": 334398,
+      "sha256": "aa2e1f57bbcdd35be028f5f1caf7c19629fe87de7f83be37e914198d80140142"
+    },
+    {
+      "path": "方案一_Astra_可编辑.blend",
+      "bytes": 19057303,
+      "sha256": "7013f4e27103f1bab57e99105bbd15c3d0585ea12ffe6c0946ac6e4fd8c83ba4"
+    }
+  ]
+}

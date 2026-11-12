@@ -1,0 +1,262 @@
+{
+  "status": "PENDING_USER_SHAPE_CONFIRMATION",
+  "owner": "/root/round_shower_model",
+  "rules": [
+    "PERMISSIONS-2026-10-14-v1",
+    "ROUTING-2026-10-27-v7",
+    "TOKEN-BUDGET-2026-10-25-v2"
+  ],
+  "requested_model": "gpt-6-astra",
+  "requested_effort": "medium",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "photos_viewed_complete_previews": [
+    339,
+    340,
+    342,
+    343,
+    344,
+    345,
+    346,
+    347,
+    348,
+    349,
+    350,
+    351,
+    352,
+    353,
+    354,
+    355
+  ],
+  "photos_additionally_opened_original": [
+    348,
+    354,
+    355
+  ],
+  "video_evidence": "Existing full 12-frame contact sheet viewed; no continuous watch or audio review",
+  "video_frame_seconds": [
+    0,
+    2.62,
+    5.23,
+    7.85,
+    10.47,
+    13.08,
+    15.7,
+    18.31,
+    20.93,
+    23.55,
+    26.16,
+    28.78
+  ],
+  "photo_dimension_interpretation": {
+    "diameter_mm_range": [
+      128,
+      135
+    ],
+    "overall_mm_range": [
+      265,
+      280
+    ],
+    "wall_mm_range": [
+      19,
+      24
+    ],
+    "status": "perspective affected estimates; NOT measurements"
+  },
+  "unknowns": [
+    "exact silhouette under calibrated cameras",
+    "physical dimensions and manufacturing tolerances",
+    "peripheral micro-hole exact count",
+    "connector standard pitch and tooth shape",
+    "internal waterways and mechanism"
+  ],
+  "reviewed_final_images": [
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/八视图总览.jpg",
+      "scope": "all eight final views, complete uncropped overview"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/正面实拍对照.jpg",
+      "scope": "final front photo comparison"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/侧面实拍对照.jpg",
+      "scope": "final side photo comparison"
+    }
+  ],
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/README.md",
+      "bytes": 4286,
+      "sha256": "8187910e65f1fa2aa589e06dce77e598d601dce0bb55ac99ce6561adb65d9e1a",
+      "purpose": "editable construction, verification or recovery"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/build.log",
+      "bytes": 410,
+      "sha256": "cf38aadace41384aa5095f3a4d5bb4b55f44e6eb4c2bd383d5b8f157580bb0a6",
+      "purpose": "editable construction, verification or recovery"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/build_model.py",
+      "bytes": 9369,
+      "sha256": "4c132795191b1d343f692c5ef4ed36c2f4068558bfb5bdb53a8728a09412a990",
+      "purpose": "editable construction, verification or recovery"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/construction-source-v010a.blend",
+      "bytes": 961763,
+      "sha256": "bbd69f7b5c523a44aacb1a400ddf0622e254fa06777e4f774e7cbb32010277d8",
+      "purpose": "editable construction, verification or recovery"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/evidence/photos-1.jpg",
+      "bytes": 130955,
+      "sha256": "2db6dcf7ed0f10d3f56074d8f9ba257a40f0673948cde07f306217b2b7fdbbf2",
+      "purpose": "review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/evidence/photos-2.jpg",
+      "bytes": 146148,
+      "sha256": "93f76350879f894a7c9fd987d662e3c1f24be850c3c626c0fc41d3da8e747526",
+      "purpose": "review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/evidence/photos-3.jpg",
+      "bytes": 197853,
+      "sha256": "d8b9dd8e4cf7172dad055f74751804464dd7d25a7f98ad3b88a45a04957de1fe",
+      "purpose": "review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/evidence/photos-4.jpg",
+      "bytes": 174686,
+      "sha256": "57aa2751cba923b5892fd3e90c834a5d18bbac71cec973fb8ab47895db0a29a1",
+      "purpose": "review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/geometry-check.json",
+      "bytes": 148,
+      "sha256": "5da238ed312ea45e8d58250f97fc3bd70033887f983065efbb8e78f42e52913f",
+      "purpose": "editable construction, verification or recovery"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/make_review.py",
+      "bytes": 1433,
+      "sha256": "d3fe788e7da6a4ca2fcb36f2636145588097a885f49bc2b834f3e4e2bc6791c4",
+      "purpose": "editable construction, verification or recovery"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/parameters.json",
+      "bytes": 1124,
+      "sha256": "357188655a3b22a99e891a5e7401c07ad897999b77ae94702d38e2660ffe6a22",
+      "purpose": "editable construction, verification or recovery"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/render.log",
+      "bytes": 1599,
+      "sha256": "5b93c0aef3a2b92e04e7327a2a4f31663155edfbc2a654d9e165eaf03e979393",
+      "purpose": "editable construction, verification or recovery"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/render_views.py",
+      "bytes": 1453,
+      "sha256": "643865d1f705ddd26b1a72221bf5eaa8c0421dffeddd9ecf36707896eaf4d26f",
+      "purpose": "editable construction, verification or recovery"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/reopen-verification.json",
+      "bytes": 2363,
+      "sha256": "0dfc2354389b739a03c8b417a46ba77a64d15a89f0fdf493ec74a99d0e9a3150",
+      "purpose": "editable construction, verification or recovery"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/white-hole-layout.json",
+      "bytes": 7709,
+      "sha256": "a2db7ed47960d9f4bff8bd17aa7008585c3631ab5688d92ec61dcdf8f578be0f",
+      "purpose": "editable construction, verification or recovery"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/侧面实拍对照.jpg",
+      "bytes": 145170,
+      "sha256": "6c6c464f33dad3f431e3f8c85f7347180c1b5ec65f35f37b2aaaf6f58c901055",
+      "purpose": "review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/八视图总览.jpg",
+      "bytes": 237710,
+      "sha256": "eba8df43677800cc0c34a36182a196b8f348b191afab20f711f97840c0d1c8e9",
+      "purpose": "review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/圆形红钮花洒_银色形状校准_v1.blend",
+      "bytes": 2200236,
+      "sha256": "5e67a1e60ed6a7063159e60618af20b3ae4fe725d9cd07dabce1301e0af63ce7",
+      "purpose": "editable construction, verification or recovery"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/圆形红钮花洒_银色形状校准_v1.blend1",
+      "bytes": 2200586,
+      "sha256": "30cc949e20efa470135b66486238bdc656b099b5e202aa6dbdafb9d383e39046",
+      "purpose": "editable construction, verification or recovery"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/审查图/01_正面.jpg",
+      "bytes": 174262,
+      "sha256": "bfb1b9dc401e31731827ef77825739fd66af45685f46a89d06177f4e66d51adf",
+      "purpose": "review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/审查图/02_背面.jpg",
+      "bytes": 116991,
+      "sha256": "f00a5f698fbe417866c1dd0e6cde64355186f4a7a2a149433e67a800f5a26ee3",
+      "purpose": "review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/审查图/03_右侧.jpg",
+      "bytes": 101493,
+      "sha256": "5a60a91937677809aa19637e93b8ad1dab22418cf4a7a2e604998523de7aa248",
+      "purpose": "review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/审查图/04_左侧.jpg",
+      "bytes": 99125,
+      "sha256": "d5dc64db7855985a3d4b811caf3b8a8eee9c8d56b99f3e3eed90bcde79420daf",
+      "purpose": "review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/审查图/05_前斜.jpg",
+      "bytes": 170601,
+      "sha256": "bef0454dc317497b022072453dbda6bc510f97be9c9287fc1ff2a5c309c128eb",
+      "purpose": "review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/审查图/06_后斜.jpg",
+      "bytes": 107175,
+      "sha256": "60b07c49e07872d2b799ce4c39e254ab5f1a7e676d966fcafc9f2d1b68f2da37",
+      "purpose": "review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/审查图/07_头颈局部.jpg",
+      "bytes": 216559,
+      "sha256": "40e8c088876a5adc50065ccbfe48b60a68857ee46780a214c3504a92723b24de",
+      "purpose": "review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/审查图/08_圆盘顶边.jpg",
+      "bytes": 110303,
+      "sha256": "593361b74a0f344f1322f98a39859f306aebec026d57c81c5921d320cdff128d",
+      "purpose": "review evidence"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-27_圆形花洒_形状基准/校准模型/正面实拍对照.jpg",
+      "bytes": 283817,
+      "sha256": "e87465560c402fcbf2e635f25a4d5446f3bc776d51d409ed29a9a8e5d34aeba7",
+      "purpose": "review evidence"
+    }
+  ],
+  "local_revisions": [
+    "First: connector depth centering and microhole mouth readability",
+    "Second: continuous front surface removing inherited circular crease; rounded insert tail per root review"
+  ],
+  "source_template_sha256_matches_original": true
+}

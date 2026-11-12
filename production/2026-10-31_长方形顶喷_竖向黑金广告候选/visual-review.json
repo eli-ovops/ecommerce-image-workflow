@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-31",
+  "owner": "root",
+  "status": "ADVERTISING_CANDIDATE_WITH_PANEL_REALISM_GAP",
+  "actual_visual_reads": ["387 and399 original references", "382 original SKU photograph", "372-native-detail.jpg and382-native-detail.jpg", "scene-preview.jpg andpanel-close-preview.jpg", "scene-preview-v2.jpg", "upright-advertising.jpg final1600", "source-scale-comparison.jpg with final-lighting75mm render", "phone.jpg390px"],
+  "source_read_reuse": "372/376/374 original photographs opened in the immediately preceding revision; same source files and SKU, no changes inferred from merchant images.",
+  "composition": "New upright slightly leaning large subject, visible stone countertop and rear wall, warm vertical architectural light and horizontal reveal, wall corner depth, contact shadow. Product occupies75.12percent of image height. No packaging, people, water, needles, text or logos.",
+  "product_changes": "Only panel mesh refined: former narrow ring engravings replaced by full shallow insets at the same petal planar centers and extents. Estimated0.28mm recess and0.16mm edge treatment. Eight other meshes unchanged. Existing inner shell rear face receives a dark cavity shader, not a new occluder or plugged hole.",
+  "observed_improvement": ["Panel close-up now shows visible fine grain and recessed dark edges rather than only flat thin lines", "Final detail no longer has the white hole-center highlights seen in initial preview", "Silver rim and sidewall separate from black panel; red knob remains red", "Scene has actual vertical advertising composition and shared light/shadow rather than recolored prior flat studio frame"],
+  "remaining_gaps": ["Compared with actual372, petal edge bright line is still weak; some portions read as larger arcs or half-moons rather than a clearly bounded shallow almond-shaped recess", "Preserving recipe centers/planar outer extents does not prove visual shape equivalence; panel-realism acceptance remains open", "Micrograin appears somewhat uniform and model-like", "Silver sidewall reflection is more idealized than actual374", "Stone vein rendering remains procedural and the scene is not claimed photoreal"],
+  "same_scale_limit": "Source patch uses the previous372 rectification and hole-map registration to approximate a75mm field, rotated for upright orientation. This is a readability comparison, not calibrated metrology or a pixel correspondence guarantee.",
+  "technical_evidence": "Reopened geometry checks PASS:300x200x20mm shell, same nine parts, only panel mesh changed, relative transforms preserved,96 original candidate holes open,132 blind circles closed, panel manifold with no degenerate faces, bottom/rear contacts within checked tolerance.",
+  "unknowns": ["Exact groove profile/depth and microtexture physical measurements", "Factory-confirmed hole list", "Connector thread specification", "Customer acceptance", "Actual runtime model field"],
+  "no_ai_product_pixels": true,
+  "customer_acceptance": "UNKNOWN"
+}

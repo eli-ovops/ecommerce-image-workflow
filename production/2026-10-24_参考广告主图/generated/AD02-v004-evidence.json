@@ -1,0 +1,107 @@
+{
+  "base": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_参考广告主图/generated/AD02-v002-native.png",
+  "base_sha256": "bee67ca533c700bd7c2c2e2398e30cd2f89d0d52af059d10b8847d93b104b519",
+  "tool_source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_参考广告主图/generated/AD02-roi-tool-native.png",
+  "tool_source_sha256": "942d9ad82eadfc26805d5001db58181403984118e2d25459a2668828b9d7a439",
+  "new_imagegen_calls": 0,
+  "single_ring_source_box_xyxy_exclusive": [
+    41,
+    165,
+    121,
+    245
+  ],
+  "single_ring_source_size": [
+    80,
+    80
+  ],
+  "single_ring_resampled_size": [
+    21,
+    21
+  ],
+  "single_ring_source_has_one_bright_connected_component": [
+    1615
+  ],
+  "placements": [
+    {
+      "id": "A",
+      "center": [
+        455,
+        208
+      ],
+      "paste": [
+        445,
+        198
+      ],
+      "radii": [
+        9.5,
+        9.5
+      ]
+    },
+    {
+      "id": "B",
+      "center": [
+        515,
+        342
+      ],
+      "paste": [
+        505,
+        332
+      ],
+      "radii": [
+        9.5,
+        10
+      ]
+    },
+    {
+      "id": "C",
+      "center": [
+        706,
+        382
+      ],
+      "paste": [
+        696,
+        372
+      ],
+      "radii": [
+        10,
+        10
+      ]
+    }
+  ],
+  "tail_removal": "D from same existing tool ROI; no new ring",
+  "tail_source_roi_crop_xyxy": [
+    116,
+    33,
+    133,
+    46
+  ],
+  "tail_destination_xyxy": [
+    551,
+    193,
+    568,
+    206
+  ],
+  "mask": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_参考广告主图/generated/AD02-v004-mask.png",
+  "mask_sha256": "46125134b6870113d7051921979f64cfceaa8eb51bec2bdf06aa2858be2c124c",
+  "mask_pixels": 1036,
+  "mask_fraction": 0.0006588168260291151,
+  "outside_changed_pixels": 0,
+  "outside_max_channel_delta": 0,
+  "three_tight_roi_white_connected_component_areas": {
+    "A": [
+      112
+    ],
+    "B": [
+      112
+    ],
+    "C": [
+      112
+    ]
+  },
+  "component_check_limit": "threshold160, components>8pixels; each tight21x21 destination contains one white ring component; this is local count not real-product nozzle mapping proof",
+  "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_参考广告主图/generated/AD02-v004-composite.png",
+  "output_sha256": "34229709b4a9979c5b3bfa0ea4582c6fa12ba760a21db01015238e3f4304a55a",
+  "verification": "lossless PNG reopened, external pixels compared; no JPEG guarantee",
+  "previous_v003_retained": true,
+  "method": "single actual AI patch ring extracted and uniformly scaled, individually positioned through tight masks; not original-photo clone, not drawn ring"
+}

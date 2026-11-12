@@ -1,0 +1,557 @@
+{
+  "route": {
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN"
+  },
+  "assets": [
+    {
+      "id": "M01",
+      "role": "银色白底素材",
+      "reference_ids": [
+        "A038"
+      ],
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/M01.png",
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M01-v1.png",
+      "sha256": "f63af37ee572ef996ddb155826b6251183ba0eac834e7f1d42f78334f10daa4d",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "M02",
+      "role": "棕金单品广告",
+      "reference_ids": [
+        "R001",
+        "R009"
+      ],
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/M02.png",
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M02-v2.png",
+      "sha256": "566e25acbedeb606186758baafea6b9b0aa4f61e0821f25f34f1186d638ce821",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "M03",
+      "role": "冷蓝双视角广告",
+      "reference_ids": [
+        "A034"
+      ],
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/M03.png",
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M03-v1.png",
+      "sha256": "d9e3ca71770fd3557e5cd643ee2601c63b3e73ea682487ead819f2210801215a",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "M04",
+      "role": "手持主图与三水型窗",
+      "reference_ids": [
+        "R002",
+        "A036"
+      ],
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/M04.png",
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M04-fresh-v4.png",
+      "sha256": "f2b1fa01f3aecc8c3ca7d5e6303a26d49cfcaecedd51ec5510e670d01351a0cd",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "M05",
+      "role": "冷蓝除垢近景主图",
+      "reference_ids": [
+        "A035"
+      ],
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/M05.png",
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M05-v1.png",
+      "sha256": "bda91eff2cf534d44b25f99c2e3a889c7100d850c0d40af367dbdb63ef281ad1",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "M06",
+      "role": "场景与SKU同屏",
+      "reference_ids": [
+        "R008"
+      ],
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/M06.png",
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/M06-rebuild-v1.png",
+      "sha256": "47ee91952772cd88c34bbaa1ca8b8fd8954d6177317487a539e2004e4f95501e",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "M07",
+      "role": "暗底冲击主视觉",
+      "reference_ids": [
+        "R004"
+      ],
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/M07.png",
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M07-v2.png",
+      "sha256": "02a5b2066de7ae1a52768555d81f20b53a30aa1694fd99c08a470cffc17bd173",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "M08",
+      "role": "三项概览卡",
+      "reference_ids": [
+        "R012"
+      ],
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/M08.png",
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M08-v4.png",
+      "sha256": "e4a39c6aa3bda285e0c5f47f1e6c0358c0d5bbd454b96dbf848b5949f01b0b4d",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "K01",
+      "role": "银色选色SKU",
+      "reference_ids": [
+        "A002",
+        "A005"
+      ],
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/K01.png",
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/K01-v1.png",
+      "sha256": "f350fbf3c5c2e46c89e5a06a0f94030e07f8d865402e8777acc649a51d51c13b",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "K02",
+      "role": "黑色选色SKU",
+      "reference_ids": [
+        "A003"
+      ],
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/K02.png",
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/K02-v1.png",
+      "sha256": "5f3fa907b9388b98e8b0cc97499e04f18e386e46048c4276ea33e765ec52edc8",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "K03",
+      "role": "枪灰选色SKU",
+      "reference_ids": [
+        "A004"
+      ],
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/K03.png",
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/K03-v1.png",
+      "sha256": "b1bfeb26b6ad14ac22963172d6d573682f80ff64d4e44c28039a9dffd7925de2",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D01",
+      "role": "时尚人物首屏",
+      "reference_ids": [
+        "A006"
+      ],
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/D01.png",
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/D01-root-v3.png",
+      "sha256": "2986e8d8f02eda136342e55da108c8b70dc8541251351a484135a7368015da86",
+      "actual_dimensions": [
+        900,
+        1748
+      ],
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D03",
+      "role": "错落三色相册",
+      "reference_ids": [
+        "A008"
+      ],
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/D03.png",
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D03-fresh-v5.png",
+      "sha256": "59c3b271f555c42a49cce72e5ad17349bc27c6e1254de33b2770fc779185151b",
+      "actual_dimensions": [
+        1065,
+        1477
+      ],
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D04",
+      "role": "浴室场景与细节续幅",
+      "reference_ids": [
+        "A009",
+        "A010"
+      ],
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/D04.png",
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/D04-fresh-video-v2.png",
+      "sha256": "d07c9ec50b59cf697f1ec538e8a5cb3d583c28ae635753c3e2818d6781acfcb0",
+      "actual_dimensions": [
+        941,
+        1670
+      ],
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "user_acceptance": "PENDING",
+      "selected_source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/portrait-feedback-20261023/D04-portrait-new-person.png",
+      "postprocess_method": "Fresh M001 face and neck locally composited; product/water frozen"
+    },
+    {
+      "id": "D05",
+      "role": "五格功能与外观索引",
+      "reference_ids": [
+        "A011",
+        "R017"
+      ],
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/D05.png",
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D05-v2.png",
+      "sha256": "71433e2a3f152a9188098da410aba44c4f8bb11773efd6619ea1af8dff0b9480",
+      "actual_dimensions": [
+        1030,
+        1526
+      ],
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D06",
+      "role": "出水起点微距",
+      "reference_ids": [
+        "A012",
+        "A013",
+        "R007"
+      ],
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/D06.png",
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/D06-video-v1.png",
+      "sha256": "7d4b331f9d04e15e2c547699c9f11e3129b4369eccb3d96967a8a8d22c21e14d",
+      "actual_dimensions": [
+        1063,
+        1479
+      ],
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "user_acceptance": "PENDING",
+      "selected_source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/water-feedback-20261023/D06-local/composite.png",
+      "postprocess_method": "local layered water composite from frozen geometry candidate"
+    },
+    {
+      "id": "D07",
+      "role": "手持面板与下键定位",
+      "reference_ids": [
+        "A014",
+        "A015",
+        "R025"
+      ],
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/D07.png",
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D07-v4.png",
+      "sha256": "99430354269ac91dabc9025234cc36278661164d706d695b88117ead287f5ad7",
+      "actual_dimensions": [
+        876,
+        1795
+      ],
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D08",
+      "role": "三档黑底水型章",
+      "reference_ids": [
+        "A016",
+        "A017",
+        "A018",
+        "R023"
+      ],
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/D08.png",
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D08-v4.png",
+      "sha256": "4029c2681ab701f6ccf5b491e5da0a9e8b5a125093e89b79749cd41f3610f233",
+      "actual_dimensions": [
+        978,
+        1608
+      ],
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D11",
+      "role": "明亮浴室回眸",
+      "reference_ids": [
+        "A021",
+        "R026"
+      ],
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/D11.png",
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/D11-fresh-video-v5.png",
+      "sha256": "f3458900986918bdb29060f8c827a1c423299d8a2febadf6f232832f7ea6b8d6",
+      "actual_dimensions": [
+        899,
+        1749
+      ],
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "user_acceptance": "PENDING",
+      "selected_source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/portrait-feedback-20261023/D11-portrait-new-person.png",
+      "postprocess_method": "Fresh M001 face and neck locally composited; product/water frozen"
+    },
+    {
+      "id": "D12",
+      "role": "正背外观并置",
+      "reference_ids": [
+        "A022"
+      ],
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/D12.png",
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D12-v1.png",
+      "sha256": "68f16ab422240f88a5837c4d3069cfce120bed694c98d82a1248fed2af262bea",
+      "actual_dimensions": [
+        1115,
+        1411
+      ],
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D13",
+      "role": "外部部位放大图",
+      "reference_ids": [
+        "A023",
+        "A037"
+      ],
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/D13.png",
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D13-v2.png",
+      "sha256": "a953bce0ecb6b8852c236d95241c287f1b250e652fbdc41b434ede4a412bd92d",
+      "actual_dimensions": [
+        1111,
+        1415
+      ],
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D14",
+      "role": "手动除垢过程与状态",
+      "reference_ids": [
+        "A024",
+        "A025",
+        "A026"
+      ],
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/D14.png",
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D14-v1.png",
+      "sha256": "54e6cabad39ffbb5f10d9b63a2cd0ea66ffe3db637064023ec3a85d56cf56d27",
+      "actual_dimensions": [
+        979,
+        1607
+      ],
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D15",
+      "role": "背面侧壁双景别",
+      "reference_ids": [
+        "A027"
+      ],
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/D15.png",
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D15-v1.png",
+      "sha256": "4116a6d138269948a342267c080bb55826a7d782c4135d950936657a885e2070",
+      "actual_dimensions": [
+        1058,
+        1486
+      ],
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D16",
+      "role": "切档操作步骤页",
+      "reference_ids": [
+        "A028",
+        "R032",
+        "R006"
+      ],
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/D16.png",
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D16-v3.png",
+      "sha256": "693fcdff9ee286f0860624faa683ae4161b6c02bd024e7e33f4de90ddd6565a2",
+      "actual_dimensions": [
+        1116,
+        1410
+      ],
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D17",
+      "role": "握柄与曲面细节",
+      "reference_ids": [
+        "A029",
+        "A030",
+        "A031"
+      ],
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/D17.png",
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D17-v3.png",
+      "sha256": "219330112d1a15091926d46e6939d47176b70fef684691325abe80338948e916",
+      "actual_dimensions": [
+        1018,
+        1545
+      ],
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "D18",
+      "role": "B端已知信息收尾",
+      "reference_ids": [
+        "A032",
+        "A033",
+        "R034"
+      ],
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/D18.png",
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D18-v4.png",
+      "sha256": "e40fc3e78ef8a747af53b7938d7e74450474a93e008a5f8a86be89ebfedf1ae4",
+      "actual_dimensions": [
+        1019,
+        1544
+      ],
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "V01",
+      "role": "暖木场景与水流细节",
+      "reference_ids": [
+        "R003",
+        "R013",
+        "R015",
+        "R018"
+      ],
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/V01.png",
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/V01-root-v5.png",
+      "sha256": "6ed0fd410244c5a076d0cd824e63da81afcbaa02cc298403397f2972a5dd161a",
+      "actual_dimensions": [
+        936,
+        1680
+      ],
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "V02",
+      "role": "干态人物切档时尚页",
+      "reference_ids": [
+        "R022"
+      ],
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/V02.png",
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/V02-root-v3.png",
+      "sha256": "6152c8167fec88045fc5347c709f686588ac3888741f1cf6fee6a428e31d8782",
+      "actual_dimensions": [
+        1034,
+        1521
+      ],
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "V03",
+      "role": "暗底多角度曲面展示",
+      "reference_ids": [
+        "R027",
+        "R029"
+      ],
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/V03.png",
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/V03-fresh-v5.png",
+      "sha256": "d16649c4ff5bfaa7f450cbdaa2d47d56183a6bfa81bcf68a46d82e4ae4f71752",
+      "actual_dimensions": [
+        953,
+        1651
+      ],
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "V04",
+      "role": "沙纹除垢特写",
+      "reference_ids": [
+        "R024",
+        "R028"
+      ],
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/V04.png",
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/V04-v2.png",
+      "sha256": "6c75e186733f540f76d2f1a2f76761fd7105d7f70bb2a6628f1e0e55f30fc1d2",
+      "actual_dimensions": [
+        953,
+        1651
+      ],
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "V05",
+      "role": "岩石舞台单品",
+      "reference_ids": [
+        "R033",
+        "R031"
+      ],
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/V05.png",
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/V05-v1.png",
+      "sha256": "fd842ecb73a5a100612ff1a2395f34c03e45aae636c0cc2298aa042ce537c100",
+      "actual_dimensions": [
+        983,
+        1601
+      ],
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "user_acceptance": "PENDING"
+    },
+    {
+      "id": "V06",
+      "role": "外观图鉴与买前问答",
+      "reference_ids": [
+        "R010",
+        "R011",
+        "R016",
+        "R035"
+      ],
+      "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/final/V06.png",
+      "generated_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/V06-v3.png",
+      "sha256": "763f3947eea7458c90057f0fdaf507517fcda12298362e3d7b3768a36a48e7d6",
+      "actual_dimensions": [
+        911,
+        1727
+      ],
+      "qa_status": "PASS_WITH_LIMITATIONS",
+      "user_acceptance": "PENDING"
+    }
+  ]
+}

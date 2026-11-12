@@ -1,0 +1,67 @@
+{
+  "id": "M02",
+  "role": "棕金斜托盘广告",
+  "sku": "银色",
+  "refs_actual_viewed": [
+    {
+      "id": "R001",
+      "path": "references/2026-10-22_首批参考/01_微信参考原图/R001_主图_套装推荐.jpg",
+      "sha256": "f84d0f81c6417e52ed367a8756d235450cc63b05a91ef06be6dd7742f860dd2c"
+    }
+  ],
+  "review_reuse": "same approved current batch prior final visual review; no regeneration",
+  "source_files": [
+    {
+      "path": "production/2026-10-24_参考广告主图/final/AD01.jpg",
+      "sha256": "5258d1ad36ba0bcb22c33a3978d5b9195b1d2ea7552a5ba01fb64ebc28e5a6b4"
+    }
+  ],
+  "actual_inputs": [
+    {
+      "path": "production/2026-10-24_参考广告主图/final/AD01.jpg",
+      "sha256": "5258d1ad36ba0bcb22c33a3978d5b9195b1d2ea7552a5ba01fb64ebc28e5a6b4"
+    }
+  ],
+  "source_layers": [
+    {
+      "source": {
+        "path": "production/2026-10-24_参考广告主图/final/AD01.jpg",
+        "sha256": "5258d1ad36ba0bcb22c33a3978d5b9195b1d2ea7552a5ba01fb64ebc28e5a6b4"
+      },
+      "operation": "byte-identical JPG copy",
+      "source_kind": "previous_reviewed_final_JPG"
+    }
+  ],
+  "claims": [
+    "三档出水",
+    "下方按键切档",
+    "中央红钮手动按压除垢"
+  ],
+  "copy": "Reused unchanged; see upstream manifest approved_copy",
+  "output": {
+    "path": "production/2026-10-24_完整电商套图/generated/M02-reused.jpg",
+    "sha256": "5258d1ad36ba0bcb22c33a3978d5b9195b1d2ea7552a5ba01fb64ebc28e5a6b4"
+  },
+  "working": {
+    "path": "production/2026-10-24_完整电商套图/generated/M02-reused.jpg",
+    "sha256": "5258d1ad36ba0bcb22c33a3978d5b9195b1d2ea7552a5ba01fb64ebc28e5a6b4"
+  },
+  "dims": [
+    1254,
+    1254
+  ],
+  "transform": "byte copy, no recompression",
+  "notes": "复用当前已验JPG，不引用10/23失败旧商品",
+  "upstream_manifest": {
+    "path": "production/2026-10-24_参考广告主图/image-manifest.json",
+    "sha256": "fc8dbcc8589fdcd14dee8be1bccf6b97b1751e501eae0e30063c6a150953b5d7"
+  },
+  "status": "REUSED_AWAITING_PACKAGE_CHECK",
+  "refs": [
+    {
+      "id": "R001",
+      "path": "references/2026-10-22_首批参考/01_微信参考原图/R001_主图_套装推荐.jpg",
+      "sha256": "f84d0f81c6417e52ed367a8756d235450cc63b05a91ef06be6dd7742f860dd2c"
+    }
+  ]
+}

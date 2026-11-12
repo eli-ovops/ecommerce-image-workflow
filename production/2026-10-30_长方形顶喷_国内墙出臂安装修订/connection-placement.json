@@ -1,0 +1,23 @@
+{
+  "connector_axis_world": [
+    0.0,
+    0.5000000596046448,
+    0.8660253882408142
+  ],
+  "arm_terminal_world": [
+    0.0,
+    -0.08100000023841858,
+    2.1829090118408203
+  ],
+  "arm_terminal_product_local_m": [
+    0,
+    0,
+    -0.038
+  ],
+  "connector_open_end_product_local_m": [
+    0,
+    0,
+    -0.0397
+  ],
+  "description": "Arm terminal enters visible opening by 1.7mm, axis aligned. This is visual scene assembly only; thread and engineering compatibility UNKNOWN. Product rig is rotated as one rigid assembly; no part changed."
+}

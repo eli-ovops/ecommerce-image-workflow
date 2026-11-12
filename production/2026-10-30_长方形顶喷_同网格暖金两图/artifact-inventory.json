@@ -1,0 +1,170 @@
+[
+  {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-30_长方形顶喷_同网格暖金两图/01_银色完整顶喷.jpg",
+    "bytes": 512420,
+    "purpose": "new task output/source/verification; retain all versions",
+    "origin": "this two-image rendering task"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-30_长方形顶喷_同网格暖金两图/01_银色完整顶喷_v2.jpg",
+    "bytes": 481927,
+    "purpose": "new task output/source/verification; retain all versions",
+    "origin": "this two-image rendering task"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-30_长方形顶喷_同网格暖金两图/02_静态红钮近景_非拉出.jpg",
+    "bytes": 589143,
+    "purpose": "new task output/source/verification; retain all versions",
+    "origin": "this two-image rendering task"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-30_长方形顶喷_同网格暖金两图/02_静态红钮近景_非拉出_v2.jpg",
+    "bytes": 514527,
+    "purpose": "new task output/source/verification; retain all versions",
+    "origin": "this two-image rendering task"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-30_长方形顶喷_同网格暖金两图/README.md",
+    "bytes": 3177,
+    "purpose": "new task output/source/verification; retain all versions",
+    "origin": "this two-image rendering task"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-30_长方形顶喷_同网格暖金两图/delivery-manifest.json",
+    "bytes": 1961,
+    "purpose": "new task output/source/verification; retain all versions",
+    "origin": "this two-image rendering task"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-30_长方形顶喷_同网格暖金两图/mesh-and-transform-verification.json",
+    "bytes": 13365,
+    "purpose": "new task output/source/verification; retain all versions",
+    "origin": "this two-image rendering task"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-30_长方形顶喷_同网格暖金两图/mesh-and-transform-verification_v2.json",
+    "bytes": 13365,
+    "purpose": "new task output/source/verification; retain all versions",
+    "origin": "this two-image rendering task"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-30_长方形顶喷_同网格暖金两图/package-check.json",
+    "bytes": 461,
+    "purpose": "new task output/source/verification; retain all versions",
+    "origin": "this two-image rendering task"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-30_长方形顶喷_同网格暖金两图/render-v2.log",
+    "bytes": 1272,
+    "purpose": "new task output/source/verification; retain all versions",
+    "origin": "this two-image rendering task"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-30_长方形顶喷_同网格暖金两图/render.log",
+    "bytes": 1263,
+    "purpose": "new task output/source/verification; retain all versions",
+    "origin": "this two-image rendering task"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-30_长方形顶喷_同网格暖金两图/render_pair.py",
+    "bytes": 4797,
+    "purpose": "new task output/source/verification; retain all versions",
+    "origin": "this two-image rendering task"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-30_长方形顶喷_同网格暖金两图/render_pair_first.py",
+    "bytes": 4795,
+    "purpose": "new task output/source/verification; retain all versions",
+    "origin": "this two-image rendering task"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-30_长方形顶喷_同网格暖金两图/reopened-scene-check.json",
+    "bytes": 471,
+    "purpose": "new task output/source/verification; retain all versions",
+    "origin": "this two-image rendering task"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-30_长方形顶喷_同网格暖金两图/reopened-scene-check_v2.json",
+    "bytes": 471,
+    "purpose": "new task output/source/verification; retain all versions",
+    "origin": "this two-image rendering task"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-30_长方形顶喷_同网格暖金两图/source-record.json",
+    "bytes": 709,
+    "purpose": "new task output/source/verification; retain all versions",
+    "origin": "this two-image rendering task"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-30_长方形顶喷_同网格暖金两图/verify-fixed.log",
+    "bytes": 854,
+    "purpose": "new task output/source/verification; retain all versions",
+    "origin": "this two-image rendering task"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-30_长方形顶喷_同网格暖金两图/verify-v2.log",
+    "bytes": 857,
+    "purpose": "new task output/source/verification; retain all versions",
+    "origin": "this two-image rendering task"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-30_长方形顶喷_同网格暖金两图/verify.log",
+    "bytes": 843,
+    "purpose": "new task output/source/verification; retain all versions",
+    "origin": "this two-image rendering task"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-30_长方形顶喷_同网格暖金两图/verify_scene.py",
+    "bytes": 2034,
+    "purpose": "new task output/source/verification; retain all versions",
+    "origin": "this two-image rendering task"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-30_长方形顶喷_同网格暖金两图/visual-review.json",
+    "bytes": 1301,
+    "purpose": "new task output/source/verification; retain all versions",
+    "origin": "this two-image rendering task"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-30_长方形顶喷_同网格暖金两图/两图审阅总览.jpg",
+    "bytes": 277094,
+    "purpose": "new task output/source/verification; retain all versions",
+    "origin": "this two-image rendering task"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-30_长方形顶喷_同网格暖金两图/商品基线_v3.blend",
+    "bytes": 2407986,
+    "purpose": "new task output/source/verification; retain all versions",
+    "origin": "this two-image rendering task"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-30_长方形顶喷_同网格暖金两图/整图近景与实拍对照.jpg",
+    "bytes": 808869,
+    "purpose": "new task output/source/verification; retain all versions",
+    "origin": "this two-image rendering task"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-30_长方形顶喷_同网格暖金两图/暖金两图_可编辑源与证据.zip",
+    "bytes": 6875237,
+    "purpose": "new task output/source/verification; retain all versions",
+    "origin": "this two-image rendering task"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-30_长方形顶喷_同网格暖金两图/暖金两图_同一商品场景.blend",
+    "bytes": 2439821,
+    "purpose": "new task output/source/verification; retain all versions",
+    "origin": "this two-image rendering task"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-30_长方形顶喷_同网格暖金两图/暖金两图_同一商品场景_v2.blend",
+    "bytes": 2439809,
+    "purpose": "new task output/source/verification; retain all versions",
+    "origin": "this two-image rendering task"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-30_长方形顶喷_同网格暖金两图/暖金两张JPG.zip",
+    "bytes": 993235,
+    "purpose": "new task output/source/verification; retain all versions",
+    "origin": "this two-image rendering task"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-31",
+  "owner": "root",
+  "status": "STOPPED_AFTER_ONE_SOURCE_CORRECTION_VISUAL_FAIL",
+  "399": {"preview": "399-preview.jpg", "detail": "399-detail.jpg", "geometry_hole_gate": "PASS_WITH_PHOTO_CANDIDATE_LIMIT", "visual_gate": "FAIL", "advertising_gate": "FAIL", "high_resolution": "NOT_STARTED"},
+  "392": {"status": "NOT_STARTED_DEPENDS_ON_399_VISUAL_GATE", "needles": "NOT_CREATED", "stroke_and_linkage": "UNKNOWN"},
+  "attempts": ["Initial deterministic geometry plus high-pass photo relief: coarse texture, smooth circle-mask spots, cropped left edge", "One source correction: smoothed photo relief, uniform procedural grain, smaller circle masks and expanded framing"],
+  "actual_final_visual_observation": ["Distinct dark true-hole centers and closed circular dots visible in detail", "No extra through-hole geometry in sampled leaf centers", "No apparent duplicate hole pairs in the inspected detail; not a claim that every source coordinate was measured", "Leaf relief still has bright double contours and a pasted-looking raised trace", "Full image too dark/flat; silver side reflection and background do not match the advertising target"],
+  "source_pixels": "Original372-derived high-pass monochrome texture enters normal shading only, not photographic RGB/albedo. Masks exclude original circle/knob features to avoid double holes. Residual photographic lighting still contaminates the relief appearance.",
+  "not_used_as_input": ["06_392 AI candidate", "13_399 AI candidate", "previous failed generated images", "failed upright half-moon panel mesh"],
+  "unchanged_limits": ["300x200x20mm shell", "same photo-candidate hole IDs/regularized coordinates", "no factory-count or photogrammetry claim", "no functional accuracy or real needle travel claim"],
+  "customer_acceptance": "UNKNOWN",
+  "actual_runtime_model": "UNKNOWN"
+}

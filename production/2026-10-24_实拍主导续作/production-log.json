@@ -1,0 +1,498 @@
+{
+  "owner": "blender_product_model",
+  "batch": "5 photo-led continuation candidates",
+  "requested_model": "gpt-6-astra",
+  "requested_effort": "high",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "actual_speed": "UNKNOWN",
+  "routing_version": "ROUTING-2026-10-24-v5",
+  "permission_version": "PERMISSIONS-2026-10-14-v1",
+  "budget_version": "TOKEN-BUDGET-2026-10-24-v1",
+  "reference_read_receipt": "production/2026-10-22_参考重构/reference-map.md:31-37 reused",
+  "planned_ids": [
+    "K01",
+    "K02",
+    "R04",
+    "R05",
+    "R06"
+  ],
+  "generation_budget": 6,
+  "calls": [
+    {
+      "id": "K01",
+      "version": "v001",
+      "status": "candidate_for_independent_review",
+      "actual_call": {
+        "prompt": "Use case: product-mockup. Create one square premium real studio product PHOTOGRAPH for a single showerhead SKU, NO TEXT. Image1 is actual SKU front, images2 and3 actual opposite sides. These real photographs are the only authority for color, finish, controls, nozzle layout and shape. Image4 is an untextured clay side reference ONLY for broad continuous curvature, never its gray material or missing details. Image5 is a DIFFERENT product, STYLE ONLY for tidy near-front 3/4 catalog presentation; do not copy its product, six modes, transparent tube, filter, text or dimensions.\nReproduce the photographed actual product: round head with a definite cylindrical thickness rim and shallow curved back flowing continuously through a broad long upper-neck into the gentler lower handle. No abrupt shoulder, no straight stick glued to disc, no exaggerated gooseneck. Actual head diameter to handle length ratio. Black textured teardrop face panel with the actual dense off-white discrete circular nozzle rings and small dark center openings; retain actual spacing pattern, no smeared/fused/doubled rings. Concentric dense DARK tiny perimeter holes. Original small RED central control is a low wide flange with a smaller raised boss and dark center opening, NOT an oversized torus and no extra black pedestal. Separate lower rounded-rectangle BLACK selector exactly like this SKU's photographs. Entire actual body and short BLACK bare thread visible, no hose, connector extension, bracket, filter tube, hands, people or water. No brand/logo/icons/dimensions/material claims/certificates/text.\nComposition: single complete product upright with long axis vertical, near-front 3/4 with about15-degree yaw so the RIGHT cylindrical side edge is visible. Keep complete top and thread in view, product about76% of square frame height, centered at x60% with generous whitespace to upper-left and around edges. Minimal PURE WHITE to very pale neutral-gray seamless background, subtle contact shadow below short threaded end. Soft broad studio light, believable photographic textures and tonal falloff, crisp controls and ring centers. No artificial CG appearance. Actual BLACK SKU: very deep neutral BLACK semi-matte/satin shell and handle with broad gentle gray highlights. Black lower selector and black short thread. Do not turn into gunmetal gray or silver. Preserve real satin reflectance from images1–3; polished light edges only where real.",
+        "referenced_image_paths": [
+          "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185739_102_2.jpg",
+          "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185740_103_2.jpg",
+          "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185803_105_2.jpg",
+          "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v010a/renders/strict_side.jpg",
+          "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/sku/主图_07.jpg"
+        ],
+        "transparent_background": false
+      },
+      "prompt_file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导续作/prompts/K01-request.json",
+      "references": [
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185739_102_2.jpg",
+          "sha256": "04dcc913bfeafb9232a63686cb9cf4c5b47db3ea88275f25fdab30cdcabb6f2f",
+          "id": "BLK002",
+          "role": "actual own-SKU appearance authority",
+          "actually_viewed": true
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185740_103_2.jpg",
+          "sha256": "69bc47dfe914b578f1e7d4d8aa8fb6a5ca3c6180108401a380e282ddc331a32b",
+          "id": "BLK003",
+          "role": "actual own-SKU appearance authority",
+          "actually_viewed": true
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185803_105_2.jpg",
+          "sha256": "736f95fa8951eeaaabb2de81cbd1530f9111843a47952f539eceae225e34f87a",
+          "id": "BLK005",
+          "role": "actual own-SKU appearance authority",
+          "actually_viewed": true
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v010a/renders/strict_side.jpg",
+          "sha256": "87b0d943d94882adf26b46b88b1a52d0012f9780aedac3d6c571d7fcff1b4eeb",
+          "id": "v010a_side",
+          "role": "auxiliary curvature only",
+          "actually_viewed": true
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/sku/主图_07.jpg",
+          "sha256": "a03b30dfc08c4fa3509a3f20dc7e2d934b4d741dcff0fc41d03c0f1fbfb9de7a",
+          "id": "A003",
+          "role": "style only; source product/claims excluded",
+          "actually_viewed": true
+        }
+      ],
+      "actual_tool_output_path": "/Users/USER/.codex/generated_images/01a16d07-b34d-7ff3-afe5-dfc839dd6cb1/exec-6e3a12da-e8b3-4b0c-8cfa-f6cf490f2f9b.png",
+      "native_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导续作/generated/K01-v001-native.png",
+      "native_sha256": "691e984d789f44a83687f542daaa837efec50565d0de8f4f5d91d037c5b1b3d5",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "output_actually_viewed": true,
+      "saved_at": "2026-10-24T21:29:37.441770+08:00",
+      "additional_viewed_not_passed": [
+        {
+          "id": "BLK001",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185739_101_2.jpg",
+          "sha256": "6e8b9ac3ed7b70024346ca3a51fbdfa2ea8b5de4fa56b0b3b96a3171b4090a23",
+          "actually_viewed": true
+        }
+      ],
+      "self_review": "Black satin shell, black lower selector and bare thread; red control/white rings readable; full item. Occupancy about94% vs requested76%; root82% full canvas equal scaling planned.",
+      "suggested_typesetting_area": "Root82% isotropic full-canvas placement, upper-left color title"
+    },
+    {
+      "id": "K02",
+      "version": "v001",
+      "status": "candidate_for_independent_review",
+      "actual_call": {
+        "prompt": "Use case: product-mockup. Create one square premium real studio product PHOTOGRAPH for a single showerhead SKU, NO TEXT. Image1 is actual SKU front, images2 and3 actual opposite sides. These real photographs are the only authority for color, finish, controls, nozzle layout and shape. Image4 is an untextured clay side reference ONLY for broad continuous curvature, never its gray material or missing details. Image5 is a DIFFERENT product, STYLE ONLY for tidy near-front 3/4 catalog presentation; do not copy its product, six modes, transparent tube, filter, text or dimensions.\nReproduce the photographed actual product: round head with a definite cylindrical thickness rim and shallow curved back flowing continuously through a broad long upper-neck into the gentler lower handle. No abrupt shoulder, no straight stick glued to disc, no exaggerated gooseneck. Actual head diameter to handle length ratio. Black textured teardrop face panel with the actual dense off-white discrete circular nozzle rings and small dark center openings; retain actual spacing pattern, no smeared/fused/doubled rings. Concentric dense DARK tiny perimeter holes. Original small RED central control is a low wide flange with a smaller raised boss and dark center opening, NOT an oversized torus and no extra black pedestal. Separate lower rounded-rectangle BLACK selector exactly like this SKU's photographs. Entire actual body and short BLACK bare thread visible, no hose, connector extension, bracket, filter tube, hands, people or water. No brand/logo/icons/dimensions/material claims/certificates/text.\nComposition: single complete product upright with long axis vertical, near-front 3/4 with about15-degree yaw so the RIGHT cylindrical side edge is visible. Keep complete top and thread in view, product about76% of square frame height, centered at x60% with generous whitespace to upper-left and around edges. Minimal PURE WHITE to very pale neutral-gray seamless background, subtle contact shadow below short threaded end. Soft broad studio light, believable photographic textures and tonal falloff, crisp controls and ring centers. No artificial CG appearance. Actual GUNMETAL GRAY SKU: medium/dark metallic gray satin body and handle, noticeably lighter and more reflective than black, with fine subtle real texture and broad silver-gray highlights from actual photos. Front panel and lower selector remain BLACK, short bare thread is BLACK. Do not turn shell mirror chrome silver or matte jet black. Match real gunmetal photos.",
+        "referenced_image_paths": [
+          "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/枪灰色/原图/微信图片_20261022185804_106_2.jpg",
+          "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/枪灰色/原图/微信图片_20261022185805_107_2.jpg",
+          "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/枪灰色/原图/微信图片_20261022185806_109_2.jpg",
+          "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v010a/renders/strict_side.jpg",
+          "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/sku/主图_08.jpg"
+        ],
+        "transparent_background": false
+      },
+      "prompt_file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导续作/prompts/K02-request.json",
+      "references": [
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/枪灰色/原图/微信图片_20261022185804_106_2.jpg",
+          "sha256": "7ac7a4d7c35d2a4d68c5a2afe0ec784afbe2545026943306cb3216991690af2d",
+          "id": "GMT001",
+          "role": "actual own-SKU appearance authority",
+          "actually_viewed": true
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/枪灰色/原图/微信图片_20261022185805_107_2.jpg",
+          "sha256": "5f7e288bec394f38fa99f5b721b127c83a90594b15e3e38346993aae23a51f8c",
+          "id": "GMT002",
+          "role": "actual own-SKU appearance authority",
+          "actually_viewed": true
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/枪灰色/原图/微信图片_20261022185806_109_2.jpg",
+          "sha256": "cac8642c6aa599def138cf2c897385624ef6827b30142c0c8551c85cb6b5c361",
+          "id": "GMT004",
+          "role": "actual own-SKU appearance authority",
+          "actually_viewed": true
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v010a/renders/strict_side.jpg",
+          "sha256": "87b0d943d94882adf26b46b88b1a52d0012f9780aedac3d6c571d7fcff1b4eeb",
+          "id": "v010a_side",
+          "role": "auxiliary curvature only",
+          "actually_viewed": true
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/sku/主图_08.jpg",
+          "sha256": "741811c6add34bc9afd0f49043a5ba262a779e81a3492d4a852cd197e3d9c6e0",
+          "id": "A004",
+          "role": "style only; source product/claims excluded",
+          "actually_viewed": true
+        }
+      ],
+      "actual_tool_output_path": "/Users/USER/.codex/generated_images/01a16d07-b34d-7ff3-afe5-dfc839dd6cb1/exec-59621637-fd9b-4b78-a3ee-8366e61101fa.png",
+      "native_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导续作/generated/K02-v001-native.png",
+      "native_sha256": "b6fc8d6d5703974b1374c620efefb44556e3bf2422930bf2bb9d3ac05032f7a3",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "output_actually_viewed": true,
+      "saved_at": "2026-10-24T21:30:25.757512+08:00",
+      "additional_viewed_not_passed": [
+        {
+          "id": "GMT003",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/枪灰色/原图/微信图片_20261022185805_108_2.jpg",
+          "sha256": "7df2098f15a901bb0d22b9339a608f2349c8ae1a20584c9e387e41d29f889b90",
+          "actually_viewed": true
+        }
+      ],
+      "self_review": "Gunmetal is visibly lighter/more reflective than K01; lower selector/thread black per own photos. Full near-front view and white rings readable. High occupancy same as K01.",
+      "suggested_typesetting_area": "Same as K01"
+    },
+    {
+      "id": "R04",
+      "version": "v001",
+      "status": "candidate_for_independent_review",
+      "actual_call": {
+        "prompt": "Use case: ads-marketing. One square clean TWO-CARD product-controls detail photograph composition, no text. Image1 actual silver front, image2 actual closeup, image3 actual side, image4 actual pressed-button closeup is only construction evidence and MUST NOT contribute hand/press-action/red protruding pins. Image5 is STYLE ONLY: borrow its two side-by-side equal cards and blue-white restrained hierarchy, NOT its skin, droplets, VS, claims or objects. ACTUAL PRODUCT DETAILS: realistic bright mirror SILVER shell/rim, black finely textured face, dense small off-white separate nozzle rings each with a dark center, original dark microhole outer border. Central RED control is the actual low wide circular flange plus smaller concentric raised boss with dark center opening; do not enlarge relative to neighboring holes, do not replace with a huge doughnut or add a new black pedestal. The separate lower button is the actual shiny SILVER rounded-rectangle in black insert, not black and not a red control. Exact source-photo visual character, not CG clay. No text, letters, logos, arrows, diagrams, performance comparisons, dimensions, filter parts, certificates, human/hand/finger, water or spray. Dry resting product; no press-action, no long red needles, no exploding internals. Real product photographs override all other references. LAYOUT: pure white / very pale cool gray square canvas. Leave upper18% totally empty for a future title. From x6–48% and x52–94%, y28–75%, show two equal clean rectangular photo windows separated by a narrow white gutter, flat and borderless. LEFT window: a tight photographic crop of the true CENTRAL RED control surrounded by several rows of actual white ring nozzles on black face. Red button at window center, photographed near-front, about20% of window width, not a giant new part. RIGHT window: a separate tight crop of the actual LOWER SILVER selector, black insert and a little surrounding mirror silver neck; selector centered, recognizable rounded rectangle, actual curvature and polished highlight. These are two magnified areas of the SAME actual silver product, no invented additional button. Focus and light match; glossy silver only in right window, real fine dark face texture in left. Both controls resting, no visible hand. Leave y78–95% beneath both windows blank white for independently added Chinese captions. No rendered text or placeholder boxes. Do not show the whole showerhead twice; two distinct detail windows only.",
+        "referenced_image_paths": [
+          "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+          "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+          "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg",
+          "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184355_94_2.jpg",
+          "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_15.jpg"
+        ],
+        "transparent_background": false
+      },
+      "prompt_file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导续作/prompts/R04-request.json",
+      "references": [
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+          "sha256": "6de02f19793c568c799762525475cd0241af1b9c41487580383be4efbd2a1fa2",
+          "id": "SIL001",
+          "role": "actual own-SKU appearance authority",
+          "actually_viewed": true
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+          "sha256": "0b388756f0ee2e35630dac7789237153d390fa8aaab8f58f6e2643d4181be21d",
+          "id": "SIL005",
+          "role": "actual own-SKU appearance authority",
+          "actually_viewed": true
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg",
+          "sha256": "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90",
+          "id": "SIL004",
+          "role": "actual own-SKU appearance authority",
+          "actually_viewed": true
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184355_94_2.jpg",
+          "sha256": "10dcfb2cad17faf397a03e0587da0ad19c76229fe801e090fee527a3fbc1a412",
+          "id": "SIL006",
+          "role": "actual construction evidence only; hand/press/pins excluded",
+          "actually_viewed": true
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_15.jpg",
+          "sha256": "80c0f2df083f06cb2f3eb89eeee27a21b9969213f3f693035b559a25736ed034",
+          "id": "A020",
+          "role": "style only; source product/claims excluded",
+          "actually_viewed": true
+        }
+      ],
+      "actual_tool_output_path": "/Users/USER/.codex/generated_images/01a16d07-b34d-7ff3-afe5-dfc839dd6cb1/exec-86feeb75-59c2-45ff-bc14-33b7d998364b.png",
+      "native_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导续作/generated/R04-v001-native.png",
+      "native_sha256": "fad90b6fcef5939a1c16f9d1a8c5bf1fedc172b343bcba2d67764e3f0a8149bd",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "output_actually_viewed": true,
+      "saved_at": "2026-10-24T21:34:00.847179+08:00",
+      "additional_viewed_not_passed": [
+        {
+          "id": "A023",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_18.jpg",
+          "sha256": "2159c43045000b669ed3d67e26ab674910a41adaad67d1da40f3c5de0923fb6c",
+          "actually_viewed": true
+        },
+        {
+          "id": "A024",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_19.jpg",
+          "sha256": "5e8e8e5d4b5a20eb1866e2746a0a8dc5795e11c43414e1dca1e2e97edc1b0cdd",
+          "actually_viewed": true
+        },
+        {
+          "id": "A025",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_20.jpg",
+          "sha256": "3f746d882e83ad3646d5fd6a8638414dd425c0e03a3b2c5962406d0f1143888e",
+          "actually_viewed": true
+        },
+        {
+          "id": "A026",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_21.jpg",
+          "sha256": "fef953c92593aa7192faf6522ace726912f253276891ce03f1d0c82fe0b43455",
+          "actually_viewed": true
+        }
+      ],
+      "self_review": "Two independent magnifications of actual controls: red flange left and silver selector right. No hand/action/water/pins. White rings read separately.",
+      "suggested_typesetting_area": "1254px title x65..1150,y70..190; left caption x50..595/right650..1200,y1010..1180; photos y247..969"
+    },
+    {
+      "id": "R05",
+      "version": "v001",
+      "status": "candidate_for_independent_review",
+      "actual_call": {
+        "prompt": "Use case: ads-marketing. One square premium MACRO real product photograph, no text. Image1 actual silver face/button closeup, image2 actual whole front, image3 actual side. Image4 is STYLE ONLY A025: borrow its large detailed panel crop and calm pale blue-white upper-left title space, NOT its different white product, hand rubbing, typography, icons or performance claims. ACTUAL PRODUCT DETAILS: realistic bright mirror SILVER shell/rim, black finely textured face, dense small off-white separate nozzle rings each with a dark center, original dark microhole outer border. Central RED control is the actual low wide circular flange plus smaller concentric raised boss with dark center opening; do not enlarge relative to neighboring holes, do not replace with a huge doughnut or add a new black pedestal. The separate lower button is the actual shiny SILVER rounded-rectangle in black insert, not black and not a red control. Exact source-photo visual character, not CG clay. No text, letters, logos, arrows, diagrams, performance comparisons, dimensions, filter parts, certificates, human/hand/finger, water or spray. Dry resting product; no press-action, no long red needles, no exploding internals. Real product photographs override all other references. COMPOSITION: ONE large macro photograph only, not a full product and not a two-card design. Upper-left/top28% clear pale icy blue-white negative space. From middle to bottom-right, the real BLACK circular face fills frame; crop its lower/right edges naturally to show a generous local field of crisp individual WHITE nozzle rings and the original RED central control. Red control positioned around x65%,y64%, approximately16% of frame width at the SAME relative scale to real rings as the original actual photo. Show about8–12 visible nozzle spacings across the crop; individual rings should appear tactile and separate, with dark recessed center holes, no smears or duplicate-ring ghosts. The real silver rim can curve through far lower/right edge but do not add long handle or lower selector: this image is exclusively the central face/button/nozzle detail. Camera near-front with slight photo perspective. Natural fine black surface texture, realistic red plastic gloss and softly reflective silver edge. Clean dry unpressed state; no red needles protruding, no hand, no water. Do not represent a before/after cleaning demonstration.",
+        "referenced_image_paths": [
+          "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+          "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+          "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg",
+          "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_20.jpg"
+        ],
+        "transparent_background": false
+      },
+      "prompt_file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导续作/prompts/R05-request.json",
+      "references": [
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+          "sha256": "0b388756f0ee2e35630dac7789237153d390fa8aaab8f58f6e2643d4181be21d",
+          "id": "SIL005",
+          "role": "actual own-SKU appearance authority",
+          "actually_viewed": true
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+          "sha256": "6de02f19793c568c799762525475cd0241af1b9c41487580383be4efbd2a1fa2",
+          "id": "SIL001",
+          "role": "actual own-SKU appearance authority",
+          "actually_viewed": true
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg",
+          "sha256": "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90",
+          "id": "SIL004",
+          "role": "actual own-SKU appearance authority",
+          "actually_viewed": true
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_20.jpg",
+          "sha256": "3f746d882e83ad3646d5fd6a8638414dd425c0e03a3b2c5962406d0f1143888e",
+          "id": "A025",
+          "role": "style only; source product/claims excluded",
+          "actually_viewed": true
+        }
+      ],
+      "actual_tool_output_path": "/Users/USER/.codex/generated_images/01a16d07-b34d-7ff3-afe5-dfc839dd6cb1/exec-9455e833-3859-4c6d-9c8b-17ce64c280e6.png",
+      "native_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导续作/generated/R05-v001-native.png",
+      "native_sha256": "331e4345db7086b27b831db90e1bf8521feac9ca20405123c659454f2f63e2dd",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "output_actually_viewed": true,
+      "saved_at": "2026-10-24T21:35:41.346454+08:00",
+      "additional_viewed_not_passed": [
+        {
+          "id": "SIL006",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184355_94_2.jpg",
+          "sha256": "10dcfb2cad17faf397a03e0587da0ad19c76229fe801e090fee527a3fbc1a412",
+          "actually_viewed": true
+        },
+        {
+          "id": "A024",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_19.jpg",
+          "sha256": "5e8e8e5d4b5a20eb1866e2746a0a8dc5795e11c43414e1dca1e2e97edc1b0cdd",
+          "actually_viewed": true
+        },
+        {
+          "id": "A026",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_21.jpg",
+          "sha256": "fef953c92593aa7192faf6522ace726912f253276891ce03f1d0c82fe0b43455",
+          "actually_viewed": true
+        }
+      ],
+      "self_review": "One macro face crop: full red control lower-right, discrete white rings and dark perimeter holes. No press-action/pins/hand/water. Distinct from R04 and earlier R03.",
+      "suggested_typesetting_area": "1254px short two-line title x65..620,y60..210; avoid lower-left silver rim"
+    },
+    {
+      "id": "R06",
+      "version": "v001",
+      "status": "review_required_visible_defects",
+      "actual_call": {
+        "prompt": "Use case: product-mockup. One square minimal high-end PRODUCT CATALOG photograph showing THREE VIEWS of the same real silver showerhead, no text. Image1 actual front, image2 actual back, image3 actual side are visual authority. Image4 is clay side ONLY to clarify continuous curvature, not material or finished product. Image5 A034 is STYLE ONLY for front/back co-display; do not copy its white face, transparent handle, jet, wording or claims. ACTUAL PRODUCT DETAILS: realistic bright mirror SILVER shell/rim, black finely textured face, dense small off-white separate nozzle rings each with a dark center, original dark microhole outer border. Central RED control is the actual low wide circular flange plus smaller concentric raised boss with dark center opening; do not enlarge relative to neighboring holes, do not replace with a huge doughnut or add a new black pedestal. The separate lower button is the actual shiny SILVER rounded-rectangle in black insert, not black and not a red control. Exact source-photo visual character, not CG clay. No text, letters, logos, arrows, diagrams, performance comparisons, dimensions, filter parts, certificates, human/hand/finger, water or spray. Dry resting product; no press-action, no long red needles, no exploding internals. Real product photographs override all other references. Retain real full product proportion, round head with a clear cylindrical thickness band, shallow rear shell, long smoothly flowing head-to-neck transition and gently curved lower grip. No short shoulder/bulge, no straight flat paddle and no exaggerated gooseneck. SILVER mirror photographed finish, not matte CG steel. Back is smoothly continuous and CLEAN, without central circular spot, sticker, disc, printed mark, patch, scale stain or extra rear button. The circular gray mark in actual back photo is unwanted surface contamination/reflection, NOT a designed part; remove it in studio presentation. No room grid/person reflected in shell; broad clean studio reflections instead.\nLAYOUT: white / very pale neutral-gray seamless square. Three separated NON-OVERLAPPING full-length views aligned at their tops and threaded bottoms, each about70% canvas height, top18% and bottom10% clear for later labels. Left x23%: near-front view with red center and silver lower selector; center x55%: rear view with clean mirror back; right x84%: strict SIDE profile, narrow, showing true continuous long shallow C-curve, cylindrical head rim and gradual neck. All three same product size and proportions under consistent soft studio lighting, complete and uncropped, no duplicate ghost bodies. The side head must keep real axial thickness all the way around cylinder, not taper to sharp top. Remove actual hands, hose and quick-release coupler. Every view ends only in short bare SILVER thread (color confirmed), no long adapters. Mild soft contact shadows only, no rocks or decorations. Do not add any labels/text.",
+        "referenced_image_paths": [
+          "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+          "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184344_90_2.jpg",
+          "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg",
+          "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v010a/renders/strict_side.jpg",
+          "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/主图/主图_01.jpg"
+        ],
+        "transparent_background": false
+      },
+      "prompt_file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导续作/prompts/R06-request.json",
+      "references": [
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+          "sha256": "6de02f19793c568c799762525475cd0241af1b9c41487580383be4efbd2a1fa2",
+          "id": "SIL001",
+          "role": "actual own-SKU appearance authority",
+          "actually_viewed": true
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184344_90_2.jpg",
+          "sha256": "9f6e724d9fc0e01a0670fbd1964d4a3e2e32d985447bcdb99fc98fe147526eb1",
+          "id": "SIL002",
+          "role": "actual own-SKU appearance authority",
+          "actually_viewed": true
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg",
+          "sha256": "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90",
+          "id": "SIL004",
+          "role": "actual own-SKU appearance authority",
+          "actually_viewed": true
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v010a/renders/strict_side.jpg",
+          "sha256": "87b0d943d94882adf26b46b88b1a52d0012f9780aedac3d6c571d7fcff1b4eeb",
+          "id": "v010a_side",
+          "role": "auxiliary curvature only",
+          "actually_viewed": true
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/主图/主图_01.jpg",
+          "sha256": "c9eb34ab7c3930539b2a7393aedfad97e3c00fd5f4165a1972d4e54207d7a663",
+          "id": "A034",
+          "role": "style only; source product/claims excluded",
+          "actually_viewed": true
+        }
+      ],
+      "actual_tool_output_path": "/Users/USER/.codex/generated_images/01a16d07-b34d-7ff3-afe5-dfc839dd6cb1/exec-85ca80a6-9d57-4416-b3cb-1006c15d060a.png",
+      "native_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导续作/generated/R06-v001-native.png",
+      "native_sha256": "f7a8dd9bedd006948a746cfe15067d8756ec72b5b34b2abc59f9b6f2ea6e958d",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "output_actually_viewed": true,
+      "saved_at": "2026-10-24T21:37:35.399539+08:00",
+      "additional_viewed_not_passed": [
+        {
+          "id": "SIL003",
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184345_91_2.jpg",
+          "sha256": "8d41d23e8e762b1e9208796587c36db70ea8e452ee2e3fdd3604f97c7f40dd60",
+          "actually_viewed": true
+        }
+      ],
+      "self_review": "Full three views and clean back. Visible front nozzle artifacts near(302,218),(289,424),(425,331). Side above lower selector shows sharp black contour/highlight; uncertain reflection vs generated shape, requires root shape review. Do not mark PASS.",
+      "suggested_typesetting_area": "Only top0..95px empty; if selected root may equally shrink full canvas; labels y1170..1220"
+    },
+    {
+      "id": "R06",
+      "version": "v002",
+      "status": "candidate_for_independent_review",
+      "actual_call": {
+        "prompt": "Use case: product-mockup. ONE square premium real studio catalog photograph with exactly TWO FULL VIEWS of the SAME silver showerhead: front on left, rear on right. NO THIRD VIEW, NO SIDE VIEW, no text. Image1 real silver front photo, image2 real silver back photo, image3 real side photo are the appearance/geometry authority. Image4 untextured gray side model is SECONDARY ONLY to explain continuous curvature, not its gray material. Image5 A034 is STYLE ONLY for front/back co-display, not its different product, tube, filter, water, dimensions or claims.\nCRITICAL LAYOUT: 1:1 square canvas, plain white/pale neutral gray seamless studio. Top14% (about175pixels in1254) must be EMPTY for title; bottom12% (150pixels) EMPTY for labels. Two complete uncropped products upright, aligned top and threaded bottom, each about72% canvas height, centered x30% and x73%. Generous gap, no overlap. Left front oriented nearly straight toward camera, showing entire black face and both real controls. Right actual back, front face NOT visible. Complete lower handles and short bare SILVER threaded ends. Do not magnify product to fill entire canvas.\nTRUE PRODUCT: bright mirror SILVER smooth curved shell/handle and true cylindrical head edge, shallow rear dome continuously flowing through a long gentle neck into lower grip. Same exact head-to-handle proportions across views. Do not invent a narrow pinched waist/abrupt shoulder, big rear bubble, straight racket stick or extra rear features. Back is one clean uninterrupted silver shell with broad photographic studio reflections: NO circular spot/patch/sticker/button/scale mark; the gray circle in input2 is not a product feature and must not be reproduced. Remove hand/bathroom/person/ceiling grid reflections; use neutral clean softbox reflections.\nFront real fine-textured BLACK teardrop face with the true organized dense white-ring nozzle array and outer concentric tiny DARK hole border. Every white ring must be ONE crisp separate off-white circular ring surrounding ONE dark opening. All rings have clean edges, no triangular tails, melted smears, connected pairs or duplicated ghost rings; preserve original spacing and shape at this larger front-view size. Central RED control must retain real small low-wide flange with smaller concentric raised boss and dark center opening. No oversized torus/new black disc. Lower separate rounded-rectangle selector is shiny SILVER in black insert, not black. Photographic material character, not gray clay CGI.\nDry resting product only. NO person, hand, finger, water, spray, extended needles, arrows, labels, logos, claims, certificates, tube/filter, hose, holder or quick-release adapter. Remove photographed connection accessories while preserving actual handle; short bare SILVER thread only. Same soft balanced studio lighting for both views, subtle contact shadows, no props. Do not copy the reference's wrong product or typography.",
+        "referenced_image_paths": [
+          "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+          "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184344_90_2.jpg",
+          "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg",
+          "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v010a/renders/strict_side.jpg",
+          "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/主图/主图_01.jpg"
+        ],
+        "transparent_background": false
+      },
+      "prompt_file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导续作/prompts/R06-v002-request.json",
+      "references": [
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+          "sha256": "6de02f19793c568c799762525475cd0241af1b9c41487580383be4efbd2a1fa2",
+          "id": "SIL001",
+          "role": "actual silver front",
+          "actually_viewed": true
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184344_90_2.jpg",
+          "sha256": "9f6e724d9fc0e01a0670fbd1964d4a3e2e32d985447bcdb99fc98fe147526eb1",
+          "id": "SIL002",
+          "role": "actual silver back; remove round spot per user",
+          "actually_viewed": true
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg",
+          "sha256": "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90",
+          "id": "SIL004",
+          "role": "actual silver side",
+          "actually_viewed": true
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v010a/renders/strict_side.jpg",
+          "sha256": "87b0d943d94882adf26b46b88b1a52d0012f9780aedac3d6c571d7fcff1b4eeb",
+          "id": "v010a_side",
+          "role": "auxiliary curvature only",
+          "actually_viewed": true
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/主图/主图_01.jpg",
+          "sha256": "c9eb34ab7c3930539b2a7393aedfad97e3c00fd5f4165a1972d4e54207d7a663",
+          "id": "A034",
+          "role": "front/back coexistence style only",
+          "actually_viewed": true
+        }
+      ],
+      "actual_tool_output_path": "/Users/USER/.codex/generated_images/01a16d07-b34d-7ff3-afe5-dfc839dd6cb1/exec-35abc574-9cf5-4f15-9be4-92703a5a1151.png",
+      "native_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导续作/generated/R06-v002-native.png",
+      "native_sha256": "2187eb5dfff71d66686d40736240218e838a2af749a9341f00b26a05007ca4f6",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "output_actually_viewed": true,
+      "self_review": "Two complete front/rear views, clean mirror silver rear without round spot. Front ring smears seen in v001 not obvious in this new candidate; no per-hole precise claim. Full silver bare threads, silver selector and red flange clear. Product still about86% height, can shrink full canvas equally for title/labels. No side-view geometry verification claim.",
+      "saved_at": "2026-10-24T21:41:54.384229+08:00"
+    }
+  ],
+  "status": "selected five candidates saved, pending root review; rejected R06v001 preserved",
+  "claim_limits": [
+    "photo guided generation, not exact pixel lock",
+    "not customer acceptance",
+    "no precise per-hole matching claim"
+  ],
+  "completed_generation_calls": 6,
+  "reference_mismatch_notes": {
+    "A020": "Actual skin/water droplet comparison; only two-card layout used",
+    "A023": "Actual filtration exploded-layer graphic; viewed, not used",
+    "A024": "Actual filter color-age/water comparison; viewed, not used",
+    "A025": "Actual hand rubs white-face panel; only large panel-crop style used, no hand/claims",
+    "A026": "Actual nozzle bending schematic; viewed, not used"
+  },
+  "inflight_generation_calls": 0,
+  "updated_at": "2026-10-24T21:39:13.647554+08:00",
+  "budget_extension": "Root authorized exactly one R06 simplified two-view regeneration after v001 visible defects; no old generated R06 input",
+  "selected_versions": {
+    "K01": "v001",
+    "K02": "v001",
+    "R04": "v001",
+    "R05": "v001",
+    "R06": "v002"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "base": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_参考广告主图/generated/AD02-v002-native.png",
+  "base_sha256": "bee67ca533c700bd7c2c2e2398e30cd2f89d0d52af059d10b8847d93b104b519",
+  "roi_rectangle_xyxy_exclusive": [
+    435,
+    160,
+    735,
+    460
+  ],
+  "roi_original_size": [
+    300,
+    300
+  ],
+  "edit_input_scale": 3,
+  "tool_output_path": "/Users/USER/.codex/generated_images/01a16d07-b34d-7ff3-afe5-dfc839dd6cb1/exec-db5e6152-f055-43cb-9262-ee5ca6cef425.png",
+  "tool_native": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_参考广告主图/generated/AD02-roi-tool-native.png",
+  "tool_native_sha256": "942d9ad82eadfc26805d5001db58181403984118e2d25459a2668828b9d7a439",
+  "tool_native_size": [
+    1254,
+    1254
+  ],
+  "mapping": "uniform1254x1254 to300x300 Lanczos then paste435,160; no rotation/nonuniform warp",
+  "mask": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_参考广告主图/generated/AD02-roi-mask.png",
+  "mask_sha256": "6fb96a3d982b4d8a5e9bb0916bd50033327a9813c276afe2d73210f4779715f2",
+  "mask_ellipses": [
+    {
+      "id": "A",
+      "center": [
+        455,
+        208
+      ],
+      "radii": [
+        11,
+        11
+      ]
+    },
+    {
+      "id": "B",
+      "center": [
+        515,
+        342
+      ],
+      "radii": [
+        12,
+        11
+      ]
+    },
+    {
+      "id": "C",
+      "center": [
+        704,
+        382
+      ],
+      "radii": [
+        15,
+        12
+      ]
+    },
+    {
+      "id": "D_remove_tail",
+      "center": [
+        559,
+        199
+      ],
+      "radii": [
+        8,
+        6
+      ]
+    }
+  ],
+  "feather": "alpha1 through normalized ellipse radius0.85, linear to0 at1.0",
+  "mask_pixels": 1476,
+  "mask_fraction": 0.0009386232000183146,
+  "outside_changed_pixels": 0,
+  "outside_max_channel_delta": 0,
+  "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_参考广告主图/generated/AD02-v003-composite.png",
+  "output_sha256": "da087f30e4b10345287b938f98f309e52717896a93b87cfb6d74111e87da98b6",
+  "verification": "lossless PNG reopened and compared; not JPEG pixel guarantee",
+  "not_fullframe_native_output": true,
+  "not_exact_hole_mapping_claim": true
+}

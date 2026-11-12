@@ -1,0 +1,62 @@
+{
+  "blender": "5.2.2 LTS",
+  "source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v010a/shower_black_clay_v010a.blend",
+  "geometry_modified": false,
+  "meshes": [
+    {
+      "name": "04 Lower three-mode selector button",
+      "dimensions_m": [
+        0.02132776752114296,
+        0.0041371900588274,
+        0.028999999165534973
+      ],
+      "vertices": 288
+    },
+    {
+      "name": "05 Connector exterior | specification UNKNOWN",
+      "dimensions_m": [
+        0.020999999716877937,
+        0.020999999716877937,
+        0.008999999612569809
+      ],
+      "vertices": 480
+    },
+    {
+      "name": "01 Unified exterior - shared cylinder and neck boundary",
+      "dimensions_m": [
+        0.12999241054058075,
+        0.044499531388282776,
+        0.25781741738319397
+      ],
+      "vertices": 29617
+    },
+    {
+      "name": "03 Planar removable face panel",
+      "dimensions_m": [
+        0.12520000338554382,
+        0.017279472202062607,
+        0.12421514093875885
+      ],
+      "vertices": 514
+    },
+    {
+      "name": "04 Central control aligned to face plane",
+      "dimensions_m": [
+        0.018000001087784767,
+        0.004453443922102451,
+        0.017974942922592163
+      ],
+      "vertices": 480
+    }
+  ],
+  "views": [
+    "front",
+    "back",
+    "right",
+    "left",
+    "front_oblique",
+    "back_oblique"
+  ],
+  "status": "REVIEW_REQUIRED_NEW_SILVER_PHOTOS",
+  "limits": "Historical auxiliary geometry only; no new metric fitting, nozzle completion, material or customer acceptance."
+}

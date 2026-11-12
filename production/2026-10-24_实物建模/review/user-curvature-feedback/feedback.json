@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-24",
+  "user_statement": "不对，模型不对。弧度不对",
+  "affected_version": "v003",
+  "references": [
+    {
+      "original": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/codex-clipboard-e542ca74-83af-4313-9274-52200e2ad5e0.png",
+      "saved": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/review/user-curvature-feedback/codex-clipboard-e542ca74-83af-4313-9274-52200e2ad5e0.png",
+      "sha256": "5833d220dbe9435110ff0b1ccfeea09607381a7533821c91111e17ea37199fbb"
+    },
+    {
+      "original": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/codex-clipboard-9b88c6f0-6ce1-4573-a285-9ec718e237be.png",
+      "saved": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/review/user-curvature-feedback/codex-clipboard-9b88c6f0-6ce1-4573-a285-9ec718e237be.png",
+      "sha256": "e1a07fc0354aa31cc0d71422f1eb1bba3710cfc93e047994020f944906e7dd6a"
+    },
+    {
+      "original": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/codex-clipboard-68ebfa6f-ab1b-4600-bc4d-ceb7fce2ae2b.png",
+      "saved": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/review/user-curvature-feedback/codex-clipboard-68ebfa6f-ab1b-4600-bc4d-ceb7fce2ae2b.png",
+      "sha256": "33ccb8cd999ea250ccad5de65b7bc404575925dccdf6bb39356277bf2896293e"
+    }
+  ],
+  "action": "Reopen curvature validation and repair from digitized physical-side contours, not intuition",
+  "accuracy_requirement": "Approximate aid is acceptable; primary silhouette and curve must still match physical item"
+}

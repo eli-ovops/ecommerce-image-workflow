@@ -1,0 +1,5 @@
+file '/Volumes/EXTERNAL/电商 作图工作流/production/花洒视频/制作-v1/工程/扩展40秒/insert-0.mp4'
+file '/Volumes/EXTERNAL/电商 作图工作流/production/花洒视频/制作-v1/工程/扩展40秒/insert-1.mp4'
+file '/Volumes/EXTERNAL/电商 作图工作流/production/花洒视频/制作-v1/工程/扩展40秒/insert-2.mp4'
+file '/Volumes/EXTERNAL/电商 作图工作流/production/花洒视频/制作-v1/工程/扩展40秒/insert-3.mp4'
+file '/Volumes/EXTERNAL/电商 作图工作流/production/花洒视频/制作-v1/工程/扩展40秒/insert-4.mp4'

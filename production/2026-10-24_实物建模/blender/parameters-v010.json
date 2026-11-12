@@ -1,0 +1,122 @@
+{
+  "version": "v010",
+  "source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v005/shower_black_clay_v005.blend",
+  "scope": "Head cylinder, planar face, shallow rear cap; original lower neck/handle unchanged",
+  "head_center_mm": [
+    0.0,
+    6.562611103057861,
+    200.0
+  ],
+  "axis_front_to_back_unit": [
+    0.0,
+    0.9912921786308289,
+    0.13168083131313324
+  ],
+  "face_up_unit": [
+    0.0,
+    -0.13168083131313324,
+    0.9912921786308289
+  ],
+  "face_slope_dy_dz": -0.13283756317140735,
+  "radius_mm": 65,
+  "axial_wall_length_mm": 18.5,
+  "edge_round_mm": 0.4,
+  "rear_dome_base_depth_mm": 7,
+  "lower_rear_envelope": "v005 recorded rear profile; blend weight1 at localV<=0, smoothly0 atV>=35; cylindrical ring unchanged",
+  "preserve_original_vertices_z_le_mm": 135,
+  "evidence": [
+    "user cylindrical-head correction screenshot",
+    "P05 head edge",
+    "P03/P04 side",
+    "P07/P08 oblique"
+  ],
+  "uncertainty": "Axial wall18.5 and rear dome7 are visual candidate dimensions, not physical metrology. Overall model still rejected/pending; no whole-model PASS.",
+  "routing": {
+    "rule": "ROUTING-2026-10-24-v5",
+    "target_model": "gpt-6-astra",
+    "target_effort": "high",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN",
+    "speed_mode": "UNKNOWN"
+  },
+  "head_root_transition": "Original z<=135mm kept exact; shared boundary neck patch joins cylindrical wall corners, planar lower arc and shallow rear chord",
+  "cylindrical_major_arc_segments": 192,
+  "planar_front_minor_arc_segments": 48,
+  "panel_circle_segments": 256,
+  "construction_report": {
+    "version": "v010",
+    "construction": "shared mesh boundaries; no Boolean, no overlapping head/neck caps",
+    "axis_front_to_back_unit": [
+      0.0,
+      0.9912921786308289,
+      0.13168083131313324
+    ],
+    "corresponding_ring_pairs": 193,
+    "straight_wall_axis_distance_min_max_mm": [
+      17.69999793801592,
+      17.700006275930207
+    ],
+    "maximum_ring_vector_error_mm": 1.6561083781063324e-05,
+    "cylinder_major_arc_degrees": 245.15794078560822,
+    "bottom_attachment": "Minor lower sector is shared with the neck; exposed sidewall is cylindrical major arc, front circular disc remains complete",
+    "lower_body_preserved": {
+      "vertex_count": 16384,
+      "exact_coordinates": true
+    },
+    "topology": [
+      {
+        "name": "01 Unified exterior - shared cylinder and neck boundary",
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "zero_area_faces": 0
+      },
+      {
+        "name": "03 Planar removable face panel",
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "zero_area_faces": 0
+      }
+    ],
+    "limits": [
+      "18.5mm axial wall and lower rear shape are visual estimates; new video is not calibrated",
+      "Only local cylindrical head correction, no whole-model acceptance",
+      "No calibrated physical dimensions or cross-SKU mold verification"
+    ]
+  },
+  "new_video": "../review/neck-video-feedback/9cb27fd5fdb50f38e74d2d46ac19704e_raw.mp4",
+  "viewed_frames": [
+    "contact",
+    "f007",
+    "f009",
+    "f017",
+    "f028"
+  ],
+  "local_change": "lower rear cap and upper neck; retain exposed circular wall and all lower vertices",
+  "rear_axis_samples": [
+    [
+      -35,
+      31.11046813860467,
+      31.11046813860467
+    ],
+    [
+      -20,
+      31.868324556891427,
+      31.868324556891427
+    ],
+    [
+      0,
+      31.65443801298621,
+      31.65443801298621
+    ],
+    [
+      20,
+      29.84451108021584,
+      26.803062635027004
+    ],
+    [
+      35,
+      27.66544572954496,
+      23.445202196896357
+    ]
+  ]
+}

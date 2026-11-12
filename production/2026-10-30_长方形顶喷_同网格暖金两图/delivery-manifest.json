@@ -1,0 +1,67 @@
+[
+  {
+    "file": "01_银色完整顶喷_v2.jpg",
+    "bytes": 481927,
+    "sha256": "e40aef2d0aaa3d6ebde2b8bb0588fb26b412bab08d6a5dbb2814018823e83632"
+  },
+  {
+    "file": "02_静态红钮近景_非拉出_v2.jpg",
+    "bytes": 514527,
+    "sha256": "8763cb3e3977d42954fe2f7f1bb2eb58ea214bdf917d446dd36f2c295c0432c7"
+  },
+  {
+    "file": "README.md",
+    "bytes": 3177,
+    "sha256": "33633fb4a46a1084fe8327d9068a2c2802075ef8cc19abb0527622b3149d557f"
+  },
+  {
+    "file": "商品基线_v3.blend",
+    "bytes": 2407986,
+    "sha256": "05b80b0ebc072c1a01cdf597c08f16e33d8033eb3771a9fe48dc2c18a0079905"
+  },
+  {
+    "file": "暖金两图_同一商品场景_v2.blend",
+    "bytes": 2439809,
+    "sha256": "3c4586a533c963eb98e4fab14371733cf01e42473a7a6c968d518dfa50776fff"
+  },
+  {
+    "file": "render_pair.py",
+    "bytes": 4797,
+    "sha256": "bed98f38180d97d2f46d004654aafa1a9490f6ef720393dc29ffae15f64b9595"
+  },
+  {
+    "file": "verify_scene.py",
+    "bytes": 2034,
+    "sha256": "1a9c8b0aa6b26ce47362c958d7ac3e0378bb332d21356d81ed54a2dea7756b2f"
+  },
+  {
+    "file": "source-record.json",
+    "bytes": 709,
+    "sha256": "7d85db714ff272dfd0d06035f9e156bcb7a377b2d483602e665b94a23f830d65"
+  },
+  {
+    "file": "mesh-and-transform-verification_v2.json",
+    "bytes": 13365,
+    "sha256": "e968f8aa153607078c3fc5ec234626a23c89bed50ac9df11ac42fe40a91858db"
+  },
+  {
+    "file": "reopened-scene-check_v2.json",
+    "bytes": 471,
+    "sha256": "a68edf4f66efeda8030a61f6c342f398c730dca0790549feb30caa73339b05f3"
+  },
+  {
+    "file": "visual-review.json",
+    "bytes": 1301,
+    "sha256": "f274291b1bf0255c7a9f785857f95126419f4179ecece936ce842183de1b811b"
+  },
+  {
+    "file": "两图审阅总览.jpg",
+    "bytes": 277094,
+    "sha256": "5e3c6c5997bcd15367b471a293895dbcbd7bd050764c6fd3747f8203625c78ee"
+  },
+  {
+    "file": "整图近景与实拍对照.jpg",
+    "bytes": 808869,
+    "sha256": "de5140adbc54dbef84401ad6f7ffb98095527197d3598d4b57f26bcd2cdadcba"
+  }
+]

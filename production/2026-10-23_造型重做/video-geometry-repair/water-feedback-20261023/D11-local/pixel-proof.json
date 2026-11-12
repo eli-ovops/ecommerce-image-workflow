@@ -1,0 +1,13 @@
+{
+  "id": "D11",
+  "method": "user-approved additive RGBA water compositing; immutable base",
+  "source_sha256": "e1c835d445864a04cfe2efe3aa770a0a8f867bd35f0bcb5694e2aaf2063fe128",
+  "changed_pixels": 66073,
+  "outside_water_mask_changed_pixels": 0,
+  "added_outlet_roots": {
+    "D11-upper": 64,
+    "D11-lower": 53
+  },
+  "person_body_mode_key_and_grip": "No water layer reaches these regions; base is not regenerated",
+  "jpeg_encoding_note": "Exact pixel preservation proved on lossless composite; JPEG recompression is lossy."
+}

@@ -1,0 +1,47 @@
+{
+  "背面接口与斜侧_两张JPG.zip": {
+    "members": 2,
+    "bytes": 777219,
+    "crc": "PASS",
+    "all_members_sha_match": "PASS",
+    "sha256": "cd5cdf7a5ef071b8795092546c17aa7c94bee935d62a648f432d951f343e364a",
+    "member_hashes": {
+      "03_背面去盖接口_v2.jpg": "d232ec433bf3270bb24d34c38fbaf814f8e5543d6fe1fb5a4b5cd6a65f5a22da",
+      "04_正面斜侧20mm.jpg": "c7ae8ee8dc1ed959a4c102b049c701f44b871e645b4696f9ca93340f161a87b9"
+    }
+  },
+  "背面接口与斜侧_可编辑源与证据.zip": {
+    "members": 25,
+    "bytes": 30539647,
+    "crc": "PASS",
+    "all_members_sha_match": "PASS",
+    "sha256": "e6ebf8715bad8333762be7d96f7c054ae3c41a19b2b58f142dae2ba998a73100",
+    "member_hashes": {
+      "README.md": "5c91eebbf1aa4512c0e2088a203edfe1b412daa8afdfa58d6b9f0f697124773b",
+      "03_背面去盖接口_v2.blend": "0d26aa4d7beff8881299f43571db57e17b08699fa11052fee4deb9b1e5ec002f",
+      "04_正面斜侧20mm.blend": "e6f21c5367ab5bc03f7a0f47b03c0f9d42bc9822902bcb9bb33f94d34125f386",
+      "03_背面去盖接口.blend": "d231a6219a401e88d540af74131636959819400a980e42d961b2c66a0cec9a25",
+      "输入_已认可磨砂场景.blend": "9dbb7dc312ca19774862b325250d8109ad8c357ea7e1eccb7d61055c7e97a70b",
+      "商品基线_v3.blend": "05b80b0ebc072c1a01cdf597c08f16e33d8033eb3771a9fe48dc2c18a0079905",
+      "render_views.py": "6a356efebc5705e701b2372de17c1af1205d9aa517ee7f741883f6e1050f127c",
+      "refine_back_light.py": "d9e08347670d110ace14ad3cf7063affbe181d723ae7fcafd4585f32049b463e",
+      "verify_views_v2.py": "e3605f86abfdc0086a4b23ca1b5410b3beed4734c17c2fd785a52c163ed04b0c",
+      "make_review.py": "d17353a04e8db3ca737fe8a1d96985c9eb0b8cd3edc87ad468ad65fcdcf5e52b",
+      "制作核对.json": "01e55f672aef28d079390b0c7645f68f641ce5b78a94d28828432fed53a913d6",
+      "重开场景核验_v2.json": "1f8f0a23c562a66bf4146da5db91c92036c1c90ed1270e71fb09d4a4834086ab",
+      "来源与接口修改.json": "5ce2dc7fc81a2e67b0fd7423b5c7b4a4ee15e030f22228323dbda82a38ed76be",
+      "visual-review.json": "934a6c01322c0a9a27f0bd8218738ebd1bac8745485a191a13a1a6b3e8fda876",
+      "两张审阅总览.jpg": "ca94e0c82d69b9ddcc3dbce875166b3be327c8585e432a208d444d9f4043078a",
+      "接口实拍裁切.jpg": "0b1c77f452c1be4e2057819f18c71c43d71277fe7a18b8066481973528e64c17",
+      "接口成图局部放大.jpg": "cd401ead0c10fddc1cae027383ee6bbe216a35085dbaf82474dfba540af72d16",
+      "接口实拍与成图对照_左实拍右渲染.jpg": "5bce143141b18116ca9f10330090653685a7a9fc5b9ecabecaa112f7157c3a56",
+      "手机宽度对照.jpg": "4aff147d2c14b977aa1a5374840cd862d58b03b687edb05dbcec96a36373b4f2",
+      "final-render.log": "dbc87ab6210e7308d70fe91b35f6b6a012ac0bc5681fb9a6aeac5460422b8bc7",
+      "back-refine-final.log": "bf44f09104be4b2c8471853eeb878251af94ccdbf471258a08e77cda46176f91",
+      "verify-v2.log": "b5a20257e9c3336fdec2f8fd2d9ebca4148342de5c31bb11e3119bc5694ab0b2",
+      "sources/codex-clipboard-6fa807ac-653c-44f8-a3cc-2941c017e31e.jpg": "dd03b48761950856e2a363ba726bdfc682683abad6d703bca461f190f17bc9f1",
+      "sources/codex-clipboard-7faa2b7a-f100-46ef-bfc7-87454ab489d0.jpg": "50d7f0c9fe40c08617c98a9fb36fc22258873af18be20658101a2075f0bda9d3",
+      "sources/微信图片_20261030154107_374_2.jpg": "9116ea9c59350fe964bc42156a5f0f9912bea56cab4e9260ded8707869d36371"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "text": [
+    {
+      "text": "中央红钮 · 提拉除垢",
+      "x": 500,
+      "y": 1018,
+      "size": 44,
+      "color": "#efd0a3",
+      "font": "Heiti SC",
+      "bold": true,
+      "oblique": false,
+      "gold_gradient": true,
+      "extrusion_px": 3
+    },
+    {
+      "text": "银色长方形顶喷",
+      "x": 490,
+      "y": 1090,
+      "size": 90,
+      "color": "#efd0a3",
+      "font": "Heiti SC",
+      "bold": true,
+      "oblique": true,
+      "gold_gradient": true,
+      "extrusion_px": 3
+    },
+    {
+      "text": "安装出水示意",
+      "x": 878,
+      "y": 53,
+      "size": 32,
+      "color": "#ffffff",
+      "font": "Heiti SC",
+      "bold": true,
+      "oblique": false,
+      "gold_gradient": false,
+      "extrusion_px": 3
+    }
+  ],
+  "transforms": [
+    {
+      "source": "native-installed.png",
+      "scale": 1.7394957983193278,
+      "xy": [
+        -440,
+        -169
+      ],
+      "illustration": true
+    },
+    {
+      "source": "native-static.png",
+      "uniform": true,
+      "rotation": 0,
+      "xy": [
+        108,
+        610
+      ],
+      "size": [
+        294,
+        375
+      ]
+    }
+  ],
+  "note": "机位重复，水流及金属质感不足，光色尚未贴近参考。"
+}

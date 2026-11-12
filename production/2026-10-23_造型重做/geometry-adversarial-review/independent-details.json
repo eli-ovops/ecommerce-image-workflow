@@ -1,0 +1,155 @@
+{
+  "date": "2026-10-23",
+  "owner": "geometry_redteam_details",
+  "routing": {
+    "rules": "ROUTING-2026-10-13-v4/PERMISSIONS-2026-10-14-v1",
+    "target": "gpt-6.1-sol medium",
+    "actual": "UNKNOWN"
+  },
+  "method": "实际打开15/15原生JPG；side01/02/03；银89正90背91/92侧；黑102正103侧；枪灰106正107侧；两色全幅预览。未读旧QA结论，无联网、生成或原图修改。",
+  "counts": {
+    "reviewed": 15,
+    "明确可见偏差": 3,
+    "疑似": 8,
+    "UNKNOWN": 4,
+    "full_geometry_pass": 0
+  },
+  "items": [
+    {
+      "id": "D01",
+      "status": "疑似",
+      "location": "上图头右下至按键",
+      "observation": "颈背陡缩到细柄，转折集中；下图被手遮住不能证明一致",
+      "comparison": "银89肩部较宽长，91/92侧曲率分布更长",
+      "confidence": "中",
+      "repair": "延长头根平顺过渡，仅修商品并统一上下视图"
+    },
+    {
+      "id": "D03",
+      "status": "UNKNOWN",
+      "location": "三色正面侧边",
+      "observation": "正面比例未见明确反证；侧带宽度不能独立证明侧厚，缺纯侧",
+      "comparison": "银89、黑102/103、枪灰106/107；椭圆度可能是倾斜",
+      "confidence": "中",
+      "repair": "保留；同源侧视证错才同步，不能宣称三维通过"
+    },
+    {
+      "id": "D04",
+      "status": "明确可见偏差",
+      "location": "上图按键以下长柄；下图头根",
+      "observation": "上图按键到画面底仍是等宽光滑握柄，长度远超头纵长；头长轴完整，不仅是透视压扁；下图头根隆起另列疑似",
+      "comparison": "银89/90柄长约一个头径量级，91/92和side03不支持该长柄",
+      "confidence": "高",
+      "repair": "缩回真实柄长并正确露银螺纹，重做手握衔接，不把长柄当软管"
+    },
+    {
+      "id": "D05",
+      "status": "疑似",
+      "location": "右下背面与侧视",
+      "observation": "背面镜状鼓冠和深腰窝，与侧面长浅弧的体积表达疑不一致；初报柄短不保留硬判，混有视角",
+      "comparison": "银90背面与side03浅弧；反射不能当测厚",
+      "confidence": "中",
+      "repair": "统一浅拱壳体和头根明暗，不压成平盘"
+    },
+    {
+      "id": "D06",
+      "status": "明确可见偏差",
+      "location": "下横侧头根",
+      "observation": "背线在柄到头根突然抬高成短平台台阶，过渡集中",
+      "comparison": "side03与银91/92为连续低浅背弧、侧厚渐变，无局部阶跃",
+      "confidence": "高",
+      "repair": "依据side03重定完整侧轮廓，不能仅磨去高光"
+    },
+    {
+      "id": "D07",
+      "status": "疑似",
+      "location": "右侧独立侧图按键后上方",
+      "observation": "鼓起和内收集中于头根，头上半偏直，曲率疑被扩大成中段S",
+      "comparison": "side01/02和91/92是更长的浅弧，侧转角可能放大差别",
+      "confidence": "中",
+      "repair": "对齐头缘、最大鼓点、键和柄尾后缓和腰窝"
+    },
+    {
+      "id": "D08",
+      "status": "UNKNOWN",
+      "location": "三格裁切头颈",
+      "observation": "柄尾全裁、水流遮面，不能核完整比例；三格重复非三次独立证明",
+      "comparison": "银89/91/92；窄椭圆可由透视造成",
+      "confidence": "中",
+      "repair": "同源完整图若证错再同步，不立即重复生成"
+    },
+    {
+      "id": "D11",
+      "status": "明确可见偏差",
+      "location": "上图左上与下图右上头背",
+      "observation": "头后鼓起紧接强内收，呈短深鹅颈；两场景重复同造型",
+      "comparison": "side01/02、银91/92为贯穿头根与柄的长浅曲线；side03头背浅拱",
+      "confidence": "高",
+      "repair": "保留人物布局，重建完整商品，降低鼓包和键附近凹陷，两场景同形"
+    },
+    {
+      "id": "D12",
+      "status": "疑似",
+      "location": "右背面肩部与中线",
+      "observation": "亮球冠和两肩深暗收束偏圆勺；正背轮廓一致不证明侧厚",
+      "comparison": "银90与side03约束浅拱，高光不是硬测厚",
+      "confidence": "中",
+      "repair": "校准背面体积高光和肩部过渡，保留宽长比"
+    },
+    {
+      "id": "D13",
+      "status": "疑似",
+      "location": "主图右头根至柄",
+      "observation": "侧厚边向柄急收形成凸肩，柄上端似后折；三分之四角度是干扰",
+      "comparison": "银89肩部、银91/92连续侧弧",
+      "confidence": "中",
+      "repair": "侧片锁定颈曲线，区分反射与外轮廓，不任意扭柄"
+    },
+    {
+      "id": "D14",
+      "status": "UNKNOWN",
+      "location": "上主图及步骤图",
+      "observation": "仅头面与局部颈，未见足够硬错；全柄、背壳不可核",
+      "comparison": "银89正面；91/92侧形无法在本图验证",
+      "confidence": "高",
+      "repair": "暂留，完整体积UNKNOWN；同源修订后核头缘同步"
+    },
+    {
+      "id": "D15",
+      "status": "疑似",
+      "location": "主背图与左第二第三小图",
+      "observation": "主图鼓冠和深腰窝被细节强化；左纯侧却较浅，疑多视体积不一致；明暗有干扰",
+      "comparison": "银90、91/92与side03限制拱高，不能只凭反射硬判",
+      "confidence": "中偏高",
+      "repair": "先约束拱高和头根再改明暗，四视图用同形体"
+    },
+    {
+      "id": "D16",
+      "status": "UNKNOWN",
+      "location": "左主图与裁切步骤",
+      "observation": "正面比例无明确反证；侧亮带可由角度解释，手遮颈柄，局部图不能核全形",
+      "comparison": "银89、91/92；正斜面不能推定背壳拱高",
+      "confidence": "中",
+      "repair": "暂留；完整几何不通过，同源变化后核边缘"
+    },
+    {
+      "id": "D17",
+      "status": "疑似",
+      "location": "两视图握柄中段",
+      "observation": "上图柄腹外鼓、腰线较深，下图弯曲也突出，疑浅曲率被扩大；透视差不作硬错",
+      "comparison": "银89/90柄近直缓变，91/92和side01/02为浅弧",
+      "confidence": "中",
+      "repair": "校准柄宽渐变和中轴，保持上下为同物旋转"
+    },
+    {
+      "id": "D18",
+      "status": "疑似",
+      "location": "右头缘至颈柄",
+      "observation": "头侧厚近直，到键后明显内收又回摆，局部S幅度偏强；角度反射干扰",
+      "comparison": "银91/92、side01/02为平缓侧厚渐变",
+      "confidence": "中",
+      "repair": "校准内收位置、头缘侧厚与柄轴，保留排版"
+    }
+  ],
+  "limits": "无尺寸标定。透视/高光不单独定硬错，疑似不是已证错误；UNKNOWN不等于通过。初报D05经比较降为疑似。仅本json/md为新增保留审查证据，无一次性临时文件。"
+}

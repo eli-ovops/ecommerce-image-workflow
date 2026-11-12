@@ -1,0 +1,10 @@
+{
+  "received": "2026-10-23T19:16:47.762539",
+  "original": "/Users/USER/Downloads/06569f26ac30632e35c93313d72b93b2_raw.mp4",
+  "archived": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/sources/product-rotation-20261023.mp4",
+  "bytes": 23678515,
+  "sha256": "eb6dbe4e37fe1beea4ee09e63e53a047ff4dbd5c395567cbef6cdbdb8e8dcfca",
+  "purpose": "用户补拍旋转视频，真实商品轮廓与多视角校准",
+  "original_preserved": true,
+  "audio_analysis": "not requested; geometry visuals only"
+}

@@ -1,0 +1,17 @@
+{
+  "stage": "review",
+  "status": "PASS",
+  "issues": [],
+  "assets": [
+    {
+      "id": "P01"
+    },
+    {
+      "id": "P02"
+    },
+    {
+      "id": "P03"
+    }
+  ],
+  "limitations": "Model/render lineage and protected pixels only. Manual visual review; no automatic physical-fit, flow or skin test. User model authorization is not customer acceptance."
+}

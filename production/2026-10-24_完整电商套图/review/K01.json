@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "reviewer": "root",
+  "reviewed_at": "2026-10-24T23:37:47+08:00",
+  "jpg_sha256": "058effb60918b6c2b876bb7511065d0728e12fe0a82692bc229e842959faae6f",
+  "finding": "蓝色SKU模板、大主体右置、左侧层级字卡；银色由本SKU来源层复用，裸螺纹银色，底端白色残影已清理。",
+  "checks": {
+    "product": "PASS",
+    "reference_style": "PASS",
+    "copy": "PASS",
+    "layout": "PASS",
+    "export": "PASS"
+  },
+  "visual_method": "本轮实际查看成品及对应参考；未改变的已审图复用哈希，最新改字/侧窗/尾端遮罩作定向复核，长图另查总览与接缝。",
+  "limits": "内部人工视觉检查；不等同客户接受、精密3D测量或自动逐孔水流识别。水流/按压照片为原实拍；广告商品图层部分为实拍引导生成层。"
+}

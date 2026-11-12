@@ -1,0 +1,40 @@
+{
+  "operation": "Reuse actual image_gen ROI patch; deterministic crop/uniform-scale/masked-composite; zero new generation calls",
+  "source_original": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导主图/generated/R02-v001-native.png",
+  "source_original_sha256": "1ccbfd9a65bf214ef2f3a5ff65686147c9bc512bf0db6dcb3b7cd7a844adfc75",
+  "patch_tool_native": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导主图/generated/R01-roi-tool-native.png",
+  "patch_tool_native_sha256": "130aa9482d8ed22d4a18ec03f35d3cfc61496b03923aeac2d7b0836b98d2da98",
+  "patch_crop_rectangle_xyxy_exclusive": [
+    380,
+    480,
+    640,
+    740
+  ],
+  "patch_crop": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导主图/generated/R02-reused-patch-source-crop.png",
+  "resample": "260x260 to20x20 uniform Lanczos, no rotation",
+  "paste_rectangle_xyxy_exclusive": [
+    651,
+    462,
+    671,
+    482
+  ],
+  "observed_defect_dark_center_approx": [
+    660.5,
+    471.8
+  ],
+  "projected_patch_dark_center_approx": [
+    661.1,
+    472.1
+  ],
+  "center_limit": "subpixel visual estimates, center preserved to under1px, no intentional relocation",
+  "mask": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导主图/generated/R02-reuse-mask.png",
+  "mask_sha256": "74f4199eff5bade544ecf5499b20a63a842ba40c86f49a91db6fc40c73583569",
+  "mask_method": "ellipse center659.0,472.7 radii9.7,9.3; alpha full through normalized radius0.94, linear feather to0 at1.0",
+  "mask_nonzero_pixels": 282,
+  "outside_mask_pixels": 1572234,
+  "outside_mask_changed_pixels": 0,
+  "outside_mask_max_channel_delta": 0,
+  "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导主图/generated/R02-v002-composite.png",
+  "output_sha256": "36c2832997bf86ac537e9a7cee1744a63272ea7ca3d6fe33d3851d3cc877636c",
+  "readback": "PNG reopened for actual pixel comparison; JPEG not covered by zero-change guarantee"
+}

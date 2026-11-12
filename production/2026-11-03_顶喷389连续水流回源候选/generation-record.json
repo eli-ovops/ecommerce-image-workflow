@@ -1,0 +1,21 @@
+{
+  "prompt": "Create one SQUARE Chinese ecommerce advertisement,1254x1254 composition. SINGLE coherent photographic scene with real connected shower water, absolutely no composited curtain cut edge.\nINPUT ROLES: 1 original ad reference = cool blue bathroom, white bathtub, upper-left installed shower, lower-left dry product, right black bold italic titles, bottom blue text band; 2/3 real silver product front (in2 target is lowest silver unit);4 real silver side thickness;5 user water reference = abundant bright continuous long falling water columns ONLY, not hole geometry. Do NOT copy reference1/5's falsely crowded row of nozzles.\nProduct geometry from real photos2/3/4: rounded rectangular silver housing, true length:width:thickness=300:200:20. All numbers are construction constraints, do NOT display any dimensions. Actual20mm thick continuous silver sidewall, visible in both views, neither paper thin nor a thick box. Lower-left upright product long axis vertical: proportional3:2 rectangle, projected HEIGHT about540 and WIDTH350 in a1254canvas, modest3/4 angle; NOT square and NOT excessively elongated. Upper-left installed head matching same rectangular product, underside clearly visible, chrome supply pipe connects to its back and exits left edge.\nBlack matte finely textured face: preserve regular continuous CLOSED oval-leaf grooves and alternating actual small black-center holes plus sealed shallow circular dimples from real photos. No fragmented leaf lines, fishscale, random triangles, excessive holes, no invented densely packed row of holes along upper/right edge. One central small shallow concave RED disc in resting state, not cup or bulb. No red needles. Both product views identical SKU and pattern.\nMOST IMPORTANT WATER: photo-real bright abundant dense flowing columns span the whole spray face width and descend vertically from real BLACK HOLES INSIDE the underside. Each visible column starts flush at an individual actual hole and continues uninterrupted naturally downward into sparkling tiny irregular droplets. At upper-right edge in particular, streams begin at their holes in perspective, NOT on a straight slanted/horizontal curtain boundary below the head. NO detached curtain starting in midair, NO gap, NO rectangular cutoff, NO polygon clipped edge, NO top of a translucent water sheet, NO short white connector lines or needle-like strokes. Correct depth occlusion: back streams emerge from back holes, front streams from front holes, then all descend by gravity. Silver rim, blind dimples, leaf grooves and red disc do not emit water. Do NOT add nozzles to achieve water density: use physically existing distributed holes, then dense bright flow and many tiny glinting droplets along full continuous lengths. Match WATER reference5 in abundance, long column continuity, sparkle and bright white translucent volume. Not a fogwall, not a few sparse trickles, not bead chains or uniformly drawn wires. Let camera exposure produce natural bright liquid highlights. Never hide connection defects in mist.\nPreserve clear product shape and actual thickness, highly photographic chrome light and matte face, no CGI flat plaque. Color cool blue silver, white bathtub on right, darker stone pedestal under lower-left product. Big BLACK BOLD ITALIC Chinese on right only “宽幅雨幕” and “舒展畅淋”. Bottom dark blue band WHITE bold italic “银色长方形顶喷” exactly once. No extra captions, measurements, logos, warranties, performance numbers. Square canvas.",
+  "inputs": [
+    "inputs/0.jpg",
+    "inputs/1.jpg",
+    "inputs/2.jpg",
+    "inputs/3.jpg",
+    "inputs/user-water-reference.png"
+  ],
+  "roles": [
+    "original merchant layout reference",
+    "original372 front",
+    "original376 front",
+    "original374 side thickness",
+    "user water-style screenshot only"
+  ],
+  "output": "native.png",
+  "method": "Single whole-scene generation from original references; no prior AI advertisement used as edit target",
+  "runtime_model": "UNKNOWN",
+  "result": "REJECTED: dense incorrect nozzle row recurred, lower knob too deep, lower leaf grooves partly broken"
+}

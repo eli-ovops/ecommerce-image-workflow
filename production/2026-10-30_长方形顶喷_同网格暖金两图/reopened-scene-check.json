@@ -1,0 +1,15 @@
+{
+  "same_objects": true,
+  "same_mesh": true,
+  "same_world_transforms": true,
+  "same_material_nodes_and_inputs": true,
+  "same_modifiers": true,
+  "product_objects": [
+    "Housing_300x200x20",
+    "Observed_white_protective_cap",
+    "Outward_pull_knob_concave_face",
+    "Rear_connector_visible_envelope_UNCONFIRMED_thread",
+    "Recessed_panel_with_true_through_holes"
+  ],
+  "scope": "Reopened saved source and scene; does not confirm physical product precision"
+}

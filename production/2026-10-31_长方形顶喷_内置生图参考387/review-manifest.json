@@ -1,0 +1,72 @@
+{
+  "method": "built-in image_gen; original-photo-guided AI product pixels",
+  "calls": 2,
+  "same_generated_image_reedited": false,
+  "sources": [
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/products/长方形拉钮顶喷/原始实拍20261030/微信图片_20261030154107_372_2.jpg",
+      "bytes": 8365635,
+      "sha256": "c1f3664cc110b85d819bf6609f54b6f10b2943127dad85c3833c1f125443d017"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/products/长方形拉钮顶喷/原始实拍20261030/微信图片_20261030154107_376_2.jpg",
+      "bytes": 6821048,
+      "sha256": "f5d7d1e2c3839298bafb20d5ec4a7b19ff8990c9efd02f34b484b4bc07ad3965"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/products/长方形拉钮顶喷/原始实拍20261030/微信图片_20261030154107_374_2.jpg",
+      "bytes": 5366586,
+      "sha256": "9116ea9c59350fe964bc42156a5f0f9912bea56cab4e9260ded8707869d36371"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-31_同款商户电商参考/微信图片_20261031133902_387_2.jpg",
+      "bytes": 259809,
+      "sha256": "fa72a6fbebd26fca5aa2518846096e31570e527cc51e389b3846326453de67d9"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-31_长方形顶喷_内置生图参考387/candidate-v1.png",
+      "bytes": 3125001,
+      "sha256": "84100c41ac5caea414b6fc120fc0593f7e09bc77bb29c89e2e202b5e01250474"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-31_长方形顶喷_内置生图参考387/candidate-v2.png",
+      "bytes": 2976782,
+      "sha256": "845efa4da8e0dd5bf3409eeb3de45051554c2fcd29be859065516abf27bb1b58"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-31_长方形顶喷_内置生图参考387/银色顶喷_参考387_无字广告候选.jpg",
+      "bytes": 885083,
+      "sha256": "be1b99b98fbdeb6d08b3fad4646d222c143bb6333cd790d0441728cb6c06553b"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-31_长方形顶喷_内置生图参考387/prompt.txt",
+      "bytes": 3557,
+      "sha256": "8d35c00aa584a29dce2289ac221ad9f7cf4677d0886f88b97ce405c6b8feab63"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-31_长方形顶喷_内置生图参考387/prompt-v2.txt",
+      "bytes": 4432,
+      "sha256": "82e9e9b3a1c949fc977587a36fd9f83a59dfecb14de7d948a24f43a32b7b57fe"
+    }
+  ],
+  "selected": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-31_长方形顶喷_内置生图参考387/银色顶喷_参考387_无字广告候选.jpg",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "review": {
+    "actually_viewed": "original372/376/374, reference387, both native candidates full-frame",
+    "style": "upright large hero, black-gold marble, strong directional light, no text; substantially stronger advertising presentation than previous Blender draft",
+    "product": "almond leaves visible; v2 distinguishes dark bores from closed circles; chrome sidewall and centered red disk visible",
+    "limits": "AI-generated product; exact hole count, hole-center mapping and dimensional projection NOT independently validated. Face highlights brighter than raw product photos. Not approved as geometry-accurate final.",
+    "user_acceptance": "REJECTED"
+  },
+  "preservation": "originals, previous Blender and both generation candidates retained; no deletions",
+  "latest_user_feedback": {
+    "status": "REJECTED",
+    "quote": "不行。你直接大道从简。完全参照对方同行的，做一个属于我们的电商宣传图给我。我看看",
+    "next_batch": "../2026-10-31_同行13张逐张对应_银色无字/"
+  }
+}

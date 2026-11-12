@@ -1,0 +1,76 @@
+{
+  "size": [
+    1254,
+    1254
+  ],
+  "archive_members": 16,
+  "archive_bytes": 22058733,
+  "crc": true,
+  "member_sha_equal": true,
+  "files": [
+    {
+      "file": "package.py",
+      "sha256": "1ad23399888ccaa2f2821c7fc50bad249def72f1633ec6eefad54d7a33e912af"
+    },
+    {
+      "file": "reference-left-candidate-right.jpg",
+      "sha256": "01e719e46797c06f92e8ae87c64caa78d620b8f86f9a5adf46119c0ca8ee3e0b"
+    },
+    {
+      "file": "upper-face-200pct.jpg",
+      "sha256": "66ac691210348f310eda65e192d24313675184d0e36932a99beb8408ecd749d9"
+    },
+    {
+      "file": "real-left-generated-right-details.jpg",
+      "sha256": "57a1c27913434d2377f76bb940b6ff6a97318eb5da5d645f82e4577a31bd68ae"
+    },
+    {
+      "file": "prompt.txt",
+      "sha256": "250dde5bf56fa85fba7cce068e036f3c138945d81ce63b094b51f4a5fdf0b7b2"
+    },
+    {
+      "file": "mobile360.jpg",
+      "sha256": "4c037d3dc236b05832e8ceb0b645cd5d541789dc80a95728acf0e18c906d61ce"
+    },
+    {
+      "file": "README.md",
+      "sha256": "7b84cc1b83b504ec96b0752e92e56b3de1fd2ad441def6e80febd275cf04c358"
+    },
+    {
+      "file": "lower-product-200pct.jpg",
+      "sha256": "8bf8ae11c8108492a4c194ecd06c0793f103e3193abc5bc6e715f600b25f8396"
+    },
+    {
+      "file": "inputs.json",
+      "sha256": "900d9c9f2046dde92b43a58f60cb3b45c4b160e0be4c55b50049783e1ac83e1b"
+    },
+    {
+      "file": "preview-diagnosis.html",
+      "sha256": "831da3b6d4dfa572661dba23874924e966e13f6dab07a792ae59071fcb1076da"
+    },
+    {
+      "file": "native-generation.png",
+      "sha256": "fa89eaaf0c65d69d12bfcee22bd6b858a6466d9612a4bc375fef7c68a7e1ec47"
+    },
+    {
+      "file": "388-new-skills-review.jpg",
+      "sha256": "63d0487b927e64653d434071c5d7da805bbeafbccb4490990ea998347700e5c1"
+    },
+    {
+      "file": "diagnosis.json",
+      "sha256": "5ecd63e5d38f6558b4c107e6cbcaf55ff4de2b663cd84c127c7451074782ab1e"
+    },
+    {
+      "file": "inputs/image1-reference388.jpg",
+      "sha256": "151dc464c5f42ac07a9aa7c2f8eada93634fa51f6e6eb0dc8b50aa05521618a5"
+    },
+    {
+      "file": "inputs/image3-product376.jpg",
+      "sha256": "f5d7d1e2c3839298bafb20d5ec4a7b19ff8990c9efd02f34b484b4bc07ad3965"
+    },
+    {
+      "file": "inputs/image2-product372.jpg",
+      "sha256": "c1f3664cc110b85d819bf6609f54b6f10b2943127dad85c3833c1f125443d017"
+    }
+  ]
+}

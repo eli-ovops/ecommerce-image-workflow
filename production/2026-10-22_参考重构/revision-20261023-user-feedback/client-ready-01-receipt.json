@@ -1,0 +1,242 @@
+{
+  "scope": "First customer-ready subset; full32 revision continues",
+  "count": 24,
+  "revised_count": 9,
+  "unchanged_count": 15,
+  "excluded_unfinished_ids": [
+    "D04",
+    "D05",
+    "D06",
+    "D11",
+    "M04",
+    "M06",
+    "V01",
+    "V02"
+  ],
+  "assets": [
+    {
+      "id": "M01",
+      "title": "银色白底素材",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "png_sha256": "7b2908e389af894835329ab67a0cb13dff1720bf640c71208cf20d2c1cd93fcd"
+    },
+    {
+      "id": "M02",
+      "title": "棕金单品广告",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "png_sha256": "13dab4ac3f6d164f3474154421ae426a639afa7ac13754f34119c3ebed6b2167"
+    },
+    {
+      "id": "M03",
+      "title": "冷蓝双视角广告",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "png_sha256": "de436674c3ed7ed97b27c181f1d690ed2358ac51f22b060d1524bff503233842"
+    },
+    {
+      "id": "M05",
+      "title": "冷蓝除垢近景主图",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "png_sha256": "fe7b1c626258e7591d2333e8a853da3b066ed9eaa20cff3406a559f141100a8b"
+    },
+    {
+      "id": "M07",
+      "title": "暗底冲击主视觉",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "png_sha256": "0dad1f942969ce34dedb5fd4f60a217cc7f7dcc635e5b7d27e1488394a0ed13e"
+    },
+    {
+      "id": "M08",
+      "title": "三项概览卡",
+      "dimensions": [
+        1216,
+        1294
+      ],
+      "png_sha256": "6e0f3d975098083c0627623dfaced06dbbf826787d29609bea62611a859707db"
+    },
+    {
+      "id": "K01",
+      "title": "银色选色SKU",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "png_sha256": "1601f0b8fd3bb9583e1032f47719d3c443b393c2cc1b74394d5bdd64eb452f88"
+    },
+    {
+      "id": "K02",
+      "title": "黑色选色SKU",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "png_sha256": "a53a0230db1997fce3f97369583051cd9ecbce273b10727348a14302e38ddd37"
+    },
+    {
+      "id": "K03",
+      "title": "枪灰选色SKU",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "png_sha256": "f67cadbe92921e727cacbe0e197497104190b2955cac5e8997bce4c49fcc0179"
+    },
+    {
+      "id": "D01",
+      "title": "时尚人物首屏",
+      "dimensions": [
+        899,
+        1748
+      ],
+      "png_sha256": "0f7e65a4e1a2b9c4470ee7e09a9655e9cd676a1b170398bf23b30f21a22aafa4"
+    },
+    {
+      "id": "D03",
+      "title": "错落三色相册",
+      "dimensions": [
+        1065,
+        1477
+      ],
+      "png_sha256": "773748153e89acc4cf34ab59019c5dd2d26a5549364ef977ba07dc643eb64439"
+    },
+    {
+      "id": "D07",
+      "title": "手持面板与下键定位",
+      "dimensions": [
+        770,
+        2042
+      ],
+      "png_sha256": "b22a39eff7cc361ffb4052de730d9543a2fccb0c7f10ced6172f5e65bedf5d87"
+    },
+    {
+      "id": "D08",
+      "title": "三档黑底水型章",
+      "dimensions": [
+        978,
+        1608
+      ],
+      "png_sha256": "157ab9a78d43f11daa9b6bfaf8d6ce6fbc9f28f7c45bdfd4667b05722abecb43"
+    },
+    {
+      "id": "D12",
+      "title": "正背外观并置",
+      "dimensions": [
+        1115,
+        1410
+      ],
+      "png_sha256": "49a7288331e23b1a5dd44d0cd2956c4ba77b4860473d60c5e5dda3c15d11e4f3"
+    },
+    {
+      "id": "D13",
+      "title": "外部部位放大图",
+      "dimensions": [
+        1111,
+        1416
+      ],
+      "png_sha256": "da03e4ac1d4fe8204ee02032f5f0bdeeb5ac9eb4add5e6d1cf6f4a375b26a868"
+    },
+    {
+      "id": "D14",
+      "title": "手动除垢过程与状态",
+      "dimensions": [
+        977,
+        1610
+      ],
+      "png_sha256": "f9049f57d1a5047a786dc5f5752a00b41cbdca589b40e51c2de4d4ca0238e022"
+    },
+    {
+      "id": "D15",
+      "title": "背面侧壁双景别",
+      "dimensions": [
+        1059,
+        1486
+      ],
+      "png_sha256": "b7cce21f4383a993270078f52d1db06fe55521b41e33e6ea60b6e6718ff7114d"
+    },
+    {
+      "id": "D16",
+      "title": "切档操作步骤页",
+      "dimensions": [
+        1116,
+        1410
+      ],
+      "png_sha256": "6f11a57b3905654bedc9d3985799896208b749fb29db5a8777cad1bb94f381f2"
+    },
+    {
+      "id": "D17",
+      "title": "握柄与曲面细节",
+      "dimensions": [
+        1017,
+        1546
+      ],
+      "png_sha256": "84882e0c2eb9f803b1f4a8294e54bbc3871451cf7445f3a99c4c0115195228ee"
+    },
+    {
+      "id": "D18",
+      "title": "B端已知信息收尾",
+      "dimensions": [
+        1019,
+        1544
+      ],
+      "png_sha256": "a68e9ed11f8712b26f3ae5c1f4b4a77610fe6692fd083cff19e08d5dd5ebeedf"
+    },
+    {
+      "id": "V03",
+      "title": "暗底多角度曲面展示",
+      "dimensions": [
+        954,
+        1649
+      ],
+      "png_sha256": "b2a619761e3d94daaf5c99548a65603b63145185955fa11842bd9bb589e9a91b"
+    },
+    {
+      "id": "V04",
+      "title": "沙纹除垢特写",
+      "dimensions": [
+        954,
+        1649
+      ],
+      "png_sha256": "5694aa1485d19ed281afb6af20808c0b2304deb37425944d0f20c1cd9bbb6f59"
+    },
+    {
+      "id": "V05",
+      "title": "岩石舞台单品",
+      "dimensions": [
+        983,
+        1601
+      ],
+      "png_sha256": "6bd048e7489f61054dc2112f4d2928528b15a76d33b4eb92835e295c383b4af2"
+    },
+    {
+      "id": "V06",
+      "title": "外观图鉴与买前问答",
+      "dimensions": [
+        910,
+        1729
+      ],
+      "png_sha256": "b528ec6851b2cd570c9f56dd234fc8f0dde3ecc30ff8e48790462b6fb2020bb8"
+    }
+  ],
+  "archive": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/客户图片_第一批24张.zip",
+  "archive_sha256": "be19d58ea422b4b7320e3bd7ee2aadf01fbc3ecf027975d6567693199c40ebf7",
+  "archive_bytes": 58969783,
+  "archive_file_count": 50,
+  "crc": "PASS",
+  "user_acceptance": "CHANGES_REQUESTED",
+  "status": "RECALLED_CLIENT_GEOMETRY_NOT_ACCEPTED",
+  "reason": "Client says overall curvature/profile differs from real product"
+}

@@ -1,0 +1,18 @@
+{
+  "stage": "delivery",
+  "status": "REJECTED",
+  "issues": [
+    {
+      "code": "MISSING_FILE",
+      "item": "client_acceptance",
+      "detail": "Current path/hash required"
+    },
+    {
+      "code": "CUSTOMER_ACCEPTANCE",
+      "item": "manifest",
+      "detail": "Current JPEG customer receipt missing"
+    }
+  ],
+  "checked_jpg_count": 24,
+  "limits": "Hash, scope, source, explicit water labeling and manual-review receipts only. No automatic product shape/style/flow recognition or customer acceptance. Source layers may include photo-guided generated product images, distinguished from original water/press photographs."
+}

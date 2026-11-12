@@ -1,0 +1,66 @@
+{
+  "status": "PASS",
+  "scope": "列出文件的读取、解码、尺寸及SHA-256；不代表视觉或客户验收",
+  "files": [
+    {
+      "file": "银色主图_实拍主体_v7.jpg",
+      "bytes": 654767,
+      "sha256": "c09983e9adf0313ac9105761b7df997104fef7565bb18f7215cc012f9acb7e7e",
+      "format": "JPEG",
+      "dimensions": [
+        1600,
+        1600
+      ],
+      "mode": "RGB"
+    },
+    {
+      "file": "465_实拍主体_反光分层_v7.png",
+      "bytes": 5462565,
+      "sha256": "ee4487b48986d05c7a878c1a180a577b881f6d845ba387ef41dbefb58af7f8e7",
+      "format": "PNG",
+      "dimensions": [
+        1867,
+        4274
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "主体_缩放与局部去污_v7.png",
+      "bytes": 718068,
+      "sha256": "a0505aa60d51e09cd534ba2e1250b755c34a62d8a1aac1277f0870cb47255577",
+      "format": "PNG",
+      "dimensions": [
+        655,
+        1500
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "file": "独立背景_原生.png",
+      "bytes": 1691685,
+      "sha256": "857da2bbb4bb65573a5e087977ef11760eb7e4cb4e929e61a7e1e08a9890c7d1",
+      "format": "PNG",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "mode": "RGB"
+    },
+    {
+      "file": "465回源_手柄反光素材_原生.png",
+      "bytes": 1976090,
+      "sha256": "727073fb97b41afc65449d569606858d952cd831a96bd3c6f03b70667fb3e7de",
+      "format": "PNG",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "mode": "RGB"
+    },
+    {
+      "file": "制作_v7.py",
+      "bytes": 3945,
+      "sha256": "8b2a5a23573129b69cac5daae67512076c8c0d7b216256f0efb0c2ac5749b0ae"
+    }
+  ]
+}

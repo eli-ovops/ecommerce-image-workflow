@@ -1,0 +1,1310 @@
+{
+  "blend": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-30_\u957f\u65b9\u5f62\u62c9\u94ae\u9876\u55b7_\u5b8c\u6574\u5efa\u6a21/\u957f\u65b9\u5f62\u62c9\u94ae\u9876\u55b7_v3.blend",
+  "objects": [
+    {
+      "name": "Housing_300x200x20",
+      "dimensions_mm": [
+        300.000012,
+        200.000003,
+        20.0
+      ],
+      "nonmanifold_edges": 0,
+      "signed_volume_mm3": 173784.11474521688,
+      "inconsistent_winding_edges": 0
+    },
+    {
+      "name": "Observed_white_protective_cap",
+      "dimensions_mm": [
+        24.4,
+        24.4,
+        2.4
+      ],
+      "nonmanifold_edges": 0,
+      "signed_volume_mm3": 1106.686713626543,
+      "inconsistent_winding_edges": 0
+    },
+    {
+      "name": "Outward_pull_knob_concave_face",
+      "dimensions_mm": [
+        25.4,
+        25.4,
+        8.6
+      ],
+      "nonmanifold_edges": 0,
+      "signed_volume_mm3": 1445.488205811715,
+      "inconsistent_winding_edges": 0
+    },
+    {
+      "name": "Rear_connector_visible_envelope_UNCONFIRMED_thread",
+      "dimensions_mm": [
+        41.999999,
+        41.999999,
+        29.999999
+      ],
+      "nonmanifold_edges": 0,
+      "signed_volume_mm3": 22170.178952802624,
+      "inconsistent_winding_edges": 0
+    },
+    {
+      "name": "Recessed_panel_with_true_through_holes",
+      "dimensions_mm": [
+        294.800013,
+        194.800004,
+        4.142671
+      ],
+      "nonmanifold_edges": 0,
+      "signed_volume_mm3": 143957.49374116864,
+      "inconsistent_winding_edges": 0
+    }
+  ],
+  "surface_intersections": [
+    {
+      "a": "Housing_300x200x20",
+      "b": "Observed_white_protective_cap",
+      "triangle_pairs": 0
+    },
+    {
+      "a": "Housing_300x200x20",
+      "b": "Outward_pull_knob_concave_face",
+      "triangle_pairs": 0
+    },
+    {
+      "a": "Housing_300x200x20",
+      "b": "Rear_connector_visible_envelope_UNCONFIRMED_thread",
+      "triangle_pairs": 96
+    },
+    {
+      "a": "Housing_300x200x20",
+      "b": "Recessed_panel_with_true_through_holes",
+      "triangle_pairs": 0
+    },
+    {
+      "a": "Observed_white_protective_cap",
+      "b": "Outward_pull_knob_concave_face",
+      "triangle_pairs": 0
+    },
+    {
+      "a": "Observed_white_protective_cap",
+      "b": "Rear_connector_visible_envelope_UNCONFIRMED_thread",
+      "triangle_pairs": 192
+    },
+    {
+      "a": "Observed_white_protective_cap",
+      "b": "Recessed_panel_with_true_through_holes",
+      "triangle_pairs": 0
+    },
+    {
+      "a": "Outward_pull_knob_concave_face",
+      "b": "Rear_connector_visible_envelope_UNCONFIRMED_thread",
+      "triangle_pairs": 0
+    },
+    {
+      "a": "Outward_pull_knob_concave_face",
+      "b": "Recessed_panel_with_true_through_holes",
+      "triangle_pairs": 0
+    },
+    {
+      "a": "Rear_connector_visible_envelope_UNCONFIRMED_thread",
+      "b": "Recessed_panel_with_true_through_holes",
+      "triangle_pairs": 0
+    }
+  ],
+  "bore_checks": [
+    {
+      "id": "R00C00",
+      "open": true
+    },
+    {
+      "id": "R00C01",
+      "open": true
+    },
+    {
+      "id": "R00C02",
+      "open": true
+    },
+    {
+      "id": "R00C03",
+      "open": true
+    },
+    {
+      "id": "R00C04",
+      "open": true
+    },
+    {
+      "id": "R00C05",
+      "open": true
+    },
+    {
+      "id": "R00C06",
+      "open": true
+    },
+    {
+      "id": "R00C07",
+      "open": true
+    },
+    {
+      "id": "R00C08",
+      "open": true
+    },
+    {
+      "id": "R00C09",
+      "open": true
+    },
+    {
+      "id": "R00C10",
+      "open": true
+    },
+    {
+      "id": "R00C11",
+      "open": true
+    },
+    {
+      "id": "R00C12",
+      "open": true
+    },
+    {
+      "id": "R01C00",
+      "open": true
+    },
+    {
+      "id": "R01C13",
+      "open": true
+    },
+    {
+      "id": "R02C01",
+      "open": true
+    },
+    {
+      "id": "R02C03",
+      "open": true
+    },
+    {
+      "id": "R02C05",
+      "open": true
+    },
+    {
+      "id": "R02C07",
+      "open": true
+    },
+    {
+      "id": "R02C09",
+      "open": true
+    },
+    {
+      "id": "R02C11",
+      "open": true
+    },
+    {
+      "id": "R03C00",
+      "open": true
+    },
+    {
+      "id": "R03C02",
+      "open": true
+    },
+    {
+      "id": "R03C06",
+      "open": true
+    },
+    {
+      "id": "R03C11",
+      "open": true
+    },
+    {
+      "id": "R03C13",
+      "open": true
+    },
+    {
+      "id": "R04C00",
+      "open": true
+    },
+    {
+      "id": "R04C02",
+      "open": true
+    },
+    {
+      "id": "R04C04",
+      "open": true
+    },
+    {
+      "id": "R04C06",
+      "open": true
+    },
+    {
+      "id": "R04C08",
+      "open": true
+    },
+    {
+      "id": "R04C10",
+      "open": true
+    },
+    {
+      "id": "R04C12",
+      "open": true
+    },
+    {
+      "id": "R05C00",
+      "open": true
+    },
+    {
+      "id": "R05C04",
+      "open": true
+    },
+    {
+      "id": "R05C09",
+      "open": true
+    },
+    {
+      "id": "R05C13",
+      "open": true
+    },
+    {
+      "id": "R06C01",
+      "open": true
+    },
+    {
+      "id": "R06C03",
+      "open": true
+    },
+    {
+      "id": "R06C05",
+      "open": true
+    },
+    {
+      "id": "R06C07",
+      "open": true
+    },
+    {
+      "id": "R06C09",
+      "open": true
+    },
+    {
+      "id": "R06C11",
+      "open": true
+    },
+    {
+      "id": "R07C00",
+      "open": true
+    },
+    {
+      "id": "R07C13",
+      "open": true
+    },
+    {
+      "id": "R08C00",
+      "open": true
+    },
+    {
+      "id": "R08C02",
+      "open": true
+    },
+    {
+      "id": "R08C04",
+      "open": true
+    },
+    {
+      "id": "R08C08",
+      "open": true
+    },
+    {
+      "id": "R08C10",
+      "open": true
+    },
+    {
+      "id": "R08C12",
+      "open": true
+    },
+    {
+      "id": "R09C00",
+      "open": true
+    },
+    {
+      "id": "R09C13",
+      "open": true
+    },
+    {
+      "id": "R10C01",
+      "open": true
+    },
+    {
+      "id": "R10C03",
+      "open": true
+    },
+    {
+      "id": "R10C05",
+      "open": true
+    },
+    {
+      "id": "R10C07",
+      "open": true
+    },
+    {
+      "id": "R10C09",
+      "open": true
+    },
+    {
+      "id": "R10C11",
+      "open": true
+    },
+    {
+      "id": "R11C00",
+      "open": true
+    },
+    {
+      "id": "R11C04",
+      "open": true
+    },
+    {
+      "id": "R11C09",
+      "open": true
+    },
+    {
+      "id": "R11C13",
+      "open": true
+    },
+    {
+      "id": "R12C00",
+      "open": true
+    },
+    {
+      "id": "R12C02",
+      "open": true
+    },
+    {
+      "id": "R12C04",
+      "open": true
+    },
+    {
+      "id": "R12C06",
+      "open": true
+    },
+    {
+      "id": "R12C08",
+      "open": true
+    },
+    {
+      "id": "R12C10",
+      "open": true
+    },
+    {
+      "id": "R12C12",
+      "open": true
+    },
+    {
+      "id": "R13C00",
+      "open": true
+    },
+    {
+      "id": "R13C02",
+      "open": true
+    },
+    {
+      "id": "R13C06",
+      "open": true
+    },
+    {
+      "id": "R13C11",
+      "open": true
+    },
+    {
+      "id": "R13C13",
+      "open": true
+    },
+    {
+      "id": "R14C01",
+      "open": true
+    },
+    {
+      "id": "R14C03",
+      "open": true
+    },
+    {
+      "id": "R14C05",
+      "open": true
+    },
+    {
+      "id": "R14C07",
+      "open": true
+    },
+    {
+      "id": "R14C09",
+      "open": true
+    },
+    {
+      "id": "R14C11",
+      "open": true
+    },
+    {
+      "id": "R15C00",
+      "open": true
+    },
+    {
+      "id": "R15C13",
+      "open": true
+    },
+    {
+      "id": "R16C00",
+      "open": true
+    },
+    {
+      "id": "R16C01",
+      "open": true
+    },
+    {
+      "id": "R16C02",
+      "open": true
+    },
+    {
+      "id": "R16C03",
+      "open": true
+    },
+    {
+      "id": "R16C04",
+      "open": true
+    },
+    {
+      "id": "R16C05",
+      "open": true
+    },
+    {
+      "id": "R16C06",
+      "open": true
+    },
+    {
+      "id": "R16C07",
+      "open": true
+    },
+    {
+      "id": "R16C08",
+      "open": true
+    },
+    {
+      "id": "R16C09",
+      "open": true
+    },
+    {
+      "id": "R16C10",
+      "open": true
+    },
+    {
+      "id": "R16C11",
+      "open": true
+    },
+    {
+      "id": "R16C12",
+      "open": true
+    }
+  ],
+  "blind_checks": [
+    {
+      "id": "R01C01",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R01C02",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R01C03",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R01C04",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R01C05",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R01C06",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R01C07",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R01C08",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R01C09",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R01C10",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R01C11",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R01C12",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R02C00",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R02C02",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R02C04",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R02C06",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R02C08",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R02C10",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R02C12",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R03C01",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R03C03",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R03C04",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R03C05",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R03C07",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R03C08",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R03C09",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R03C10",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R03C12",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R04C01",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R04C03",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R04C05",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R04C07",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R04C09",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R04C11",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R05C01",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R05C02",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R05C03",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R05C05",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R05C06",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R05C07",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R05C08",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R05C10",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R05C11",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R05C12",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R06C00",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R06C02",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R06C04",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R06C06",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R06C08",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R06C10",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R06C12",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R07C01",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R07C02",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R07C03",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R07C04",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R07C05",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R07C06",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R07C07",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R07C08",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R07C09",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R07C10",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R07C11",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R07C12",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R08C01",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R08C03",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R08C05",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R08C07",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R08C09",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R08C11",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R09C01",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R09C02",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R09C03",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R09C04",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R09C05",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R09C06",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R09C07",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R09C08",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R09C09",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R09C10",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R09C11",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R09C12",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R10C00",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R10C02",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R10C04",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R10C06",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R10C08",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R10C10",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R10C12",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R11C01",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R11C02",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R11C03",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R11C05",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R11C06",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R11C07",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R11C08",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R11C10",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R11C11",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R11C12",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R12C01",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R12C03",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R12C05",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R12C07",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R12C09",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R12C11",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R13C01",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R13C03",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R13C04",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R13C05",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R13C07",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R13C08",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R13C09",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R13C10",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R13C12",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R14C00",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R14C02",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R14C04",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R14C06",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R14C08",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R14C10",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R14C12",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R15C01",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R15C02",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R15C03",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R15C04",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R15C05",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R15C06",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R15C07",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R15C08",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R15C09",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R15C10",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R15C11",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    },
+    {
+      "id": "R15C12",
+      "closed": true,
+      "first_surface_z_mm": 6.97,
+      "normal_z": 1.0
+    }
+  ],
+  "materials": [
+    "Black \u2014 appearance from 377",
+    "Gunmetal \u2014 appearance from 377",
+    "Inspection gray",
+    "Material",
+    "Red outward pull knob",
+    "Silver \u2014 appearance from 373_377",
+    "Textured black panel",
+    "White protective cap \u2014 thread hidden"
+  ],
+  "checks": {
+    "all_96_bores_open": true,
+    "all_132_blind_dots_closed": true,
+    "all_parts_manifold": true,
+    "all_parts_positive_volume": true,
+    "all_parts_consistent_winding": true,
+    "three_finishes_persisted": true
+  }
+}

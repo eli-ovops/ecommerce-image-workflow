@@ -1,0 +1,13 @@
+{
+  "id": "D11",
+  "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/D11-root-v4.png",
+  "native_source": "/Users/USER/.codex/generated_images/01a16319-d848-71d0-95e1-72970644c800/exec-06f98d60-15d5-4cef-8c9e-f1755b2fc90a.png",
+  "sha256": "cac9de536f4799e08efa024cb845eb8f00021ef969d1f15370ecc18cac9823dc",
+  "dimensions": [
+    899,
+    1749
+  ],
+  "prompt_record": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/prompts/D11-root-v4.json",
+  "status": "PENDING_NATIVE_QA",
+  "delivery_format": "JPG_ONLY"
+}

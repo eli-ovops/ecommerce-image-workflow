@@ -1,0 +1,250 @@
+{
+  "schema_version": 2,
+  "experiment_id": "SILVER-MODEL-MAIN-001",
+  "production_state": "REVISION_REQUIRED",
+  "date": "2026-10-24",
+  "task_scope": "THREE_DRY_MODEL_MAIN_IMAGES",
+  "geometry_source": {
+    "kind": "authorized_blender_model",
+    "file": {
+      "path": "production/2026-10-24_实物建模/blender/v010a/shower_black_clay_v010a.blend",
+      "sha256": "e3de47e1ddd7ee4741d2a698e8fb22078839297c0834f6bad32af4b4341d4a97"
+    },
+    "authorization": {
+      "path": "production/2026-10-24_三维主图试作/review/authorization-and-plan.json",
+      "sha256": "050287363fd7b6b583e0c591d265556aa627a3fcd9ea90f57478cfbc1dc91523"
+    },
+    "render_receipt": {
+      "path": "production/2026-10-24_三维主图试作/review/render-origin.json",
+      "sha256": "fca3708050d625d44d44d40ed1a0647d7b7c4805df4b96a6a5ea8706559918d2"
+    }
+  },
+  "appearance_sources": [
+    {
+      "path": "products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+      "sha256": "6de02f19793c568c799762525475cd0241af1b9c41487580383be4efbd2a1fa2"
+    },
+    {
+      "path": "products/主推花洒/银色/原图/微信图片_20261022184344_90_2.jpg",
+      "sha256": "9f6e724d9fc0e01a0670fbd1964d4a3e2e32d985447bcdb99fc98fe147526eb1"
+    },
+    {
+      "path": "products/主推花洒/银色/原图/微信图片_20261022184345_91_2.jpg",
+      "sha256": "8d41d23e8e762b1e9208796587c36db70ea8e452ee2e3fdd3604f97c7f40dd60"
+    },
+    {
+      "path": "products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg",
+      "sha256": "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90"
+    },
+    {
+      "path": "products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+      "sha256": "0b388756f0ee2e35630dac7789237153d390fa8aaab8f58f6e2643d4181be21d"
+    }
+  ],
+  "assets": [
+    {
+      "id": "P01",
+      "role": "银色完整外观主图",
+      "sku": "silver",
+      "has_water": false,
+      "has_person": false,
+      "references": [
+        "A038",
+        "A034"
+      ],
+      "approved_copy": [
+        "银色 · 单花洒",
+        "三档切换",
+        "手持花洒",
+        "常规 · 喷雾 · 混合",
+        "下方按键切档",
+        "银色手持花洒"
+      ],
+      "geometry_route": "model_render_locked",
+      "producer": "blender_product_model + root_composition",
+      "product_layers": [
+        {
+          "file": {
+            "path": "production/2026-10-24_三维主图试作/renders/front3q-v004.png",
+            "sha256": "b61f8dd59e6fc7b7d7779332eb38b04778001cfbe9c7bf46400cb7d36eebd8c6"
+          },
+          "size": [
+            557,
+            1180
+          ],
+          "xy": [
+            832,
+            126
+          ]
+        }
+      ],
+      "candidate": {
+        "path": "production/2026-10-24_三维主图试作/working/P01.png",
+        "sha256": "d725fd8f7811a680709b17d0e8dd8c85f68be2566dfe69075253a3bb9529dc27"
+      },
+      "protected_mask": {
+        "path": "production/2026-10-24_三维主图试作/working/P01-product-mask.png",
+        "sha256": "606786438b67b46c7641ccfcb9da6ec47681bf6b20b7991e4cc4d117677fced9"
+      },
+      "client_jpg": {
+        "path": "production/2026-10-24_三维主图试作/final/P01.jpg",
+        "sha256": "9444d5613ca90cd6a4d05129d6e196ca7237acbbd44c709565b65b2da7a62209"
+      },
+      "review": {
+        "path": "production/2026-10-24_三维主图试作/review/P01-visual-review.json",
+        "sha256": "0c07f33e7096576aa2141932e58165abf0281de607b474fcd6f93930768c51f9"
+      },
+      "qa_status": "REWORK_REQUIRED_REAL_PHOTOS",
+      "target_dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "id": "P02",
+      "role": "双视角弧度",
+      "sku": "silver",
+      "has_water": false,
+      "has_person": false,
+      "references": [
+        "A034",
+        "A022"
+      ],
+      "approved_copy": [
+        "正面与背面",
+        "银色手持花洒",
+        "正面",
+        "背面"
+      ],
+      "geometry_route": "model_render_locked",
+      "producer": "blender_product_model + root_composition",
+      "product_layers": [
+        {
+          "file": {
+            "path": "production/2026-10-24_三维主图试作/renders/front3q-v004.png",
+            "sha256": "b61f8dd59e6fc7b7d7779332eb38b04778001cfbe9c7bf46400cb7d36eebd8c6"
+          },
+          "size": [
+            496,
+            1050
+          ],
+          "xy": [
+            160,
+            338
+          ]
+        },
+        {
+          "file": {
+            "path": "production/2026-10-24_三维主图试作/renders/back3q-v003.png",
+            "sha256": "f459d4ebb648ffad834db108cfd88f2b57d240cac77a2373c4238d6c3d317c5c"
+          },
+          "size": [
+            461,
+            1050
+          ],
+          "xy": [
+            928,
+            338
+          ]
+        }
+      ],
+      "candidate": {
+        "path": "production/2026-10-24_三维主图试作/working/P02.png",
+        "sha256": "91642edeb906b8655692b94a43c91025ab35dc506fef5b22c29190b26a671d4c"
+      },
+      "protected_mask": {
+        "path": "production/2026-10-24_三维主图试作/working/P02-product-mask.png",
+        "sha256": "df0c5ff0b973434151dce2b2afa6e73c7894e296a9aa3a61274b3133b5fe27bf"
+      },
+      "client_jpg": {
+        "path": "production/2026-10-24_三维主图试作/final/P02.jpg",
+        "sha256": "bdd5d52b8264a7ae082adfa0c913c3d55a68cd47436544e807359fdea037f1ef"
+      },
+      "review": {
+        "path": "production/2026-10-24_三维主图试作/review/P02-visual-review.json",
+        "sha256": "072d29d550cbde6b472bbd4972a9af9eb72116c937dab3876bf301acd5107a2d"
+      },
+      "qa_status": "REWORK_REQUIRED_REAL_PHOTOS",
+      "target_dimensions": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "id": "P03",
+      "role": "下方按键细节",
+      "sku": "silver",
+      "has_water": false,
+      "has_person": false,
+      "references": [
+        "A014",
+        "A023"
+      ],
+      "approved_copy": [
+        "下方按键",
+        "切换三档",
+        "01 常规出水",
+        "02 喷雾出水",
+        "03 混合出水",
+        "银色 · 单花洒"
+      ],
+      "geometry_route": "model_render_locked",
+      "producer": "blender_product_model + root_composition",
+      "product_layers": [
+        {
+          "file": {
+            "path": "production/2026-10-24_三维主图试作/renders/buttonclose-v004.png",
+            "sha256": "34fdabeead25697c930d2a89041b19fa59de630b5c7e4a95ea4c1439736cbbab"
+          },
+          "size": [
+            779,
+            1080
+          ],
+          "xy": [
+            675,
+            440
+          ]
+        }
+      ],
+      "candidate": {
+        "path": "production/2026-10-24_三维主图试作/working/P03.png",
+        "sha256": "31c7cc0039378e50a959c7f8f88a6faa7d6b456f48b153443fc9a4db420053eb"
+      },
+      "protected_mask": {
+        "path": "production/2026-10-24_三维主图试作/working/P03-product-mask.png",
+        "sha256": "2c6422c55d40c3babc48ed7e11b10b22180830809fb5e2d09d2462d10b5c384a"
+      },
+      "client_jpg": {
+        "path": "production/2026-10-24_三维主图试作/final/P03.jpg",
+        "sha256": "4a0cc77d89bb558ea1ac3f279d8c974ce4f01f5b771b78b894079b7051828b3a"
+      },
+      "review": {
+        "path": "production/2026-10-24_三维主图试作/review/P03-visual-review.json",
+        "sha256": "5bad1cbad844a5be0caa52267f40af6c95a294217dd4fb800b11ce32b326a907"
+      },
+      "qa_status": "REWORK_REQUIRED_REAL_PHOTOS",
+      "target_dimensions": [
+        1600,
+        1600
+      ]
+    }
+  ],
+  "client_acceptance": null,
+  "capabilities": {
+    "product_body_mesh_preservation": true,
+    "product_pixel_protection": true,
+    "fixed_seed": false,
+    "controlnet": false,
+    "automatic_physical_fit": false,
+    "water_and_person_tasks": "NOT_RUN_THIS_SIMPLIFIED_TRIAL"
+  },
+  "legacy_photo_experiment": "workflow/history/experiment-photo-v1-20261024.json",
+  "trial_metrics": {
+    "ai_background_calls": 1,
+    "ai_product_redraw_calls": 0,
+    "customer_accepted_images": 0
+  },
+  "output_root": "production/2026-10-24_三维主图试作",
+  "latest_user_correction": "actual own-SKU photos remain primary appearance authority; 3D secondary shape reference only",
+  "current_review_status": "REOPENED_AFTER_USER_FEEDBACK"
+}

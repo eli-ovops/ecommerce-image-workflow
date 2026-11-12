@@ -1,0 +1,77 @@
+{
+  "coverage": "18 evenly sampled frames over full duration; not continuous playback or audio review",
+  "frames": [
+    {
+      "path": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u5b9e\u7269\u5efa\u6a21/inspection/video-frames/f00.jpg",
+      "requested_seconds": 0.0
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u5b9e\u7269\u5efa\u6a21/inspection/video-frames/f01.jpg",
+      "requested_seconds": 0.783
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u5b9e\u7269\u5efa\u6a21/inspection/video-frames/f02.jpg",
+      "requested_seconds": 1.567
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u5b9e\u7269\u5efa\u6a21/inspection/video-frames/f03.jpg",
+      "requested_seconds": 2.35
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u5b9e\u7269\u5efa\u6a21/inspection/video-frames/f04.jpg",
+      "requested_seconds": 3.133
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u5b9e\u7269\u5efa\u6a21/inspection/video-frames/f05.jpg",
+      "requested_seconds": 3.917
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u5b9e\u7269\u5efa\u6a21/inspection/video-frames/f06.jpg",
+      "requested_seconds": 4.7
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u5b9e\u7269\u5efa\u6a21/inspection/video-frames/f07.jpg",
+      "requested_seconds": 5.483
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u5b9e\u7269\u5efa\u6a21/inspection/video-frames/f08.jpg",
+      "requested_seconds": 6.267
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u5b9e\u7269\u5efa\u6a21/inspection/video-frames/f09.jpg",
+      "requested_seconds": 7.05
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u5b9e\u7269\u5efa\u6a21/inspection/video-frames/f10.jpg",
+      "requested_seconds": 7.833
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u5b9e\u7269\u5efa\u6a21/inspection/video-frames/f11.jpg",
+      "requested_seconds": 8.617
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u5b9e\u7269\u5efa\u6a21/inspection/video-frames/f12.jpg",
+      "requested_seconds": 9.4
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u5b9e\u7269\u5efa\u6a21/inspection/video-frames/f13.jpg",
+      "requested_seconds": 10.183
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u5b9e\u7269\u5efa\u6a21/inspection/video-frames/f14.jpg",
+      "requested_seconds": 10.967
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u5b9e\u7269\u5efa\u6a21/inspection/video-frames/f15.jpg",
+      "requested_seconds": 11.75
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u5b9e\u7269\u5efa\u6a21/inspection/video-frames/f16.jpg",
+      "requested_seconds": 12.533
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u7535\u5546 \u4f5c\u56fe\u5de5\u4f5c\u6d41/production/2026-10-24_\u5b9e\u7269\u5efa\u6a21/inspection/video-frames/f17.jpg",
+      "requested_seconds": 13.317
+    }
+  ]
+}

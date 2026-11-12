@@ -1,0 +1,50 @@
+[
+  {
+    "file": "399-detail.jpg",
+    "bytes": 267197,
+    "sha256": "1bd7db5d0b707d07c4b3666b9434f61a879df2c3969bb15a8a4d36c2dd854f78",
+    "size": [
+      800,
+      800
+    ]
+  },
+  {
+    "file": "399-preview.blend",
+    "bytes": 8283657,
+    "sha256": "32122828d6d23730681ecc3713d02ca0f424b9215e57ef4067e9fb8b38ce1a67"
+  },
+  {
+    "file": "399-preview.jpg",
+    "bytes": 123815,
+    "sha256": "fbb10b89b164c3f4b4be4b3eb9c964b87f2cdc7f68191eb5d4559ea8ffcacff0",
+    "size": [
+      450,
+      800
+    ]
+  },
+  {
+    "file": "README.md",
+    "bytes": 1710,
+    "sha256": "e78aedb3a271276c13d7465e9d6f247279589e7a1ff1731e194522adf3ea0187"
+  },
+  {
+    "file": "isolation-check.json",
+    "bytes": 4166,
+    "sha256": "57de0d44c183084a8640606e29985821ee041e1428feecc479b60c6fee49ade4"
+  },
+  {
+    "file": "render.log",
+    "bytes": 807,
+    "sha256": "f32bc44d004fe129e53c0a2135d931b0837ab11e654233ab544609aae34da2e3"
+  },
+  {
+    "file": "render_check.py",
+    "bytes": 3545,
+    "sha256": "e188e3d1b9cda86ed1277b6e91a71930554debfd78e136d3900f6b0e59c3c449"
+  },
+  {
+    "file": "review.json",
+    "bytes": 485,
+    "sha256": "9cfeb31b6c1e2bab7927760d8e24225c9558b8e15cdb849d3ecd3c9019c4311a"
+  }
+]

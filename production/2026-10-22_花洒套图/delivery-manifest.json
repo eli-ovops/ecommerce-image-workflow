@@ -1,0 +1,233 @@
+{
+  "date": "2026-10-22",
+  "timezone": "Asia/Shanghai",
+  "image_count": 16,
+  "png_count": 16,
+  "jpg_count": 16,
+  "source_images_untouched": true,
+  "assets": [
+    {
+      "id": "SIL-P01",
+      "title": "无字白底单品图",
+      "png": "final/SIL-P01.png",
+      "jpg": "exports/JPG/SIL-P01.jpg",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "png_sha256": "598e6aca38da8c3d3947259d6a7a328a6e0d4d9f347cae16303e7c252127368e",
+      "jpg_sha256": "1a35dff85b20196141af03c20a7b3e49389eac0694a12dc751a1b1d3462ae51d",
+      "independent_visual_qa": "PASS_WITH_LIMITATIONS"
+    },
+    {
+      "id": "SIL-P02",
+      "title": "三档出水 按压除垢",
+      "png": "final/SIL-P02.png",
+      "jpg": "exports/JPG/SIL-P02.jpg",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "png_sha256": "07ff320c3a418cecaa4397b4d2dc6e4a560ff8cc167f607dd68f32d07a224614",
+      "jpg_sha256": "16586559fb8ea0df268bd398f96771af1df5a11a3709db6fc0314c7e6572a7a9",
+      "independent_visual_qa": "PASS_WITH_LIMITATIONS"
+    },
+    {
+      "id": "SIL-P03",
+      "title": "手持花洒 日常淋浴",
+      "png": "final/SIL-P03.png",
+      "jpg": "exports/JPG/SIL-P03.jpg",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "png_sha256": "d5fd0291350e0b489181024558e2d0bc96b964ba971b964031f0a346780d4c60",
+      "jpg_sha256": "21807fe7f245bc2bf495d7d7bd9028211790824d07f7c155e2a26cb75462f80f",
+      "independent_visual_qa": "PASS_WITH_LIMITATIONS"
+    },
+    {
+      "id": "SIL-P04",
+      "title": "三档出水可切换",
+      "png": "final/SIL-P04.png",
+      "jpg": "exports/JPG/SIL-P04.jpg",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "png_sha256": "872f9bbd03d7386d91425795209db699214642aa53aadf381e8b48cd2f42b3df",
+      "jpg_sha256": "1b8d127cac48aaffeee811ef8cc293163bb993164c7b986c3a978a46c3d969e0",
+      "independent_visual_qa": "PASS_WITH_LIMITATIONS"
+    },
+    {
+      "id": "SIL-P05",
+      "title": "按压红钮 辅助除垢",
+      "png": "final/SIL-P05.png",
+      "jpg": "exports/JPG/SIL-P05.jpg",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "png_sha256": "d1c9cedb4027343fd52061b15e07ea1d7fb59125ef829ca360fd545169c7ff74",
+      "jpg_sha256": "877e239ea793c5c7a14382da497fe09472cf0cf9293b62d741c98275bfd4eaac",
+      "independent_visual_qa": "PASS_WITH_LIMITATIONS"
+    },
+    {
+      "id": "SIL-P06",
+      "title": "下方按键切档",
+      "png": "final/SIL-P06.png",
+      "jpg": "exports/JPG/SIL-P06.jpg",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "png_sha256": "21f5a5660c1afeaf04feefe14c1da90904dd3bb9dca24e8252d61bab801b4862",
+      "jpg_sha256": "093d42017bbddcf3bd2390db3370bbc8ba5344d50075b21ac8ca87e434448146",
+      "independent_visual_qa": "PASS_WITH_LIMITATIONS"
+    },
+    {
+      "id": "SIL-P07",
+      "title": "银色外观 多面呈现",
+      "png": "final/SIL-P07.png",
+      "jpg": "exports/JPG/SIL-P07.jpg",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "png_sha256": "bb65c9fe46241807135b84cab19e8baf6608f38c54922ab671fbb1a52b3790f4",
+      "jpg_sha256": "8a63a76f9d4ebca688d520f872f001417d6dba9599a0c0f01288c4296dc0fc07",
+      "independent_visual_qa": "PASS_WITH_LIMITATIONS"
+    },
+    {
+      "id": "SIL-P08",
+      "title": "银色",
+      "png": "final/SIL-P08.png",
+      "jpg": "exports/JPG/SIL-P08.jpg",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "png_sha256": "ec5e882833cfdee2952055da0225c6bd8424c6b5d55e59ed4856c1009a4a0423",
+      "jpg_sha256": "1ec73b32ed6e1de181a7e93ca477c97e86b9179879f37313aa889acef382cf99",
+      "independent_visual_qa": "PASS_WITH_LIMITATIONS"
+    },
+    {
+      "id": "SIL-D01",
+      "title": "日常淋浴 三档可选",
+      "png": "final/SIL-D01.png",
+      "jpg": "exports/JPG/SIL-D01.jpg",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "png_sha256": "75c3c4b7e7aaf6888d1cd28a28d9872276ab21609936a363664d9a037783400d",
+      "jpg_sha256": "18b9532abf6883ceb5e80ddc3e4c64d716fbb40090834d4bb28549db06459f7a",
+      "independent_visual_qa": "PASS_WITH_LIMITATIONS"
+    },
+    {
+      "id": "SIL-D02",
+      "title": "三种水型 一处切换",
+      "png": "final/SIL-D02.png",
+      "jpg": "exports/JPG/SIL-D02.jpg",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "png_sha256": "5bb844a6c793c3bee4eb83b3a8e405901c7566c9f72f624fe055fdfa1a4f0d3d",
+      "jpg_sha256": "9acacd9d56e416e98f3cc0bd5b673149452bc968d58dff64e6a9826ad7b7610e",
+      "independent_visual_qa": "PASS_WITH_LIMITATIONS"
+    },
+    {
+      "id": "SIL-D03",
+      "title": "看清三种出水",
+      "png": "final/SIL-D03.png",
+      "jpg": "exports/JPG/SIL-D03.jpg",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "png_sha256": "4e82e260f188cad96cf1078f8c0946d83a5034045459d8bba54bceced2147eef",
+      "jpg_sha256": "de160e7e213f7614ae00985312ecc37ee8a24f0f70b7593a379ab67dc625af56",
+      "independent_visual_qa": "PASS_WITH_LIMITATIONS"
+    },
+    {
+      "id": "SIL-D04",
+      "title": "红钮按下 红针伸出",
+      "png": "final/SIL-D04.png",
+      "jpg": "exports/JPG/SIL-D04.jpg",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "png_sha256": "00adaf37d786cb590057e187f93b19d635d86d7369439c4136a8bea5fa15f28b",
+      "jpg_sha256": "bf124fff062316e36a1a0ec4ef906c31e7d85c4acaeb789170e0c051db789ac7",
+      "independent_visual_qa": "PASS_WITH_LIMITATIONS"
+    },
+    {
+      "id": "SIL-D05",
+      "title": "切档看下方按键",
+      "png": "final/SIL-D05.png",
+      "jpg": "exports/JPG/SIL-D05.jpg",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "png_sha256": "9b4a8b673c7264560a4b7a750fea37955036a4bee64b5fdc5caf7e3760bb17eb",
+      "jpg_sha256": "f857a5c3019d7270469d3a9b4bf6aac2e328f2cfba6023893e8998be51b33567",
+      "independent_visual_qa": "PASS_WITH_LIMITATIONS"
+    },
+    {
+      "id": "SIL-D06",
+      "title": "三色外观 按需选款",
+      "png": "final/SIL-D06.png",
+      "jpg": "exports/JPG/SIL-D06.jpg",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "png_sha256": "5567693b56bf15d5132b670276acfa77fb7e0feff775c8f35ca6b69f63a04b05",
+      "jpg_sha256": "31e049d52264b80d410db56a2e752c68a0908b057c1e7e56f77ff2c6a8cca3e7",
+      "independent_visual_qa": "PASS_WITH_LIMITATIONS"
+    },
+    {
+      "id": "BLK-P01",
+      "title": "黑色",
+      "png": "final/BLK-P01.png",
+      "jpg": "exports/JPG/BLK-P01.jpg",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "png_sha256": "d4e6fd06693acca114c39f8696e7bb9b86bd0ab3dc4ac51807f32f7c5fdb3655",
+      "jpg_sha256": "3408f83a282010e89e226f3740c5ca12eb91d0b172a7f6ad6b08ecfb9d664eae",
+      "independent_visual_qa": "PASS_WITH_LIMITATIONS"
+    },
+    {
+      "id": "GMT-P01",
+      "title": "枪灰色",
+      "png": "final/GMT-P01.png",
+      "jpg": "exports/JPG/GMT-P01.jpg",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "png_sha256": "7dff2c4cffb37655bd0edc2be5b3fe7f31731b76f24465aa300b6845b3738df0",
+      "jpg_sha256": "18a05f6d458eec6939fdaaf31ed03c750c93c0a40512a7b95afa71df5cc944c2",
+      "independent_visual_qa": "PASS_WITH_LIMITATIONS"
+    }
+  ],
+  "overview_pages": [
+    "previews/delivery_overview_01.jpg",
+    "previews/delivery_overview_02.jpg"
+  ],
+  "detail_long_image": {
+    "path": "exports/银色详情长图.jpg",
+    "dimensions": [
+      1086,
+      8688
+    ],
+    "sha256": "74c762d8113e269a1dcc1fc7feb94e9ad5d1e3829eb6715287c15e3a1d41e19e",
+    "method": "Six original detail screens pasted vertically in D01-D06 order, without resizing or cropping"
+  },
+  "user_acceptance": "PENDING",
+  "platform_specific_compliance": "NOT_REQUESTED"
+}

@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "asset_id": "P01",
+  "candidate_sha256": "d725fd8f7811a680709b17d0e8dd8c85f68be2566dfe69075253a3bb9529dc27",
+  "jpg_sha256": "9444d5613ca90cd6a4d05129d6e196ca7237acbbd44c709565b65b2da7a62209",
+  "model_sha256": "e3de47e1ddd7ee4741d2a698e8fb22078839297c0834f6bad32af4b4341d4a97",
+  "reviewer": "root",
+  "reviewed_at": "2026-10-24T20:37:17.852310+08:00",
+  "finding": "Compared final JPEG with accepted model render, silver photos, A038 single-product and A034 blue-white visual references. Full product intact, top cylinder edge/neck visible, white holes and silver lower button correct, no extra black disk. Two-line title and mode names readable. Background AI only; native product preserved.",
+  "checks": {
+    "geometry": "PASS",
+    "style": "PASS",
+    "copy": "PASS",
+    "export": "PASS"
+  },
+  "independent_layout_review": {
+    "path": "production/2026-10-24_三维主图试作/model_assets/final-layout-independent-review.json",
+    "sha256": "f3e58841b96fe7d2bf7cca5dc1a5c279e86e7b0befb23533ce014bce2e1874cc"
+  },
+  "water": "NOT_APPLICABLE_DRY",
+  "person": "NOT_APPLICABLE_NO_PERSON",
+  "acceptance_scope": "Internal review readiness only, not customer acceptance or physically calibrated geometry"
+}

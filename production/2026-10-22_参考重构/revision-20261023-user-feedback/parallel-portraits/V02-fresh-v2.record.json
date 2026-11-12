@@ -1,0 +1,41 @@
+{
+  "id": "V02",
+  "version": 2,
+  "prompt": "NEW original Chinese product fashion photograph/page, portrait1034x1521. ORIGINAL references only: image1 adult fictional M001 identity/proportions, image2 real silver SKU overall shape, image3 real outlet face detail, image4 R022 warm ivory fashion layout ONLY. Do not use ANY old generated portrait or failed image. Generate every pixel fresh.\nSKIN FINISH IS CRITICAL: premium cosmetics campaign professionally retouched makeup skin. Airbrushed satin-smooth CONTINUOUS low-frequency tonal gradients over forehead, cheeks, chin, neck, arms and hands. NO VISIBLE epidermal microtexture at all, no pores, no grain, no microscopic creases, no closed-cell polygons, mesh, scales, crosshatch or repeating ridges. Do NOT reproduce the fine surface texture from identity image1: use it ONLY for facial identity/proportions. Retain clear adult facial bone structure, sharp individual eyebrow hairs, eyelashes, eyes, nose edges and lip contours; only the skin surfaces are immaculate and texture-free, not a blurred whole face. Soft diffused beauty light, natural grown-adult appearance and makeup, never cartoon.\nEXACT layout: warm pale ivory seamless backdrop, white glossy tabletop along bottom. Upper LEFT huge dark warm BROWN bold slightly italic Chinese title exactly two lines “下方” / “切档”. Upper RIGHT smaller black Chinese exactly “按键靠近手柄”. No other writing. Lower/right two thirds M001 with long loose black hair, hazel eyes, same oval face, nose and lips as original identity. Opaque ivory sleeveless blouse. Seated behind table, RIGHT elbow on table, RIGHT hand supports cheek/chin; LEFT hand holds large silver showerhead in LEFT foreground. Calm natural professional expression looking viewer. No bathrobe/white-coat standing testimonial. Preserve R022 asymmetry, left object/right face, warm soft light, oversized brown typography and spare information density.\nProduct round silver chrome shell and handle, continuous black face, small LOW FLAT near-flush white eyelet rings same size per perspective, tiny dark outer holes, central RED manual descaling ring/button, lower SILVER mode selector in black neck. Actual SIL001/SIL005 images define proportions and button/outlets. No tall white nozzle cylinders or enlarged white donuts. Product face about face-sized, front toward viewer. Complete single showerhead ends in short bare SILVER male thread above table, no connector/quick-release/hose/bracket. Product DRY, no water. Five-finger natural hands, correct identity. No labels, logos, flags, badges, certificates, mode tags, dimensions or new claims.",
+  "refs": [
+    "/Volumes/EXTERNAL/电商 作图工作流/models/M001/master-v1.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/01_微信参考原图/R022_场景_人物与按钮切换.jpg"
+  ],
+  "fresh": true,
+  "old_person_images_as_input": false,
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "directed_images_viewed": [
+    "/Volumes/EXTERNAL/电商 作图工作流/models/M001/master-v1.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/01_微信参考原图/R022_场景_人物与按钮切换.jpg"
+  ],
+  "batch_full_read_record": "Reuse root M04-v1/M06-v1 and M04-v2 preflight under BATCH-REF-20261023-v1",
+  "change_reason": "Original QA visible closed-cell grid on forehead and cheek; skin direction replaced with texture-free cosmetics retouch, original facial identity only.",
+  "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/parallel-portraits/V02-fresh-v2.png",
+  "actual_dimensions": [
+    1029,
+    1528
+  ],
+  "sha256": "4576af46ac49e872f1307bbb711bf797ff30964eeb73f72d8dc2696a26c01c2c",
+  "source_output": "/Users/USER/.codex/generated_images/01a1677a-d5c6-7ae1-aff4-beb08d398f79/exec-80b57c51-4813-4072-85a7-9e0abcdc95c3.png",
+  "self_review": {
+    "status": "FAIL_VISIBLE_SKIN_MESH",
+    "native_output_actually_opened": true,
+    "skin": "Forehead and cheek retain shallow closed-cell polygon network despite texture-free cosmetic retouch prompt. Not accepted as repaired.",
+    "layout_copy": "Original required composition and accurate specified text preserved.",
+    "product_limitations": [
+      "V02 exposed thread generated dark/black despite silver-thread prompt."
+    ],
+    "extra_calls": "No additional trial after this v2; parent requested only these two fresh v2 outputs."
+  },
+  "review_date_utc": "2026-10-23T07:14:12.133120+00:00"
+}

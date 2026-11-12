@@ -1,0 +1,15 @@
+{
+  "unchanged": true,
+  "product_mesh_sha256": {
+    "Connector_dark_cavity_backing_ESTIMATED": "3c01c313a254842396418ed7d95dae6fc8febd85a85a98444d6c63c8e7dc7e46",
+    "Connector_dark_inner_ring_ESTIMATED": "fe0d25cfac3379d145d4700ee112202c0010e2aeba204720a8203d6cb54bdea1",
+    "Connector_open_metal_envelope_ESTIMATED": "b5ee2f5ccf7b62e2c359ec99a1d07e780e2d30338b04d15d4f61886f6862fb09",
+    "Connector_visible_screen_ESTIMATED_pitch_not_spec": "64350581fdea2dcb720ce1ed1020a9b2af4b7d1abaaa5047b971bfb3468508eb",
+    "Housing_300x200x20": "4fe94c2bf8a85409e3bf6cb798d4b8d40fe43ed4da087b438c9f4df34d344f1a",
+    "Observed_white_protective_cap": "26f98dc7cf64be11e2542609f69d2abcd93cb58cfe37d89184061df75ccbbb9a",
+    "Outward_pull_knob_concave_face": "eaf18db40e7deab32ab71da3548cae864df454b0dbf824d8d9080b66befcf6de",
+    "Rear_connector_visible_envelope_UNCONFIRMED_thread": "14c84450b206fa6aee9bdc6295961c312b65ca3b36e7a58005fde434e07af682",
+    "Recessed_panel_with_true_through_holes": "28d3fea953b830872020bfa1446598485a85320ff89576e6d21acd4ef35ef6b4"
+  },
+  "scope": "Identical vertices and face indices to parent399-preview.blend; geometry classification inherited from checked source."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "D04",
+  "method": "user-approved additive RGBA water compositing; immutable base",
+  "source_sha256": "9f0d07f3c9e53e82605460dc708652cff08717c8ac8741a5439b1695423cc4a6",
+  "changed_pixels": 96947,
+  "outside_water_mask_changed_pixels": 0,
+  "added_outlet_roots": {
+    "D04-upper": 80,
+    "D04-lower": 47
+  },
+  "person_body_mode_key_and_grip": "No water layer reaches these regions; base is not regenerated",
+  "jpeg_encoding_note": "Exact pixel preservation proved on lossless composite; JPEG recompression is lossy."
+}

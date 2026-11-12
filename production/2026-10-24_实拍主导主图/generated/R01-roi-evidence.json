@@ -1,0 +1,51 @@
+{
+  "source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导主图/generated/R01-v002-native.png",
+  "source_sha256": "6348a81ecd252344d8cd10d1a81edea6f3f9a859b2c48293abddc7d226180eba",
+  "roi_rectangle_xyxy_exclusive": [
+    477,
+    374,
+    585,
+    482
+  ],
+  "roi_original_size": [
+    108,
+    108
+  ],
+  "edit_input_scale": 6,
+  "edit_input_size": [
+    648,
+    648
+  ],
+  "tool_output_path": "/Users/USER/.codex/generated_images/01a16d07-b34d-7ff3-afe5-dfc839dd6cb1/exec-40288822-4e36-4b05-9cdd-1227535bd70b.png",
+  "tool_native_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导主图/generated/R01-roi-tool-native.png",
+  "tool_native_sha256": "130aa9482d8ed22d4a18ec03f35d3cfc61496b03923aeac2d7b0836b98d2da98",
+  "tool_native_dimensions": [
+    1254,
+    1254
+  ],
+  "projection": "uniform resize square1254 to108 with Lanczos; paste at477,374; no rotation/warping",
+  "mask_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导主图/generated/R01-roi-composite-mask.png",
+  "mask_sha256": "7f4e1ccd6b4cd33de3b070ce09afc6299aea4b057767cec045bce1670ec86902",
+  "mask_ellipses_xyxy_inclusive": [
+    [
+      507,
+      412,
+      537,
+      442
+    ],
+    [
+      540,
+      417,
+      568,
+      440
+    ]
+  ],
+  "mask_nonzero_pixels": 1297,
+  "outside_mask_pixels": 1571219,
+  "outside_mask_changed_pixels": 0,
+  "outside_mask_max_channel_delta": 0,
+  "composite_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导主图/generated/R01-v003-composite.png",
+  "composite_sha256": "dd8c54d386ada0bd7406e75075014297c35ed622a1c81bbd3760ed2c4e3d2665",
+  "verification_scope": "lossless PNG before JPEG export; JPEG compression does not preserve pixel equality",
+  "not_native_fullframe_output": true
+}

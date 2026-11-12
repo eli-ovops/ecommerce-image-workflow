@@ -1,0 +1,23 @@
+{
+  "key_reflection_point": [
+    -0.07399136573076248,
+    0.10567060112953186,
+    0.03274943307042122
+  ],
+  "reflection_card_direction": [
+    0.0059690638445317745,
+    0.3120868504047394,
+    0.9500349164009094
+  ],
+  "exposure": 0,
+  "camera": [
+    -0.03500000387430191,
+    -0.16500002145767212,
+    0.6449999809265137
+  ],
+  "product_rigid_z_degrees": 35,
+  "selector_crown_model_mm": 0.6,
+  "actual_model": "UNKNOWN",
+  "requested_model": "gpt-6-astra",
+  "requested_effort": "medium"
+}

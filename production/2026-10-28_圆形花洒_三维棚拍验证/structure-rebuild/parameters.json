@@ -1,0 +1,12 @@
+{
+  "head_diameter_model_mm": 130,
+  "panel_thickness_model_mm": 1.1,
+  "cavity_floor_depth_model_mm": 2.5,
+  "shell_seat_depth_model_mm": 3.5,
+  "white_ring_count": 144,
+  "peripheral_approximate_count": 300,
+  "back_shape": "Old center rear envelope samples with continuous analytic cross-sections; not measured",
+  "actual_model": "UNKNOWN",
+  "requested_model": "gpt-6-astra",
+  "requested_effort": "medium"
+}

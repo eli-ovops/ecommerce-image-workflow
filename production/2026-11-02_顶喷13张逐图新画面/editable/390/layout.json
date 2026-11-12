@@ -1,0 +1,57 @@
+{
+  "text": [
+    {
+      "text": "中央红钮 · 提拉除垢",
+      "x": 500,
+      "y": 1018,
+      "size": 44,
+      "color": "#efd0a3",
+      "font": "Songti SC"
+    },
+    {
+      "text": "银色长方形顶喷",
+      "x": 490,
+      "y": 1090,
+      "size": 68,
+      "color": "#efd0a3",
+      "font": "Songti SC"
+    },
+    {
+      "text": "银色 · 长方形面板",
+      "x": 58,
+      "y": 755,
+      "size": 35,
+      "color": "#ffffff",
+      "font": "Heiti SC"
+    }
+  ],
+  "transforms": [
+    {
+      "source": "product372.png",
+      "angle": -7,
+      "xy": [
+        184,
+        35
+      ],
+      "size": [
+        842,
+        615
+      ],
+      "uniform": true
+    },
+    {
+      "source": "product372.png",
+      "angle": 77,
+      "xy": [
+        109,
+        610
+      ],
+      "size": [
+        292,
+        375
+      ],
+      "uniform": true
+    }
+  ],
+  "note": "参考390综合双主体构图、浴室主色和强标题。实拍整件只能保留现有视角，未添加水幕/支架/通用接口/增压等；动态安装主图覆盖不足，当前为静态版候选而非原参考完整复现。"
+}

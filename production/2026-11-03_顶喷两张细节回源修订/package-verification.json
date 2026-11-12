@@ -1,0 +1,18 @@
+[
+  {
+    "file": "JPG-13-review.zip",
+    "entries": 13,
+    "bytes": 12723264,
+    "sha256": "119463ff57831e584e7a9b030fca68fce8cdb280af49048df3c619f46f5ea7af",
+    "crc": true,
+    "all_member_sha": true
+  },
+  {
+    "file": "revision-source-records.zip",
+    "entries": 35,
+    "bytes": 63383523,
+    "sha256": "870d6a95e17475eeb504dcfb0750a40cc23d48b616a39b5167838191f47ee18f",
+    "crc": true,
+    "all_member_sha": true
+  }
+]

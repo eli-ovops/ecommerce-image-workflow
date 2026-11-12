@@ -1,0 +1,11 @@
+const fs=require('fs'),path=require('path'),sharp=require('/Users/USER/.local/share/deepseek-harness/node_modules/sharp');const dir=__dirname;
+const real=path.resolve(dir,'../../products/主推花洒/结构基准20261027/原件/微信图片_20261027161143_339_2.jpg');
+const d=(p,m)=>`data:${m};base64,${fs.readFileSync(p).toString('base64')}`;
+const out=fs.readFileSync(path.join(dir,'商品蒙版.svg'),'utf8').match(/<path d="([^"]+)"/)[1];
+const silver=fs.readFileSync(path.join(dir,'金属蒙版.svg'),'utf8');const p=[...silver.matchAll(/<path d="([^"]+)"/g)].map(x=>x[1]);
+const svg=`<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1254" height="1254"><defs><clipPath id="prod"><path d="${out}"/></clipPath><filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter><filter id="contact" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3"/></filter><filter id="feather"><feGaussianBlur stdDeviation="2"/></filter><mask id="metal"><rect width="1824" height="1368" fill="black"/><g fill="white" filter="url(#feather)">${p.map(x=>`<path d="${x}"/>`).join('')}</g></mask><filter id="bright"><feComponentTransfer><feFuncR type="linear" slope="1.10" intercept="0.035"/><feFuncG type="linear" slope="1.09" intercept="0.032"/><feFuncB type="linear" slope="1.06" intercept="0.025"/></feComponentTransfer></filter></defs>
+<image xlink:href="${d(path.join(dir,'背景.png'),'image/png')}" width="1254" height="1254"/>
+<g transform="translate(335 530) rotate(31) scale(.79) translate(-530 -680)">
+<path d="${out}" fill="#5a321b" opacity=".34" filter="url(#blur)" transform="translate(19 25)"/><path d="${out}" fill="#32271f" opacity=".32" filter="url(#contact)" transform="translate(4 6)"/>
+<image xlink:href="${d(real,'image/jpeg')}" width="1824" height="1368" clip-path="url(#prod)"/><image xlink:href="${d(real,'image/jpeg')}" width="1824" height="1368" mask="url(#metal)" filter="url(#bright)"/></g></svg>`;
+fs.writeFileSync(path.join(dir,'可编辑合成.svg'),svg);(async()=>{await sharp(Buffer.from(svg)).png().toFile(path.join(dir,'头柄弧度修订.png'));await sharp(Buffer.from(svg)).jpeg({quality:95,chromaSubsampling:'4:4:4'}).toFile(path.join(dir,'头柄弧度修订.jpg'));console.log('ok')})().catch(e=>{console.error(e);process.exit(1)});

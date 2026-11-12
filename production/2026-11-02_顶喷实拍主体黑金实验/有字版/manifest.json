@@ -1,0 +1,53 @@
+{
+  "files": [
+    {
+      "file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_顶喷实拍主体黑金实验/有字版/399_有字分层合成.ora",
+      "bytes": 8852015,
+      "sha256": "7c2d59a9ab281febdb96d066123ecd899e30d86b875f57435335878aabafd1af"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_顶喷实拍主体黑金实验/有字版/399_黑金电商有字版.jpg",
+      "bytes": 1266426,
+      "sha256": "89099194a267a2d6c743c3480a1f42bd85254674092c6ee8991cd8eea1153d4b",
+      "dimensions": [
+        1200,
+        1800
+      ]
+    },
+    {
+      "file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_顶喷实拍主体黑金实验/有字版/README.md",
+      "bytes": 1329,
+      "sha256": "a4352f49ab9ede674686676afa2532952592ddca86f732e7e0e4d6152f1f3cd4"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_顶喷实拍主体黑金实验/有字版/add_type.py",
+      "bytes": 4385,
+      "sha256": "f736fe8c8c15685762ff99dba7ecfa68c6350edff9adc0653505fd433dd3c4ff"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_顶喷实拍主体黑金实验/有字版/typography.json",
+      "bytes": 770,
+      "sha256": "fc93d81b7ede80fe6be02a7fd9d65c9530b8a0b80c9d5446922ca361c3da04da"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_顶喷实拍主体黑金实验/有字版/可编辑文字.svg",
+      "bytes": 757,
+      "sha256": "6b81ed60bb3f5e692e578057be0d47261e107fc51182870eec896ec436807c55"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_顶喷实拍主体黑金实验/有字版/手机缩略_360.jpg",
+      "bytes": 93336,
+      "sha256": "a0825fde5f66c594708138dee027772ea7df97edfc00f9bce64fd7d81fc0f970",
+      "dimensions": [
+        360,
+        540
+      ]
+    }
+  ],
+  "ora_recomposition": "PASS",
+  "visual_opened": [
+    "399_黑金电商有字版.jpg",
+    "手机缩略_360.jpg"
+  ],
+  "customer_acceptance": "UNKNOWN"
+}

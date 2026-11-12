@@ -1,0 +1,27 @@
+{
+  "id": "D07",
+  "prompt": "Precise object EDIT. IMAGE1 is edit target, NOT new design. ENTIRE BLACK FACE PATTERN REPLACEMENT on every visible face panel including miniature gallery cards; NOT partial repair of a few holes. Keep ALL outside-face pixels EXACT: product casing/continuous shallowS curves, camera, hands, people, all Chinese copy, layout, background, lighting. ERASE ALL gray/dark SEALED circular blobs and broken white residues COMPLETELY into continuous matte BLACK. Rebuild clean uniformly spaced SMALL LOW FLAT white annuli, EACH exactly ONE tiny round dark center. Reference2 ACTUAL SILVER93 and reference3 CLEAN BLACK102 define same product FACE PATTERN ONLY; reference3 must NEVER recolor silver shells. Reference4 side defines already calibrated geometry, don't change it. NO droplets, grayrings, caps, ghost impressions, twins, long white cones, broken white C shapes. Small natural eyelet relief is OK. Preserve red central button and outer black microhole bands. SILVER casing/key/thread remain silver. D03 has THREE own-SKU colors: preserve silver/black/gunmetal casing, selector, thread, labels exactly, replace all 3 face patterns consistently. Output whole original image, exact text.",
+  "referenced_image_paths": [
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D07-v3.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185739_102_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/silver-side-v1.png"
+  ],
+  "raw_output": "/Users/USER/.codex/generated_images/01a167f7-498a-71b3-969b-17d69673eb5c/exec-b509a950-0fb6-48db-8b5b-ae217bc2efeb.png",
+  "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D07-v4.png",
+  "status": "INDEPENDENT_QA_PENDING",
+  "actual_viewed_related_originals": [
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D07-v3.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185739_102_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/silver-side-v1.png"
+  ],
+  "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+  "sha256": "99430354269ac91dabc9025234cc36278661164d706d695b88117ead287f5ad7",
+  "actual_dimensions": [
+    876,
+    1795
+  ],
+  "producer_native_output_actually_viewed": true,
+  "producer_review": "Producer sees clean complete face; independent QA pending"
+}

@@ -1,0 +1,9 @@
+{
+  "file": "389-rejected-candidates-and-evidence.zip",
+  "entries": 16,
+  "bytes": 9867527,
+  "sha256": "381447b39e6fe90a230b95e7b8a57ba67791bb2ae3fdf1f0cfbecbb8b34a3964",
+  "crc": true,
+  "members_sha_match": true,
+  "contains_failed_candidates_only_not_a_release": true
+}

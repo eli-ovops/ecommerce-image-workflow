@@ -1,0 +1,28 @@
+{
+  "status": "TWO_REVIEW_CANDIDATES_NOT_CUSTOMER_APPROVED",
+  "updated_ids": [
+    387,
+    399
+  ],
+  "not_updated_ids": [
+    392,
+    395,
+    396
+  ],
+  "remaining_limitations": [
+    "Sidewall upper highlight remains bright, with some rendered appearance",
+    "Photo face retains original lighting and is darker than previous photo composite",
+    "392/395 flattened source has no independent product layer; pulling-pin composition cannot safely inherit static product",
+    "396 small cards require separate source reconstruction; unchanged",
+    "No matching oblique physical photograph; shell is auxiliary reconstruction"
+  ],
+  "checks": [
+    "Opened both final JPEGs",
+    "Viewed390px preview of387",
+    "Viewed native knob and sidewall enlarged crops",
+    "Compared374 sidephoto and372 knobphoto",
+    "Background/decor/text layers pixel-identical"
+  ],
+  "failed_v1": "Knob photo UV offset; excluded from review sets",
+  "dimensions": "Native housing300x200x20mm excluding knob/connector; shell mesh unchanged"
+}

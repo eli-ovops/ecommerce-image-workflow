@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-23",
+  "owner": "geometry_redteam_main",
+  "verdict": "D04 PASS_WITH_LIMITS unchanged; D11 FAIL at new left collar double edge",
+  "items": [
+    {
+      "id": "D04",
+      "candidate_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/portrait-feedback-20261023/D04-portrait-new-person.png",
+      "sha256": "d07c9ec50b59cf697f1ec538e8a5cb3d583c28ae635753c3e2818d6781acfcb0",
+      "status": "PASS_WITH_LIMITS",
+      "face_skin": "可见微细皮肤恢复，无明显闭合鱼鳞网纹或上轮大片蜡化；五官清晰、身份相容。",
+      "jaw_neck": "D04下巴下方黑区与连续发束相接，非原先悬空灰色双轮廓；新颈姿可成立，不因偏离旧头形否定。",
+      "boundary_problem": null,
+      "problem_boxes_xyxy": [],
+      "minimal_action": "保留当前候选，无需再修脸或磨皮。",
+      "outside_person_mask_changed_pixels": 0,
+      "confidence": "中高"
+    },
+    {
+      "id": "D11",
+      "candidate_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/portrait-feedback-20261023/D11-portrait-new-person.png",
+      "sha256": "c7318ebb860051f7190316be83904d7d6e89d575a7f04a992340eae7fae24fe1",
+      "status": "FAIL",
+      "face_skin": "可见微细皮肤恢复，无明显闭合鱼鳞网纹或上轮大片蜡化；五官清晰、身份相容。",
+      "jaw_neck": "上格原重复下颌灰边已消失；下格旧暗三角变成连续发束，下颌颈部本身可成立。",
+      "boundary_problem": "当前领口左端新增尖三角白布边、两道平行黑白锯齿/双边，局部衣料像叠上去的小白片；原图(320,1300)-(365,1350)放大确认，非单纯头发压在自然领边上。",
+      "problem_boxes_xyxy": [
+        [
+          329,
+          1313,
+          350,
+          1343
+        ]
+      ],
+      "minimal_action": "仅修领口左端双边/尖白片，使织物边界和发束遮挡连续；不再扩大纯白覆盖、不动脸和商品。",
+      "confidence": "中高",
+      "history": [
+        {
+          "sha256": "f140775e21f0396afe8311edd98a77557890e88eee88195dbf9636ffcafb06f4",
+          "status": "FAIL",
+          "reason": "下格新发束在白色衣领/上衣处明显斜直截断，黑发边缘像贴图切口，原生全幅可见。",
+          "resolution": "旧胸前斜直发尾已被新增前景衣领覆盖，不沿用旧缺陷判当前。"
+        }
+      ],
+      "outside_person_mask_changed_pixels_note": "本次仅定向视觉复核领口；上轮遮罩外0为旧版本计算，不能冒称已核本次新遮挡。"
+    }
+  ],
+  "actual_viewed": [
+    "两新人物候选原生全幅",
+    "三个new-person-crop.jpg",
+    "D11当前新SHA原生全幅、lower-new-person-crop及(320,1300)-(365,1350)原坐标内存放大"
+  ],
+  "limits": [
+    "不再沿用已被新发束解释的旧双下颌失败结论",
+    "D04下巴旁暗发束对比略强，但连续性可解释，没有新增必须修的明确接缝",
+    "像素保护检查仅证明范围，不代替人物视觉质量",
+    "不代表用户已接受"
+  ],
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "images_modified": [],
+  "temporary_files_created": []
+}

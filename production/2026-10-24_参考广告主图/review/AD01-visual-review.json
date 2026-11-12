@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "reviewer": "root",
+  "reviewed_at": "2026-10-24T22:21:37.055279+08:00",
+  "candidate_sha256": "7c56fb495cd96282ea54cada0e065ace192c40a9bb934a9cab9b9cbf739b4c83",
+  "jpg_sha256": "5258d1ad36ba0bcb22c33a3978d5b9195b1d2ea7552a5ba01fb64ebc28e5a6b4",
+  "appearance_source_sha256": [
+    "0b388756f0ee2e35630dac7789237153d390fa8aaab8f58f6e2643d4181be21d",
+    "6de02f19793c568c799762525475cd0241af1b9c41487580383be4efbd2a1fa2",
+    "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90"
+  ],
+  "checks": {
+    "photo_appearance": "PASS",
+    "geometry": "PASS",
+    "reference_style": "PASS",
+    "copy": "PASS",
+    "no_model": "PASS",
+    "export": "PASS"
+  },
+  "finding": "实际打开原生、最终JPG及R001原图，并对照SIL001/SIL005/SIL004。大头右上、柄左下的完整银色单品，保留圆柱厚边及头颈过渡；红钮/下银键/白环可读，裸螺纹银色。棕色斜边+亮金托盘透视，强明暗和近满幅大商品，右下小窗次要，底金棕双色粗字与上胶囊按参考广告层级安排。没有再变白底说明卡。",
+  "retained": "R001斜托盘、斜轴大主体、金棕反差、局部窗、双色粗标题条",
+  "deviation": "圆头商品替换方头参考，去配件/Logo/发货/增压等无据文案；底字只写三档和切换",
+  "limits": "人工视觉比较；没有自动实物IoU、精密曲率、逐孔物理测量、平台官方合规审核或客户接受证明。"
+}

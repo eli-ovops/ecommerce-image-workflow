@@ -1,0 +1,262 @@
+[
+  {
+    "file": "JPG-13-review.zip",
+    "bytes": 12708050,
+    "sha256": "24756fc51d54695142bb3955104ba23096704d3a752021aa45b4412c50c890a0",
+    "count": 13,
+    "crc_pass": true,
+    "all_members_match": true,
+    "members": [
+      {
+        "path": "JPG/387.jpg",
+        "sha256": "bd43a2529a4f383b549656bb8d0c7f5313dd91406f07563afbf71947eb49bd91"
+      },
+      {
+        "path": "JPG/388.jpg",
+        "sha256": "fe391e2c9e67fe74125768ccd39a0acaa0e8c949403c711219b0156d15b3936d"
+      },
+      {
+        "path": "JPG/389.jpg",
+        "sha256": "18aade9d6a345ac2379f43df31c0b16ad0448c9fdccac76fa99a2aa8bac281af"
+      },
+      {
+        "path": "JPG/390.jpg",
+        "sha256": "11922963939f7d584cfd6fdc803e4454e37a006a78ffafbfc82c8bdad8d378f4"
+      },
+      {
+        "path": "JPG/391.jpg",
+        "sha256": "cb07a70efb9a1144de1a1084b59714f9c09ae06bb1ec368cf6bccecea9dfe102"
+      },
+      {
+        "path": "JPG/392.jpg",
+        "sha256": "2acda0e1e249bf24560a1b84bc98b93e4b89d71eafe865b0907bd3cc1175701f"
+      },
+      {
+        "path": "JPG/393.jpg",
+        "sha256": "f2723c8f10d6e5d9016679d003ea217417bf057341555f3ebadafea3e78b529f"
+      },
+      {
+        "path": "JPG/394.jpg",
+        "sha256": "21c1ea124b8d8fc897fe1a315caaa3bd1e69f5d92561aa7d163bb4340e3cc783"
+      },
+      {
+        "path": "JPG/395.jpg",
+        "sha256": "989100e4e8c0a73bca7e654a27075b13810c6f5646d62a41f37b5e5d0690d214"
+      },
+      {
+        "path": "JPG/396.jpg",
+        "sha256": "31d88716429e473f563efcafa82afae026775812dd76cbfcd61125b703c2d11b"
+      },
+      {
+        "path": "JPG/397.jpg",
+        "sha256": "9a1d74014856ec47cd2d7b791ead0da825f8bc5d9546054e0ab4675848daedf5"
+      },
+      {
+        "path": "JPG/398.jpg",
+        "sha256": "2949735c0b6a2b98bf7fed34ee575908031edad7a4841ffa9d44d77ba337fa09"
+      },
+      {
+        "path": "JPG/399.jpg",
+        "sha256": "a701e3dd4e617d1483b1d003ce494e51d7099595ece159c6ebbf16978f4e3eb3"
+      }
+    ]
+  },
+  {
+    "file": "source-records-internal.zip",
+    "bytes": 81736083,
+    "sha256": "488845935d18a309da7dbdcbe849b88206d426206c2d90804127828aa6439f4c",
+    "count": 47,
+    "crc_pass": true,
+    "all_members_match": true,
+    "members": [
+      {
+        "path": "396-input-limit-correction.json",
+        "sha256": "ca1a3b9c1b24c59cfbf5a49285e09d92f0ebe58dcf42f3029d536181abea42d5"
+      },
+      {
+        "path": "README.md",
+        "sha256": "aa8d9ddbddf64927204b21ec0f36a679471742b495081148d74b0cc630ce6480"
+      },
+      {
+        "path": "actual-jobs.json",
+        "sha256": "27dc8aa8351928bd2425f807e46a7a7e9df81d16d412654aa9a0a0b529617066"
+      },
+      {
+        "path": "editable/387/layers.ora",
+        "sha256": "13b9ebf05426f85d104c591e0bb239e587156c74a4e736541c31e3795d6946af"
+      },
+      {
+        "path": "editable/387/merged.png",
+        "sha256": "ee3b529f60a77f2f1aaa8faab36ddf7a32442ffdfab5c92b0862f16eee381f60"
+      },
+      {
+        "path": "editable/387/replacements.json",
+        "sha256": "86f78d0acd33d4a249acb7a5dc4cd1a650a99bf3bffa80fb9374c93907d77899"
+      },
+      {
+        "path": "editable/392/layers.ora",
+        "sha256": "a0da43f18989e4699c8704e0c3ac1c4894c5789be09dde7de0768b66ace7f1f1"
+      },
+      {
+        "path": "editable/392/merged.png",
+        "sha256": "4e1db1e30645e5c568a5f2ade740f14989eab9e65abbd32663f59dcd8c7c2c8b"
+      },
+      {
+        "path": "editable/392/replacements.json",
+        "sha256": "dae0873cec43d990b89cfb9b2fb80bf97e5fe503691228b34997ef4026ad2abd"
+      },
+      {
+        "path": "editable/395/layers.ora",
+        "sha256": "6e22f69ae9d918d887df07d29f89afe873f3a8e64687788594413440cb1db180"
+      },
+      {
+        "path": "editable/395/merged.png",
+        "sha256": "d7625cf9a5aee17a38435a0fabec80bf6a727c7488834e2825163bbcb3088ee9"
+      },
+      {
+        "path": "editable/395/replacements.json",
+        "sha256": "6b6d3778e2d3f0801364e0e3ff98e23bfba9d34a67b13653f177db308dd95e38"
+      },
+      {
+        "path": "editable/396/layers.ora",
+        "sha256": "d2edfc5d720574490de1714a0abb16e7110595a781db04223581c4000cdfacce"
+      },
+      {
+        "path": "editable/396/merged.png",
+        "sha256": "193f86a26ff21cda9156be2b43feb892c78f6f8deee76083576e7cb4a7df1b44"
+      },
+      {
+        "path": "editable/396/replacements.json",
+        "sha256": "ec0f0621a6de45b25a538eb2363a972d86d94c2dc364d276cf84c957ebb1f5e5"
+      },
+      {
+        "path": "export-verification.json",
+        "sha256": "f052b294d4b9be33f81c98c71bdbb22bd8656ea86ae27fafa7d21f9875343ccf"
+      },
+      {
+        "path": "export_review.py",
+        "sha256": "799cd900f24b0957e0605b41a768f28d1bad312f3b0f8bcc81af191c633ec2a4"
+      },
+      {
+        "path": "generation-receipts.json",
+        "sha256": "9b06119695dd2d70c995841e453ee153e30f91ccc18420caefaf143501aa459e"
+      },
+      {
+        "path": "input-manifest.json",
+        "sha256": "c60e68b710d864b72c82424faf33c535e3faa1cf0bff471af7480cd23abdbfe5"
+      },
+      {
+        "path": "inputs/codex-clipboard-6fa807ac-653c-44f8-a3cc-2941c017e31e.jpg",
+        "sha256": "a5228e1aae5e7e01b20ae62d458085079189d8468cd1dc7da98af957c260bbd9"
+      },
+      {
+        "path": "inputs/codex-clipboard-7faa2b7a-f100-46ef-bfc7-87454ab489d0.jpg",
+        "sha256": "1a7b341d06af7acd0d3a5922881b50df6188165c61ddf3459622c4dc2434f1e1"
+      },
+      {
+        "path": "inputs/微信图片_20261030154107_372_2.jpg",
+        "sha256": "704713a0f2ce3c98c2a250f3eee6efc842b68beab9f4827a53f824db9635b20c"
+      },
+      {
+        "path": "inputs/微信图片_20261030154107_374_2.jpg",
+        "sha256": "46ede60dc5cdfb025d9a786437acc9c4ce8b82c5014f2c30ed5132d517fc6df6"
+      },
+      {
+        "path": "inputs/微信图片_20261030154107_376_2.jpg",
+        "sha256": "aac1824e72d55695f10ad73033ae738b5e310826907f08ff9a8db9f00f9e74b0"
+      },
+      {
+        "path": "inputs/微信图片_20261030154107_382_2.jpg",
+        "sha256": "ebef16582c86fccfcb65a6fa219738c6fd8cfe4db243de7e30b40af2a2d21b59"
+      },
+      {
+        "path": "jobs.json",
+        "sha256": "fd3d8a259e819f22f7fddd0fcf17bfeb0126aa9840f8ee110aa47b9d997b09cd"
+      },
+      {
+        "path": "native/387-receipt.json",
+        "sha256": "94ef01a3fc21b03b27d6ac611e3a496c7aa2a25855167cd3f7ccbabe8d7eac0b"
+      },
+      {
+        "path": "native/387.png",
+        "sha256": "a14f109f77630fe5263b3bf79e66a3fb0d4cd5c2a81ee8e258b37e0bc100c5c5"
+      },
+      {
+        "path": "native/388.png",
+        "sha256": "8c8934e802f5e8db4d9a7d07805f8bde4befc4a19621d330bece3d79185a28f8"
+      },
+      {
+        "path": "native/389.png",
+        "sha256": "acd0f4c20f29c42f93918bbcf9a81bf65937985e6fdac8ead5b40ceb52af39e0"
+      },
+      {
+        "path": "native/390.png",
+        "sha256": "ad8b444a16ed920528f261e05d94ebd47fb98b4edd759771381c833fd1c0a6de"
+      },
+      {
+        "path": "native/391.png",
+        "sha256": "6d2e52d18268b0e6ae121a6d1d93930defa7a2e39f5ea64d750a66556a644841"
+      },
+      {
+        "path": "native/392-rejected-water.png",
+        "sha256": "8077c84b20d158fa4c36496637b179c06c8fad28fd7876af5255122732968280"
+      },
+      {
+        "path": "native/392.png",
+        "sha256": "6cfbd22960cc8c3eef0a5979dcd6cf2f90a9510ca16bac59e702eabe9e6dcd7d"
+      },
+      {
+        "path": "native/393.png",
+        "sha256": "86ba4c45d1bc72731c35567f1c9ab01fcced9d230e97d3ae3d0db6269fa6f0f0"
+      },
+      {
+        "path": "native/394.png",
+        "sha256": "4d66c43138e3acd9590bc1685b954d3169af118fd441787e10c6eb4c33a48e5f"
+      },
+      {
+        "path": "native/395.png",
+        "sha256": "3daa02f71120b04820d1c53c2b652f5178539f957dac332b235b52415fbbb998"
+      },
+      {
+        "path": "native/396.png",
+        "sha256": "718dcbb3071e855592e10f343a5494d35d2f87c67a2238ace6fec44f244e959e"
+      },
+      {
+        "path": "native/397.png",
+        "sha256": "7c8759b579b8f55d10eef3372ba43165a31a28ecdbf557cf99801fd053264e3e"
+      },
+      {
+        "path": "native/398.png",
+        "sha256": "55032f9db51b28ee48a29ea4d3628bbab994175775fc9f39145d9cb4e108560c"
+      },
+      {
+        "path": "native/399.png",
+        "sha256": "edf2e637992a1a5a8e032627e67b6eee05b00730f59db1bf07834ac54c60590b"
+      },
+      {
+        "path": "package_review.py",
+        "sha256": "5e7c2616a08fa7e021e09e151e90d1514141f62b5e71a95bc26cf4816fcd5d34"
+      },
+      {
+        "path": "package_review_ascii.py",
+        "sha256": "2e995d809d981f69d4261af594a93ab9a27ea8f3cc3cbd92a015264169818294"
+      },
+      {
+        "path": "quality-review.json",
+        "sha256": "79dcb2d7027dde26215fa4c7d2813e5f9c2147b08f70683db58c3ecd8dd5bcbc"
+      },
+      {
+        "path": "revised-action-prompts.json",
+        "sha256": "b69e8ba03d2088080596b59516e720241562cd2ca3a4b748ed724a47d2871ef0"
+      },
+      {
+        "path": "sources/connector-real.jpg",
+        "sha256": "5ad613a0eeeac193bc160abf9b57eb43cb2d40b317be0c8ab454209e0fae77bc"
+      },
+      {
+        "path": "sources/short-pin-real.jpg",
+        "sha256": "7422767bbe925e9ae9a88f44e54f58ca30e73e6e9a119cf03e0e589cdfc72a2c"
+      }
+    ]
+  }
+]

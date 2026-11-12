@@ -1,0 +1,2339 @@
+{
+  "owner": "blender_product_model",
+  "root": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender",
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/build-v002.log",
+      "bytes": 12169,
+      "sha256": "bb281976dac5cfb71a4df35253bcdb2b5dfd94689cb3944c2ff29f1c6020bf90",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/build-v003.log",
+      "bytes": 1369,
+      "sha256": "c7cc36684a322b63b11414208abe8af75fa3d86470d1022d12dbf91060fae7ab",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/build-v005.log",
+      "bytes": 931,
+      "sha256": "1fafe626a2a7d02a630131a628bb47714d4a715da6ffc229584efee74dae8596",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/build_model-v002.py",
+      "bytes": 9038,
+      "sha256": "4efd97f1a0abff514f32ca75db57324b7c0283553afc23c4ddc4e24a9c80d5e1",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/build_model-v003.py",
+      "bytes": 9191,
+      "sha256": "0fb809dc43a48ce3a2680f96c128467489113f1b781a2d5c8ccc9e113d12c66e",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/build_model-v004.py",
+      "bytes": 8999,
+      "sha256": "a48747a5445f2f5b57df40ddb0ce06e0989eaff7d333d866c48ee37e29e544e5",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/build_model-v004a.py",
+      "bytes": 9290,
+      "sha256": "47f913890b7a60233fcccf93733ae783cbec69013928ea0e629b8ef96a59b8b5",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/build_model-v005.py",
+      "bytes": 9289,
+      "sha256": "406a3d3674c3a3789ee29e1d1c785061c3c8b963e49cdc673950bdb3d56b6fa3",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/build_model.py",
+      "bytes": 9191,
+      "sha256": "0fb809dc43a48ce3a2680f96c128467489113f1b781a2d5c8ccc9e113d12c66e",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/compare_v004a.py",
+      "bytes": 4981,
+      "sha256": "7edfedfedcb80cc8bb411a8d6b483f0587e784f219bd1ae2c80b343db815fa51",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/compare_v005.py",
+      "bytes": 4975,
+      "sha256": "d530020f091a5669b5431727c7e0f3b91590d041002c761b3e915f95f94936da",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/digitize_v004.py",
+      "bytes": 7824,
+      "sha256": "771468e502fa3300ce35c11d01b0920d00839d94bed50d8d5535750d2a52b691",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/export_profiles_v004a.py",
+      "bytes": 766,
+      "sha256": "14c72c096b723352459400234bbd6d722e7940610fb79c073f5fb6d9d0cbd76a",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/export_profiles_v005.py",
+      "bytes": 764,
+      "sha256": "c82aec257c0401c592552c72785f6a23d6f810e1936415a4629867bba47f7ae0",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/make_comparisons.py",
+      "bytes": 2313,
+      "sha256": "33b90c857349b8697be8ebe5c53cf62d864084204450a4083296437a33510b23",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/make_side_revision_strip_v005.py",
+      "bytes": 2073,
+      "sha256": "853ab760ebd261af51e92feb91f8987dbf5d3f757b7dbfe6ff79f23ee7a18153",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/parameters-v001.json",
+      "bytes": 1818,
+      "sha256": "0c6e5fe6a0f2bf5efc79fe74e470bc41c3ae4cf19d6f8b05be6e30a34984e265",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/parameters-v002.json",
+      "bytes": 2415,
+      "sha256": "0b2cfffb57ded4721fcff8456f562c7d5c3cff73a961d9ca2ac3fff55231134e",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/parameters-v003.json",
+      "bytes": 2914,
+      "sha256": "8cd3553cfede9f9e443045ebc64361a316fb5ec68a6813121803736571e96607",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/parameters-v004.json",
+      "bytes": 9324,
+      "sha256": "73ef819143022111eb608612c79465e935eae34c6591f4d774dff0bee34127a9",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/parameters-v004a.json",
+      "bytes": 8625,
+      "sha256": "5c1f3524edf297474616bdef52d829c3ddb7239db3ba0e04e9988b9e6e98c0d1",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/parameters-v005.json",
+      "bytes": 8749,
+      "sha256": "502e35125a0db1e677c7629f720330a6fc87aafa2dfb92a91c0588d525d58f4b",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/render_turntable.py",
+      "bytes": 744,
+      "sha256": "ee6b409850d5ee76f93300d8d3e03f63c290b4404b0f4c9f2a386c8687e4650c",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/build-retry1.log",
+      "bytes": 12169,
+      "sha256": "0d20d7b77960edb36fab64827125b3b9ffb90cdef223eebcb0e9c7e6e7194cd1",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/build.log",
+      "bytes": 1017,
+      "sha256": "5de4391407f7a2be356fd55e546e7fb446c7065d8236015132db546f63189c12",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/model-data.json",
+      "bytes": 1261,
+      "sha256": "11819287e51c5b76852d3f6f8c32f87890b1006f57d6651a9a72ec9b05aa119a",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/renders/back.jpg",
+      "bytes": 71023,
+      "sha256": "4750706321dc48389997cb63b1086486f96b2b69acfcb278a3e58938bcd59651",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/renders/back_oblique.jpg",
+      "bytes": 66377,
+      "sha256": "3de53edb637444a39f9641a2dd1811ba75c81ceca64a9cc5961cee83a1958b82",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/renders/front.jpg",
+      "bytes": 76004,
+      "sha256": "fadce7e399b8cfb99ad2f66039392308b1b6b7324a9259e6526aa64a300a3714",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/renders/front_oblique.jpg",
+      "bytes": 75111,
+      "sha256": "90a2afe4acf9614897ae9c44893c42a374d6d390cf27ce54fef9b8d7e26be779",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/renders/left.jpg",
+      "bytes": 65288,
+      "sha256": "1bb2de08cc8b4eb4604625c9bcb7aa17b4e56976683bce707a725e829159863d",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/renders/right.jpg",
+      "bytes": 63867,
+      "sha256": "f5320a3bdabf407e02937c4fa4c5f094cefd23f3761bf5c20cb5515ec00abd55",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/shower_black_clay_v001.blend",
+      "bytes": 982317,
+      "sha256": "161e76b65d08dfbe4abcc0534387b0798c4a6d0b0d9d151ab32da82eae272694",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/000.jpg",
+      "bytes": 45473,
+      "sha256": "11cfb8c7409741815bdec75f55a862faba9fbc61df16b0eca77c23b3613b5677",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/001.jpg",
+      "bytes": 45949,
+      "sha256": "bd329400cd6426faf18fa045163d5938cbfbeb42decfb5f2e0f0e0c8bf5c66a2",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/002.jpg",
+      "bytes": 46687,
+      "sha256": "4a91fcb9e0def708aff94137fd81cb2faede7477daa748d5b69b6690b4a4e3af",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/003.jpg",
+      "bytes": 47112,
+      "sha256": "d3b440c249bd214df31d2d6edc05ea1b419864d58fced81528dc0f53e9424cda",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/004.jpg",
+      "bytes": 47265,
+      "sha256": "97ef1a593c9269e457bd0156ce7999901494d0a662590e138f83576abc56c0ae",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/005.jpg",
+      "bytes": 46978,
+      "sha256": "77b285c35a62ce4898f409233fd9dd31f0c01c829b8c8916839c7ed783a940b6",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/006.jpg",
+      "bytes": 46704,
+      "sha256": "865b4ec2fbdb46c4317ad404634077c135084d75bb6c6b36749b299c7672c864",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/007.jpg",
+      "bytes": 45900,
+      "sha256": "c58541a9c8200cd890be126cd9558c93ab6d9feb079136abecf3aeb72486395d",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/008.jpg",
+      "bytes": 45306,
+      "sha256": "d6795c895d437b1988ea6f18c1ce6f4d828ee90bd6ff29f0ebaeac47b6d95f15",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/009.jpg",
+      "bytes": 44807,
+      "sha256": "a35a4c6b13ce352b9c0afb186f7d81393acb3354442a76289fd06d179ca525ca",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/010.jpg",
+      "bytes": 43775,
+      "sha256": "c5800ff7a1bfa35f7b206e68aeb65a5a1a05aa2e12c58353151cdaac93b165a4",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/011.jpg",
+      "bytes": 42904,
+      "sha256": "199fa9c481080df1896dada71035933687645ef08dbd0f7f5a6470f59a428f08",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/012.jpg",
+      "bytes": 42195,
+      "sha256": "9e92dc9d086917f762143e32e88902ae11471b42000bc319b2b1e5b720590567",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/013.jpg",
+      "bytes": 41528,
+      "sha256": "49374fd998c02126da820d895abad5210897370ce8fbd397314911f97816c63e",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/014.jpg",
+      "bytes": 41248,
+      "sha256": "9713ead221867d7760ebe04ce4d1a807967b1526dee626273be718eacfeb870f",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/015.jpg",
+      "bytes": 40927,
+      "sha256": "b4e6d0dfd5d4cad36c9eae43fcdde11f9959d5dd260b29cf9cb479a594d17b3e",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/016.jpg",
+      "bytes": 40948,
+      "sha256": "1e059a22528b34b96169907aa663fb62017e162979f91a12b551ea9a495d5834",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/017.jpg",
+      "bytes": 41017,
+      "sha256": "2a730380a867ed5ec09c5f41a42a16d5f56f90de50f782add869cf0eb5c65bd9",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/018.jpg",
+      "bytes": 39219,
+      "sha256": "99c12cc7575008f66e7ae54d537fbafe93a6086e0bda1f7cea0a12034604b92c",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/019.jpg",
+      "bytes": 38787,
+      "sha256": "6be74a6ab758e2472d80ec48cf08cb7e82b2c2132829c6f88855dcc93e3c1eff",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/020.jpg",
+      "bytes": 38797,
+      "sha256": "729f51cb6c037f143a0919478eefdfaea4841a7dfab1a3dd1827f8dccc4b12a0",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/021.jpg",
+      "bytes": 38726,
+      "sha256": "4ab892e0070c565f4fa354fe9324e226d228d146fd89d4283cb249d491642e12",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/022.jpg",
+      "bytes": 38652,
+      "sha256": "8549b7733a4613e48b57d15aa99c35e9efe478eab2122ca425c3f2be3e0f85ee",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/023.jpg",
+      "bytes": 38578,
+      "sha256": "e3b5dde045b7139c834f243d225cadb4fa33da2353c92524efa94ef94891e9e3",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/024.jpg",
+      "bytes": 38832,
+      "sha256": "3a16645f237665b84d36a99179961ad84583decbc0902758645b67f83dcd9e9d",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/025.jpg",
+      "bytes": 38910,
+      "sha256": "ab1a22c1c2795116f53ddb8212d1ead91763543b897553e25a76f369b4a75b52",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/026.jpg",
+      "bytes": 39355,
+      "sha256": "454f3ae4b7aa0cb2a20eaa19b69b5f3ae1be68187cc76adec693f5f937e99736",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/027.jpg",
+      "bytes": 39608,
+      "sha256": "e6dc88fc0aff25cffe17fffc94a2629ac1f570f010661c9aa89f209aaf566bab",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/028.jpg",
+      "bytes": 39822,
+      "sha256": "9a1623d3bfeb7492e0bf2cb8a35554f9ea5674ce41b45665a9aec073fb329c39",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/029.jpg",
+      "bytes": 40389,
+      "sha256": "3b89daf98b466d9635a02b9ccef8312c8223ea2ddd23ede5adc0a225378e1fb4",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/030.jpg",
+      "bytes": 41035,
+      "sha256": "31f3ba622068568f5cef526eb092142aca0a73e8d624a54ffbee472f98f8f123",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/031.jpg",
+      "bytes": 41520,
+      "sha256": "f5a679ccb06f318240787bbc5903819fbf385b92398fc5b120925295191b7799",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/032.jpg",
+      "bytes": 42007,
+      "sha256": "a8db45cd0ca0fe9c6ac701959cc65243a5fd8f412c4a41f697df9f8e602f93c5",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/033.jpg",
+      "bytes": 42357,
+      "sha256": "4b2d2bcbbb3faa3583eae5f524dccd617482c8a379dd010feeb1715e957739e4",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/034.jpg",
+      "bytes": 42819,
+      "sha256": "8af6d06590bb60a738833b5d8fc746060779ade22f8d5082200ecf87dd4b3542",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/035.jpg",
+      "bytes": 42569,
+      "sha256": "b06307986ad1fb8a42046be89e7b7c0518ed7f0f599441e4e784eeffd31c4064",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/036.jpg",
+      "bytes": 42544,
+      "sha256": "aa3293b363103f54aa12a5bb47fe55c021aec8ef5d2059409c8bbbb72b5ccd01",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/037.jpg",
+      "bytes": 42974,
+      "sha256": "b1a3270147e990e19c41a2cf7fe566fe79cdfb15a16280b4b6bc52eef786acee",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/038.jpg",
+      "bytes": 43463,
+      "sha256": "f949fa9a3b89699da6a2e0e8d1d212aec9003f4e51bfd0073269a4e08661ce80",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/039.jpg",
+      "bytes": 43409,
+      "sha256": "02acf5cd60d44dd981b00b272cae0ec0771d559cec691ca3f7b9c8484a759967",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/040.jpg",
+      "bytes": 43066,
+      "sha256": "e582a3ed78da510449640e86be193a2a305df363bc89841da8bf864c577f76de",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/041.jpg",
+      "bytes": 42752,
+      "sha256": "3455230d43c94d91726de97346cb291fc70ab4c35158b86ac86feb0c5d30db37",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/042.jpg",
+      "bytes": 42055,
+      "sha256": "1c533773d0b1ccf01ec4613e70272c7eae92d83a5dcc220ad0dd623f03896a4d",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/043.jpg",
+      "bytes": 41367,
+      "sha256": "3308e4b4d2c34bb10d0e2fb2131ade251e51815fb0078128be365b321c54b5d3",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/044.jpg",
+      "bytes": 40581,
+      "sha256": "4294057404f779361f418d78af4acac868ff33e57345ef7234e8a2ff3a54ad8b",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/045.jpg",
+      "bytes": 40070,
+      "sha256": "f481ba6241b83601a1219b8eafdef3aeb3408cb5c93c1da25a19fe8e1b853f8c",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/046.jpg",
+      "bytes": 39261,
+      "sha256": "6c66e80b27d10953bab019762c866cb0c5831386ba8f446fca7332fd5644e2c1",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/047.jpg",
+      "bytes": 38634,
+      "sha256": "a379911f96101b28926689a1863ba007b1e658aeb79e734fe9ec3dad9c3257f6",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/048.jpg",
+      "bytes": 38171,
+      "sha256": "f1112e08fabeec9bd83779aae32a046db4af66c59c5e3b9ea5a7e1b33d534d76",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/049.jpg",
+      "bytes": 37992,
+      "sha256": "64dd8d4d440b2f354b4ed3fe4041db11dd0434cba2332607850c2752f4090346",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/050.jpg",
+      "bytes": 37901,
+      "sha256": "b6c20c09de4a7c8ae6456fe7574caa1c6d1f7e0afa39ff7e50449a0594a9041a",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/051.jpg",
+      "bytes": 37814,
+      "sha256": "e9aa057f8575fb72759a9197d91674f3d1ed53abadfeb34e37ec405473ef867b",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/052.jpg",
+      "bytes": 37923,
+      "sha256": "5b8da40b1ebdbdf654d29e5e315890deb6201148f2bbf0894ebe163bcb60934c",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/053.jpg",
+      "bytes": 37745,
+      "sha256": "655eb806c0e76668c03561fa3b9d7b1277b99bd4e697bd5fc077d1a6a5933265",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/054.jpg",
+      "bytes": 38135,
+      "sha256": "98f5d3654cbf104790903c75e4d575b34929a4a8bb769472ee4dbc7e0dbf861d",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/055.jpg",
+      "bytes": 39406,
+      "sha256": "67031a8d47479ccbdebe622af65ab6e7370b181577c87f759f356048809b7c74",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/056.jpg",
+      "bytes": 39166,
+      "sha256": "20d24724e6cdbd9228b996243063235c0e3ff973de54d4e9f3351098bbeb898b",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/057.jpg",
+      "bytes": 38969,
+      "sha256": "26eb86736e625d317385c7a4ac8dea1bcd8ccc2fa902f28b5f67ab2312d3a57a",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/058.jpg",
+      "bytes": 39138,
+      "sha256": "7c86681c7fc89e00a660d35313eda4502ded984589ae1a96d566c3daea4a7afd",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/059.jpg",
+      "bytes": 39208,
+      "sha256": "9ff0a31676a62aa0690ef71edd48da07870d19d2b661543348341041e880be2a",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/060.jpg",
+      "bytes": 39479,
+      "sha256": "4631ecb6a39c46c218064d670e396b3c920ccb31e282511bdf18c2b72bf91e04",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/061.jpg",
+      "bytes": 40067,
+      "sha256": "81e9d46794de30466cb82a0bd74868f01ed87c78914384c4c2b63502d534615b",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/062.jpg",
+      "bytes": 40583,
+      "sha256": "25071e2ba9a3d07a3eda9ce14eb804a95e88fbc0d4db258d48cb10d9c484bbc7",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/063.jpg",
+      "bytes": 41216,
+      "sha256": "a493ebacf49393b5788691aa940f2a55a9d0f187cb16c61c7a9e1fc8fa882bca",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/064.jpg",
+      "bytes": 41708,
+      "sha256": "fe4ebaf918c7184bc02ea97ac99b53a04c7f19a2972242236c6dbf65757d3e99",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/065.jpg",
+      "bytes": 42315,
+      "sha256": "b6ec388ab787aa259c0cb00e7f43a0d9fb7913bef6fe3aa4580e16dfdf05e30e",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/066.jpg",
+      "bytes": 43160,
+      "sha256": "cd84ca1fabc9ad813faca240859434e48e44181bac4058db464b887b35bb842c",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/067.jpg",
+      "bytes": 43701,
+      "sha256": "2ec1615b68cd846d3f1323f62b84592e82da97d5ba3ac3973760908558a5daf3",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/068.jpg",
+      "bytes": 44329,
+      "sha256": "a5ac89f83c533c4421c41a458703b997ad536327832553426626042f028b7e6d",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/069.jpg",
+      "bytes": 44779,
+      "sha256": "fcbf92774bab6d4cc726525c2948b6a90c49f925b08e1abf1ca12104c37c897c",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/070.jpg",
+      "bytes": 45336,
+      "sha256": "a71821f8e91f0982cfb19edb970f1e9238f2ab2f55db9bbecc81478f825c7e7d",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v001/turntable_frames/071.jpg",
+      "bytes": 45237,
+      "sha256": "b713c22b648e9be3fcc14cda0444dac3ffb082fdbc24fb170c7d9f9b37289fbd",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/model-data.json",
+      "bytes": 1261,
+      "sha256": "11819287e51c5b76852d3f6f8c32f87890b1006f57d6651a9a72ec9b05aa119a",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/renders/back.jpg",
+      "bytes": 71374,
+      "sha256": "8d9cf40bf86a9339d934277280d3578cc7daff9924743a9995c087e13fa49cff",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/renders/back_oblique.jpg",
+      "bytes": 65964,
+      "sha256": "e1e023132cb0a42efb1935cd82f8df9e2848719b41f4ea5f8f94b00771758aaf",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/renders/front.jpg",
+      "bytes": 78213,
+      "sha256": "614385a5d7ecc1ede955f20df72cde37f940d29ad3e71e472171cdef28a4a02a",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/renders/front_oblique.jpg",
+      "bytes": 75712,
+      "sha256": "69fff5f57584e7d7a5092c1eab1238d26ba6645236533ae47d999cff71ee1932",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/renders/left.jpg",
+      "bytes": 63270,
+      "sha256": "60abb3d1d67726db63f497ce08b5ad190943fecff3f75837fdb167a3a848fa2c",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/renders/right.jpg",
+      "bytes": 61966,
+      "sha256": "56a92546e4b1fd2719e5fe55dc11900cd2a112c9cab8af24223ee4451bc9e9b7",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/shower_black_clay_v002.blend",
+      "bytes": 982668,
+      "sha256": "de16a9408e0008c27a534a7cf7e097739fb6c69b07e669441f41afd7ca099ecc",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/000.jpg",
+      "bytes": 46799,
+      "sha256": "8c0ccda2a6ade4bb84c06327da4a67b9c0effe36539dfc6bdfc9a829949f242b",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/001.jpg",
+      "bytes": 47465,
+      "sha256": "be748d1b4a6c30bc076549640cac259c98909a2f409c6dc4ffeab5b309695fde",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/002.jpg",
+      "bytes": 48355,
+      "sha256": "618378d1eee753764ac6e378282cad834dc7f37e67e8da9007492790238d6f0c",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/003.jpg",
+      "bytes": 48568,
+      "sha256": "3db07ee113605b9a2a491dab91912744a14c4b57f2046782ffa4a486a64a3ff4",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/004.jpg",
+      "bytes": 48577,
+      "sha256": "00a2dedf33cba2d0081e47ba39c1a4dd38ee4fc5f8c3504e30c3b284fea6a887",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/005.jpg",
+      "bytes": 48061,
+      "sha256": "538f0f69402ab93ea04496bde4657d9c8e5ffe4746db39e9d9f60be1fe583cb1",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/006.jpg",
+      "bytes": 47409,
+      "sha256": "d40dc484805639fddf13747c64e4c87918133a635642e0c2a4153d84e11ba4d9",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/007.jpg",
+      "bytes": 46475,
+      "sha256": "848f09830494bf6200407c4aea8167a87bfd975dab472ca8e4f688032b3ba7f4",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/008.jpg",
+      "bytes": 45495,
+      "sha256": "e575321aa2a9b66f334c62c9135cd6a66573dd4455e836821239eadc4453bafb",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/009.jpg",
+      "bytes": 44812,
+      "sha256": "38bda15565acb4868af8cc4796fde2b54f1dde8bd0a03c06b2396bbba83961c9",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/010.jpg",
+      "bytes": 43742,
+      "sha256": "9a209f24c277c25d21bd557f573edf4da432e54af73f30f277ac69418fb5862a",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/011.jpg",
+      "bytes": 42805,
+      "sha256": "6106e81ae19bb31e378b263c229c28c0f15f005e2f25dfff3dd306e80e9f8f86",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/012.jpg",
+      "bytes": 41850,
+      "sha256": "ccf6dd1143afe7d974e83b847ab6d5a7c341361915bd4d868abd1df62052ab86",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/013.jpg",
+      "bytes": 40962,
+      "sha256": "4bce8826994375578f7b8d803180689cedab86248dd96eaf5fbc371cdb2a4e8f",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/014.jpg",
+      "bytes": 40245,
+      "sha256": "813897ddf3125c612e2710d87d0ab93ce0c62abecdb7704fa66bf502d2c589b3",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/015.jpg",
+      "bytes": 39663,
+      "sha256": "2ccea7e94b25bba6129d9c06e1cfe4bd97b7bb8d2988e88dd04ef1bf5549939c",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/016.jpg",
+      "bytes": 39357,
+      "sha256": "192fc2c658329614083e8a7b5b55c100314882989d26daca4d248f258e86aaf7",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/017.jpg",
+      "bytes": 39258,
+      "sha256": "fb22e411ddba77822d42d94be4a6108fe05e1e801f34be476313c3414702f62d",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/018.jpg",
+      "bytes": 37888,
+      "sha256": "ae5b14aecc30fe6364c0abef14c60cd9b482ea173d981e10e0a0dbc66583a4d0",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/019.jpg",
+      "bytes": 37392,
+      "sha256": "9d9a6280f1fcc77e07dcae8c579ea14cf9eb420d89ad5b37fbf6420349bd70bb",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/020.jpg",
+      "bytes": 37455,
+      "sha256": "1dcb1752023276424224a954237d41c390b413f7cdef4dafb442f4b384928c37",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/021.jpg",
+      "bytes": 37503,
+      "sha256": "ebffbbd13f1a19f3ea96aba633bc824344f6cf5475a545c832bbebe9391a8a71",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/022.jpg",
+      "bytes": 37664,
+      "sha256": "ccc7a2a6901ac72bd3e57937f7e3830c0f49cac839e347f6e7b9c7630e51da03",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/023.jpg",
+      "bytes": 37842,
+      "sha256": "bba291fdbf7a678ae23e9177d16e52140fc08c05760d68bb20132c289a3b03c6",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/024.jpg",
+      "bytes": 38064,
+      "sha256": "d1f8b360fbc4546d306732978e7a0af784af3ec9bb6d19066b306b271b2ea2af",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/025.jpg",
+      "bytes": 38497,
+      "sha256": "c7c71647387acd2057563ad1e68e260177cb3e31d2a613b32533833dc3a1a342",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/026.jpg",
+      "bytes": 38839,
+      "sha256": "f5eacb940231cc8a74f0b3115bbd7ab28d5b1fb4dc60fc8db445b9bec5adfa9c",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/027.jpg",
+      "bytes": 39178,
+      "sha256": "c49399d11d954800e6ec040935acdb8e8976c2c9e8c7723ab1af8cd20b46a9a5",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/028.jpg",
+      "bytes": 39565,
+      "sha256": "f8148c4381a0206a86761a729fae760f08412b9109ea80be215f00508c05d932",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/029.jpg",
+      "bytes": 40179,
+      "sha256": "2aef92cd07c00601814b600932508d6cb6c0135df6dfe88e916db477164ecbd4",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/030.jpg",
+      "bytes": 40741,
+      "sha256": "c39a7a1fe07fbd33072b69c3075e78969da024a144d9654033cab3a9f48067fe",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/031.jpg",
+      "bytes": 41367,
+      "sha256": "1b9f33e9b14b2f41486595357b378286ecf6c3f022ef4d0f00be84f2dcd3318a",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/032.jpg",
+      "bytes": 41707,
+      "sha256": "6768fd23f1b82972fff679567d0aec723e8b8398fa97c607e22b877e4dadb8bc",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/033.jpg",
+      "bytes": 42110,
+      "sha256": "0846e23f81f443381cc1c4fc0bf5ded84e1be4c21f1965754b0369e5e5ccb54e",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/034.jpg",
+      "bytes": 42581,
+      "sha256": "572cd689d0912d850f166b1cc7c92b147214deb72bc7c3d1d11f11a2a3a315b4",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/035.jpg",
+      "bytes": 42538,
+      "sha256": "e90d163d261ac6ae6063a383a25e1665397aee1f471c36d298d2dba72e0fcc38",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/036.jpg",
+      "bytes": 42633,
+      "sha256": "5e918d866ecc8b007a197d80724d6906db4a1edb29397eb53a7a80f9391a0fe7",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/037.jpg",
+      "bytes": 42872,
+      "sha256": "97d699005a929ad932bc65d4968e693dededd01eb9eed8a71c54eb932bebcf8e",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/038.jpg",
+      "bytes": 43336,
+      "sha256": "765fb6fa3026f2367c66416d1736f2aed1d9fb96a309db30958c82307644cde0",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/039.jpg",
+      "bytes": 43434,
+      "sha256": "3765eb1e4e17b9bb26f3936d8ed93b5c8aa5b4cca0ed5adb99793ab5d1763c19",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/040.jpg",
+      "bytes": 43028,
+      "sha256": "f17e1f2f40fb8e1fb251de9d61f6b26ea94ed58be99269f18232fff37dc81764",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/041.jpg",
+      "bytes": 42870,
+      "sha256": "c1f6ad3bbb4e0f4b433491f7abf75f4ddc1da58ef5e96886f109da989271221a",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/042.jpg",
+      "bytes": 42127,
+      "sha256": "27e53d76239ad06d0c34e68b428c8b93550158c135a4fe0b86a0148b3681c92e",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/043.jpg",
+      "bytes": 41373,
+      "sha256": "ea8c1a3ba42dec8c39dfaf0f322c2ab2ca5e225607f44bcd68d7fbda0ec29722",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/044.jpg",
+      "bytes": 40566,
+      "sha256": "4fa67cb827c4d43315b66976040f9d4fcec2277e0245c29f6f7a07e2043e5d70",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/045.jpg",
+      "bytes": 40006,
+      "sha256": "18933e6a956109bed88dea3326f37ed69b32bcb6f03240f4a1ba4ae487785962",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/046.jpg",
+      "bytes": 39128,
+      "sha256": "1355dc94f2a756b6c9f81cad5d0d92f49d3f2936281671ba5c89a5f5817a42ec",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/047.jpg",
+      "bytes": 38522,
+      "sha256": "9f91de16a687ff70dde27bca6f3a686a058cddbad6698e8dcc66cd7a7f634e5c",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/048.jpg",
+      "bytes": 37976,
+      "sha256": "f368ff4ed2cf972c0a2d55fe8e8ab5280366ad5549828e90660af683ec15d13e",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/049.jpg",
+      "bytes": 37619,
+      "sha256": "8a77eb3d61be9c71c2a5dc9612bfbb28aab2e76161e33b174511503e662f77a7",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/050.jpg",
+      "bytes": 37254,
+      "sha256": "b55c13ae1883c0b87f196ef0a55e9c0802a3331eac98e0b8d521ffd54a198c5f",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/051.jpg",
+      "bytes": 37038,
+      "sha256": "922a4b67a9c571c50491cfb3871491cbbb7f4d69f0fff3ea70171d3236c9e62d",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/052.jpg",
+      "bytes": 36895,
+      "sha256": "4c8bf8100dfc1120dad0253452ffd888aeae9096c57b092c608ea308e8c04ce8",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/053.jpg",
+      "bytes": 36640,
+      "sha256": "ba04966696a3bbc52ad3f8212e7c5fb4d3beba4ed30818c3fe9b484bd2480ee7",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/054.jpg",
+      "bytes": 36926,
+      "sha256": "7a8c00a2212b93318837bbd2bf01685889eb116eb5ab1321476cd63be39ee71f",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/055.jpg",
+      "bytes": 37810,
+      "sha256": "cc291b01a88ab84d66230cced7c699d90e094d69f00da582fdd4fe3d84bad69e",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/056.jpg",
+      "bytes": 37717,
+      "sha256": "bcdd6b0461d2d307f69c80849e415829fddb7edebdd60bf5dd86eb7ad115a7c2",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/057.jpg",
+      "bytes": 37894,
+      "sha256": "e3550676260b8b37e3e53690406a7bd2871dc207ea03929c9fe9f806120eed5d",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/058.jpg",
+      "bytes": 38142,
+      "sha256": "e50191b16fbe732a8da45af8c2c9c038d742c2d97c177376b6bcf78a4fa210f9",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/059.jpg",
+      "bytes": 38637,
+      "sha256": "b61e84519f916a007241d423c1a03d570bada4b7ef47190ed82d127f1aeb9290",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/060.jpg",
+      "bytes": 39366,
+      "sha256": "f8e1325ebd46bfe5e23aefc6d1b1efb000b3383bff5f23ab952c3a2831233d94",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/061.jpg",
+      "bytes": 39880,
+      "sha256": "f24044cc04de15efab016b3e8e9b9d43a2bba5f2afb21f0b4a22dfccc9735943",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/062.jpg",
+      "bytes": 40567,
+      "sha256": "d782b25a0ab1ae6aab1f896af0ce41e9e37cbf1f3555b7c4c0a58056efbaaa6e",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/063.jpg",
+      "bytes": 41116,
+      "sha256": "e8ce6f47a217cf25e8ec3d96dc53a98287437328c3a8c100a99e10c8db1ee28c",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/064.jpg",
+      "bytes": 41848,
+      "sha256": "6398ebdfc935e245f7ed36487d5f60ddea9e058502c692d5336d103e850ca1d4",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/065.jpg",
+      "bytes": 42614,
+      "sha256": "7bc17b9cf1869f51177e9a9af0c20c5e15c496347cd3e4ef9237ea2df92d621b",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/066.jpg",
+      "bytes": 43586,
+      "sha256": "4d62a5b274eefee06da12fd657921783c295adce28ec0d7b78edd4ca9f6d30f7",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/067.jpg",
+      "bytes": 44456,
+      "sha256": "47e2051505edfbe54d2beea5d9a33e2fac6e24e849553f6d86f8981b572eb8df",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/068.jpg",
+      "bytes": 45164,
+      "sha256": "62d2225e7bb685ac4ec72522b68d4c8606fba12a501ec86a45bd6a511f90d952",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/069.jpg",
+      "bytes": 45657,
+      "sha256": "c99302f7291dfd28bcd016509bd85d011f40d95deb6a40e8a16728ab5898cb2f",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/070.jpg",
+      "bytes": 46265,
+      "sha256": "8a4221b214393926855effa2529c000c7a8c982a38d3ec74f100a907e6b3c210",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v002/turntable_frames/071.jpg",
+      "bytes": 46449,
+      "sha256": "cda9c2f280fdc538d7032b2271961e3df4aabcebbf74606b8d9e6ec66fb94938",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/comparison_back.jpg",
+      "bytes": 136162,
+      "sha256": "b082f6c80a8cae566d2a3e98eeae12b3504805f28acd16acd3d3ec08ee47b12b",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/comparison_front.jpg",
+      "bytes": 203983,
+      "sha256": "2416e051adac3c8f7cca08d21e19eec91d2281c0089229744f3f3ddf16a85fe5",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/comparison_left.jpg",
+      "bytes": 108239,
+      "sha256": "20579295a98656638a741e35662c79416f3c01653cbe31f31d9617399e6a23fb",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/decode-check.log",
+      "bytes": 1505,
+      "sha256": "c575aac56a486b8e900387810595f7855c6f72b2d635546865b63bd27c35da8b",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/encode.log",
+      "bytes": 3707,
+      "sha256": "b5479c39c425a801b97776834b988478f7115c1b7068fc68566ad7d810c511c5",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/model-data.json",
+      "bytes": 1261,
+      "sha256": "11819287e51c5b76852d3f6f8c32f87890b1006f57d6651a9a72ec9b05aa119a",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/photo-proportion-check.json",
+      "bytes": 1197,
+      "sha256": "c20a0790619436a8d36a1eb2b9072aebff214d2fb665a5d54891f1f380b8ec40",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/renders/back.jpg",
+      "bytes": 71425,
+      "sha256": "d30229ec7f69f433ce6e4872c280b313651f7a6b60045a862cefc073c7f36904",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/renders/back_oblique.jpg",
+      "bytes": 65919,
+      "sha256": "3fc4163dba2f8cd1ebfee8d85c0e5d6dc7fa3be5bf04f0a5b9ea25ef868e3593",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/renders/front.jpg",
+      "bytes": 78177,
+      "sha256": "a97cce8069c1beb85c63a042b259bffa943f5ee633949eb352e0adbb9350cf08",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/renders/front_oblique.jpg",
+      "bytes": 75421,
+      "sha256": "725dd3f4f84f7e6109070b455f8d7f508926babdd9b6e6f72c20613180317982",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/renders/left.jpg",
+      "bytes": 62902,
+      "sha256": "1ec588add666497c1ccf94aade2de05aaf25f64f802e1a2de7efc913713246cb",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/renders/right.jpg",
+      "bytes": 61612,
+      "sha256": "d51aab5a792b2f5aa8091ca0583e8ba84a2e3fa076df455206d1f2f8992cc664",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/saved-model-check.json",
+      "bytes": 5418,
+      "sha256": "e5bad75e4ee15ce6860dd52f0c3ff17a948570a34d9ec7206397d336a160cfb9",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/self-check.md",
+      "bytes": 5018,
+      "sha256": "d33ecd764ec4eed6f71fb2e9fd98200d807d35d8610825f13c50c6af87284017",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/shower_black_clay_v003.blend",
+      "bytes": 982195,
+      "sha256": "d6b9c227ee22a54b6066465413753044ff5427d53b67944028abc235aaaede50",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/shower_black_clay_v003_turntable.mp4",
+      "bytes": 401358,
+      "sha256": "b1b996f0cbb723fc86cd73ec7e0530e6f607a55dd3ed47f54d7c88e7bb44dcad",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/six-view-contact.jpg",
+      "bytes": 105784,
+      "sha256": "3f4604e992c6d08ad9a1df25faa6cbd4f3954dcce75ad36e9ef15132de5ff921",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable-render.log",
+      "bytes": 11072,
+      "sha256": "fa5a15b64601d990447b0db4b133ed4bb3b82218edc7d4c9536ca5b19e5a5b17",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable-sampled-contact.jpg",
+      "bytes": 120810,
+      "sha256": "19756af60aed1557217d0704572a15b878985953ccf57bafe5b0c963205ebe8e",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/000.jpg",
+      "bytes": 46841,
+      "sha256": "85b27d0f6326d48997c6a40a065209ea50643b3e114672850da8834dd31b9e28",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/001.jpg",
+      "bytes": 47352,
+      "sha256": "c11808fe8cf259e2418e99c01d9ecef6104c1667707191edcac338de66bd0813",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/002.jpg",
+      "bytes": 48203,
+      "sha256": "3e3dee2d34a0dfafb2039deee8e5d9856efa04ad91b5b013766b7e5f99b8ca5b",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/003.jpg",
+      "bytes": 48362,
+      "sha256": "067328c8f2187e61e0316db2deae092ec2fd163810294e212aa665c7c7c726e6",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/004.jpg",
+      "bytes": 48478,
+      "sha256": "e6869af69af0f244bd8fdb59f02c364180524ce0a9bfd02158eb01f2d0f3e57d",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/005.jpg",
+      "bytes": 47928,
+      "sha256": "229bb02d64c73a34ca5852e029b9148902cbfee4c6ed7254afcf7482a8122e37",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/006.jpg",
+      "bytes": 47204,
+      "sha256": "df3e0563b6aa4e6b1afb4ec87a4d4739cf8f77b2fe0413e4602e6aab8608caeb",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/007.jpg",
+      "bytes": 46305,
+      "sha256": "1fed118a189c9c9cc3f137accac4c9144e2a09e1ff0a1f8336af9be822285346",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/008.jpg",
+      "bytes": 45370,
+      "sha256": "a52b0aa9e733167549871ba37329d74e5c24fd226b30d4e51237767ea55d0edb",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/009.jpg",
+      "bytes": 44613,
+      "sha256": "0f84b80c79b190c24cf2a94fecacbc7553515f68cadff763f8546df54c68ae71",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/010.jpg",
+      "bytes": 43584,
+      "sha256": "15ffff397f65123bc91d5b43d3f3e2e2ecbdeffa1a2668c4361b06df052027be",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/011.jpg",
+      "bytes": 42552,
+      "sha256": "31e749530234d7cf19e6eef0c07bedc6240817c39e32efc22b77f284b38e3318",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/012.jpg",
+      "bytes": 41785,
+      "sha256": "63ca901f8fa8e8db50fc7c33e8f69eb15555850a354337c62976ba0b06aeb22a",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/013.jpg",
+      "bytes": 40813,
+      "sha256": "18deee7235fd1ecd64358fa02a52b01a54194efd889b905e4baf451451378c5e",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/014.jpg",
+      "bytes": 40074,
+      "sha256": "b2efb2be598a549393ea12174ec0015b06b7b7ee70c243edd25fec2a4d7e6437",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/015.jpg",
+      "bytes": 39406,
+      "sha256": "5e4c56c707560d1e83d13271e2fbca9821826d13a40810a8b5a9b35f085014f4",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/016.jpg",
+      "bytes": 39208,
+      "sha256": "34361ba9ae02a8de8a6aa9f76946fbcb9ad884601ee11c2c84e226ea16732f9e",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/017.jpg",
+      "bytes": 38965,
+      "sha256": "6efee68fec04b98ccfc0b4fbbd80fc2a6e2589e98b805a8f9e7edfaa88c91f7e",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/018.jpg",
+      "bytes": 37615,
+      "sha256": "9c985231bf9fa8ed4c53f7ce58af13240ae6613fba4d0d2f766b5ce3754a2cab",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/019.jpg",
+      "bytes": 37234,
+      "sha256": "264676b221198e1f3d8ba461e57f6b4fa27d3ff5f58f49807fbfa1981d7c19e3",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/020.jpg",
+      "bytes": 37250,
+      "sha256": "78805f85d9eb8ffbc04f198a39a9f8c65bc7e96a1563e4dd86a6ad343cadff78",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/021.jpg",
+      "bytes": 37222,
+      "sha256": "8059349020cc80ed705f0f5318e910a20457c0d5099af93a7957f86d0aef4adc",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/022.jpg",
+      "bytes": 37427,
+      "sha256": "d94aa258d68b0e44c737ffec17ca784532cd590699a590e639bca0b6596ac5b8",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/023.jpg",
+      "bytes": 37607,
+      "sha256": "d7ee6d9217ecc395078c455e382ca372b21ecba13dcba82f6fcc078de4fd90c1",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/024.jpg",
+      "bytes": 37927,
+      "sha256": "005a9ce22f6ab3a60aa73cc7dc1a6e795abd5b3e6364367d8e02631639b882e3",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/025.jpg",
+      "bytes": 38446,
+      "sha256": "40e75dafc32620ae059030cea973744b0fdd9674de3e42e2ceae73b1520d8ca5",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/026.jpg",
+      "bytes": 38644,
+      "sha256": "df45779b373dc0fd98311ec53bcf2f25168934059fd8dbdb3a92421a081dafb9",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/027.jpg",
+      "bytes": 39083,
+      "sha256": "9c99259960927c8dfab24924c87ef71a1d4302e9c762d9f61f0e9c6dbff03c51",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/028.jpg",
+      "bytes": 39466,
+      "sha256": "35cf224d528771ae3a7856ea34371fa829eddd45bd610529c38a9e970aa89f1d",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/029.jpg",
+      "bytes": 40202,
+      "sha256": "53818606f89b7d82b4fe256c7724427b26143bea9c2758c4980f90e6bda4d1d0",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/030.jpg",
+      "bytes": 40599,
+      "sha256": "4f13f5a4616b2f06e2f5a23b0e512c321a06ad4ec082d705f54ac71b558e155d",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/031.jpg",
+      "bytes": 41310,
+      "sha256": "4d438a93f614cda1f5e1ca58465efaa0a910041a7e239fac4a0dc434dc97f564",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/032.jpg",
+      "bytes": 41668,
+      "sha256": "b76aa5a02a41af6a8ff66ad172e608b4138aa94891526fe3a59657de231767cc",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/033.jpg",
+      "bytes": 42036,
+      "sha256": "23dc9aafa33af11ace93b26dcddd014f05cf10ea71a0447fd9f23ca40d474796",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/034.jpg",
+      "bytes": 42501,
+      "sha256": "8ef974405885bbeb588f0a725fc73c303d55cefffc0451a6915fde978cbcd9c2",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/035.jpg",
+      "bytes": 42459,
+      "sha256": "951e3d677fb77e88b1a769bc7e3f3d0139b8f8f12bf0cc79a2dd2f973c41310f",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/036.jpg",
+      "bytes": 42680,
+      "sha256": "0aed78b1ba73e43f1c3d0e07c3900affe016695e212dc99e1d252191758bd6a2",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/037.jpg",
+      "bytes": 42936,
+      "sha256": "0daf421febd91b55e6f3671ad3fa7d8d5a9b612b6e6072f4fd68fa88836e2c39",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/038.jpg",
+      "bytes": 43495,
+      "sha256": "7bae07b631e60da1027e381d1092db8deebb901ce42045ffbb3a0823af109e7e",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/039.jpg",
+      "bytes": 43372,
+      "sha256": "8448b800d2cf6935390ff45d61c729e537af014a4635a00f2aa1ec76012c8718",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/040.jpg",
+      "bytes": 43138,
+      "sha256": "9e3ab038155337edd1c9be8d41c246e3a2f3aa16771c4d65ff0ac19ff03332ac",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/041.jpg",
+      "bytes": 42678,
+      "sha256": "9180a539a8893d4d4bd32dbe434ba45806be4e11fa8f232c3e149ab3a6cc12ea",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/042.jpg",
+      "bytes": 41875,
+      "sha256": "c8224295a47f1ca5a83aa4aafe7b62f9787a2d9c3313f5fafe8b427ad35b454a",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/043.jpg",
+      "bytes": 41119,
+      "sha256": "30a1e8f90dff02d08ad7d2ecb04e0d2dbf79f96111f0331675e6314b0cf5b5e5",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/044.jpg",
+      "bytes": 40317,
+      "sha256": "032af59a5d9bff44c311af41a24114c94ce73b5aaaa4c3a965b9bb7f8d8a2de3",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/045.jpg",
+      "bytes": 39603,
+      "sha256": "bab0f04a200427ab2d46de518326d284b162258ce6fdb314c958fd5b2a7d6b91",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/046.jpg",
+      "bytes": 38870,
+      "sha256": "73bc33851bfc7b2f9333cd15813a2d975280bbeac36b76339f9ccb5d49acebb2",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/047.jpg",
+      "bytes": 38487,
+      "sha256": "1fd8d8fb293a8c5fb864288985073bdb369da91a07372c4ab688cd146679ba0c",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/048.jpg",
+      "bytes": 37810,
+      "sha256": "450aa6016fa9b9d854df91143291517f7df00f620fc8c2037e0dd0a97fff24c3",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/049.jpg",
+      "bytes": 37486,
+      "sha256": "0058849a077ed5955fec45e2498edd2efa20009306a05b6746eac07c27d10725",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/050.jpg",
+      "bytes": 37031,
+      "sha256": "2bcc98979febf65b897fd637a2098dac0767ee584a6d7cda8b3b9e66efab05e0",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/051.jpg",
+      "bytes": 36712,
+      "sha256": "63e67803fc9c29c69da5afe49ca7c82dccaa6b8d06dcd65b4e29ddd5246b7818",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/052.jpg",
+      "bytes": 36567,
+      "sha256": "04136e18410c93162efed1699a04b28eead7bb3b2198917d677b29ddc596f3f9",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/053.jpg",
+      "bytes": 36378,
+      "sha256": "12333bbfe1fb349346795c7c98ad64376d8ea1898383cea570587b7ca343b8ed",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/054.jpg",
+      "bytes": 36744,
+      "sha256": "7c2e3b1052c5ddff5fe37966119cf80cf8adbd39a50acbab155948c07ba6307b",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/055.jpg",
+      "bytes": 37538,
+      "sha256": "174f4efea8ad786c99fa9d0cad93b5e4c16f8a75b6f89225eba5f59f1b649a4f",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/056.jpg",
+      "bytes": 37449,
+      "sha256": "55a259eeb1972f64f0a1afe4fe379302078d7ff18347c6bdac160f293594b173",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/057.jpg",
+      "bytes": 37583,
+      "sha256": "42dec466b72d74f33a59db0e5ce1283f25937c1464f5f2dab057f010d1f1e572",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/058.jpg",
+      "bytes": 38008,
+      "sha256": "536144c16cacf98382a9946bf0cf72ec3083c1ed324e6c78d53da9dd35cda755",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/059.jpg",
+      "bytes": 38461,
+      "sha256": "18e30c0ecb4875a766c2113ecc57a8f312b79a92f07a7ba940547b73d01be810",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/060.jpg",
+      "bytes": 39112,
+      "sha256": "440057028ab16d34409722a89c5ba270fff71025544977b626b59999d63eebf6",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/061.jpg",
+      "bytes": 39833,
+      "sha256": "65aa1ab962a083d885b2482ecfc9de533c9a0ff7f0c25bcfcff63c4be9ebc5b9",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/062.jpg",
+      "bytes": 40311,
+      "sha256": "cf80b38cce946d8cb14d2f6d823e3dd77c2112d3d5af1b081e6bd8fdca04ef19",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/063.jpg",
+      "bytes": 40973,
+      "sha256": "3794db7dfc760ec29571dcbe52e11f8cb90579d452c105d3029fc644d9c1f9dc",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/064.jpg",
+      "bytes": 41616,
+      "sha256": "e13b8aedaae494b5d1fbab156b6a493532022ab070492b9866bedbbe68492125",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/065.jpg",
+      "bytes": 42450,
+      "sha256": "734f36565de1a6c7b4ffb60c140360f9dd3a5ca9411dd51236b399dd04d7bef9",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/066.jpg",
+      "bytes": 43398,
+      "sha256": "62ca3a0adc0ad5b126804015e0aaab1a2a3ebb51571c7a55160eac94d66569b6",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/067.jpg",
+      "bytes": 44275,
+      "sha256": "1d833d21db3d74c75682f3b2673842d3e672d08bb3ec89e911827f6ab6cc30f3",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/068.jpg",
+      "bytes": 45109,
+      "sha256": "2b5a4525f6159bae1ec09625c47e1cc9950a47949ec6df31f0748409048f618b",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/069.jpg",
+      "bytes": 45296,
+      "sha256": "0c680894a1456fc604b6aae4a58832376896cb121ed3c6484fbb70d3c349c531",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/070.jpg",
+      "bytes": 46209,
+      "sha256": "d1573cffd3aec64e3b71793b2d46c898cf938abfad8e1b9a5ee5e116bf30bc1a",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/turntable_frames/071.jpg",
+      "bytes": 46390,
+      "sha256": "0ffa6f1715f82a537fa0e492e3065c1c2247490ca797e11a74dac4c8ebe4c196",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/verify.log",
+      "bytes": 430,
+      "sha256": "d344f6373baee382ff5023d4fd0f9803926e4ccda03b62ae54442110730eb100",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v004/build-v004a.log",
+      "bytes": 937,
+      "sha256": "0a07130a5b9bc6854420ca39ac879cff1bc7e8b118867f7f8227075be34a9df5",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v004/build.log",
+      "bytes": 931,
+      "sha256": "80d7e660f2b6ce9fa1918560c1bfcaf906694e27431026421796c348c422175f",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v004/evidence/P01-digitized-front.jpg",
+      "bytes": 753642,
+      "sha256": "3330ed4210715f11d4a3809b9c444c3e224b76b6ca616f48d4c911e689fa46fc",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v004/evidence/P01-grid.jpg",
+      "bytes": 351086,
+      "sha256": "c0feb90f49e4a6a2b899d0e285c2ff1bbb21204f3acf7c0f6fbfb869d1dd3673",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v004/evidence/P01-head-grid.jpg",
+      "bytes": 442538,
+      "sha256": "d58b608fe7bf6ed03e515dede228ec893cd22761e0526212c38cdd411603a68e",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v004/evidence/P03-digitized.jpg",
+      "bytes": 585620,
+      "sha256": "f4f502d0277d2a201684f4994aad1c5039948f9c64da25b761e3f56ef77400e5",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v004/evidence/P03-grid.jpg",
+      "bytes": 206688,
+      "sha256": "5fc94574beaa8283323c6568833c5e0aedf56865c1d79d6fd1b0a09467de0bf5",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v004/evidence/P04-digitized.jpg",
+      "bytes": 563170,
+      "sha256": "f0ab11574b8ade16ae805083dc8c228c5facf98092a106f256704bf72f0e87e4",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v004/evidence/P04-grid.jpg",
+      "bytes": 182380,
+      "sha256": "de7024340c0de56d48898c024ad1532ee589a6cbd0dc4a525f03eb93a5835970",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v004/evidence/digitized-contours.json",
+      "bytes": 67036,
+      "sha256": "f91c6cf5011e6cb7052ccdf972d1e3f67a46d7587d6c669f74f76ddae3347a48",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v004/model-data.json",
+      "bytes": 1261,
+      "sha256": "11819287e51c5b76852d3f6f8c32f87890b1006f57d6651a9a72ec9b05aa119a",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v004/renders/front.jpg",
+      "bytes": 78652,
+      "sha256": "5da0e7db33f5673eb742ee4c5d5e564e0425986ab952765bffa4ef82f6083572",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v004/renders/left.jpg",
+      "bytes": 64008,
+      "sha256": "dc110417bc6a1c4b7564b9b95d5571183a5c3f8720e8212edf025338d2d309d7",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v004/renders/right.jpg",
+      "bytes": 62459,
+      "sha256": "d250f9a5500ccd2b6f8113ae2fd5306316081424524d0c2de21811d93c58c09a",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v004/shower_black_clay_v004.blend",
+      "bytes": 980712,
+      "sha256": "994aca52a32821a011cfb6fec7e6166239d2f0dae284c46853f792b1ac407136",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v004a/evidence/P01-aligned.jpg",
+      "bytes": 308479,
+      "sha256": "176c726ba12e33682ad029f5f6a1dc38f0e5b51fceb62ec73117294585303cfc",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v004a/evidence/P01-model-overlay.jpg",
+      "bytes": 312567,
+      "sha256": "78d9cd87f431db69a6692ec8783c1a72e197a55f98176bbc2d73974d142eb419",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v004a/evidence/P01-same-scale-pair.jpg",
+      "bytes": 398744,
+      "sha256": "c8769cf88379474aff04e173888defca78a3678bda515ccf8f6a6b3e88342dbc",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v004a/evidence/P03-aligned.jpg",
+      "bytes": 240518,
+      "sha256": "15a631c7256f7daac9ed8dccee1ad7a820435da55bf1e3ead6bb9b628939f26c",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v004a/evidence/P03-model-overlay.jpg",
+      "bytes": 245557,
+      "sha256": "76353a6ef4507a46490389369084fc7ff60fe36e200e57e7644ffec8fbe1f6a2",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v004a/evidence/P03-same-scale-pair.jpg",
+      "bytes": 323043,
+      "sha256": "8cc559b1e2f01dfd25b99ff005d058f17d2f8e03bcd69a22a95a6ceeefbc69fe",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v004a/evidence/P04-aligned.jpg",
+      "bytes": 240930,
+      "sha256": "e0f0311d9e7e79df4feb49080f30fdfca1fdb919f43380a6db969e092203e8c0",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v004a/evidence/P04-model-overlay.jpg",
+      "bytes": 249712,
+      "sha256": "73648bfabc8b053ac42b3954f2ad66b9d72f0cdb1aa3bcca3e9f6331ad4f6e04",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v004a/evidence/P04-same-scale-pair.jpg",
+      "bytes": 323161,
+      "sha256": "b6675e1a53b141864093c8fb95d9cbaf621aacb2aa0f8d0ddc530cbefce50faf",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v004a/evidence/actual-saved-mesh-profiles.json",
+      "bytes": 84658,
+      "sha256": "282895805426d07cd59eea215acd218eddd11a51a9d2953034afc8372c417851",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v004a/evidence/overlay-transforms-and-comparison.json",
+      "bytes": 10013,
+      "sha256": "be495e3886e099e7c319338397a6c13d9823881f1e32626ce2b72748e2db932a",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v004a/evidence/v003-v004a-detrended-front-curve.jpg",
+      "bytes": 137790,
+      "sha256": "7227d803bad7a163fdd01e3ddab7a2723de883b58f6404bf9acf1da2b5b61a7b",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v004a/model-data.json",
+      "bytes": 1263,
+      "sha256": "c82ae97f456dc31867f28df664c5f376ca2392ef769c655fac2716a9bdf33ff9",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v004a/readback.log",
+      "bytes": 524,
+      "sha256": "cfec88984084022ad3e325b8964c8fc733803ffa6973e76afe303f77bded394e",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v004a/renders/front.jpg",
+      "bytes": 78126,
+      "sha256": "bbd879c3ef2383b512dc1f3a12ab5b1526e611bbfb329bedf9f5da26c8a6a558",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v004a/renders/left.jpg",
+      "bytes": 63526,
+      "sha256": "5d1a6067f8ced4723f42dc501440ec0fb779266217ebf8324e004ac6136d9283",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v004a/renders/right.jpg",
+      "bytes": 61963,
+      "sha256": "b11b3d170e2f4bb57bace035e6fcd99652fd4ffff013d0c2ff5a7ed0e5abae21",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v004a/shower_black_clay_v004a.blend",
+      "bytes": 1151499,
+      "sha256": "5368f585bd65ff8fe633dc5d1317cefa975740004dbf7e8b5d31a898096d4f30",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v005/REVISION.md",
+      "bytes": 4146,
+      "sha256": "8e71c12491b619c4d9c126c219d877327dba4b8acabbddc275d67d88539f0a93",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v005/evidence/P01-aligned.jpg",
+      "bytes": 308479,
+      "sha256": "176c726ba12e33682ad029f5f6a1dc38f0e5b51fceb62ec73117294585303cfc",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v005/evidence/P01-model-overlay.jpg",
+      "bytes": 312555,
+      "sha256": "5912d06b484ccee5145db4978555687f9805f3384b1f5c904ee233e50102b474",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v005/evidence/P01-same-scale-pair.jpg",
+      "bytes": 398699,
+      "sha256": "75f86d3cf94b1cc881bc36ddb7e252dfa9a952391bd2f8be20e60b1dde5974c7",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v005/evidence/P03-aligned.jpg",
+      "bytes": 240518,
+      "sha256": "15a631c7256f7daac9ed8dccee1ad7a820435da55bf1e3ead6bb9b628939f26c",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v005/evidence/P03-model-overlay.jpg",
+      "bytes": 245610,
+      "sha256": "c4221e0c75320bb3c6639b20475800fe83881de219ff444e340df1cce3fd364c",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v005/evidence/P03-same-scale-pair.jpg",
+      "bytes": 322822,
+      "sha256": "84abbec5eb1e84b30315f537f6fb695cbdb7668edbd5349fbfd76214b7cc15c7",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v005/evidence/P04-aligned.jpg",
+      "bytes": 240930,
+      "sha256": "e0f0311d9e7e79df4feb49080f30fdfca1fdb919f43380a6db969e092203e8c0",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v005/evidence/P04-model-overlay.jpg",
+      "bytes": 249761,
+      "sha256": "9de6c5bff7be4b6503d78725af95e4769a0bd8590811b9f3d176e3fde085b7c4",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v005/evidence/P04-same-scale-pair.jpg",
+      "bytes": 323003,
+      "sha256": "28fc5f89c9102107cf4d90e5986489e5ebb1e5f0ae4cf7e5927250f8467e8615",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v005/evidence/actual-saved-mesh-profiles.json",
+      "bytes": 84655,
+      "sha256": "d7d66b59a84ea7b76db9ac8eb9f5837c322e8732cac6eeb174e8c5e16621cc67",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v005/evidence/overlay-transforms-and-comparison.json",
+      "bytes": 10666,
+      "sha256": "2679e6c0e7c9654bbad51ac2b453aa2ce12412d6b95268960f75357bfb8ba276",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v005/evidence/v003-rigid-aligned-side.jpg",
+      "bytes": 126380,
+      "sha256": "d9515693f07b88bfea5aa9a0f5d23b9b3c0006b2aab032ce5151eac873862721",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v005/evidence/v003-v005-detrended-front-curve.jpg",
+      "bytes": 137617,
+      "sha256": "16af0cfd8d79c5e47b0cdc3b6831903f277e680daf0904d395660c3d95050895",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v005/model-data.json",
+      "bytes": 1263,
+      "sha256": "c82ae97f456dc31867f28df664c5f376ca2392ef769c655fac2716a9bdf33ff9",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v005/readback.log",
+      "bytes": 521,
+      "sha256": "32a44a6ba30c524e59fc07cfad3a9511030fcd0328ea30cb78d2542d9dabc154",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v005/real-v003-v005-side-comparison.jpg",
+      "bytes": 289675,
+      "sha256": "066e4970ed97d9d04ff7e1dc10f5e32a1e4f8d782a9299d30c68e74a676dd879",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v005/renders/front.jpg",
+      "bytes": 78124,
+      "sha256": "749001810643d78b5b2adb342f69c2b5a0e5f42c664cedc0c787138ad9ed0d52",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v005/renders/left.jpg",
+      "bytes": 63524,
+      "sha256": "4079ab36aa145d0d8693f0c0d0934f8c807c78fdda6a6a3659bd663cf03b5dff",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v005/renders/right.jpg",
+      "bytes": 61961,
+      "sha256": "953fe04565db62d8820ab91d420ffbd0789ce3d1c39522ec93a43aff35279ddb",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v005/shower_black_clay_v005.blend",
+      "bytes": 1151504,
+      "sha256": "ab9ec6b6609e4352ce358ef37673e94406c34c6b727a77f21e8a23ca4fe8e3c3",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/verify_saved.py",
+      "bytes": 2566,
+      "sha256": "21474fe4078d8b2110dc371a6d337ac3912300006a0f2683faca77ffb92a34fe",
+      "purpose": "rebuild, candidate, digitization or review evidence",
+      "retain": true
+    }
+  ],
+  "total_bytes": 27612207,
+  "deletions": []
+}

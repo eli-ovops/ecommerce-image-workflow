@@ -1,0 +1,67 @@
+{
+  "id": "M03",
+  "role": "冷蓝正背广告",
+  "sku": "银色",
+  "refs_actual_viewed": [
+    {
+      "id": "A034",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/主图/主图_01.jpg",
+      "sha256": "c9eb34ab7c3930539b2a7393aedfad97e3c00fd5f4165a1972d4e54207d7a663"
+    }
+  ],
+  "review_reuse": "same approved current batch prior final visual review; no regeneration",
+  "source_files": [
+    {
+      "path": "production/2026-10-24_参考广告主图/final/AD02.jpg",
+      "sha256": "c803a8450a87190ea4bdc7b8c070cb4b5a2a8fe0d750168dccecdb92a6c2bd61"
+    }
+  ],
+  "actual_inputs": [
+    {
+      "path": "production/2026-10-24_参考广告主图/final/AD02.jpg",
+      "sha256": "c803a8450a87190ea4bdc7b8c070cb4b5a2a8fe0d750168dccecdb92a6c2bd61"
+    }
+  ],
+  "source_layers": [
+    {
+      "source": {
+        "path": "production/2026-10-24_参考广告主图/final/AD02.jpg",
+        "sha256": "c803a8450a87190ea4bdc7b8c070cb4b5a2a8fe0d750168dccecdb92a6c2bd61"
+      },
+      "operation": "byte-identical JPG copy",
+      "source_kind": "previous_reviewed_final_JPG"
+    }
+  ],
+  "claims": [
+    "三档出水",
+    "下方按键切档",
+    "中央红钮手动按压除垢"
+  ],
+  "copy": "Reused unchanged; see upstream manifest approved_copy",
+  "output": {
+    "path": "production/2026-10-24_完整电商套图/generated/M03-reused.jpg",
+    "sha256": "c803a8450a87190ea4bdc7b8c070cb4b5a2a8fe0d750168dccecdb92a6c2bd61"
+  },
+  "working": {
+    "path": "production/2026-10-24_完整电商套图/generated/M03-reused.jpg",
+    "sha256": "c803a8450a87190ea4bdc7b8c070cb4b5a2a8fe0d750168dccecdb92a6c2bd61"
+  },
+  "dims": [
+    1254,
+    1254
+  ],
+  "transform": "byte copy, no recompression",
+  "notes": "复用当前已验JPG，不引用10/23失败旧商品",
+  "upstream_manifest": {
+    "path": "production/2026-10-24_参考广告主图/image-manifest.json",
+    "sha256": "fc8dbcc8589fdcd14dee8be1bccf6b97b1751e501eae0e30063c6a150953b5d7"
+  },
+  "status": "REUSED_AWAITING_PACKAGE_CHECK",
+  "refs": [
+    {
+      "id": "A034",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/主图/主图_01.jpg",
+      "sha256": "c9eb34ab7c3930539b2a7393aedfad97e3c00fd5f4165a1972d4e54207d7a663"
+    }
+  ]
+}

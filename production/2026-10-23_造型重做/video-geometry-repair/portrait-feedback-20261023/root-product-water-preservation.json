@@ -1,0 +1,26 @@
+{
+  "D04": {
+    "candidate_sha256": "d07c9ec50b59cf697f1ec538e8a5cb3d583c28ae635753c3e2818d6781acfcb0",
+    "outside_person_mask_changed_pixels": 0,
+    "water_layer_pixels_changed": 0,
+    "protected_regions_changed_pixels": {
+      "upper_product_water": 0,
+      "whole_lower_panel": 0,
+      "text": 0
+    },
+    "lossless_composite_only": true,
+    "jpg_encoding": "JPG reencoding is lossy; exact preservation applies to internal lossless composite"
+  },
+  "D11": {
+    "candidate_sha256": "f3458900986918bdb29060f8c827a1c423299d8a2febadf6f232832f7ea6b8d6",
+    "outside_person_mask_changed_pixels": 0,
+    "water_layer_pixels_changed": 0,
+    "protected_regions_changed_pixels": {
+      "upper_product_water_hand": 0,
+      "lower_product_water_hand": 0,
+      "panel_divider": 0
+    },
+    "lossless_composite_only": true,
+    "jpg_encoding": "JPG reencoding is lossy; exact preservation applies to internal lossless composite"
+  }
+}

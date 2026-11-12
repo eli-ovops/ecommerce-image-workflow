@@ -1,0 +1,27 @@
+{
+  "id": "M02",
+  "prompt": "Exact local black-FACE replacement in image1. KEEP ALL other pixels/geometry/camera/layout/Chinese/background/hands/people/skin/hair. Treat gray/dark sealed circular blobs and brokenwhite residues among ports as UNWANTED OBJECTS, erase ALL of those completely. Rebuild black face interior with clean regular evenly spaced SMALL white circular low flat annuli, each ONE tidy round dark tiny center, continuous matte BLACK spacing. Actualphoto2 gives real face;photo3 clearer same-model face pattern only, never its black shell. No ghost/doubled eyelets, NO dark gray rings/caps/droplets/blobs between true white eyelets, no irregular tornwhite or high cylinders. Red centralraisedring withcenterhole and surroundingoutermicroholeblackcircles preserved. SILVER shell/selector/curved neck/thread completely unchanged; no newstructure. Whites lowflush realistic originalsize. No water/words/otherparts added. Only MAINlarge head face replace, two left externaldetailwindows unchanged.",
+  "refs": [
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M02-v1.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185739_102_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/silver-side-v1.png"
+  ],
+  "actual_viewed_related_originals": [
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M02-v1.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185739_102_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/silver-side-v1.png"
+  ],
+  "batch_read_record": "same74 actual record inherited BATCH-REF-20261023-v1",
+  "date": "2026-10-23",
+  "strategy": "Replace blackface with clean uniform real ring ports; anatomy and curvature locked",
+  "status": "QA_PENDING",
+  "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-main/M02-v2.png",
+  "raw_output": "/Users/USER/.codex/generated_images/01a16319-d848-71d0-95e1-72970644c800/exec-3dfe1703-b9df-4ce7-9d23-129266989b22.png",
+  "sha256": "566e25acbedeb606186758baafea6b9b0aa4f61e0821f25f34f1186d638ce821",
+  "actual_dimensions": [
+    1254,
+    1254
+  ]
+}

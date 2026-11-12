@@ -1,0 +1,705 @@
+{
+  "image_count": 32,
+  "png_count": 0,
+  "jpg_count": 32,
+  "assets": [
+    {
+      "id": "M01",
+      "title": "银色白底素材",
+      "headline": "",
+      "reference_ids": [
+        "A038"
+      ],
+      "merged_reading_tasks": [],
+      "native_dimensions": [
+        1254,
+        1254
+      ],
+      "jpg": "exports/JPG/M01.jpg",
+      "jpg_sha256": "368f48389b9713591e8bdcfb1994448f8e5fc33d2dc7fdd77b0703b4d28c133e",
+      "visual_qa": "PASS_WITH_LIMITATIONS",
+      "geometry_status": "本图可见轮廓相容"
+    },
+    {
+      "id": "M02",
+      "title": "棕金单品广告",
+      "headline": "",
+      "reference_ids": [
+        "R001",
+        "R009"
+      ],
+      "merged_reading_tasks": [],
+      "native_dimensions": [
+        1254,
+        1254
+      ],
+      "jpg": "exports/JPG/M02.jpg",
+      "jpg_sha256": "3308b2b347ad3a44712e5e47dac11858e93aa65835173cabc594089e74ec6428",
+      "visual_qa": "PASS_WITH_LIMITATIONS",
+      "geometry_status": "本图可见轮廓相容"
+    },
+    {
+      "id": "M03",
+      "title": "冷蓝双视角广告",
+      "headline": "",
+      "reference_ids": [
+        "A034"
+      ],
+      "merged_reading_tasks": [],
+      "native_dimensions": [
+        1254,
+        1254
+      ],
+      "jpg": "exports/JPG/M03.jpg",
+      "jpg_sha256": "716500db5220f481f550438ac2c41f53db59bb8d764019ae0fbca200224dd173",
+      "visual_qa": "PASS_WITH_LIMITATIONS",
+      "geometry_status": "疑似"
+    },
+    {
+      "id": "M04",
+      "title": "手持主图与三水型窗",
+      "headline": "按下方按键切档",
+      "reference_ids": [
+        "R002",
+        "A036"
+      ],
+      "merged_reading_tasks": [],
+      "native_dimensions": [
+        1254,
+        1254
+      ],
+      "jpg": "exports/JPG/M04.jpg",
+      "jpg_sha256": "ea7d90e73c712139afc9b78b0555b59bbd0d80251f3ae732eb048e572a206fe8",
+      "visual_qa": "PASS_WITH_LIMITATIONS",
+      "geometry_status": "本图可见轮廓相容"
+    },
+    {
+      "id": "M05",
+      "title": "冷蓝除垢近景主图",
+      "headline": "按压中央红钮",
+      "reference_ids": [
+        "A035"
+      ],
+      "merged_reading_tasks": [],
+      "native_dimensions": [
+        1254,
+        1254
+      ],
+      "jpg": "exports/JPG/M05.jpg",
+      "jpg_sha256": "d88e0bbf47c72d391bfde4de54a40687d460c109789f3430312a295c22b101ef",
+      "visual_qa": "PASS_WITH_LIMITATIONS",
+      "geometry_status": "视角不足UNKNOWN"
+    },
+    {
+      "id": "M06",
+      "title": "场景与SKU同屏",
+      "headline": "",
+      "reference_ids": [
+        "R008"
+      ],
+      "merged_reading_tasks": [],
+      "native_dimensions": [
+        1254,
+        1254
+      ],
+      "jpg": "exports/JPG/M06.jpg",
+      "jpg_sha256": "c827daf01b17a6b3576a9c2285bc86e1bf0c72c5c29ed54dca346f44ffaea7c8",
+      "visual_qa": "PASS_WITH_LIMITATIONS",
+      "geometry_status": "本图可见轮廓相容"
+    },
+    {
+      "id": "M07",
+      "title": "暗底冲击主视觉",
+      "headline": "",
+      "reference_ids": [
+        "R004"
+      ],
+      "merged_reading_tasks": [],
+      "native_dimensions": [
+        1254,
+        1254
+      ],
+      "jpg": "exports/JPG/M07.jpg",
+      "jpg_sha256": "f612d086c43a89204af872219e4258696d664384ace5b7b82a863fc2eb3765a2",
+      "visual_qa": "PASS_WITH_LIMITATIONS",
+      "geometry_status": "本图可见轮廓相容"
+    },
+    {
+      "id": "M08",
+      "title": "三项概览卡",
+      "headline": "看清花洒的三处要点",
+      "reference_ids": [
+        "R012"
+      ],
+      "merged_reading_tasks": [],
+      "native_dimensions": [
+        1254,
+        1254
+      ],
+      "jpg": "exports/JPG/M08.jpg",
+      "jpg_sha256": "d17902da2b4772fe159b0fae167f4036679dd9987f54f34aeafdba1c70d30bfd",
+      "visual_qa": "PASS_WITH_LIMITATIONS",
+      "geometry_status": "本图可见轮廓相容"
+    },
+    {
+      "id": "K01",
+      "title": "银色选色SKU",
+      "headline": "银色",
+      "reference_ids": [
+        "A002",
+        "A005"
+      ],
+      "merged_reading_tasks": [],
+      "native_dimensions": [
+        1254,
+        1254
+      ],
+      "jpg": "exports/JPG/K01.jpg",
+      "jpg_sha256": "d5573f412eb6f3ef851e7eed77f1d020b5cf378b895a87e4ab9b590516b75281",
+      "visual_qa": "PASS_WITH_LIMITATIONS",
+      "geometry_status": "本图可见轮廓相容"
+    },
+    {
+      "id": "K02",
+      "title": "黑色选色SKU",
+      "headline": "黑色",
+      "reference_ids": [
+        "A003"
+      ],
+      "merged_reading_tasks": [],
+      "native_dimensions": [
+        1254,
+        1254
+      ],
+      "jpg": "exports/JPG/K02.jpg",
+      "jpg_sha256": "c77349aba245717f8e10f7dda97ea6f282ab27b3cdefdf71750a3cc4950f4dc2",
+      "visual_qa": "PASS_WITH_LIMITATIONS",
+      "geometry_status": "本图可见轮廓相容"
+    },
+    {
+      "id": "K03",
+      "title": "枪灰选色SKU",
+      "headline": "枪灰色",
+      "reference_ids": [
+        "A004"
+      ],
+      "merged_reading_tasks": [],
+      "native_dimensions": [
+        1254,
+        1254
+      ],
+      "jpg": "exports/JPG/K03.jpg",
+      "jpg_sha256": "46fbc6ab7a7f0139e18a28baad0196b3a508613b1aa380424848846c81f6a3e0",
+      "visual_qa": "PASS_WITH_LIMITATIONS",
+      "geometry_status": "本图可见轮廓相容"
+    },
+    {
+      "id": "D01",
+      "title": "时尚人物首屏",
+      "headline": "",
+      "reference_ids": [
+        "A006",
+        "A007"
+      ],
+      "merged_reading_tasks": [
+        {
+          "id": "D02",
+          "title": "横幅时尚人物",
+          "reference_ids": [
+            "A007"
+          ]
+        }
+      ],
+      "native_dimensions": [
+        900,
+        1748
+      ],
+      "jpg": "exports/JPG/D01.jpg",
+      "jpg_sha256": "36fcf40bf844d7b70ad7141562e0e551a95449175a50dae48935c1a23ef0dd69",
+      "visual_qa": "PASS_WITH_LIMITATIONS",
+      "geometry_status": "本图可见轮廓相容"
+    },
+    {
+      "id": "D03",
+      "title": "错落三色相册",
+      "headline": "三种颜色 各有外观",
+      "reference_ids": [
+        "A008"
+      ],
+      "merged_reading_tasks": [],
+      "native_dimensions": [
+        1065,
+        1477
+      ],
+      "jpg": "exports/JPG/D03.jpg",
+      "jpg_sha256": "42c99a9e40aa1f5cb816c75d67065724fab9b5b4ced2c408056afa51bffcbc03",
+      "visual_qa": "PASS_WITH_LIMITATIONS",
+      "geometry_status": "本图可见轮廓相容"
+    },
+    {
+      "id": "D04",
+      "title": "浴室场景与细节续幅",
+      "headline": "日常淋浴 手持呈现",
+      "reference_ids": [
+        "A009",
+        "A010"
+      ],
+      "merged_reading_tasks": [],
+      "native_dimensions": [
+        941,
+        1670
+      ],
+      "jpg": "exports/JPG/D04.jpg",
+      "jpg_sha256": "696065a4d9b6c430807d6e9e7a22dbd2b4a8abbb25fcde2c7975f38707e6ba57",
+      "visual_qa": "PASS_WITH_LIMITATIONS",
+      "geometry_status": "本轮修正后可见轮廓相容",
+      "water_status": "SIX_SCENES_INDEPENDENT_VISUAL_REVIEW_PASS_WITH_LIMITATIONS"
+    },
+    {
+      "id": "D05",
+      "title": "五格功能与外观索引",
+      "headline": "从水型看到外观",
+      "reference_ids": [
+        "A011",
+        "R017"
+      ],
+      "merged_reading_tasks": [],
+      "native_dimensions": [
+        1030,
+        1526
+      ],
+      "jpg": "exports/JPG/D05.jpg",
+      "jpg_sha256": "7a23a64a8f6e4f6308ce7dd9c33941429d8564d489b6478827b799a6271a74b9",
+      "visual_qa": "PASS_WITH_LIMITATIONS",
+      "geometry_status": "本图可见轮廓相容"
+    },
+    {
+      "id": "D06",
+      "title": "出水起点微距",
+      "headline": "近看出水的起点",
+      "reference_ids": [
+        "A012",
+        "A013",
+        "R007"
+      ],
+      "merged_reading_tasks": [],
+      "native_dimensions": [
+        1063,
+        1479
+      ],
+      "jpg": "exports/JPG/D06.jpg",
+      "jpg_sha256": "a2775268f12ea8603ca3703d3276e79b9e9e53aad0495200f697ff0193d13ed5",
+      "visual_qa": "PASS_WITH_LIMITATIONS",
+      "geometry_status": "本轮修正后可见轮廓相容",
+      "water_status": "SIX_SCENES_INDEPENDENT_VISUAL_REVIEW_PASS_WITH_LIMITATIONS"
+    },
+    {
+      "id": "D07",
+      "title": "手持面板与下键定位",
+      "headline": "切档按键 在下方",
+      "reference_ids": [
+        "A014",
+        "A015",
+        "R025",
+        "A020",
+        "R020",
+        "R021",
+        "R005"
+      ],
+      "merged_reading_tasks": [
+        {
+          "id": "D10",
+          "title": "两按钮分工双卡",
+          "reference_ids": [
+            "A020",
+            "R020",
+            "R021",
+            "R005"
+          ]
+        }
+      ],
+      "native_dimensions": [
+        876,
+        1795
+      ],
+      "jpg": "exports/JPG/D07.jpg",
+      "jpg_sha256": "e91899fad776655133645fa7cea4142e9431564ac6c4449460b17151fa111807",
+      "visual_qa": "PASS_WITH_LIMITATIONS",
+      "geometry_status": "本图可见轮廓相容"
+    },
+    {
+      "id": "D08",
+      "title": "三档黑底水型章",
+      "headline": "",
+      "reference_ids": [
+        "A016",
+        "A017",
+        "A018",
+        "R023"
+      ],
+      "merged_reading_tasks": [],
+      "native_dimensions": [
+        978,
+        1608
+      ],
+      "jpg": "exports/JPG/D08.jpg",
+      "jpg_sha256": "0f3dd3c1e88121a3d2acfda9823303dea791d11efa8caa097354d72d537ae9d5",
+      "visual_qa": "PASS_WITH_LIMITATIONS",
+      "geometry_status": "视角不足UNKNOWN"
+    },
+    {
+      "id": "D11",
+      "title": "明亮浴室回眸",
+      "headline": "",
+      "reference_ids": [
+        "A021",
+        "R026",
+        "A019",
+        "R019"
+      ],
+      "merged_reading_tasks": [
+        {
+          "id": "D09",
+          "title": "无字人物停顿",
+          "reference_ids": [
+            "A019",
+            "R019"
+          ]
+        }
+      ],
+      "native_dimensions": [
+        899,
+        1749
+      ],
+      "jpg": "exports/JPG/D11.jpg",
+      "jpg_sha256": "ce22b77aacfb37708a12a8f2613412c230ddc6101e6650b0864d3defb850cb02",
+      "visual_qa": "PASS_WITH_LIMITATIONS",
+      "geometry_status": "本轮修正后可见轮廓相容",
+      "water_status": "SIX_SCENES_INDEPENDENT_VISUAL_REVIEW_PASS_WITH_LIMITATIONS"
+    },
+    {
+      "id": "D12",
+      "title": "正背外观并置",
+      "headline": "正面与背面",
+      "reference_ids": [
+        "A022"
+      ],
+      "merged_reading_tasks": [],
+      "native_dimensions": [
+        1115,
+        1411
+      ],
+      "jpg": "exports/JPG/D12.jpg",
+      "jpg_sha256": "c823866e8bd95fc896279c7e21b4abe2591b923a154f15a35845bc333ae5b96a",
+      "visual_qa": "PASS_WITH_LIMITATIONS",
+      "geometry_status": "本图可见轮廓相容"
+    },
+    {
+      "id": "D13",
+      "title": "外部部位放大图",
+      "headline": "外部细节 逐处看清",
+      "reference_ids": [
+        "A023",
+        "A037"
+      ],
+      "merged_reading_tasks": [],
+      "native_dimensions": [
+        1111,
+        1415
+      ],
+      "jpg": "exports/JPG/D13.jpg",
+      "jpg_sha256": "8e7e6794b147e55c215a5c91680b487f4e62721ff67caf7736513d95050fe974",
+      "visual_qa": "PASS_WITH_LIMITATIONS",
+      "geometry_status": "本图可见轮廓相容"
+    },
+    {
+      "id": "D14",
+      "title": "手动除垢过程与状态",
+      "headline": "手动按压 辅助除垢",
+      "reference_ids": [
+        "A024",
+        "A025",
+        "A026"
+      ],
+      "merged_reading_tasks": [],
+      "native_dimensions": [
+        979,
+        1607
+      ],
+      "jpg": "exports/JPG/D14.jpg",
+      "jpg_sha256": "e9e0b4baf1182f3276994020fd9ce4b9623cdb720af9f9514374979fe23a36a0",
+      "visual_qa": "PASS_WITH_LIMITATIONS",
+      "geometry_status": "视角不足UNKNOWN"
+    },
+    {
+      "id": "D15",
+      "title": "背面侧壁双景别",
+      "headline": "换个角度 看清外观",
+      "reference_ids": [
+        "A027"
+      ],
+      "merged_reading_tasks": [],
+      "native_dimensions": [
+        1058,
+        1486
+      ],
+      "jpg": "exports/JPG/D15.jpg",
+      "jpg_sha256": "e9bd2ee30c2c1c450c3c2f402c2968c6bc8fa9acb26a22acc37e430ffe25b2c5",
+      "visual_qa": "PASS_WITH_LIMITATIONS",
+      "geometry_status": "疑似"
+    },
+    {
+      "id": "D16",
+      "title": "切档操作步骤页",
+      "headline": "切换出水 看这里",
+      "reference_ids": [
+        "A028",
+        "R032",
+        "R006"
+      ],
+      "merged_reading_tasks": [],
+      "native_dimensions": [
+        1116,
+        1410
+      ],
+      "jpg": "exports/JPG/D16.jpg",
+      "jpg_sha256": "7e41bdb4cc1a7d5a0bf550a3206a36bf2fbeff32a50da73ea0c2533d1afbd446",
+      "visual_qa": "PASS_WITH_LIMITATIONS",
+      "geometry_status": "本图可见轮廓相容"
+    },
+    {
+      "id": "D17",
+      "title": "握柄与曲面细节",
+      "headline": "",
+      "reference_ids": [
+        "A029",
+        "A030",
+        "A031"
+      ],
+      "merged_reading_tasks": [],
+      "native_dimensions": [
+        1018,
+        1545
+      ],
+      "jpg": "exports/JPG/D17.jpg",
+      "jpg_sha256": "28bcdd19efb9ac433d8e1fc3eaf76df8f4f4e1547f35c1349e3e690dfbf262a7",
+      "visual_qa": "PASS_WITH_LIMITATIONS",
+      "geometry_status": "本图可见轮廓相容"
+    },
+    {
+      "id": "D18",
+      "title": "B端已知信息收尾",
+      "headline": "商品信息",
+      "reference_ids": [
+        "A032",
+        "A033",
+        "R034"
+      ],
+      "merged_reading_tasks": [],
+      "native_dimensions": [
+        1019,
+        1544
+      ],
+      "jpg": "exports/JPG/D18.jpg",
+      "jpg_sha256": "d4046c5f50886f7bda6c9270599ba8729d1116b1561b0d2986f986bd6dd50607",
+      "visual_qa": "PASS_WITH_LIMITATIONS",
+      "geometry_status": "本图可见轮廓相容"
+    },
+    {
+      "id": "V01",
+      "title": "暖木场景与水流细节",
+      "headline": "",
+      "reference_ids": [
+        "R003",
+        "R013",
+        "R015",
+        "R018",
+        "R014",
+        "R030"
+      ],
+      "merged_reading_tasks": [
+        {
+          "id": "V07",
+          "title": "棕色短章节桥",
+          "reference_ids": [
+            "R014",
+            "R030"
+          ]
+        }
+      ],
+      "native_dimensions": [
+        936,
+        1680
+      ],
+      "jpg": "exports/JPG/V01.jpg",
+      "jpg_sha256": "4b235a0541de5300134fc5c986a47a30f12c41be4d3843a7146172a35df7b1d9",
+      "visual_qa": "PASS_WITH_LIMITATIONS",
+      "geometry_status": "疑似"
+    },
+    {
+      "id": "V02",
+      "title": "干态人物切档时尚页",
+      "headline": "",
+      "reference_ids": [
+        "R022"
+      ],
+      "merged_reading_tasks": [],
+      "native_dimensions": [
+        1034,
+        1521
+      ],
+      "jpg": "exports/JPG/V02.jpg",
+      "jpg_sha256": "2960507e2003aeead6a576be9b71351b74cabc2a3d87f2f241ae4347c35d7750",
+      "visual_qa": "PASS_WITH_LIMITATIONS",
+      "geometry_status": "本图可见轮廓相容"
+    },
+    {
+      "id": "V03",
+      "title": "暗底多角度曲面展示",
+      "headline": "从正面 看到侧背",
+      "reference_ids": [
+        "R027",
+        "R029"
+      ],
+      "merged_reading_tasks": [],
+      "native_dimensions": [
+        953,
+        1651
+      ],
+      "jpg": "exports/JPG/V03.jpg",
+      "jpg_sha256": "afd8e5719b05a3f176ff5a6ac6fa113c5c45426064656b916fbebd754faf83fa",
+      "visual_qa": "PASS_WITH_LIMITATIONS",
+      "geometry_status": "本图可见轮廓相容"
+    },
+    {
+      "id": "V04",
+      "title": "沙纹除垢特写",
+      "headline": "中央红钮 手动按压",
+      "reference_ids": [
+        "R024",
+        "R028"
+      ],
+      "merged_reading_tasks": [],
+      "native_dimensions": [
+        953,
+        1651
+      ],
+      "jpg": "exports/JPG/V04.jpg",
+      "jpg_sha256": "190253105c74839c4635132ffb3693c7cb8e44034673cc7dcee8f241daaf4099",
+      "visual_qa": "PASS_WITH_LIMITATIONS",
+      "geometry_status": "视角不足UNKNOWN"
+    },
+    {
+      "id": "V05",
+      "title": "岩石舞台单品",
+      "headline": "银色手持花洒",
+      "reference_ids": [
+        "R033",
+        "R031"
+      ],
+      "merged_reading_tasks": [],
+      "native_dimensions": [
+        983,
+        1601
+      ],
+      "jpg": "exports/JPG/V05.jpg",
+      "jpg_sha256": "ee959d08be8bcbb7e6fbc95fbb0d4c263b55af55acac0788da80c408567320b7",
+      "visual_qa": "PASS_WITH_LIMITATIONS",
+      "geometry_status": "本图可见轮廓相容"
+    },
+    {
+      "id": "V06",
+      "title": "外观图鉴与买前问答",
+      "headline": "",
+      "reference_ids": [
+        "R010",
+        "R011",
+        "R016",
+        "R035"
+      ],
+      "merged_reading_tasks": [],
+      "native_dimensions": [
+        911,
+        1727
+      ],
+      "jpg": "exports/JPG/V06.jpg",
+      "jpg_sha256": "8957332d585378587ec56b841b5fc0fdb9e660e37cc34e75167a830a2cd16336",
+      "visual_qa": "PASS_WITH_LIMITATIONS",
+      "geometry_status": "疑似"
+    }
+  ],
+  "scrolls": [
+    {
+      "title": "冷蓝白详情长图",
+      "path": "exports/冷蓝白详情长图.jpg",
+      "dimensions": [
+        790,
+        18563
+      ],
+      "sha256": "e51e463cf28bd953a6ce609fec59441cf0e129f792d009e68d5de6ceb438d73c",
+      "source_ids": [
+        "D01",
+        "D03",
+        "D04",
+        "D05",
+        "D06",
+        "D07",
+        "D08",
+        "D11",
+        "D12",
+        "D13",
+        "D14",
+        "D15",
+        "D16",
+        "D17",
+        "D18"
+      ],
+      "method": "Uniform-width downscaling only, aspect ratios preserved, no cropping or upscaling; native PNGs retained"
+    },
+    {
+      "title": "暖金补充长图",
+      "path": "exports/暖金补充长图.jpg",
+      "dimensions": [
+        790,
+        8103
+      ],
+      "sha256": "265749e5f236250593d9b2899ec88f978178e0eaaae00a8fe5ade75ce971d161",
+      "source_ids": [
+        "V01",
+        "V02",
+        "V03",
+        "V04",
+        "V05",
+        "V06"
+      ],
+      "method": "Uniform-width downscaling only, aspect ratios preserved, no cropping or upscaling; native PNGs retained"
+    }
+  ],
+  "overview_pages": [
+    "previews/overview_01.jpg",
+    "previews/overview_02.jpg",
+    "previews/overview_03.jpg",
+    "previews/overview_04.jpg"
+  ],
+  "reference_analysis_count": 74,
+  "user_acceptance": "PENDING",
+  "product_fact_notes": [],
+  "status": "LOCAL_WATER_REPAIRED_CANDIDATE_USER_REVIEW_PENDING",
+  "modified_ids": [
+    "D04",
+    "D06",
+    "D11"
+  ],
+  "geometry_suspect_ids": [
+    "M03",
+    "D15",
+    "V01",
+    "V06"
+  ],
+  "client_archive": "花洒_水流分层修正_JPG.zip",
+  "water_revision": {
+    "method": "user-approved local layered compositing",
+    "review": "video-geometry-repair/water-feedback-20261023/independent-local-water-review.json",
+    "all_six_scenes_internal_review": "PASS_WITH_LIMITATIONS"
+  }
+}

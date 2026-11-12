@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "reviewer": "root",
+  "reviewed_at": "2026-10-24T22:21:37.055279+08:00",
+  "candidate_sha256": "b13a15c52e18c5f7e0d6187990b8d93860cc1785398daf19df82c6470995060b",
+  "jpg_sha256": "f51d6e5ce1ce4fbd8ba3257e7274f1456ab3146f462bf1a7e21c8c3c7080a13b",
+  "appearance_source_sha256": [
+    "0b388756f0ee2e35630dac7789237153d390fa8aaab8f58f6e2643d4181be21d",
+    "6de02f19793c568c799762525475cd0241af1b9c41487580383be4efbd2a1fa2",
+    "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90"
+  ],
+  "checks": {
+    "photo_appearance": "PASS",
+    "geometry": "PASS",
+    "reference_style": "PASS",
+    "copy": "PASS",
+    "no_model": "PASS",
+    "export": "PASS"
+  },
+  "finding": "实际打开原生、最终JPG及R004/R017原图，并对照本SKU照片。头左上柄右下反向斜轴、黑棕底和金色丝绸光带、冷银主商品大幅占画、右小红钮窗及红金粗底标题带可读。保留完整未剖开的实际外部商品，银键/低红钮/黑面/白环区别清楚。无水、机械叶轮、能量内部、证件或配件，金色背景不当作性能证据。",
+  "retained": "R004暗底+金光带、巨幅斜轴单品、红金广告底带；R017主次不等大窗节奏",
+  "deviation": "取消参考中的剖面机械、水束/证书和增压文案，以完整外观及中央红钮近景承担焦点",
+  "limits": "人工视觉比较；没有自动实物IoU、精密曲率、逐孔物理测量、平台官方合规审核或客户接受证明。"
+}

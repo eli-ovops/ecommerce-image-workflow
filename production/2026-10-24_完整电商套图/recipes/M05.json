@@ -1,0 +1,142 @@
+{
+  "id": "M05",
+  "role": "蓝白巨面板除垢广告",
+  "sku": "银色",
+  "refs_actual_viewed": [
+    {
+      "id": "A035",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/主图/主图_02.jpg",
+      "sha256": "6357f10b2f0eae6e794b6aeae7854b6059b54cb6c4a93c333ef1072f39111d1a"
+    },
+    {
+      "id": "A025",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_20.jpg",
+      "sha256": "3f746d882e83ad3646d5fd6a8638414dd425c0e03a3b2c5962406d0f1143888e"
+    }
+  ],
+  "actual_inputs": [
+    {
+      "path": "production/2026-10-24_实拍主导主图/generated/R03-v001-native.png",
+      "sha256": "d9d55e31035604b0b9fa53ad4031acbea398ba3e47f77fc1db0cfd70044d01de"
+    },
+    {
+      "path": "products/主推花洒/银色/原图/微信图片_20261022184355_94_2.jpg",
+      "sha256": "10dcfb2cad17faf397a03e0587da0ad19c76229fe801e090fee527a3fbc1a412"
+    }
+  ],
+  "claims": [
+    "中央红钮",
+    "手动按压辅助除垢",
+    "下方按键切档",
+    "按压状态实拍"
+  ],
+  "copy": [
+    "中央红钮",
+    "手动按压",
+    "辅助除垢",
+    "按压状态 · 实拍",
+    "红钮按压除垢   /   下方按键切档"
+  ],
+  "source_files": [
+    {
+      "path": "production/2026-10-24_实拍主导主图/generated/R03-v001-native.png",
+      "sha256": "d9d55e31035604b0b9fa53ad4031acbea398ba3e47f77fc1db0cfd70044d01de"
+    },
+    {
+      "path": "products/主推花洒/银色/原图/微信图片_20261022184355_94_2.jpg",
+      "sha256": "10dcfb2cad17faf397a03e0587da0ad19c76229fe801e090fee527a3fbc1a412"
+    }
+  ],
+  "source_layers": [
+    {
+      "resampled_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/6a1ea542152036fc.png",
+        "sha256": "4502b08be099edebf675cf40204ef62d58bde86590a9ad8e4a23bd5440ad9eb5"
+      },
+      "source": {
+        "path": "production/2026-10-24_实拍主导主图/generated/R03-v001-native.png",
+        "sha256": "d9d55e31035604b0b9fa53ad4031acbea398ba3e47f77fc1db0cfd70044d01de"
+      },
+      "exif_display_size": [
+        1254,
+        1254
+      ],
+      "source_crop": null,
+      "uniform_scale": 1.2759170653907497,
+      "scaled_crop_offset": [
+        0,
+        0
+      ],
+      "destination": [
+        0,
+        0,
+        1600,
+        1600
+      ],
+      "operation": "uniform cover crop; source RGB retained through resampling",
+      "source_kind": "photo_guided_generated_product_or_composite"
+    },
+    {
+      "resampled_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/66351da7509d8072.png",
+        "sha256": "d156ca52854059508dc04a992406e52160a830b8f95d787e3743d592ecd5e678"
+      },
+      "source": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184355_94_2.jpg",
+        "sha256": "10dcfb2cad17faf397a03e0587da0ad19c76229fe801e090fee527a3fbc1a412"
+      },
+      "exif_display_size": [
+        4284,
+        5712
+      ],
+      "source_crop": [
+        0,
+        600,
+        4284,
+        5000
+      ],
+      "uniform_scale": 0.11818181818181818,
+      "scaled_crop_offset": [
+        28,
+        0
+      ],
+      "destination": [
+        65,
+        825,
+        449,
+        520
+      ],
+      "operation": "uniform cover crop; source RGB retained through resampling",
+      "source_kind": "original_real_photo",
+      "photo_id": "SIL006",
+      "ai_redraw": false
+    }
+  ],
+  "transform": "See source_layers; all photo transforms uniform scaling/cropping; no nonuniform product stretch",
+  "output": {
+    "path": "production/2026-10-24_完整电商套图/generated/M05-v004.jpg",
+    "sha256": "76b948d7f8ad21b60bc010ad971ea1e14ef0d1f3448133c8788d5fecaf82db2d"
+  },
+  "working": {
+    "path": "production/2026-10-24_完整电商套图/generated/M05-v004.png",
+    "sha256": "f75f0b7c07caa00f90429f7fdce65eaa2dda353aea0b12126373c5c65b9214ce"
+  },
+  "dims": [
+    1600,
+    1600
+  ],
+  "notes": "大主体复用实拍引导生成商品素材；小窗为SIL006原实拍，红针与手未AI重画",
+  "status": "AWAITING_INDEPENDENT_VISUAL_REVIEW",
+  "refs": [
+    {
+      "id": "A035",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/主图/主图_02.jpg",
+      "sha256": "6357f10b2f0eae6e794b6aeae7854b6059b54cb6c4a93c333ef1072f39111d1a"
+    },
+    {
+      "id": "A025",
+      "path": "references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_20.jpg",
+      "sha256": "3f746d882e83ad3646d5fd6a8638414dd425c0e03a3b2c5962406d0f1143888e"
+    }
+  ]
+}

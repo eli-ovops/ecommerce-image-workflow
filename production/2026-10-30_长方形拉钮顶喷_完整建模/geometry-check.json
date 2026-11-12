@@ -1,0 +1,402 @@
+{
+  "panel_vertices": 85517,
+  "panel_faces": 59841,
+  "panel_nonmanifold_edges": 0,
+  "panel_degenerate_faces": 0,
+  "bore_axis_checks": [
+    {
+      "id": "R00C00",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R00C01",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R00C02",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R00C03",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R00C04",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R00C05",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R00C06",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R00C07",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R00C08",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R00C09",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R00C10",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R00C11",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R00C12",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R01C00",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R01C13",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R02C01",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R02C03",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R02C05",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R02C07",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R02C09",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R02C11",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R03C00",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R03C02",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R03C06",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R03C11",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R03C13",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R04C00",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R04C02",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R04C04",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R04C06",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R04C08",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R04C10",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R04C12",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R05C00",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R05C04",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R05C09",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R05C13",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R06C01",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R06C03",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R06C05",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R06C07",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R06C09",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R06C11",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R07C00",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R07C13",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R08C00",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R08C02",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R08C04",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R08C08",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R08C10",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R08C12",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R09C00",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R09C13",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R10C01",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R10C03",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R10C05",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R10C07",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R10C09",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R10C11",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R11C00",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R11C04",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R11C09",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R11C13",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R12C00",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R12C02",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R12C04",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R12C06",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R12C08",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R12C10",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R12C12",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R13C00",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R13C02",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R13C06",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R13C11",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R13C13",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R14C01",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R14C03",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R14C05",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R14C07",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R14C09",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R14C11",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R15C00",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R15C13",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R16C00",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R16C01",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R16C02",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R16C03",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R16C04",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R16C05",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R16C06",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R16C07",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R16C08",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R16C09",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R16C10",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R16C11",
+      "blocked_by_panel": false
+    },
+    {
+      "id": "R16C12",
+      "blocked_by_panel": false
+    }
+  ],
+  "all_96_bore_axes_open": true,
+  "housing_mm": [
+    300.00001,
+    200.0,
+    20.0
+  ],
+  "known_holes": 96,
+  "blind_dots": 132,
+  "occluded_cells": 1,
+  "petal_reliefs": 500
+}

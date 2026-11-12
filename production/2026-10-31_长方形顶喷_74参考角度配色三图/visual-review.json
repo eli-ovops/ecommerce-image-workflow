@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-31",
+  "owner": "root",
+  "status": "REVIEW_CANDIDATES",
+  "actual_visual_review": ["three final 1600x1600 JPGs opened individually", "source-contact.jpg: source 376 front, 374 side, 373 capped rear, uncapped opening photo", "phone-review.jpg: three 360px thumbnails", "detail-200pct.jpg: front knob/pattern and rear opening"],
+  "source_review": "Same silver SKU. Black face, petal pattern, red pull knob, rectangular silver shell and uncapped connector retained. No water or pull demonstration. Sources are appearance evidence, not precision geometry verification.",
+  "composition_review": {
+    "01_warm_front": "Complete diagonal front, brown backdrop, large product. Red knob, groove pattern and holes discernible. Fine grain remains weaker than source photo.",
+    "02_blue_side": "Low oblique angle with visible long sidewall; blue environment reflects in unchanged silver material. Product occupies almost full width; vertical empty space is intentional for the low angle. No dimension text.",
+    "03_dark_back": "Full rear diagonal with visible uncapped opening and screen. Dark blue gray background; bright-to-dark silver reflection separates shell. Screen and inner ring are estimated and more regular than the source. Some fine rendering noise remains in darker reflection."
+  },
+  "unchanged_scope": ["nine product meshes", "material graphs and values", "original five meshes match v3", "300x200x20 mm shell"],
+  "revision": "First preview exposure too pale; revised scene exposure -1.8 stops from inherited setting. Original materials untouched. First preview files preserved.",
+  "no_text_numbers_watermarks": true,
+  "no_reference_props_functions_or_accessories": true,
+  "limitations": ["Visible CG character, not certified photoreal", "Manual hole classification is not manufacturer confirmation", "Connector geometry and screen pitch estimated", "Customer acceptance UNKNOWN"],
+  "actual_runtime_model": "UNKNOWN"
+}

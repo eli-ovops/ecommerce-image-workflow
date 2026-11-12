@@ -1,0 +1,7 @@
+{
+  "method": "existing ARM64 ffmpeg metadata and first-frame decode",
+  "duration_seconds": 14.1,
+  "audio_review": "NOT_REVIEWED",
+  "visual_review": "PENDING_SAMPLED_FRAMES",
+  "decode_returncode": 0
+}

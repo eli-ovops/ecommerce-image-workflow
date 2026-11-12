@@ -1,0 +1,59 @@
+{
+  "scope": "Current suite; actual root view receipts, not final customer acceptance",
+  "entries": [
+    {
+      "id": "K01",
+      "viewed_file": "generated/K01-v002.jpg",
+      "decision": "REWORK",
+      "finding": "Original background/shadow remnant below threads; fix alpha only, preserve RGB. Blue SKU style/labels otherwise readable."
+    },
+    {
+      "id": "K02",
+      "viewed_file": "generated/K02-v002.jpg",
+      "decision": "REWORK",
+      "finding": "Original background/shadow remnant below threads; fix alpha only, preserve RGB. Blue SKU style/labels otherwise readable."
+    },
+    {
+      "id": "K03",
+      "viewed_file": "generated/K03-v002.jpg",
+      "decision": "REWORK",
+      "finding": "Original background/shadow remnant below threads; fix alpha only, preserve RGB. Blue SKU style/labels otherwise readable."
+    },
+    {
+      "id": "M06",
+      "viewed_file": "generated/M06-v002.jpg",
+      "decision": "REWORK",
+      "finding": "Empty warm room occupied left2/3; place product as left hero, keep right small SKU."
+    },
+    {
+      "id": "D01",
+      "viewed_file": "generated/D01-v002.jpg",
+      "decision": "REWORK",
+      "finding": "Move bare thread onto stage and remove cutout remnant; copy and blue scene/detail strip valid."
+    },
+    {
+      "id": "M04",
+      "viewed_file": "generated/M04-v004.jpg",
+      "decision": "REWORK_COPY_ONLY",
+      "finding": "Remove production/mapping/disclaimer explanations from consumer image; retain honest source/mode decisions internally."
+    },
+    {
+      "id": "D04",
+      "viewed_file": "generated/D04-v004.jpg",
+      "decision": "REWORK_COPY_ONLY",
+      "finding": "Remove production/mapping/disclaimer explanations from consumer image; retain honest source/mode decisions internally."
+    },
+    {
+      "id": "D07",
+      "viewed_file": "generated/D07-v004.jpg",
+      "decision": "REWORK_COPY_ONLY",
+      "finding": "Remove production/mapping/disclaimer explanations from consumer image; retain honest source/mode decisions internally."
+    },
+    {
+      "id": "M05",
+      "viewed_file": "generated/M05-v004.jpg",
+      "decision": "PASS_CURRENT_CANDIDATE",
+      "finding": "Actual pressed-photo inset, giant blue-white face and clear manual-descaling copy; no model/extra performance claims."
+    }
+  ]
+}

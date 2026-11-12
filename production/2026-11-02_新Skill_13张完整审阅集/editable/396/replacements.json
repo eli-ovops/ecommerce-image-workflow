@@ -1,0 +1,22 @@
+[
+  {
+    "box": [
+      526,
+      628,
+      999,
+      1020
+    ],
+    "source": "actual connector crop",
+    "ellipse": false
+  },
+  {
+    "box": [
+      526,
+      1052,
+      999,
+      1499
+    ],
+    "source": "382 actual crop",
+    "ellipse": false
+  }
+]

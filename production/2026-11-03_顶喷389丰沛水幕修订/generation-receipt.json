@@ -1,0 +1,18 @@
+{
+  "prompt": "Generate an independent PHOTOREALISTIC SHOWER WATER LAYER on a fully transparent background. Use image1 ORIGINAL commerce reference and image2 USER water-style reference ONLY for WATER appearance: bright abundant dense continuous LONG thin liquid water columns, many sparkling tiny irregular droplets along them, substantial luminous rain curtain. Do not copy ANY product, no panel, no nozzle holes, no red button, no pipe, no text, no tile, no bathtub or other background. Nothing except transparent falling water.\nPortrait 3:4 layer. Water curtain fills central90% width and almost full height. Approximately90 closely spaced bright transparent continuous long streams across full curtain width, not just a few isolated trickles. Most strands remain visibly continuous for much of the descent, with shining tiny irregular droplets and small splashes on/inbetween them. Cool silver-white backlit commercial shower photography, bright strong volume like references, but retain individual fine columns and dark transparent gaps: NOT white fog, not opaque white rectangle, no pearl chains, no uniform vector lines or CGI wires. Natural tapering, some short breaks and varying thickness, coherent gravity fall, modest outward spread 8% toward bottom. Top upper edge uses irregular staggered stream starts in a shallow downward-pointing V silhouette (outer left/right begin at y2%, middle nearest edge begins around y15%); no solid bar or fabricated nozzle row. Streams above the bottom extend all the way to lower crop boundary; NO floor splash-pool, no horizon, no water source object, no cloud, no vessel. This is a physically plausible water-only compositing element, photographed against transparency. Keep it luminous and DENSE, do not reduce water amount.",
+  "inputs": [
+    {
+      "path": "references/2026-10-31_同款商户电商参考/微信图片_20261031133902_389_2.jpg",
+      "role": "Original merchant reference, water style only"
+    },
+    {
+      "path": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/codex-clipboard-e7687b8d-e206-4952-9448-2944ecb4d1cc.png",
+      "role": "User expressly supplied water style screenshot, not product pixel base"
+    }
+  ],
+  "output": "/Users/USER/.codex/generated_images/01a18bc9-5492-79e3-bfe3-678a64ea1c26/exec-9afef8f0-e913-4e49-ac65-07be1c651c43.png",
+  "transparent_background": true,
+  "ai_product_pixels": false,
+  "prior_finished_ad_used_as_edit_target": false,
+  "runtime_model": "UNKNOWN"
+}

@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-27",
+  "status": "红钮图去框及三处水渍清洁完成，待用户审阅",
+  "count": 4,
+  "new_count": 3,
+  "images": [
+    {
+      "title": "已认可主图",
+      "path": "银色花洒_暖白浴室主图.jpg",
+      "width": 1440,
+      "height": 1440,
+      "bytes": 877135,
+      "sha256": "66ed25f685db7bd1a9523a6a25c501ecb336dead7f957e4cc1ed362a55c2bea4",
+      "zip_member": "01_银色花洒_暖白浴室主图.jpg"
+    },
+    {
+      "title": "下方按键切档",
+      "path": "追加三图/A_下键切档.jpg",
+      "width": 1440,
+      "height": 1440,
+      "bytes": 707676,
+      "sha256": "3e349e25257d2a8f8fd806bd9fd0c2223b857b683f38252baf6a8cce8a1934b5",
+      "zip_member": "02_A_下键切档.jpg"
+    },
+    {
+      "title": "中央红钮细节",
+      "path": "追加三图/B清洁/B_红钮细节_清洁版.jpg",
+      "width": 1440,
+      "height": 1440,
+      "bytes": 902563,
+      "sha256": "9937a139de6780a133cc011c0e18e6aac1a9c0ced927302728d03125ffd31fe8",
+      "zip_member": "03_B_红钮细节_清洁版.jpg"
+    },
+    {
+      "title": "圆盘厚边",
+      "path": "追加三图/C_圆盘厚边.jpg",
+      "width": 1440,
+      "height": 1440,
+      "bytes": 793259,
+      "sha256": "84569113e08702560cbd0c44536856d3f449e4e6c8e30e92157cb17442f2b61c",
+      "zip_member": "04_C_圆盘厚边.jpg"
+    }
+  ],
+  "approved_image_unchanged": true,
+  "zip": {
+    "path": "圆形花洒_暖白实拍四图_水渍清洁_JPG.zip",
+    "bytes": 3281181,
+    "sha256": "09e1b26dc0cadb7d246c8b0cccd64e942c5925c05be7f70d7571233e5f517844",
+    "member_count": 4,
+    "crc": "PASS",
+    "member_hashes": "PASS"
+  },
+  "root_visual_review": [
+    "A/B/C最终JPG已实际打开",
+    "A下键mask截角已修",
+    "B三处水渍局部实拍纹理修补，root已看放大前后和最终JPG",
+    "B旧矩形微距窗被用户拒绝，改339大圆头近景，root已实开最终JPG",
+    "C343手部遮挡和C342窄条候选不交付",
+    "C345整头等比裁切，原反射保留"
+  ],
+  "limits": [
+    "A仅银面局部AI反射编辑；B/C商品取实拍",
+    "无水流或人物实验",
+    "C是斜正面头部厚边近景，不是完整侧背几何验收"
+  ],
+  "client_acceptance": "UNKNOWN"
+}

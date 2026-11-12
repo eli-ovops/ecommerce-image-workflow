@@ -1,0 +1,207 @@
+{
+  "date": "2026-10-22",
+  "skills": [
+    {
+      "skill": "copywriting",
+      "frontmatter_and_local_links": "PASS",
+      "license_preserved": true
+    },
+    {
+      "skill": "ecommerce-image-workflow",
+      "frontmatter_and_local_links": "PASS",
+      "license_preserved": true
+    },
+    {
+      "skill": "imagegen",
+      "frontmatter_and_local_links": "PASS",
+      "license_preserved": true
+    }
+  ],
+  "fixed_source_git_blob_integrity": "PASS",
+  "upstream_originals_preserved": "PASS",
+  "root_AGENTS_existing_content_preserved": "PASS",
+  "file_manifest": [
+    {
+      "path": ".agents/skills/README.md",
+      "bytes": 1424,
+      "sha256": "348515a04e094920879502e916b53d37a25190315c1aa5a012f0b9821504ac1e"
+    },
+    {
+      "path": ".agents/skills/copywriting/LICENSE",
+      "bytes": 1069,
+      "sha256": "b70d71e24e40fce5da8f4b6f9cd862096a048e433db7f3c8cac5e348e6d34591"
+    },
+    {
+      "path": ".agents/skills/copywriting/SKILL.md",
+      "bytes": 15520,
+      "sha256": "13c580c2432a4499e9dfdcf5d553df7aa6589e90cf5bd869fb4fbde5caf9f567"
+    },
+    {
+      "path": ".agents/skills/copywriting/evals/evals.json",
+      "bytes": 12995,
+      "sha256": "ccec86052a0edd8646d0e50e63c08e0e971f443d8f6e9178843a1629f79efdb0"
+    },
+    {
+      "path": ".agents/skills/copywriting/references/ai-tells.md",
+      "bytes": 20804,
+      "sha256": "b98c3a19b3a75c714d69e80a0076e4c07244b0e833c2ce81ff2631224fb7f7b2"
+    },
+    {
+      "path": ".agents/skills/copywriting/references/copy-frameworks.md",
+      "bytes": 14352,
+      "sha256": "352122944bf9e891ceb0e003adce41591d111e9d97057700626249919dfe430d"
+    },
+    {
+      "path": ".agents/skills/copywriting/references/natural-transitions.md",
+      "bytes": 5561,
+      "sha256": "9bd61b0de5be2c4de4ce130c68236b4f290b12737823827a458bb2b4c8584683"
+    },
+    {
+      "path": ".agents/skills/ecommerce-image-workflow/LICENSE",
+      "bytes": 11296,
+      "sha256": "9d95806a26532623360eb84bb17d298f394b55ef73fb4c0796d99b4319b2b0da"
+    },
+    {
+      "path": ".agents/skills/ecommerce-image-workflow/SKILL.md",
+      "bytes": 5195,
+      "sha256": "3ac8ef752782ec2a2da91e5309b47321e8afd5b4eca4096de71343982fcc9983"
+    },
+    {
+      "path": ".agents/skills/ecommerce-image-workflow/example.html",
+      "bytes": 12014,
+      "sha256": "26dc57295ee36a0fbd92ec2fcb378cf9790e926a432ec73bcb761b6cbd817844"
+    },
+    {
+      "path": ".agents/skills/ecommerce-image-workflow/references/checklist.md",
+      "bytes": 1202,
+      "sha256": "02e6730ba435c60b3aae4822ee0eb630fd5be72799d441638751c180d102313a"
+    },
+    {
+      "path": ".agents/skills/ecommerce-image-workflow/references/upstream-checklist.md",
+      "bytes": 3188,
+      "sha256": "ad5f12b17eaf9838381ba3e5cecfc9b31b6d576a63f5bb2d007531926421abb5"
+    },
+    {
+      "path": ".agents/skills/ecommerce-image-workflow/references/upstream-skill.md",
+      "bytes": 9685,
+      "sha256": "7b7d93ae062ee284ec2327ab21e246b1811cb17a8c29c7b37f49fcabcb5cbb5e"
+    },
+    {
+      "path": ".agents/skills/imagegen/LICENSE.txt",
+      "bytes": 10776,
+      "sha256": "4dd13869245e356246a5b770723247bbb80a8f07a181d1d3d873a1734297cdb9"
+    },
+    {
+      "path": ".agents/skills/imagegen/SKILL.md",
+      "bytes": 19201,
+      "sha256": "681ddb4ad6d06a2acc78a3535b583f8d0c1ea800ecda3d56370d3310fd2cd4ba"
+    },
+    {
+      "path": ".agents/skills/imagegen/agents/openai.yaml",
+      "bytes": 275,
+      "sha256": "9ca574af14580dc7a2a3dc37a1796d17f93cb8850be66501f0799ef8603e9dc0"
+    },
+    {
+      "path": ".agents/skills/imagegen/assets/imagegen-small.svg",
+      "bytes": 2889,
+      "sha256": "cff5f34f57ff60b3ee92eaedd17b15e96dd4b9e776df3e78936c9e00d42be294"
+    },
+    {
+      "path": ".agents/skills/imagegen/assets/imagegen.png",
+      "bytes": 1711,
+      "sha256": "95952f644064eb9e890f98d8db07216347186526e4c41ad66d3420629eb86e20"
+    },
+    {
+      "path": ".agents/skills/imagegen/references/cli.md",
+      "bytes": 9655,
+      "sha256": "ecfc2e09261a0feb3482517a5fa0ff410cb7d1958e3cbd2ac6b61586f5b81405"
+    },
+    {
+      "path": ".agents/skills/imagegen/references/codex-network.md",
+      "bytes": 1779,
+      "sha256": "c88298ca4481f6116a16fa7987434fc977f8b311c1bbc0c3d862ffd0c5981148"
+    },
+    {
+      "path": ".agents/skills/imagegen/references/image-api.md",
+      "bytes": 6072,
+      "sha256": "dc975d7af8a4888967251a0276014b4a71ea30455294944b762256373ce3e569"
+    },
+    {
+      "path": ".agents/skills/imagegen/references/prompting.md",
+      "bytes": 8282,
+      "sha256": "b210b051c775860267080941eba968212bf0ac7fce581d75c5dcc217d8293f8b"
+    },
+    {
+      "path": ".agents/skills/imagegen/references/sample-prompts.md",
+      "bytes": 17617,
+      "sha256": "70474177d151855b175c6133de2aae1d90b7f146b0dab50ec830972c47d72183"
+    },
+    {
+      "path": ".agents/skills/imagegen/scripts/image_gen.py",
+      "bytes": 34667,
+      "sha256": "b4345cf835e5b593b97df6bb2b70bda493b8a97eee4cabbc99b2fa57dba9b448"
+    },
+    {
+      "path": ".agents/skills/imagegen/scripts/remove_chroma_key.py",
+      "bytes": 13905,
+      "sha256": "a5893c4bd04b21abced33731ea89d2ac428e81d92a0368eb18ffbe4fda5253e2"
+    },
+    {
+      "path": "tools/skill-installation-20261022/sources/coreyhaines31--marketingskills/LICENSE",
+      "bytes": 1069,
+      "sha256": "b70d71e24e40fce5da8f4b6f9cd862096a048e433db7f3c8cac5e348e6d34591"
+    },
+    {
+      "path": "tools/skill-installation-20261022/sources/coreyhaines31--marketingskills/skills/copywriting/SKILL.md",
+      "bytes": 15520,
+      "sha256": "13c580c2432a4499e9dfdcf5d553df7aa6589e90cf5bd869fb4fbde5caf9f567"
+    },
+    {
+      "path": "tools/skill-installation-20261022/sources/coreyhaines31--marketingskills/skills/copywriting/evals/evals.json",
+      "bytes": 12995,
+      "sha256": "ccec86052a0edd8646d0e50e63c08e0e971f443d8f6e9178843a1629f79efdb0"
+    },
+    {
+      "path": "tools/skill-installation-20261022/sources/coreyhaines31--marketingskills/skills/copywriting/references/ai-tells.md",
+      "bytes": 20804,
+      "sha256": "b98c3a19b3a75c714d69e80a0076e4c07244b0e833c2ce81ff2631224fb7f7b2"
+    },
+    {
+      "path": "tools/skill-installation-20261022/sources/coreyhaines31--marketingskills/skills/copywriting/references/copy-frameworks.md",
+      "bytes": 14352,
+      "sha256": "352122944bf9e891ceb0e003adce41591d111e9d97057700626249919dfe430d"
+    },
+    {
+      "path": "tools/skill-installation-20261022/sources/coreyhaines31--marketingskills/skills/copywriting/references/natural-transitions.md",
+      "bytes": 5561,
+      "sha256": "9bd61b0de5be2c4de4ce130c68236b4f290b12737823827a458bb2b4c8584683"
+    },
+    {
+      "path": "tools/skill-installation-20261022/sources/nexu-io--open-design/LICENSE",
+      "bytes": 11296,
+      "sha256": "9d95806a26532623360eb84bb17d298f394b55ef73fb4c0796d99b4319b2b0da"
+    },
+    {
+      "path": "tools/skill-installation-20261022/sources/nexu-io--open-design/skills/ecommerce-image-workflow/SKILL.md",
+      "bytes": 9685,
+      "sha256": "7b7d93ae062ee284ec2327ab21e246b1811cb17a8c29c7b37f49fcabcb5cbb5e"
+    },
+    {
+      "path": "tools/skill-installation-20261022/sources/nexu-io--open-design/skills/ecommerce-image-workflow/example.html",
+      "bytes": 12014,
+      "sha256": "26dc57295ee36a0fbd92ec2fcb378cf9790e926a432ec73bcb761b6cbd817844"
+    },
+    {
+      "path": "tools/skill-installation-20261022/sources/nexu-io--open-design/skills/ecommerce-image-workflow/references/checklist.md",
+      "bytes": 3188,
+      "sha256": "ad5f12b17eaf9838381ba3e5cecfc9b31b6d576a63f5bb2d007531926421abb5"
+    }
+  ],
+  "installation_method": "preinstalled skill-installer validation and copy helpers",
+  "image_generation": "NOT_RUN",
+  "client_automatic_discovery": "NOT_RUN",
+  "paid_API_or_credentials": "NOT_USED",
+  "actual_model_effort": "UNKNOWN",
+  "temporary_files": [],
+  "retained_sources": "Pinned-source/license files retained for provenance and future updates; not disposable temp files"
+}

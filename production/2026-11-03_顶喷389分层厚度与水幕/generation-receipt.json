@@ -1,0 +1,10 @@
+{
+  "prompt": "Generate ONLY an empty cool blue luxury bathroom environment with a natural falling water curtain, square1:1, commercial product photography background plate. Reference image is ONLY spatial/color guide. Absolutely remove ALL products, showerheads, hand showers, red buttons, text, logos, title labels and information bands. They will be added as separate accurate native layers later. Clean pale blue silver tiled wall, white bathtub lower right, soft window light, subtle dark marble pedestal at bottom left.\nComposition: upper left from x0 to65%, y0 to35% is empty blue wall, reserved for a separately rendered showerhead. Right half mostly clear pale blue for large black text. A realistic transparent shower rain curtain occupies x8%-57%, y35%-84%, descending from an invisible source above; no hardware visible anywhere. Fine translucent unbroken water filaments at the very top transition quickly into irregular natural tiny splashes and varied microdroplets, plenty of dark/clear gaps; beautiful photographic backlighting. Water streams not uniform parallel white wires, no pearl bead chains, no giant globules, no fogwall. Natural everyday shower water texture, not extreme pressure, natural motion-blur microstructure. No individual holes/nozzles because there is NO showerhead in this plate. Keep the curtain strongest on left-center, unobstructed bathtub visible on right. No showerhead or product appears anywhere, not even cropped. Blank bottom blue floor. No writing of any kind.",
+  "inputs": [
+    "references/2026-10-31_同款商户电商参考/微信图片_20261031133902_389_2.jpg"
+  ],
+  "output": "/Users/USER/.codex/generated_images/01a18bc9-5492-79e3-bfe3-678a64ea1c26/exec-9b7f28c8-c4d2-4c52-8484-d39228e35324.png",
+  "purpose": "Independent bathroom background and distal natural water only; no AI product pixels used",
+  "prior_ai_finished_inputs": false,
+  "runtime_model": "UNKNOWN"
+}

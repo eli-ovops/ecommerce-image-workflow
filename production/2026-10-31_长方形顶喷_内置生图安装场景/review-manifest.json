@@ -1,0 +1,71 @@
+{
+  "method": "built-in image_gen, photo-guided generated subject and illustrative water",
+  "calls": 1,
+  "inputs": [
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/products/长方形拉钮顶喷/原始实拍20261030/微信图片_20261030154107_372_2.jpg",
+      "bytes": 8365635,
+      "sha256": "c1f3664cc110b85d819bf6609f54b6f10b2943127dad85c3833c1f125443d017"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/products/长方形拉钮顶喷/原始实拍20261030/微信图片_20261030154107_374_2.jpg",
+      "bytes": 5366586,
+      "sha256": "9116ea9c59350fe964bc42156a5f0f9912bea56cab4e9260ded8707869d36371"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/products/长方形拉钮顶喷/接头补充实拍20261030/codex-clipboard-6fa807ac-653c-44f8-a3cc-2941c017e31e.jpg",
+      "bytes": 6416734,
+      "sha256": "dd03b48761950856e2a363ba726bdfc682683abad6d703bca461f190f17bc9f1"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-31_同款商户电商参考/微信图片_20261031133902_388_2.jpg",
+      "bytes": 1074620,
+      "sha256": "151dc464c5f42ac07a9aa7c2f8eada93634fa51f6e6eb0dc8b50aa05521618a5"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-31_同款商户电商参考/微信图片_20261031133902_398_2.jpg",
+      "bytes": 231189,
+      "sha256": "aae8967c45f4fb6d2a308da8c9efad41dd0a06fbe6db924bb39f029f2f05909f"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-31_长方形顶喷_内置生图安装场景/candidate-v1.png",
+      "bytes": 2750531,
+      "sha256": "91de68eeb8ec2fe130832ac27967fad74395fcb6bc09521265985b8dcc88c383"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-31_长方形顶喷_内置生图安装场景/银色顶喷_安装出水_无字广告候选.jpg",
+      "bytes": 999519,
+      "sha256": "964c677a1ad14f62ff93599d764b6498f3aebbe6613c3546a64285b3ee102b59"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-31_长方形顶喷_内置生图安装场景/prompt.txt",
+      "bytes": 4368,
+      "sha256": "b057ae71343d413566507e7878efca318d32d8da2915ee16daf834244c9e06b9"
+    }
+  ],
+  "selected": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-31_长方形顶喷_内置生图安装场景/银色顶喷_安装出水_无字广告候选.jpg",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "review": {
+    "viewed": "372/374 real photos, uncapped rear photo, 388 and398 merchant originals, complete generated image",
+    "observed": "single overhead horizontal silver panel; entire outline visible; central red disk; visible chrome riser, bent arm and center rear fitting; dark/gold bathroom; no words or inset; downward illuminated streams",
+    "not_verified": [
+      "exact hole count and one-to-one hole mapping",
+      "each stream origin aligned to an actual real hole",
+      "precise dimensional projection",
+      "actual fit to shown pipe or hydraulic performance"
+    ],
+    "scope": "scene/style candidate only; water and installed pipe relationship AI illustrative",
+    "user_acceptance": "REJECTED"
+  },
+  "preservation": "all originals and prior candidates kept; no model modifications or deletions",
+  "latest_user_feedback": {
+    "status": "REJECTED",
+    "quote": "不行。你直接大道从简。完全参照对方同行的，做一个属于我们的电商宣传图给我。我看看",
+    "next_batch": "../2026-10-31_同行13张逐张对应_银色无字/"
+  }
+}

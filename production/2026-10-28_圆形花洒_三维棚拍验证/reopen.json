@@ -1,0 +1,15 @@
+{
+  "reopen_success": true,
+  "lights": [
+    "Large left softbox",
+    "Right strip reflection",
+    "Top fill"
+  ],
+  "camera_ortho": true,
+  "ai_pixels": false,
+  "blender": "5.2.2 LTS",
+  "product_meshes": 10,
+  "dimensions_not_measurements": true,
+  "same_camera_clay": "same-camera-clay.png",
+  "front_view": "front-clay.png"
+}

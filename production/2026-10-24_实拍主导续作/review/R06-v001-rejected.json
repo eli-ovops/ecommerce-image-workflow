@@ -1,0 +1,10 @@
+{
+  "candidate": "production/2026-10-24_实拍主导续作/generated/R06-v001-native.png",
+  "status": "REJECTED",
+  "reviewer": "root and visual owner",
+  "reasons": [
+    "Front nozzle rings near (302,218), (289,424), (425,331) visibly deformed/trailed.",
+    "Side view has a pointed transition above selector; violates continuous photo-supported neck."
+  ],
+  "next_action": "One fresh two-view front/rear baseline from actual own-SKU photos; no bad candidate used as product reference."
+}

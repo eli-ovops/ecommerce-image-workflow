@@ -1,0 +1,21 @@
+{
+  "black_noise_scale_per_m": 1800,
+  "black_bump_strength": 0.4,
+  "black_bump_distance_m": 0.0001,
+  "black_roughness_range": [
+    0.43,
+    0.59
+  ],
+  "silver_roughness": 0.165,
+  "reflection_card_size": [
+    0.4950000047683716,
+    0.5130000114440918,
+    1.0
+  ],
+  "strip_width_m": 0.095,
+  "exposure_unchanged": 0.0,
+  "samples": 160,
+  "actual_model": "UNKNOWN",
+  "requested_model": "gpt-6-astra",
+  "requested_effort": "medium"
+}

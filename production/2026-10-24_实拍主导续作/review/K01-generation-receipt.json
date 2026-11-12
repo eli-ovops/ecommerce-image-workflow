@@ -1,0 +1,84 @@
+{
+  "tool": "builtin_image_gen",
+  "native_sha256": "691e984d789f44a83687f542daaa837efec50565d0de8f4f5d91d037c5b1b3d5",
+  "prompt_sha256": "d9dfe87aa059311d1629d14c1cfa3b9149a0d3433ce06fb32de878fa510037b8",
+  "appearance_source_sha256": [
+    "04dcc913bfeafb9232a63686cb9cf4c5b47db3ea88275f25fdab30cdcabb6f2f",
+    "69bc47dfe914b578f1e7d4d8aa8fb6a5ca3c6180108401a380e282ddc331a32b",
+    "736f95fa8951eeaaabb2de81cbd1530f9111843a47952f539eceae225e34f87a"
+  ],
+  "actual_call": {
+    "id": "K01",
+    "version": "v001",
+    "status": "candidate_for_independent_review",
+    "actual_call": {
+      "prompt": "Use case: product-mockup. Create one square premium real studio product PHOTOGRAPH for a single showerhead SKU, NO TEXT. Image1 is actual SKU front, images2 and3 actual opposite sides. These real photographs are the only authority for color, finish, controls, nozzle layout and shape. Image4 is an untextured clay side reference ONLY for broad continuous curvature, never its gray material or missing details. Image5 is a DIFFERENT product, STYLE ONLY for tidy near-front 3/4 catalog presentation; do not copy its product, six modes, transparent tube, filter, text or dimensions.\nReproduce the photographed actual product: round head with a definite cylindrical thickness rim and shallow curved back flowing continuously through a broad long upper-neck into the gentler lower handle. No abrupt shoulder, no straight stick glued to disc, no exaggerated gooseneck. Actual head diameter to handle length ratio. Black textured teardrop face panel with the actual dense off-white discrete circular nozzle rings and small dark center openings; retain actual spacing pattern, no smeared/fused/doubled rings. Concentric dense DARK tiny perimeter holes. Original small RED central control is a low wide flange with a smaller raised boss and dark center opening, NOT an oversized torus and no extra black pedestal. Separate lower rounded-rectangle BLACK selector exactly like this SKU's photographs. Entire actual body and short BLACK bare thread visible, no hose, connector extension, bracket, filter tube, hands, people or water. No brand/logo/icons/dimensions/material claims/certificates/text.\nComposition: single complete product upright with long axis vertical, near-front 3/4 with about15-degree yaw so the RIGHT cylindrical side edge is visible. Keep complete top and thread in view, product about76% of square frame height, centered at x60% with generous whitespace to upper-left and around edges. Minimal PURE WHITE to very pale neutral-gray seamless background, subtle contact shadow below short threaded end. Soft broad studio light, believable photographic textures and tonal falloff, crisp controls and ring centers. No artificial CG appearance. Actual BLACK SKU: very deep neutral BLACK semi-matte/satin shell and handle with broad gentle gray highlights. Black lower selector and black short thread. Do not turn into gunmetal gray or silver. Preserve real satin reflectance from images1–3; polished light edges only where real.",
+      "referenced_image_paths": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185739_102_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185740_103_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185803_105_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v010a/renders/strict_side.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/sku/主图_07.jpg"
+      ],
+      "transparent_background": false
+    },
+    "prompt_file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导续作/prompts/K01-request.json",
+    "references": [
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185739_102_2.jpg",
+        "sha256": "04dcc913bfeafb9232a63686cb9cf4c5b47db3ea88275f25fdab30cdcabb6f2f",
+        "id": "BLK002",
+        "role": "actual own-SKU appearance authority",
+        "actually_viewed": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185740_103_2.jpg",
+        "sha256": "69bc47dfe914b578f1e7d4d8aa8fb6a5ca3c6180108401a380e282ddc331a32b",
+        "id": "BLK003",
+        "role": "actual own-SKU appearance authority",
+        "actually_viewed": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185803_105_2.jpg",
+        "sha256": "736f95fa8951eeaaabb2de81cbd1530f9111843a47952f539eceae225e34f87a",
+        "id": "BLK005",
+        "role": "actual own-SKU appearance authority",
+        "actually_viewed": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v010a/renders/strict_side.jpg",
+        "sha256": "87b0d943d94882adf26b46b88b1a52d0012f9780aedac3d6c571d7fcff1b4eeb",
+        "id": "v010a_side",
+        "role": "auxiliary curvature only",
+        "actually_viewed": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/sku/主图_07.jpg",
+        "sha256": "a03b30dfc08c4fa3509a3f20dc7e2d934b4d741dcff0fc41d03c0f1fbfb9de7a",
+        "id": "A003",
+        "role": "style only; source product/claims excluded",
+        "actually_viewed": true
+      }
+    ],
+    "actual_tool_output_path": "/Users/USER/.codex/generated_images/01a16d07-b34d-7ff3-afe5-dfc839dd6cb1/exec-6e3a12da-e8b3-4b0c-8cfa-f6cf490f2f9b.png",
+    "native_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导续作/generated/K01-v001-native.png",
+    "native_sha256": "691e984d789f44a83687f542daaa837efec50565d0de8f4f5d91d037c5b1b3d5",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "output_actually_viewed": true,
+    "saved_at": "2026-10-24T21:29:37.441770+08:00",
+    "additional_viewed_not_passed": [
+      {
+        "id": "BLK001",
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/黑色/原图/微信图片_20261022185739_101_2.jpg",
+        "sha256": "6e8b9ac3ed7b70024346ca3a51fbdfa2ea8b5de4fa56b0b3b96a3171b4090a23",
+        "actually_viewed": true
+      }
+    ],
+    "self_review": "Black satin shell, black lower selector and bare thread; red control/white rings readable; full item. Occupancy about94% vs requested76%; root82% full canvas equal scaling planned.",
+    "suggested_typesetting_area": "Root82% isotropic full-canvas placement, upper-left color title"
+  },
+  "hard_shape_lock": false
+}

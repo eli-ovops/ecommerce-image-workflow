@@ -1,0 +1,371 @@
+{
+  "batch": "2026-10-24 photo-led 3 silver no-person main images",
+  "owner": "blender_product_model",
+  "mode": "built-in image_gen only",
+  "reference_read_receipt": "production/2026-10-22_参考重构/reference-map.md:31-37 reused, current batch rule supersedes old reread-all wording",
+  "routing": {
+    "target_model": "gpt-6-astra",
+    "target_effort": "high",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN",
+    "speed": "UNKNOWN"
+  },
+  "limits": {
+    "baseline_calls": 3,
+    "extra_targeted_revision_max": 2,
+    "exact_pixel_preservation": false,
+    "seed_controlnet_depth_hard_control": false,
+    "total_effective_generation_cap": 5,
+    "extension_basis": "Root explicitly authorized one new ROI-only call after whole-frame targeted edit failed; no further calls"
+  },
+  "images": [
+    {
+      "id": "R01",
+      "status": "generated_pending_root_review",
+      "prompt_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导主图/prompts/R01.txt",
+      "references": [
+        "SIL001",
+        "SIL002",
+        "SIL003",
+        "SIL004",
+        "SIL005",
+        "v010a_side",
+        "A038"
+      ],
+      "scope": "white studio full product, real appearance primary, clay side secondary",
+      "references_passed": [
+        "SIL001",
+        "SIL003",
+        "SIL004",
+        "v010a_side",
+        "A038"
+      ],
+      "additional_viewed": [
+        "SIL002",
+        "SIL005"
+      ],
+      "tool_validation_note": "First request rejected before generation: referenced_image_paths at most5. Reissued with three actual photos, clay side and style; no generated output from rejected request.",
+      "actual_generation_call_count": 1,
+      "tool_output_path": "/Users/USER/.codex/generated_images/01a16d07-b34d-7ff3-afe5-dfc839dd6cb1/exec-cc908f7a-6f76-4c30-b5ff-0f1584bed455.png",
+      "saved_native": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导主图/generated/R01-v001-native.png",
+      "sha256": "5bbd06f22dc44c16a38b1a018978b121155a51cf7f20a2fc2c2da4d885da7fd2",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "actual_viewed_output": true,
+      "self_review": {
+        "appearance": "Bright mirror silver, original low red flange/boss and lower silver button more faithful than CG route; full item and cylinder side visible",
+        "issues": [
+          "Several lower-left central white nozzle rings visibly smear or merge",
+          "Product occupies roughly93% frame height rather than requested75%; complete but little top/bottom margin"
+        ],
+        "claim_limit": "No exact hole-count or pixel-locked preservation claim; generated reconstruction"
+      }
+    }
+  ],
+  "calls": [
+    {
+      "id": "R01",
+      "kind": "baseline_generation",
+      "request_file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导主图/prompts/tool-requests.json",
+      "request_key": "R01",
+      "actual_referenced_image_paths": [
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+          "sha256": "6de02f19793c568c799762525475cd0241af1b9c41487580383be4efbd2a1fa2",
+          "role": "actual appearance SIL001"
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184345_91_2.jpg",
+          "sha256": "8d41d23e8e762b1e9208796587c36db70ea8e452ee2e3fdd3604f97c7f40dd60",
+          "role": "actual side SIL003"
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg",
+          "sha256": "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90",
+          "role": "actual opposite side SIL004"
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v010a/renders/strict_side.jpg",
+          "sha256": "87b0d943d94882adf26b46b88b1a52d0012f9780aedac3d6c571d7fcff1b4eeb",
+          "role": "auxiliary curvature v010a only"
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/主图/主图_05.jpg",
+          "sha256": "32584bc1f2be07bc6e076cbbe6c24c70b11d949244e035918567de9977591ab4",
+          "role": "style A038 only"
+        }
+      ],
+      "additional_actually_viewed_not_passed": [
+        "SIL002",
+        "SIL005"
+      ],
+      "tool_output_path": "/Users/USER/.codex/generated_images/01a16d07-b34d-7ff3-afe5-dfc839dd6cb1/exec-cc908f7a-6f76-4c30-b5ff-0f1584bed455.png",
+      "saved_native": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导主图/generated/R01-v001-native.png",
+      "native_sha256": "5bbd06f22dc44c16a38b1a018978b121155a51cf7f20a2fc2c2da4d885da7fd2",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "output_actually_viewed": true,
+      "transparent_background": false
+    },
+    {
+      "id": "R01_fix",
+      "kind": "targeted_edit",
+      "request_file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导主图/prompts/tool-requests.json",
+      "request_key": "R01_fix",
+      "actual_referenced_image_paths": [
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导主图/generated/R01-v001-native.png",
+          "sha256": "5bbd06f22dc44c16a38b1a018978b121155a51cf7f20a2fc2c2da4d885da7fd2",
+          "role": "edit target R01-v001"
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+          "sha256": "6de02f19793c568c799762525475cd0241af1b9c41487580383be4efbd2a1fa2",
+          "role": "actual appearance SIL001"
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184345_91_2.jpg",
+          "sha256": "8d41d23e8e762b1e9208796587c36db70ea8e452ee2e3fdd3604f97c7f40dd60",
+          "role": "actual side SIL003"
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg",
+          "sha256": "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90",
+          "role": "actual opposite side SIL004"
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v010a/renders/strict_side.jpg",
+          "sha256": "87b0d943d94882adf26b46b88b1a52d0012f9780aedac3d6c571d7fcff1b4eeb",
+          "role": "auxiliary curvature v010a only"
+        }
+      ],
+      "additional_actually_viewed_not_passed": [
+        "SIL002",
+        "SIL005",
+        "A038"
+      ],
+      "tool_output_path": "/Users/USER/.codex/generated_images/01a16d07-b34d-7ff3-afe5-dfc839dd6cb1/exec-bb1a0aa0-95d2-43ef-8786-35739ce6c01b.png",
+      "saved_native": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导主图/generated/R01-v002-native.png",
+      "native_sha256": "6348a81ecd252344d8cd10d1a81edea6f3f9a859b2c48293abddc7d226180eba",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "output_actually_viewed": true,
+      "transparent_background": false
+    },
+    {
+      "id": "R02",
+      "kind": "baseline_generation",
+      "request_file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导主图/prompts/tool-requests.json",
+      "request_key": "R02",
+      "actual_referenced_image_paths": [
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+          "sha256": "6de02f19793c568c799762525475cd0241af1b9c41487580383be4efbd2a1fa2",
+          "role": "actual appearance SIL001"
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184345_91_2.jpg",
+          "sha256": "8d41d23e8e762b1e9208796587c36db70ea8e452ee2e3fdd3604f97c7f40dd60",
+          "role": "actual side SIL003"
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg",
+          "sha256": "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90",
+          "role": "actual opposite side SIL004"
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v010a/renders/strict_side.jpg",
+          "sha256": "87b0d943d94882adf26b46b88b1a52d0012f9780aedac3d6c571d7fcff1b4eeb",
+          "role": "auxiliary curvature v010a only"
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/01_微信参考原图/R033_规格_产品尺寸.jpg",
+          "sha256": "0478b46a264f72ada3665285c6119fb5bb5a8348239ddabd924c565395402cac",
+          "role": "style R033 only"
+        }
+      ],
+      "additional_actually_viewed_not_passed": [
+        "SIL002",
+        "SIL005",
+        "R001"
+      ],
+      "tool_output_path": "/Users/USER/.codex/generated_images/01a16d07-b34d-7ff3-afe5-dfc839dd6cb1/exec-7f68791f-06c9-41be-995e-69f5e0e69f3c.png",
+      "saved_native": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导主图/generated/R02-v001-native.png",
+      "native_sha256": "1ccbfd9a65bf214ef2f3a5ff65686147c9bc512bf0db6dcb3b7cd7a844adfc75",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "output_actually_viewed": true,
+      "transparent_background": false
+    },
+    {
+      "id": "R03",
+      "kind": "baseline_generation",
+      "request_file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导主图/prompts/tool-requests.json",
+      "request_key": "R03",
+      "actual_referenced_image_paths": [
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+          "sha256": "6de02f19793c568c799762525475cd0241af1b9c41487580383be4efbd2a1fa2",
+          "role": "actual appearance SIL001"
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+          "sha256": "0b388756f0ee2e35630dac7789237153d390fa8aaab8f58f6e2643d4181be21d",
+          "role": "actual face/control closeup SIL005"
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg",
+          "sha256": "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90",
+          "role": "actual side SIL004"
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v010a/renders/strict_side.jpg",
+          "sha256": "87b0d943d94882adf26b46b88b1a52d0012f9780aedac3d6c571d7fcff1b4eeb",
+          "role": "auxiliary curvature v010a only"
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_09.jpg",
+          "sha256": "fe989b00dab0d409b52650d1b36bb5eb436db23e6a336fd5b7ca1670dbe70217",
+          "role": "style A014 only"
+        }
+      ],
+      "additional_actually_viewed_not_passed": [
+        "SIL002",
+        "SIL003",
+        "R025 (title strip inspected; not selected)"
+      ],
+      "tool_output_path": "/Users/USER/.codex/generated_images/01a16d07-b34d-7ff3-afe5-dfc839dd6cb1/exec-45d891cc-f349-4834-8970-b6c2f3fd6689.png",
+      "saved_native": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导主图/generated/R03-v001-native.png",
+      "native_sha256": "d9d55e31035604b0b9fa53ad4031acbea398ba3e47f77fc1db0cfd70044d01de",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "output_actually_viewed": true,
+      "transparent_background": false
+    },
+    {
+      "id": "R01_roi",
+      "kind": "ROI_only_edit_then_deterministic_mask_composite",
+      "request_file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导主图/prompts/R01-roi-fix.json",
+      "actual_referenced_image_paths": [
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导主图/generated/R01-roi-edit-input.png",
+          "sha256": "19f714c2187bdd22e73a7fd589f09357f5ea2d1d0e78fb801b5b64bb6b1e646e",
+          "role": "edit target magnified ROI from R01-v002"
+        },
+        {
+          "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+          "sha256": "0b388756f0ee2e35630dac7789237153d390fa8aaab8f58f6e2643d4181be21d",
+          "role": "actual nozzle appearance SIL005"
+        }
+      ],
+      "additional_actually_viewed_not_passed": [
+        "R01-v002 full image",
+        "SIL001",
+        "SIL003",
+        "SIL004",
+        "v010a_side"
+      ],
+      "tool_output_path": "/Users/USER/.codex/generated_images/01a16d07-b34d-7ff3-afe5-dfc839dd6cb1/exec-40288822-4e36-4b05-9cdd-1227535bd70b.png",
+      "saved_native": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导主图/generated/R01-roi-tool-native.png",
+      "native_sha256": "130aa9482d8ed22d4a18ec03f35d3cfc61496b03923aeac2d7b0836b98d2da98",
+      "actual_dimensions": [
+        1254,
+        1254
+      ],
+      "output_actually_viewed": true,
+      "composite_evidence": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导主图/generated/R01-roi-evidence.json",
+      "not_fullframe_native": true
+    }
+  ],
+  "selected_versions": {
+    "R01": "R01-v003-composite",
+    "R02": "R02-v002-composite",
+    "R03": "R03-v001"
+  },
+  "completed_generation_calls": 5,
+  "baseline_calls_used": 3,
+  "extra_targeted_revision_used": 2,
+  "inflight_generation_calls": 0,
+  "status": "frozen_candidates_for_root_review",
+  "updated_at": "2026-10-24T21:12:26.626518+08:00",
+  "self_review": {
+    "R01": {
+      "status": "READY_FOR_ROOT_VISUAL_REVIEW_NOT_CUSTOMER_ACCEPTED",
+      "selected": "R01-v003-composite",
+      "method": "AI-generated small patch resized and projected only through two local masks, not native fullframe",
+      "local_visual_result": "Two defective nozzle rings now separately readable, each one white ring with dark center; original ghosts removed",
+      "outside_mask_changed_pixels": 0,
+      "appearance": "Original v002 body/control/silver pixels unchanged outside mask; no whole-model or pixel-correspondence guarantee beyond this deterministic composition"
+    },
+    "R02": {
+      "status": "READY_FOR_ROOT_VISUAL_REVIEW_NOT_CUSTOMER_ACCEPTED",
+      "style": "R033 warm brown-gold rocky light and R001 diagonal arrangement preserved; fewer stage elements, single silver product; no borrowed text/claims",
+      "appearance": "Full single silver product, central red flange and lower silver button readable; warm reflected light does not turn entire shell gold",
+      "residual": "Target triangular smear removed; single separate white ring/dark center now readable. Highly enlarged crop shows slight local dark-panel tone difference from reused patch; native full view not conspicuous. No further changes.",
+      "framing": "Full item incl silver thread; open upper-left area; no hands/water/accessories"
+    },
+    "R03": {
+      "status": "READY_FOR_ROOT_VISUAL_REVIEW_NOT_CUSTOMER_ACCEPTED",
+      "style": "A014 cool pale-blue vertical ribs, large near-front detail, upper-left negative space; real black face replaces reference white product",
+      "appearance": "Whole head and lower silver selector visible; red original flange/boss distinct, no extra large black pedestal; mirror silver rim; discrete white rings read cleanly at full view",
+      "limits": "No exact hole-count or pixel-locked correspondence claim. Lower handle intentionally cropped for detail."
+    }
+  },
+  "prohibited_claims": [
+    "not exact-pixel preservation",
+    "not ControlNet/Depth/Seed hard control",
+    "not industrial geometry validation",
+    "not customer acceptance",
+    "not water or human skin validation"
+  ],
+  "deterministic_reuse_R02": {
+    "operation": "Reuse actual image_gen ROI patch; deterministic crop/uniform-scale/masked-composite; zero new generation calls",
+    "source_original": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导主图/generated/R02-v001-native.png",
+    "source_original_sha256": "1ccbfd9a65bf214ef2f3a5ff65686147c9bc512bf0db6dcb3b7cd7a844adfc75",
+    "patch_tool_native": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导主图/generated/R01-roi-tool-native.png",
+    "patch_tool_native_sha256": "130aa9482d8ed22d4a18ec03f35d3cfc61496b03923aeac2d7b0836b98d2da98",
+    "patch_crop_rectangle_xyxy_exclusive": [
+      380,
+      480,
+      640,
+      740
+    ],
+    "patch_crop": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导主图/generated/R02-reused-patch-source-crop.png",
+    "resample": "260x260 to20x20 uniform Lanczos, no rotation",
+    "paste_rectangle_xyxy_exclusive": [
+      651,
+      462,
+      671,
+      482
+    ],
+    "observed_defect_dark_center_approx": [
+      660.5,
+      471.8
+    ],
+    "projected_patch_dark_center_approx": [
+      661.1,
+      472.1
+    ],
+    "center_limit": "subpixel visual estimates, center preserved to under1px, no intentional relocation",
+    "mask": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导主图/generated/R02-reuse-mask.png",
+    "mask_sha256": "74f4199eff5bade544ecf5499b20a63a842ba40c86f49a91db6fc40c73583569",
+    "mask_method": "ellipse center659.0,472.7 radii9.7,9.3; alpha full through normalized radius0.94, linear feather to0 at1.0",
+    "mask_nonzero_pixels": 282,
+    "outside_mask_pixels": 1572234,
+    "outside_mask_changed_pixels": 0,
+    "outside_mask_max_channel_delta": 0,
+    "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导主图/generated/R02-v002-composite.png",
+    "output_sha256": "36c2832997bf86ac537e9a7cee1744a63272ea7ca3d6fe33d3851d3cc877636c",
+    "readback": "PNG reopened for actual pixel comparison; JPEG not covered by zero-change guarantee"
+  }
+}

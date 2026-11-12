@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-31",
+  "scope": "只修一张安装场景",
+  "actual_viewed": ["墙出臂安装.jpg：完整1600×1600", "接头连接局部放大.jpg：成图裁切放大", "手机宽度审阅.jpg：360px", "原照：沿用本会话已实看的374、376及两张去盖接头近照", "国内场景参考记录.md全文"],
+  "product_review": {
+    "mesh_and_material_identity": "PASS，九个商品部件与输入一致；原五网格与v3一致",
+    "dimensions": "PASS，壳体本地300×200×20mm；依据用户确认，不是新实测",
+    "state": "完整喷面、静态红钮及侧壁保留，没有水流、短针或拉出动作",
+    "limits": "喷面透视压缩，不能按画面像素核尺寸；本轮未新增逐孔或槽深确认"
+  },
+  "scene_review": {
+    "connection": "墙面固定盘、连续弯管和接头外缘可见，成图局部未见悬空断缝；接头内口与工程配合未展示/验证",
+    "bathroom": "保留墙面、壁龛与低调无品牌洗浴瓶；没有以文字声称附件随货",
+    "mobile": "完整供水路径和商品可辨；孔纹与接头细节需看原尺寸",
+    "remaining": ["为露出接头外缘，喷面视角较浅，孔纹可读性弱于正面图", "镜面和浴室道具仍有CG感", "花洒臂、倾角与安装高度为场景设定，真实螺纹/适配UNKNOWN", "淘宝拼多多完整详情未成功查看，不能称已完成两平台详情调研"]
+  },
+  "technical_checks": {"reopen_geometry_material_transforms": "PASS", "axis_alignment": "PASS", "physical_fit": "NOT_RUN", "photoreal_acceptance": "NOT_PASS", "customer_acceptance": "UNKNOWN"},
+  "preservation": "旧图片、预览、原始模型及实拍保留；未扩整套，未发布，未付费"
+}

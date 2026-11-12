@@ -1,0 +1,36 @@
+{
+  "status": "STRUCTURE_IMPROVED_REALISM_NOT_ACCEPTED",
+  "root_opened": [
+    "structure-gray.png",
+    "structure-gray-v2.png",
+    "structure-gray-v3.png",
+    "structure-gray-v6.png",
+    "structure-gray-v7.png",
+    "side-gray.png",
+    "圆形花洒_截面重建_棚拍验证.jpg",
+    "正面实拍对照.jpg",
+    "侧面实拍对照.jpg"
+  ],
+  "observations": [
+    "Previous large ring occlusion, chrome leakage and sidewall steps are absent in final selected studio image",
+    "Front underside transverse seam removed after grid rebuild",
+    "Black panel remains too uniform; chrome neck highlights have pointed transitions",
+    "Side gray retains fine section traces; no precision geometry acceptance"
+  ],
+  "zip": {
+    "file": "截面重建_模型与验证源.zip",
+    "members": 30,
+    "bytes": 49440097,
+    "crc_error": null,
+    "local_member_hash_mismatches": [],
+    "sha256": "419ccaa2b9c87558e5eb84bd9b955dbbfbf36de7b2b123a3023397da08a121f4"
+  },
+  "limited_sampling": "144 white annuli x4 points and 300 peripheral centers, selected final camera only; not exhaustive global intersection test",
+  "disk": {
+    "task_directory": "130 MiB allocated as reported by du",
+    "volume_available": "1.6 TiB",
+    "volume_capacity_used": "17%",
+    "cleanup": "No deletion: sources and iterations retained for recovery/evidence"
+  },
+  "customer_acceptance": "UNKNOWN"
+}

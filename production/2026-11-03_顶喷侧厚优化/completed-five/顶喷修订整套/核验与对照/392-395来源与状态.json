@@ -1,0 +1,48 @@
+[
+  {
+    "id": 392,
+    "product_source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-03_顶喷侧厚优化/lighting-refine/native/product.png",
+    "product_state": "reset, no added red pins",
+    "angle_ccw": -28,
+    "scale": 0.5996131528046421,
+    "xy": [
+      150,
+      290
+    ],
+    "pin_source": "/Volumes/EXTERNAL/电商 作图工作流/products/长方形拉钮顶喷/原始实拍20261030/微信图片_20261030154107_382_2.jpg",
+    "pin_crop_original_pixels": [
+      2171,
+      1714,
+      3713,
+      3127
+    ],
+    "labels": [
+      "复位外观",
+      "提拉后短针实拍"
+    ],
+    "reference": "Original commercial392: blackgold diagonal large product and circular inset; unsupported claims and exaggerated pins excluded"
+  },
+  {
+    "id": 395,
+    "product_source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-03_顶喷侧厚优化/lighting-refine/native/product.png",
+    "product_state": "reset, no added red pins",
+    "angle_ccw": -17,
+    "scale": 0.6976744186046512,
+    "xy": [
+      30,
+      450
+    ],
+    "pin_source": "/Volumes/EXTERNAL/电商 作图工作流/products/长方形拉钮顶喷/原始实拍20261030/微信图片_20261030154107_382_2.jpg",
+    "pin_crop_original_pixels": [
+      2171,
+      1714,
+      3713,
+      3127
+    ],
+    "labels": [
+      "复位外观",
+      "提拉后短针实拍"
+    ],
+    "reference": "Original commercial395: blackgold diagonal large product and circular inset; unsupported claims and exaggerated pins excluded"
+  }
+]

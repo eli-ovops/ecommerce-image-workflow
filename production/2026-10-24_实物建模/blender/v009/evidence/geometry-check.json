@@ -1,0 +1,40 @@
+{
+  "version": "v009",
+  "construction": "shared mesh boundaries; no Boolean, no overlapping head/neck caps",
+  "axis_front_to_back_unit": [
+    0.0,
+    0.9912921786308289,
+    0.13168083131313324
+  ],
+  "corresponding_ring_pairs": 193,
+  "straight_wall_axis_distance_min_max_mm": [
+    17.69999793801592,
+    17.700006275930207
+  ],
+  "maximum_ring_vector_error_mm": 1.6561083781063324e-05,
+  "cylinder_major_arc_degrees": 245.15794078560822,
+  "bottom_attachment": "Minor lower sector is shared with the neck; exposed sidewall is cylindrical major arc, front circular disc remains complete",
+  "lower_body_preserved": {
+    "vertex_count": 16384,
+    "exact_coordinates": true
+  },
+  "topology": [
+    {
+      "name": "01 Unified exterior - shared cylinder and neck boundary",
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0
+    },
+    {
+      "name": "03 Planar removable face panel",
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0
+    }
+  ],
+  "limits": [
+    "18.5mm axial wall and7mm shallow rear depth are visual estimates",
+    "Only local cylindrical head correction, no whole-model acceptance",
+    "No calibrated physical dimensions or cross-SKU mold verification"
+  ]
+}

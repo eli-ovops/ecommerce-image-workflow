@@ -1,0 +1,180 @@
+{
+  "status": "REVIEW_EXPERIMENT_NOT_CLIENT_ACCEPTED",
+  "inputs": [
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/products/长方形拉钮顶喷/原始实拍20261030/微信图片_20261030154107_372_2.jpg",
+      "role": "whole product pixel source",
+      "sha256": "c1f3664cc110b85d819bf6609f54b6f10b2943127dad85c3833c1f125443d017"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/products/长方形拉钮顶喷/原始实拍20261030/微信图片_20261030154107_376_2.jpg",
+      "role": "visual cross-check only",
+      "sha256": "f5d7d1e2c3839298bafb20d5ec4a7b19ff8990c9efd02f34b484b4bc07ad3965"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/products/长方形拉钮顶喷/原始实拍20261030/微信图片_20261030154107_374_2.jpg",
+      "role": "visual cross-check only",
+      "sha256": "9116ea9c59350fe964bc42156a5f0f9912bea56cab4e9260ded8707869d36371"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-31_同款商户电商参考/微信图片_20261031133902_399_2.jpg",
+      "role": "style reference to background generator",
+      "sha256": "5db55b7196371f0179e0a79d6ed54667d1a22992908db3e3e16ffcdb1fea38aa"
+    }
+  ],
+  "checks": {
+    "images_decode": true,
+    "ora_crc": true,
+    "ora_layers_recompose_exactly_to_merged_png": true
+  },
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_顶喷实拍主体黑金实验/200pct_左实拍右成图_面板及银边.jpg",
+      "bytes": 931289,
+      "sha256": "0a30fbf83dcd54cd1d8818dbc6a58e05f289454d3c5a61ff63d5e8431ffd655e",
+      "size": [
+        1120,
+        1680
+      ]
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_顶喷实拍主体黑金实验/399_可编辑合成.ora",
+      "bytes": 8779100,
+      "sha256": "4a8582f29d320e0441767cfdf8e786150d66dbffad4ccc783178f1837014eef4"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_顶喷实拍主体黑金实验/399_实拍主体_黑金实验.jpg",
+      "bytes": 1219509,
+      "sha256": "5a88f8931b4f3ea93f6f637c6e6794ce9e8cd3935efc9942ad787961f53ecca2",
+      "size": [
+        1200,
+        1800
+      ]
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_顶喷实拍主体黑金实验/README.md",
+      "bytes": 3116,
+      "sha256": "579fd5e0e44ad5bf1d7731c9dff90773d60bc9f4e49e10133947403d6eed437e"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_顶喷实拍主体黑金实验/Soft-cast-shadow.png",
+      "bytes": 90174,
+      "sha256": "b0eed507284709e67469bc6c930310114d8b08d62ef8d7a7b2e333f3736df1f9",
+      "size": [
+        1200,
+        1800
+      ]
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_顶喷实拍主体黑金实验/Tight-contact-shadow.png",
+      "bytes": 48866,
+      "sha256": "bbfab383559338c93df3c40750bf54110b104d08a24db48db3692ba6b5a1da6e",
+      "size": [
+        1200,
+        1800
+      ]
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_顶喷实拍主体黑金实验/background-prompt.txt",
+      "bytes": 1560,
+      "sha256": "e71f590d670774209b2658b80b2be5ea5af123cbd35f4263b5a2e9f14cdd0047"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_顶喷实拍主体黑金实验/background.png",
+      "bytes": 2575463,
+      "sha256": "835d02edc903cfd97a770529e318222aa8248f8c5676734db01b7191f2cb5a04",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_顶喷实拍主体黑金实验/compose.log",
+      "bytes": 1268,
+      "sha256": "fa1665a09f824992f8ac27dd7978284ebb1a5dffabcc2e88412186fe58051bfd"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_顶喷实拍主体黑金实验/compose.py",
+      "bytes": 5059,
+      "sha256": "5aceb0ee2775ddcc77b6c02acfb2bc18e854b2d47716a6991371e47a958a0d09"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_顶喷实拍主体黑金实验/cutout-layout.png",
+      "bytes": 1452805,
+      "sha256": "8cff6fd3caca8d5c156acacca061b889a02a53a2b080415bbe4b157cc4fef027",
+      "size": [
+        1200,
+        1800
+      ]
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_顶喷实拍主体黑金实验/product-layer.png",
+      "bytes": 1452805,
+      "sha256": "8cff6fd3caca8d5c156acacca061b889a02a53a2b080415bbe4b157cc4fef027",
+      "size": [
+        1200,
+        1800
+      ]
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_顶喷实拍主体黑金实验/sources/372-oriented.png",
+      "bytes": 22247098,
+      "sha256": "db49bc7f4320a60b3b621caa15212af3a9bee2f03afc6698c271ef3ff9f4268b",
+      "size": [
+        5712,
+        4284
+      ]
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_顶喷实拍主体黑金实验/sources/372-review.jpg",
+      "bytes": 219618,
+      "sha256": "a22e6b24c1e1008f5ffb84a16af36625b665f6c306ea70cb74c2ca37f901befb",
+      "size": [
+        1400,
+        1050
+      ]
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_顶喷实拍主体黑金实验/sources/subject-mask.png",
+      "bytes": 40574,
+      "sha256": "b0d365b4c4e1a4d5b1f62039358a7d5e40c49b743d071724008e5264107dcf0c",
+      "size": [
+        5712,
+        4284
+      ]
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_顶喷实拍主体黑金实验/sources/subject-original-cutout.png",
+      "bytes": 15258580,
+      "sha256": "33a13fe1645a91e48e8ac5698baba435c55cbadf0b2782a03c978b54aa1aa427",
+      "size": [
+        4290,
+        2865
+      ]
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_顶喷实拍主体黑金实验/subject-mask-canvas.png",
+      "bytes": 23272,
+      "sha256": "12e986de93be9d1003802a1f65efcf6a011f511b86bae0163bd14b590c4f6082",
+      "size": [
+        1200,
+        1800
+      ]
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_顶喷实拍主体黑金实验/transforms.json",
+      "bytes": 2517,
+      "sha256": "d8cac61dae01124bb2ffcbfe05733ded674802334641768440266b48b21cc366"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-11-02_顶喷实拍主体黑金实验/同尺度对照_左实拍右成图.jpg",
+      "bytes": 1378567,
+      "sha256": "b4e1cdd824fd98839404f7b2f5ee829f799ea0c43ac8e6d64cf8af25302a76be",
+      "size": [
+        2400,
+        1800
+      ]
+    }
+  ],
+  "total_bytes": 55731240
+}

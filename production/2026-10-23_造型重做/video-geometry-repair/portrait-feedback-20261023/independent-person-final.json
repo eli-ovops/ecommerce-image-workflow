@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-23",
+  "owner": "portrait_final_qa",
+  "verdict": "PASS_WITH_LIMITS",
+  "all_three_portraits_independent_pass": true,
+  "scope": "D04一处、D11两处人像最终独立视觉复核。",
+  "items": [
+    {
+      "id": "D04",
+      "candidate_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/portrait-feedback-20261023/D04-portrait-new-person.png",
+      "sha256": "d07c9ec50b59cf697f1ec538e8a5cb3d583c28ae635753c3e2818d6781acfcb0",
+      "status": "PASS_WITH_LIMITS",
+      "face_skin": "五官清晰，肤理连续；未见闭合鱼鳞网纹或大片蜡化。",
+      "jaw_neck": "下颌暗部与连续发束相接，颈部可成立。",
+      "mandatory_fix_boxes": []
+    },
+    {
+      "id": "D11",
+      "candidate_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/portrait-feedback-20261023/D11-portrait-new-person.png",
+      "sha256": "f3458900986918bdb29060f8c827a1c423299d8a2febadf6f232832f7ea6b8d6",
+      "status": "PASS_WITH_LIMITS",
+      "face_skin": "上下格五官清晰、肤理连续；未见闭合鱼鳞网纹。",
+      "jaw_neck": "脸颈及发束关系连续，无明确双下颌或悬空边。",
+      "collar": "定向放大(305,1285,430,1385)，旧尖三角白片及RGB碎片式双边已消失；当前织边为连续浅弧，发束遮挡可解释。",
+      "mandatory_fix_boxes": []
+    }
+  ],
+  "actual_viewed": [
+    "D04-portrait-new-person.png原生全幅",
+    "D11-portrait-new-person.png原生全幅",
+    "D04-new-person-crop.jpg",
+    "D11-upper-new-person-crop.jpg",
+    "D11-lower-new-person-crop.jpg",
+    "D11 native (305,1285,430,1385)内存四倍放大"
+  ],
+  "previous_review": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/portrait-feedback-20261023/independent-person-new-person.json",
+  "previous_failure_resolution": "旧D11领口失败不沿用；当前人物可进入JPG导出及打包。",
+  "limits": [
+    "合成人像肤感较匀净，放大可见插值与锐度差异，当前未构成明确失真缺陷。",
+    "不代表用户已接受或整套32张均通过。",
+    "V01水膜下肤理UNKNOWN；M03/D15/V01/V06几何疑点保留，不扩本轮范围。"
+  ],
+  "pixel_preservation": "root报告已刷新root-product-water-preservation.json。本任务只负责独立视觉，不冒称自行重算零变更。",
+  "images_modified": [],
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN"
+}

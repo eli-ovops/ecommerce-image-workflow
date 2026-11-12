@@ -1,0 +1,88 @@
+{
+  "tool": "builtin_image_gen",
+  "native_sha256": "331e4345db7086b27b831db90e1bf8521feac9ca20405123c659454f2f63e2dd",
+  "prompt_sha256": "e38be9e7b52e3aadc94b4cb98f7d84d139428c70ad6f4057224680269dc64bea",
+  "appearance_source_sha256": [
+    "0b388756f0ee2e35630dac7789237153d390fa8aaab8f58f6e2643d4181be21d",
+    "6de02f19793c568c799762525475cd0241af1b9c41487580383be4efbd2a1fa2",
+    "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90"
+  ],
+  "actual_call": {
+    "id": "R05",
+    "version": "v001",
+    "status": "candidate_for_independent_review",
+    "actual_call": {
+      "prompt": "Use case: ads-marketing. One square premium MACRO real product photograph, no text. Image1 actual silver face/button closeup, image2 actual whole front, image3 actual side. Image4 is STYLE ONLY A025: borrow its large detailed panel crop and calm pale blue-white upper-left title space, NOT its different white product, hand rubbing, typography, icons or performance claims. ACTUAL PRODUCT DETAILS: realistic bright mirror SILVER shell/rim, black finely textured face, dense small off-white separate nozzle rings each with a dark center, original dark microhole outer border. Central RED control is the actual low wide circular flange plus smaller concentric raised boss with dark center opening; do not enlarge relative to neighboring holes, do not replace with a huge doughnut or add a new black pedestal. The separate lower button is the actual shiny SILVER rounded-rectangle in black insert, not black and not a red control. Exact source-photo visual character, not CG clay. No text, letters, logos, arrows, diagrams, performance comparisons, dimensions, filter parts, certificates, human/hand/finger, water or spray. Dry resting product; no press-action, no long red needles, no exploding internals. Real product photographs override all other references. COMPOSITION: ONE large macro photograph only, not a full product and not a two-card design. Upper-left/top28% clear pale icy blue-white negative space. From middle to bottom-right, the real BLACK circular face fills frame; crop its lower/right edges naturally to show a generous local field of crisp individual WHITE nozzle rings and the original RED central control. Red control positioned around x65%,y64%, approximately16% of frame width at the SAME relative scale to real rings as the original actual photo. Show about8–12 visible nozzle spacings across the crop; individual rings should appear tactile and separate, with dark recessed center holes, no smears or duplicate-ring ghosts. The real silver rim can curve through far lower/right edge but do not add long handle or lower selector: this image is exclusively the central face/button/nozzle detail. Camera near-front with slight photo perspective. Natural fine black surface texture, realistic red plastic gloss and softly reflective silver edge. Clean dry unpressed state; no red needles protruding, no hand, no water. Do not represent a before/after cleaning demonstration.",
+      "referenced_image_paths": [
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg",
+        "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_20.jpg"
+      ],
+      "transparent_background": false
+    },
+    "prompt_file": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导续作/prompts/R05-request.json",
+    "references": [
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+        "sha256": "0b388756f0ee2e35630dac7789237153d390fa8aaab8f58f6e2643d4181be21d",
+        "id": "SIL005",
+        "role": "actual own-SKU appearance authority",
+        "actually_viewed": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184342_89_2.jpg",
+        "sha256": "6de02f19793c568c799762525475cd0241af1b9c41487580383be4efbd2a1fa2",
+        "id": "SIL001",
+        "role": "actual own-SKU appearance authority",
+        "actually_viewed": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg",
+        "sha256": "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90",
+        "id": "SIL004",
+        "role": "actual own-SKU appearance authority",
+        "actually_viewed": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_20.jpg",
+        "sha256": "3f746d882e83ad3646d5fd6a8638414dd425c0e03a3b2c5962406d0f1143888e",
+        "id": "A025",
+        "role": "style only; source product/claims excluded",
+        "actually_viewed": true
+      }
+    ],
+    "actual_tool_output_path": "/Users/USER/.codex/generated_images/01a16d07-b34d-7ff3-afe5-dfc839dd6cb1/exec-9455e833-3859-4c6d-9c8b-17ce64c280e6.png",
+    "native_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实拍主导续作/generated/R05-v001-native.png",
+    "native_sha256": "331e4345db7086b27b831db90e1bf8521feac9ca20405123c659454f2f63e2dd",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "output_actually_viewed": true,
+    "saved_at": "2026-10-24T21:35:41.346454+08:00",
+    "additional_viewed_not_passed": [
+      {
+        "id": "SIL006",
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184355_94_2.jpg",
+        "sha256": "10dcfb2cad17faf397a03e0587da0ad19c76229fe801e090fee527a3fbc1a412",
+        "actually_viewed": true
+      },
+      {
+        "id": "A024",
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_19.jpg",
+        "sha256": "5e8e8e5d4b5a20eb1866e2746a0a8dc5795e11c43414e1dca1e2e97edc1b0cdd",
+        "actually_viewed": true
+      },
+      {
+        "id": "A026",
+        "path": "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_21.jpg",
+        "sha256": "fef953c92593aa7192faf6522ace726912f253276891ce03f1d0c82fe0b43455",
+        "actually_viewed": true
+      }
+    ],
+    "self_review": "One macro face crop: full red control lower-right, discrete white rings and dark perimeter holes. No press-action/pins/hand/water. Distinct from R04 and earlier R03.",
+    "suggested_typesetting_area": "1254px short two-line title x65..620,y60..210; avoid lower-left silver rim"
+  },
+  "hard_shape_lock": false
+}

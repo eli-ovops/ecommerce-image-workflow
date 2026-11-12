@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-30",
+  "sources": [
+    {
+      "file": "sources/codex-clipboard-6fa807ac-653c-44f8-a3cc-2941c017e31e.jpg",
+      "sha256": "dd03b48761950856e2a363ba726bdfc682683abad6d703bca461f190f17bc9f1",
+      "actually_viewed": "完整工具预览；不是仅文件名/摘要",
+      "supports": "去白防尘盖后可见金属开口、深色内圈和网面；全貌支持镜面背壳",
+      "does_not_confirm": [
+        "螺纹规格",
+        "精确接口尺寸",
+        "网面材质/目数/过滤功效"
+      ]
+    },
+    {
+      "file": "sources/codex-clipboard-7faa2b7a-f100-46ef-bfc7-87454ab489d0.jpg",
+      "sha256": "50d7f0c9fe40c08617c98a9fb36fc22258873af18be20658101a2075f0bda9d3",
+      "actually_viewed": "完整工具预览；不是仅文件名/摘要",
+      "supports": "去白防尘盖后可见金属开口、深色内圈和网面；全貌支持镜面背壳",
+      "does_not_confirm": [
+        "螺纹规格",
+        "精确接口尺寸",
+        "网面材质/目数/过滤功效"
+      ]
+    },
+    {
+      "file": "sources/微信图片_20261030154107_374_2.jpg",
+      "actually_viewed": "完整工具预览",
+      "supports": "侧壁轮廓及镜面反射；300×200×20mm来自用户确认",
+      "sha256": "9116ea9c59350fe964bc42156a5f0f9912bea56cab4e9260ded8707869d36371"
+    }
+  ],
+  "input": "输入_已认可磨砂场景.blend",
+  "originals_preserved": true,
+  "unchanged": [
+    "主体壳体网格",
+    "黑面孔纹/花瓣纹",
+    "静态红钮比例与位置",
+    "原磨砂和镜面材质"
+  ],
+  "hidden_originals": [
+    "Observed_white_protective_cap",
+    "Rear_connector_visible_envelope_UNCONFIRMED_thread"
+  ],
+  "new_visible_parts": [
+    "Connector_open_metal_envelope_ESTIMATED",
+    "Connector_dark_inner_ring_ESTIMATED",
+    "Connector_visible_screen_ESTIMATED_pitch_not_spec",
+    "Connector_dark_cavity_backing_ESTIMATED"
+  ],
+  "approximation": "外口/内圈、深度和网面均仅按实拍可见形态估建，旧接头基础21mm半径和-10mm安装平面沿用。外口约29.6mm、网面约13.5mm直径、0.65mm节距是场景参数，不是实物规格。未建立精密螺纹或内部流道。",
+  "visibility": "白盖与旧接头隐藏且保留；背面整件绕X轴刚体翻转180度，正面保持基线世界位置。",
+  "remaining_unknown": [
+    "螺纹规格/尺寸",
+    "滤网材质/性能",
+    "接口内部构造",
+    "拉出行程与短针联动"
+  ],
+  "actual_model": "UNKNOWN",
+  "requested_model": "Astra/medium"
+}

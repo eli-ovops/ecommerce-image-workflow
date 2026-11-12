@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "reviewer": "root",
+  "reviewed_at": "2026-10-24T23:37:47+08:00",
+  "jpg_sha256": "9f022222d2a4c8621469d6ea519e83747f0926b43af80d282eec7bdb870b54a3",
+  "finding": "暖棕三竖卡与统一大标题，分别展示三档、下方按键、中央红钮；按压卡采用实拍，不推导清洁效果。",
+  "checks": {
+    "product": "PASS",
+    "reference_style": "PASS",
+    "copy": "PASS",
+    "layout": "PASS",
+    "export": "PASS"
+  },
+  "visual_method": "本轮实际查看成品及对应参考；未改变的已审图复用哈希，最新改字/侧窗/尾端遮罩作定向复核，长图另查总览与接缝。",
+  "limits": "内部人工视觉检查；不等同客户接受、精密3D测量或自动逐孔水流识别。水流/按压照片为原实拍；广告商品图层部分为实拍引导生成层。"
+}

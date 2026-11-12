@@ -1,0 +1,154 @@
+{
+  "status": "WATER_FEEDBACK_REOPENED_D04",
+  "user_acceptance": "PENDING_VIDEO_REVIEW",
+  "required_images": 32,
+  "selected_images": 32,
+  "reference_scope": 74,
+  "geometry_receipt": "geometry-qa.json",
+  "client_image_format": "JPG_ONLY",
+  "native_sources_retained": true,
+  "format_conversion_is_generation": false,
+  "image_count": 32,
+  "checks": {
+    "reference_mapping_inventory": "PASS",
+    "same_hash_independent_visual_qa": "PASS",
+    "selected_png_byte_uniqueness": "PASS",
+    "native_exports_and_long_images": "PASS",
+    "archive_crc_inventory_and_local_links": "PASS",
+    "root_group_and_complete_scroll_visual_review": "PASS_WITH_LIMITATIONS",
+    "client_archive_only_jpg_and_same_export_hashes": "PASS"
+  },
+  "archive": {
+    "path": "花洒_视频校准修订_JPG.zip",
+    "file_count": 34,
+    "bytes": 26774552,
+    "sha256": "aaa514d906897bd76c76e70fe4e5ef926d7fc4ffd35d033a2c5990b033e3f4bc"
+  },
+  "temporary_files": [],
+  "deleted_files": [],
+  "root_review_pages": [
+    {
+      "path": "qa-previews/D_00000_02200.jpg",
+      "scroll": "exports/冷蓝白详情长图.jpg",
+      "top": 0,
+      "bottom": 2200
+    },
+    {
+      "path": "qa-previews/D_02080_04280.jpg",
+      "scroll": "exports/冷蓝白详情长图.jpg",
+      "top": 2080,
+      "bottom": 4280
+    },
+    {
+      "path": "qa-previews/D_04160_06360.jpg",
+      "scroll": "exports/冷蓝白详情长图.jpg",
+      "top": 4160,
+      "bottom": 6360
+    },
+    {
+      "path": "qa-previews/D_06240_08440.jpg",
+      "scroll": "exports/冷蓝白详情长图.jpg",
+      "top": 6240,
+      "bottom": 8440
+    },
+    {
+      "path": "qa-previews/D_08320_10520.jpg",
+      "scroll": "exports/冷蓝白详情长图.jpg",
+      "top": 8320,
+      "bottom": 10520
+    },
+    {
+      "path": "qa-previews/D_10400_12600.jpg",
+      "scroll": "exports/冷蓝白详情长图.jpg",
+      "top": 10400,
+      "bottom": 12600
+    },
+    {
+      "path": "qa-previews/D_12480_14680.jpg",
+      "scroll": "exports/冷蓝白详情长图.jpg",
+      "top": 12480,
+      "bottom": 14680
+    },
+    {
+      "path": "qa-previews/D_14560_16760.jpg",
+      "scroll": "exports/冷蓝白详情长图.jpg",
+      "top": 14560,
+      "bottom": 16760
+    },
+    {
+      "path": "qa-previews/D_16640_18562.jpg",
+      "scroll": "exports/冷蓝白详情长图.jpg",
+      "top": 16640,
+      "bottom": 18562
+    },
+    {
+      "path": "qa-previews/V_00000_02200.jpg",
+      "scroll": "exports/暖金补充长图.jpg",
+      "top": 0,
+      "bottom": 2200
+    },
+    {
+      "path": "qa-previews/V_02080_04280.jpg",
+      "scroll": "exports/暖金补充长图.jpg",
+      "top": 2080,
+      "bottom": 4280
+    },
+    {
+      "path": "qa-previews/V_04160_06360.jpg",
+      "scroll": "exports/暖金补充长图.jpg",
+      "top": 4160,
+      "bottom": 6360
+    },
+    {
+      "path": "qa-previews/V_06240_08103.jpg",
+      "scroll": "exports/暖金补充长图.jpg",
+      "top": 6240,
+      "bottom": 8103
+    }
+  ],
+  "standalone_jpg_count": 32,
+  "combined_jpg_count": 2,
+  "client_archive_images": 34,
+  "png_in_client_archive": 0,
+  "root_visual_review": "root-delivery-review.json",
+  "geometry_reopened_20261023": {
+    "reason": "User reports some shapes remain wrong; adversarial32 review finds visible contradictions and unresolved perspectives.",
+    "report": "geometry-adversarial-review/review-summary.json",
+    "priority_confirmed": [
+      "D06",
+      "D11"
+    ],
+    "priority_suspect": [
+      "D04"
+    ],
+    "user_acceptance": "NOT_ACCEPTED_GEOMETRY_FEEDBACK"
+  },
+  "modified_ids": [
+    "D04",
+    "D06",
+    "D11"
+  ],
+  "geometry_suspect_ids": [
+    "M03",
+    "D15",
+    "V01",
+    "V06"
+  ],
+  "incremental_checks": {
+    "unchanged_29_jpegs_same_hash": true,
+    "three_same_hash_native_reviews": true,
+    "jpg_dimensions_decode": true,
+    "archive_crc_jpg_only_34": true,
+    "gallery_links": true,
+    "root_changed_jpgs_overviews_scroll_joins": "PASS_WITH_LIMITATIONS",
+    "browser_gallery_render": "NOT_PERFORMED_POLICY_BLOCKED"
+  },
+  "geometry_revision_review": "3 target repairs selectable with limitations; 4 suspects remain user review pending",
+  "water_feedback": {
+    "id": "D04",
+    "status": "FAIL",
+    "feedback": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/video-geometry-repair/water-feedback-20261023/user-feedback-D04.png",
+    "reason": "上下场景正面可见多排白色有效孔没有孔口水束，旧水流QA不能继续有效",
+    "corrective_action": "只修水流并复核D06/D11，保留实物轮廓；人像损坏必须原M001新生成"
+  }
+}

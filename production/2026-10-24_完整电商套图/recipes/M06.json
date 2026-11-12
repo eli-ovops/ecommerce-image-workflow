@@ -1,0 +1,135 @@
+{
+  "id": "M06",
+  "role": "暖浴室场景＋白栏单品",
+  "sku": "银色",
+  "refs_actual_viewed": [
+    {
+      "id": "R008",
+      "path": "references/2026-10-22_首批参考/01_微信参考原图/R008_SKU_场景与单品.jpg",
+      "sha256": "fbb58e3d912b5fdc5d2f0c151cd8429910fcf4fab5cae7e761e6ef6d8bb9d1f1"
+    }
+  ],
+  "actual_inputs": [
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/warm-room-native.png",
+      "sha256": "769cbb7ed6e0b541d3b560cdbfc1199583348126394abf60437d2f72160293d8"
+    },
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/silver-cutout-v003.png",
+      "sha256": "6bd26eb1336ef7bedaef9a2bcf67f2d26d0179dac255c2cc246cf5d8e9f27b54"
+    }
+  ],
+  "claims": [
+    "银色",
+    "单花洒",
+    "三档手持花洒",
+    "常规",
+    "喷雾",
+    "混合"
+  ],
+  "copy": [
+    "日常淋浴",
+    "三档随心选",
+    "银色",
+    "单花洒",
+    "常规 · 喷雾 · 混合"
+  ],
+  "source_files": [
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/warm-room-native.png",
+      "sha256": "769cbb7ed6e0b541d3b560cdbfc1199583348126394abf60437d2f72160293d8"
+    },
+    {
+      "path": "production/2026-10-24_完整电商套图/generated/silver-cutout-v003.png",
+      "sha256": "6bd26eb1336ef7bedaef9a2bcf67f2d26d0179dac255c2cc246cf5d8e9f27b54"
+    }
+  ],
+  "source_layers": [
+    {
+      "resampled_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/694ba0e649e851a7.png",
+        "sha256": "959a6ccb2d16ca2b02a2386ba6de676be45b10c2520d110c337ee0c9ae167cee"
+      },
+      "source": {
+        "path": "production/2026-10-24_完整电商套图/generated/warm-room-native.png",
+        "sha256": "769cbb7ed6e0b541d3b560cdbfc1199583348126394abf60437d2f72160293d8"
+      },
+      "exif_display_size": [
+        1254,
+        1254
+      ],
+      "source_crop": null,
+      "uniform_scale": 1.2759170653907497,
+      "scaled_crop_offset": [
+        225,
+        0
+      ],
+      "destination": [
+        0,
+        0,
+        1065,
+        1600
+      ],
+      "operation": "uniform cover crop; source RGB retained through resampling",
+      "source_kind": "new_generated_empty_environment"
+    },
+    {
+      "source": {
+        "path": "production/2026-10-24_完整电商套图/generated/silver-cutout-v003.png",
+        "sha256": "6bd26eb1336ef7bedaef9a2bcf67f2d26d0179dac255c2cc246cf5d8e9f27b54"
+      },
+      "uniform_scale": 0.851063829787234,
+      "rotation_deg": -22,
+      "destination_top_left": [
+        190,
+        230
+      ],
+      "resampled_size": [
+        750,
+        1080
+      ],
+      "operation": "alpha composite existing product RGB, no recolor or local geometry edits",
+      "source_kind": "derived_alpha_or_crop_of_photo_guided_generated_product"
+    },
+    {
+      "source": {
+        "path": "production/2026-10-24_完整电商套图/generated/silver-cutout-v003.png",
+        "sha256": "6bd26eb1336ef7bedaef9a2bcf67f2d26d0179dac255c2cc246cf5d8e9f27b54"
+      },
+      "uniform_scale": 0.723404255319149,
+      "rotation_deg": 0,
+      "destination_top_left": [
+        1158,
+        440
+      ],
+      "resampled_size": [
+        344,
+        850
+      ],
+      "operation": "alpha composite existing product RGB, no recolor or local geometry edits",
+      "source_kind": "derived_alpha_or_crop_of_photo_guided_generated_product"
+    }
+  ],
+  "transform": "See source_layers; all photo transforms uniform scaling/cropping; no nonuniform product stretch",
+  "output": {
+    "path": "production/2026-10-24_完整电商套图/generated/M06-v005.jpg",
+    "sha256": "103c9445021ce6c903b09c57251546cc153a7408546f4eaf80b95ba87199a5e1"
+  },
+  "working": {
+    "path": "production/2026-10-24_完整电商套图/generated/M06-v005.png",
+    "sha256": "3b70f3884a9031e4399ced78ef233bbf15a6b1f247665e68f9683ae2e1ba133b"
+  },
+  "dims": [
+    1600,
+    1600
+  ],
+  "notes": "左2/3暖浴室、右1/3白栏完整商品；移除人物与未售配件",
+  "status": "AWAITING_INDEPENDENT_VISUAL_REVIEW",
+  "refs": [
+    {
+      "id": "R008",
+      "path": "references/2026-10-22_首批参考/01_微信参考原图/R008_SKU_场景与单品.jpg",
+      "sha256": "fbb58e3d912b5fdc5d2f0c151cd8429910fcf4fab5cae7e761e6ef6d8bb9d1f1"
+    }
+  ]
+}

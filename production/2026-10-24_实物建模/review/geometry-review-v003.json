@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-24T16:46:59",
+  "reviewer": "root",
+  "producer": "blender_product_model",
+  "version": "v003",
+  "stage": "exterior_white_model_candidate",
+  "status": "USER_REJECTED_CURVATURE",
+  "geometry_accuracy": "UNVERIFIED",
+  "customer_acceptance": "USER_REJECTED",
+  "actually_viewed": [
+    "v003 six-view-contact.jpg",
+    "v003 left/back/front_oblique/back_oblique at full output size",
+    "P03 and P07 original photos",
+    "P09-P13 readable measurement images",
+    "v003 comparison_left.jpg",
+    "v003 turntable-sampled-contact.jpg (12 static samples; not continuous playback)",
+    "Blender native GUI opened exact v003 path and displayed model and five product parts"
+  ],
+  "findings": [
+    "v001 excessive bending and rear horizontal hard band were corrected across v002/v003.",
+    "v003 has a continuous shallow side curve and broad neck/shoulder transition; suitable for explicit user inspection as a white-model candidate.",
+    "No camera-calibrated pose or quantitative fit has been established; visual plausibility is not a physical shape PASS.",
+    "Exact nozzle positions, rim holes, red cleaning pins, thread and panel recess details remain incomplete.",
+    "Current geometry is supported by new black-SKU photos; cross-SKU shared geometry unverified."
+  ],
+  "native_ui": {
+    "app": "Blender 5.2.2 LTS",
+    "opened_path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/shower_black_clay_v003.blend",
+    "observed": "Exact filename/path visible in window, five product objects in Outliner, full model visible in camera view",
+    "saved_file_unchanged": true,
+    "note": "GUI selection/view state is unsaved; no geometry or frozen file overwritten. Initial modal input required rebinding cua.getApp to current dialog, then succeeded."
+  },
+  "verified_selected_artifacts": [
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/shower_black_clay_v003.blend",
+      "bytes": 982195,
+      "sha256": "d6b9c227ee22a54b6066465413753044ff5427d53b67944028abc235aaaede50"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/shower_black_clay_v003_turntable.mp4",
+      "bytes": 401358,
+      "sha256": "b1b996f0cbb723fc86cd73ec7e0530e6f607a55dd3ed47f54d7c88e7bb44dcad"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/six-view-contact.jpg",
+      "bytes": 105784,
+      "sha256": "3f4604e992c6d08ad9a1df25faa6cbd4f3954dcce75ad36e9ef15132de5ff921",
+      "dimensions": [
+        1200,
+        1050
+      ]
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/comparison_left.jpg",
+      "bytes": 108239,
+      "sha256": "20579295a98656638a741e35662c79416f3c01653cbe31f31d9617399e6a23fb",
+      "dimensions": [
+        1000,
+        1200
+      ]
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/saved-model-check.json",
+      "bytes": 5418,
+      "sha256": "e5bad75e4ee15ce6860dd52f0c3ff17a948570a34d9ec7206397d336a160cfb9"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/parameters-v003.json",
+      "bytes": 2914,
+      "sha256": "8cd3553cfede9f9e443045ebc64361a316fb5ec68a6813121803736571e96607"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/build_model-v003.py",
+      "bytes": 9191,
+      "sha256": "0fb809dc43a48ce3a2680f96c128467489113f1b781a2d5c8ccc9e113d12c66e"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/renders/front.jpg",
+      "bytes": 78177,
+      "sha256": "a97cce8069c1beb85c63a042b259bffa943f5ee633949eb352e0adbb9350cf08",
+      "dimensions": [
+        1000,
+        1200
+      ]
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/renders/back.jpg",
+      "bytes": 71425,
+      "sha256": "d30229ec7f69f433ce6e4872c280b313651f7a6b60045a862cefc073c7f36904",
+      "dimensions": [
+        1000,
+        1200
+      ]
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/renders/left.jpg",
+      "bytes": 62902,
+      "sha256": "1ec588add666497c1ccf94aade2de05aaf25f64f802e1a2de7efc913713246cb",
+      "dimensions": [
+        1000,
+        1200
+      ]
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/renders/right.jpg",
+      "bytes": 61612,
+      "sha256": "d51aab5a792b2f5aa8091ca0583e8ba84a2e3fa076df455206d1f2f8992cc664",
+      "dimensions": [
+        1000,
+        1200
+      ]
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/renders/front_oblique.jpg",
+      "bytes": 75421,
+      "sha256": "725dd3f4f84f7e6109070b455f8d7f508926babdd9b6e6f72c20613180317982",
+      "dimensions": [
+        1000,
+        1200
+      ]
+    },
+    {
+      "path": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v003/renders/back_oblique.jpg",
+      "bytes": 65919,
+      "sha256": "3fc4163dba2f8cd1ebfee8d85c0e5d6dc7fa3be5bf04f0a5b9ea25ef868e3593",
+      "dimensions": [
+        1000,
+        1200
+      ]
+    }
+  ],
+  "limits": [
+    "No metrology, manufacturing CAD, automatic scan, metric IoU or customer acceptance",
+    "No restoration of ecommerce artwork production",
+    "No upload, purchase, install or external send"
+  ],
+  "new_root_files": [
+    "source-manifest.json",
+    "README.md",
+    "inspection/photo-contact.jpg",
+    "inspection/P09-measurement.jpg",
+    "inspection/P10-measurement.jpg",
+    "inspection/P11-measurement.jpg",
+    "inspection/P12-measurement.jpg",
+    "inspection/P13-measurement.jpg",
+    "inspection/video-metadata.txt",
+    "inspection/video-metadata.json",
+    "inspection/video-frames.json",
+    "inspection/video-contact.jpg",
+    "inspection/video-frames/f00.jpg through f17.jpg",
+    "review/geometry-review-v001.json",
+    "review/geometry-review-v003.json"
+  ],
+  "file_preservation": "All new evidence and source copies retained; old media and Downloads originals unchanged; no cleanup performed",
+  "latest_user_criterion": "Model is a shape/curvature aid for image generation; high precision is unnecessary.",
+  "modeling_task_status": "REOPENED_CURVATURE_REPAIR",
+  "downstream_image_generation_benefit": "NOT_YET_TESTED",
+  "next_scope": "Use rendered model views alongside real product photos; do not refine industrial details or require a new white-model approval step.",
+  "latest_user_feedback": "Two side curves and front neck transition rejected; v003 not usable as trusted shape aid"
+}

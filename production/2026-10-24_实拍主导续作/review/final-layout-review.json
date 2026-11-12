@@ -1,0 +1,30 @@
+{
+  "reviewer": "/root/blender_product_model",
+  "reviewed_at": "2026-10-24T21:45:55.156279+08:00",
+  "type": "actual final JPG visual review",
+  "outputs": {
+    "R04": {
+      "path": "production/2026-10-24_实拍主导续作/final/R04.jpg",
+      "sha256": "123bb2c59c292546e400c85cce64ecfcd8f667c160c34fdf4596cf13f5ebad87"
+    },
+    "R05": {
+      "path": "production/2026-10-24_实拍主导续作/final/R05.jpg",
+      "sha256": "6cf146adab7ed12b15d8280d7dad9fb862f1885135829f5af456a61bafde8719"
+    },
+    "R06": {
+      "path": "production/2026-10-24_实拍主导续作/final/R06.jpg",
+      "sha256": "804d78355570e63742635754d1c28481f0e0004fb462753c7965514e7c0348fd"
+    },
+    "K01": {
+      "path": "production/2026-10-24_实拍主导续作/final/K01.jpg",
+      "sha256": "37814cfe25e5508be533ae85615eceea6017374c956608f1a19018f1f90178bf"
+    },
+    "K02": {
+      "path": "production/2026-10-24_实拍主导续作/final/K02.jpg",
+      "sha256": "e9d55bf90d6e18935ecd0c8c54f6ff23f56d7bda77d3127f8e60040c3fa7c174"
+    }
+  },
+  "status": "NO_MUST_FIX_FOUND",
+  "finding": "逐张实际打开5张final JPG；双控分工、红钮与字不遮挡、正背标签、背面无圆斑、两SKU色名/黑色下键/黑色裸螺纹及完整性可供审阅。",
+  "limits": "制作Owner的第二遍审图，root另行实际审图；不冒充客户接受或自动几何测量。"
+}

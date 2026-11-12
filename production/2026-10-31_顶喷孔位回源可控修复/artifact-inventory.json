@@ -1,0 +1,125 @@
+{
+  "status": "UNRESOLVED_PREVIEW_NOT_FINAL",
+  "dependencies": {
+    "Pillow": "11.3.0",
+    "numpy": "2.0.2",
+    "Blender": "5.2.2"
+  },
+  "files": [
+    {
+      "file": "hole-map.csv",
+      "bytes": 19088,
+      "sha256": "d9da92ec0680a79f483149ae41701ef7aa65f0a90c465b6fcc680ac3c2ff720e"
+    },
+    {
+      "file": "prepare_texture.py",
+      "bytes": 1803,
+      "sha256": "b3f72820ed5cd3ddf11b502fab4f7c8f97d1722195e11b653a032473756df3fc"
+    },
+    {
+      "file": "372_registered_relief.png",
+      "bytes": 1811512,
+      "sha256": "9ab637883a7399dcf66fa86b1f8ab574ae1f3bf6add60b114cfea5807f137460"
+    },
+    {
+      "file": "source-hashes.json",
+      "bytes": 1065,
+      "sha256": "042d35437a1f479748c00b5d4a19f7fca7ed66486cd8c3afd9a677bf168263e9"
+    },
+    {
+      "file": "399-projection.json",
+      "bytes": 26017,
+      "sha256": "c45a39914f7ff17d2bf3bb65b1d9930f494251f40fc0681aa09cd4e396d8d1cc"
+    },
+    {
+      "file": "texture-method.json",
+      "bytes": 665,
+      "sha256": "e27ca03a0e3667f6ee2fcdff08372d823b95e255f4ec45b7cb6783fe63769157"
+    },
+    {
+      "file": "399-preview.blend",
+      "bytes": 2708280,
+      "sha256": "e54265d05442b4c37112afe8ce8607a82a411328662d7e17ba0593247e0349bc"
+    },
+    {
+      "file": "399-projection-IDs.jpg",
+      "bytes": 912158,
+      "sha256": "47e9f3f0dd43799cc86c5577485bcd4e4ad092bcc6f9055e0bf8b14d36dba3f1"
+    },
+    {
+      "file": "399-detail.jpg",
+      "bytes": 154122,
+      "sha256": "f76797beb19f81109f923d93185371318961e6a4397eb35bab7964993ec71f3e"
+    },
+    {
+      "file": "长方形拉钮顶喷_v3.blend",
+      "bytes": 2407986,
+      "sha256": "05b80b0ebc072c1a01cdf597c08f16e33d8033eb3771a9fe48dc2c18a0079905"
+    },
+    {
+      "file": "projection-ID-readable-crop.jpg",
+      "bytes": 237653,
+      "sha256": "f34125ea0efe654574487c8f8341c5fe0abc0c63f489b734e9e2873063fff0bf"
+    },
+    {
+      "file": "photo_feature_mask.png",
+      "bytes": 177108,
+      "sha256": "fc8b1cb4f49b26b9be2cc990fa9b7004ec470d6a79daf07fc7f2fd0f250a7d13"
+    },
+    {
+      "file": "check_source.py",
+      "bytes": 2128,
+      "sha256": "6fd63585eb67cc204babfac002e16bc4310fb9be879242a26333086c13b4d71c"
+    },
+    {
+      "file": "README.md",
+      "bytes": 4018,
+      "sha256": "5a66a0f0442c9f3e86b0c73af1ac16bbb783f4c89eb12b79e2e228ecb6d60cfd"
+    },
+    {
+      "file": "baseline_recipe.py",
+      "bytes": 11994,
+      "sha256": "545186a22c4fe13e57de1ff7e8df0bbbdb12c3a959c0fe47e6811bc1f318256e"
+    },
+    {
+      "file": "399-preview.jpg",
+      "bytes": 88134,
+      "sha256": "fc393619c9d76dfb0a022bf231043f50eda88607078c72f5db42eaf4da74c2a2"
+    },
+    {
+      "file": "source-check.json",
+      "bytes": 19886,
+      "sha256": "1b0cc97201bf6febad7d1d33a1bbe233c8ab6671e9aa32b02c5f7bc95c433745"
+    },
+    {
+      "file": "input.blend",
+      "bytes": 2530858,
+      "sha256": "e6f21c5367ab5bc03f7a0f47b03c0f9d42bc9822902bcb9bb33f94d34125f386"
+    },
+    {
+      "file": "372-front-rectified.jpg",
+      "bytes": 1559863,
+      "sha256": "3be7dc1bd8214915fd5589e89e334f3d20a9a8b077bd8dd28efdc1075460a533"
+    },
+    {
+      "file": "review.json",
+      "bytes": 1861,
+      "sha256": "2a6949ac2724a0e70bead2456c883b99c8c2ea02f2c2e38b9d3196f9babeab0c"
+    },
+    {
+      "file": "build_399.py",
+      "bytes": 7651,
+      "sha256": "ef2780e0a6e9d5907abc452c9e0754fd24c748f2d44f840ec4760984d397d84f"
+    },
+    {
+      "file": "399-preview.blend1",
+      "bytes": 3237106,
+      "sha256": "02ae0c8120a824f21f64952a5a4b1bfa036cd3e9f3a398f44f840a5924792c8b"
+    },
+    {
+      "file": "record_projection.py",
+      "bytes": 974,
+      "sha256": "17044f953bed5635ce91f668c44500c5a0fedd4f6ca9280f06de837498358da8"
+    }
+  ]
+}

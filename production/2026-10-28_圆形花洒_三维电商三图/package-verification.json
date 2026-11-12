@@ -1,0 +1,18 @@
+[
+  {
+    "name": "三维电商三图_JPG.zip",
+    "count": 3,
+    "bytes": 1033545,
+    "sha256": "aefa36cb307994e025caedbcabfd1a8cbb13adf6e3dd2862544e4df37cc4d968",
+    "crc_error": null,
+    "member_sha256_equal": true
+  },
+  {
+    "name": "三维电商三图_可编辑源.zip",
+    "count": 29,
+    "bytes": 74385765,
+    "sha256": "e6edd2dbfecb4c22568c225c35586b14256bd0a18586f7b37cad4458811e0a28",
+    "crc_error": null,
+    "member_sha256_equal": true
+  }
+]

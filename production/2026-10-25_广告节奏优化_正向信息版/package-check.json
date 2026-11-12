@@ -1,0 +1,30 @@
+{
+  "count": 18,
+  "jpg_only": true,
+  "all_hashes_match": true,
+  "crc": "PASS",
+  "zip_sha256": "867d43e20f03cb99659d62119f8a4fdf741b7c045b97bc89caa4453a58532374",
+  "zip_bytes": 14776848,
+  "unchanged_from_previous": [
+    "M05",
+    "M01",
+    "M02",
+    "M03",
+    "M06",
+    "K01",
+    "K02",
+    "K03",
+    "M04",
+    "D01",
+    "D02",
+    "D04",
+    "W01",
+    "W02",
+    "W03",
+    "D06"
+  ],
+  "changed_only": [
+    "D05",
+    "L01"
+  ]
+}

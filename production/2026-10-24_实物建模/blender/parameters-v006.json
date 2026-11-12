@@ -1,0 +1,46 @@
+{
+  "version": "v006",
+  "source": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-24_实物建模/blender/v005/shower_black_clay_v005.blend",
+  "scope": "Head cylinder, planar face, shallow rear cap; original lower neck/handle unchanged",
+  "head_center_mm": [
+    0.0,
+    6.562611103057861,
+    200.0
+  ],
+  "axis_front_to_back_unit": [
+    0.0,
+    0.9912921786308289,
+    0.13168083131313324
+  ],
+  "face_up_unit": [
+    0.0,
+    -0.13168083131313324,
+    0.9912921786308289
+  ],
+  "face_slope_dy_dz": -0.13283756317140735,
+  "radius_mm": 65,
+  "axial_wall_length_mm": 18.5,
+  "edge_round_mm": 0.4,
+  "rear_dome_depth_mm": 7,
+  "side_segments": 256,
+  "preserve_original_vertices_z_le_mm": 135,
+  "head_root_transition_z_mm": [
+    135,
+    175
+  ],
+  "evidence": [
+    "user cylindrical-head correction screenshot",
+    "P05 head edge",
+    "P03/P04 side",
+    "P07/P08 oblique"
+  ],
+  "uncertainty": "Axial wall18.5 and rear dome7 are visual candidate dimensions, not physical metrology. Overall model still rejected/pending; no whole-model PASS.",
+  "routing": {
+    "rule": "ROUTING-2026-10-24-v5",
+    "target_model": "gpt-6-astra",
+    "target_effort": "high",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN",
+    "speed_mode": "UNKNOWN"
+  }
+}

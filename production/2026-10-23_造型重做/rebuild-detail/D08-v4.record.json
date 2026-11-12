@@ -1,0 +1,27 @@
+{
+  "id": "D08",
+  "prompt": "Local editing of IMAGE1 ONLY MIDDLE SECOND 喷雾出水 card water. Preserve six conical mist plumes and ONLY their SIX origins as in actual photo ref2 and red-circle locations ref3. EVERY OTHER ordinary white outlet MUST BE COMPLETELY DRY at its root: remove ALL short thin straight linear water strands immediately touching these other outlet holes, including short fine lines across face surface BETWEEN six mist roots. Don't just erase distant ends: erase straight water from the roots on every nonmist hole; show clean dry black face between unchanged white annuli. SIX mist roots are unchanged ordinary white rings same size, no new nozzles/hardware. Red central button emits nothing. Keep ALL top card regular water and ALL bottom card mixed water exactly unchanged. Keep every Chinese character, blue layouts, product camera/curves/casing/selectors/background unchanged. Ref4 original style only. Output entire original image.",
+  "referenced_image_paths": [
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D08-v3.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184403_100_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/annotations/feedback-02.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_11.jpg"
+  ],
+  "raw_output": "/Users/USER/.codex/generated_images/01a167f7-498a-71b3-969b-17d69673eb5c/exec-6255595c-eee9-4bf3-9f6a-3d3dd8755594.png",
+  "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D08-v4.png",
+  "status": "INDEPENDENT_QA_PENDING",
+  "actual_viewed_related_originals": [
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-detail/D08-v3.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184403_100_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/annotations/feedback-02.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_11.jpg"
+  ],
+  "full74_reading_inherited_from": "production/2026-10-22_参考重构/revision-20261023-user-feedback/generation-review.jsonl",
+  "sha256": "4029c2681ab701f6ccf5b491e5da0a9e8b5a125093e89b79749cd41f3610f233",
+  "actual_dimensions": [
+    978,
+    1608
+  ],
+  "producer_native_output_actually_viewed": true,
+  "producer_review": "Unresolved: short thin straight lines appear to persist between six mist roots"
+}

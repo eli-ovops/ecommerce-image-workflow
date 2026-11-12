@@ -1,0 +1,164 @@
+{
+  "stage": "STOPPED_REFERENCE_FIDELITY_FAILED",
+  "checks": [
+    {
+      "id": 387,
+      "size": [
+        1200,
+        1200
+      ],
+      "sha256": "96b8730d2087078ecf30175a443267838d84d4df2f67bdf7d70fe9848dc300b3",
+      "ora_crc": true,
+      "ora_recomposed_equal": true,
+      "svg_xml_valid": true,
+      "status": "待审：静态近似，厚边/真实感未通过"
+    },
+    {
+      "id": 388,
+      "size": [
+        1200,
+        1200
+      ],
+      "sha256": "46c613249adb8fd318dd231dfee00c1e73cd118cb7b21f0e038edadc5df96a26",
+      "ora_crc": true,
+      "ora_recomposed_equal": true,
+      "svg_xml_valid": true,
+      "status": "未完成：缺安装视角与水幕"
+    },
+    {
+      "id": 389,
+      "size": [
+        1200,
+        1200
+      ],
+      "sha256": "9b7f4fda83e743f78be2b844be33e495c4cd19b3f2f7de72d88189e31162845c",
+      "ora_crc": true,
+      "ora_recomposed_equal": true,
+      "svg_xml_valid": true,
+      "status": "未完成：缺安装视角与水幕"
+    },
+    {
+      "id": 390,
+      "size": [
+        1200,
+        1200
+      ],
+      "sha256": "a7b6e91ebc3376fb90d0d9b79769472c3fb100ea8a2f34ca3e366ce0b67e9c88",
+      "ora_crc": true,
+      "ora_recomposed_equal": true,
+      "svg_xml_valid": true,
+      "status": "未完成：缺安装视角与水幕"
+    },
+    {
+      "id": 391,
+      "size": [
+        1200,
+        1200
+      ],
+      "sha256": "ead735560875ed0ba89276f87ad5ede989a526ab96eb6aa21f429df78bb49bb2",
+      "ora_crc": true,
+      "ora_recomposed_equal": true,
+      "svg_xml_valid": true,
+      "status": "未完成：缺安装视角与水幕"
+    },
+    {
+      "id": 392,
+      "size": [
+        1200,
+        1200
+      ],
+      "sha256": "a793035a9c05c8af67de7c03bc2b7bf7d730b33e4ced45c7b54eeec20635d3f5",
+      "ora_crc": true,
+      "ora_recomposed_equal": true,
+      "svg_xml_valid": true,
+      "status": "待审：静态近似，厚边/真实感未通过"
+    },
+    {
+      "id": 393,
+      "size": [
+        1200,
+        1200
+      ],
+      "sha256": "a6f76a5ef15b6649ef35efc6be45ed49e59216f31c871d8df8c768da274764ca",
+      "ora_crc": true,
+      "ora_recomposed_equal": true,
+      "svg_xml_valid": true,
+      "status": "替代题材：参考功能无依据"
+    },
+    {
+      "id": 394,
+      "size": [
+        900,
+        1600
+      ],
+      "sha256": "37c4f2f053de207e529c23c9065aaeb683a6ed987028f5d460aaff875520bc44",
+      "ora_crc": true,
+      "ora_recomposed_equal": true,
+      "svg_xml_valid": true,
+      "status": "未完成：缺安装视角与水幕"
+    },
+    {
+      "id": 395,
+      "size": [
+        900,
+        1600
+      ],
+      "sha256": "9fcb974c8478403b3ab0bf71db764ee4d5a6b5780fd1e5d6db4b1b9e99c1d3ef",
+      "ora_crc": true,
+      "ora_recomposed_equal": true,
+      "svg_xml_valid": true,
+      "status": "待审：静态近似，厚边/真实感未通过"
+    },
+    {
+      "id": 396,
+      "size": [
+        900,
+        1600
+      ],
+      "sha256": "70058a5cf6c9aa1c6c63ec6d9e253718d9659c94670dab0ff9fdfb9b786cfd20",
+      "ora_crc": true,
+      "ora_recomposed_equal": true,
+      "svg_xml_valid": true,
+      "status": "替代题材：参考功能无依据"
+    },
+    {
+      "id": 397,
+      "size": [
+        900,
+        1600
+      ],
+      "sha256": "8ef0f2c526f0c75576d4ef6b4dd6080a56ab0ec74ba64c7ec721bc5d9f4fe166",
+      "ora_crc": true,
+      "ora_recomposed_equal": true,
+      "svg_xml_valid": true,
+      "status": "替代题材：参考功能无依据"
+    },
+    {
+      "id": 398,
+      "size": [
+        900,
+        1600
+      ],
+      "sha256": "0ca4e1b105a3727bbdb34f1833c98a5fef568a2a78f639caf91ae21c9a449488",
+      "ora_crc": true,
+      "ora_recomposed_equal": true,
+      "svg_xml_valid": true,
+      "status": "替代题材：参考功能无依据"
+    },
+    {
+      "id": 399,
+      "size": [
+        900,
+        1600
+      ],
+      "sha256": "54a0907b5a6a77d29845dd02fe125a424ea20f7b7a547cbbdf5fed3f0deb9102",
+      "ora_crc": true,
+      "ora_recomposed_equal": true,
+      "svg_xml_valid": true,
+      "status": "待审：静态近似，厚边/真实感未通过"
+    }
+  ],
+  "browser_preview": "NOT_RUN",
+  "svg_visual_render": "NOT_VERIFIED; live text metrics may differ from JPG; layout.json and build.py preserve exact Pillow rendering",
+  "visual_review": "All13 final JPGs opened individually in tool; source372/376/374/382 and connector details inspected; full reference review reused and relevant refs re-opened. No visual PASS claimed."
+}

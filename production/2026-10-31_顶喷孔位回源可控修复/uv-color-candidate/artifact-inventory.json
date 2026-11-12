@@ -1,0 +1,73 @@
+[
+  {
+    "file": "372-color-registered.png",
+    "bytes": 5547968,
+    "sha256": "14ef9e97e45c5f0c5365a1581c0d216b044a056cc4038423c6ea0c2073c1fe74",
+    "dimensions": [
+      2400,
+      1600
+    ]
+  },
+  {
+    "file": "372-roughness-registered.png",
+    "bytes": 1844538,
+    "sha256": "d46dd70c383757ce4a3faae90d77b769e95367eef8a98c8fc0af69ca5a021dce",
+    "dimensions": [
+      2400,
+      1600
+    ]
+  },
+  {
+    "file": "399-detail.jpg",
+    "bytes": 193753,
+    "sha256": "771bb6fd90260107e8391fb3e730ed64c1be5b80cfec2884b280380b619f1dbd",
+    "dimensions": [
+      800,
+      800
+    ]
+  },
+  {
+    "file": "399-preview.blend",
+    "bytes": 10095636,
+    "sha256": "48d475c40b7f2d7eef49a9483cd7d7ec4a7d32f0bc10a9d35807cf34cbb917ce"
+  },
+  {
+    "file": "399-preview.jpg",
+    "bytes": 118603,
+    "sha256": "5846feea007884fedfc52be155232ed7a386a27acbe7cf8792b12ffce7645bdc",
+    "dimensions": [
+      450,
+      800
+    ]
+  },
+  {
+    "file": "geometry-unchanged.json",
+    "bytes": 1198,
+    "sha256": "87ad81daa7f6d7b6f76ff757d8b78b69dee0e38398228cdc0394ec3de748adb9"
+  },
+  {
+    "file": "prepare.py",
+    "bytes": 2686,
+    "sha256": "3715907747f5970e61bdb24d22d42a5b19bdb1ea0373f33532de125305dff5c9"
+  },
+  {
+    "file": "render.log",
+    "bytes": 1106,
+    "sha256": "4e5690cfa97ad6b553999ceaf888d0fe7547bee14177e1b503cedcbea0ed7652"
+  },
+  {
+    "file": "render.py",
+    "bytes": 3198,
+    "sha256": "5b381fccdce2998837e2d4d6ef33d6e1f6c87354c3932c3ba7bc14602b76175b"
+  },
+  {
+    "file": "review.json",
+    "bytes": 1072,
+    "sha256": "8d17094c9b06a0fed5a765a8263158167a7e1196ffbbeb5c0201d2951aac1443"
+  },
+  {
+    "file": "texture-method.json",
+    "bytes": 13731,
+    "sha256": "bd2ff4f9dce366f066837c2c52040b57300f46317d580ceee8ad386c21abc8ba"
+  }
+]

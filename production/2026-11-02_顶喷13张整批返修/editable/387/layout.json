@@ -1,0 +1,80 @@
+{
+  "text": [
+    {
+      "text": "长方形顶喷",
+      "x": 45,
+      "y": 80,
+      "size": 54,
+      "color": "#efd0a3",
+      "font": "Heiti SC",
+      "bold": true,
+      "oblique": true,
+      "gold_gradient": true,
+      "extrusion_px": 3
+    },
+    {
+      "text": "提拉除垢",
+      "x": 45,
+      "y": 170,
+      "size": 52,
+      "color": "#efd0a3",
+      "font": "Heiti SC",
+      "bold": true,
+      "oblique": true,
+      "gold_gradient": true,
+      "extrusion_px": 3
+    },
+    {
+      "text": "短针细节实拍",
+      "x": 48,
+      "y": 780,
+      "size": 34,
+      "color": "#efd0a3",
+      "font": "Heiti SC",
+      "bold": true,
+      "oblique": false,
+      "gold_gradient": true,
+      "extrusion_px": 3
+    },
+    {
+      "text": "银色",
+      "x": 42,
+      "y": 1085,
+      "size": 79,
+      "color": "#efd0a3",
+      "font": "Heiti SC",
+      "bold": true,
+      "oblique": true,
+      "gold_gradient": true,
+      "extrusion_px": 3
+    },
+    {
+      "text": "约30×20cm 大面板",
+      "x": 290,
+      "y": 1100,
+      "size": 60,
+      "color": "#efd0a3",
+      "font": "Heiti SC",
+      "bold": true,
+      "oblique": true,
+      "gold_gradient": true,
+      "extrusion_px": 3
+    }
+  ],
+  "transforms": [
+    {
+      "source": "native-static.png",
+      "uniform": true,
+      "rotation": 0,
+      "xy": [
+        373,
+        150
+      ],
+      "size": [
+        693,
+        885
+      ]
+    }
+  ],
+  "note": "展台偏平，银壳和红钮仍有CG感。"
+}

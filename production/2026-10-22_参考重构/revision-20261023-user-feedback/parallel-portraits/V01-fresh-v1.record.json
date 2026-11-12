@@ -1,0 +1,52 @@
+{
+  "id": "V01",
+  "prompt": "Use case: ads-marketing. Completely NEW original Chinese ecommerce detail page, portrait994x1582. Image1 sole adult M001 identity; image2 actual round silver product face geometry; image3 actual silver handheld product and fine even water streams. Image4 R003 supplies warm wood lighting, left handheld/right woman photo composition ONLY. Image5 R014 supplies distinct DARK BROWN and gold short chapter bridge typography/pills ONLY; no reference text or certificates copied. Never reuse any previous generated portrait.\nStrict page structure: TOP72% consists of large warm wood bathroom scene plus three detail windows underneath; BOTTOM28% is a real full-width DARK BROWN/black-to-warm-gold chapter bridge. Keep these as separate sections, not floating labels near woman.\nUpper scene about57% full canvas height: warm natural oak/tan stone bathroom with gentle golden ceiling light. At top ONE readable title exactly “日常淋浴 手持呈现”, large white bold Chinese over wood (leave safe margins). M001 adult woman at right, same black hair/hazel eyes/face as image1, wearing completely OPAQUE white CREW-NECK short-sleeve ordinary shirt fully covering chest torso shoulders, loose and dry-looking, no transparency, no bare shoulders or cleavage. Calm neutral smile looking toward camera, natural commercial product demonstration. Her natural hand holds actual round SILVER handheld shower at LEFT foreground, angled toward lower right. Handle lower end runs OUT OF LEFT FRAME, no open inlet visible. Show numerous delicate fine regular water filaments emerging uniformly from WHOLE effective white outlet face, flowing down toward lower foreground OUT OF FRAME and away from face/clothes. Red center button does NOT emit water. Water realistic fine filaments rather than solid bright sheet or exaggerated power. No shower hardware/hose.\nNext15% full canvas: cream band with three evenly spaced photo detail windows side by side, exact actual external PRODUCT macro details only. Window1 small FLAT white eyelets and central red ring/button, label below exactly “中央红钮”. Window2 lower silver selector on black neck with neighboring chrome, label exactly “下方按键”. Window3 chrome round head sidewall and side silhouette, label exactly “侧面轮廓”. Keep all eyelets LOW/NEAR FLUSH thin rings, not raised donuts/cylindrical nozzles. No people in windows.\nBottom28% genuine standalone deep dark BROWN to golden gradient chapter panel like image5: strong very LARGE centered WHITE Chinese headline exactly “三档出水”. Beneath it two horizontal tasteful pill shapes: left light gold filled with dark text exactly “下方切档”, right gold outlined with light gold text exactly “中央按压除垢”. Subtle thin flowing gold arc near bottom, plenty dark breathing room. Do not add other text, numbers, logos, flags, certificates, badges or claims.\nProduct exact: circular bright silver housing/handle, continuous flat BLACK face, small low-flat white outlet rings uniform per perspective, tiny dark peripheral holes, RED central manual descaling ring button, SILVER lower selector. No square head, black thread, connector, hose, bracket, extra function or internal structure. If bare thread ever shown, SILVER. M001 face and arms have soft gentle UNPATTERNED continuous natural skin tones, subtle random pores only, no repeating diagonal grids, fishscale, crosshatch, etched/tiled/woven skin, no crisp hyperdetail. Fresh identity recreation from image1, not earlier portraits. Correct ordinary fully clothed anatomy and natural hands. Preserve warm upper photograph, creamy small-detail information density and dark-gold bridge rhythm; don't redesign entire page.",
+  "refs": [
+    "/Volumes/EXTERNAL/电商 作图工作流/models/M001/master-v1.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184402_99_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/01_微信参考原图/R003_场景_柔和淋浴.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/01_微信参考原图/R014_长图_新品与功能标题.jpg"
+  ],
+  "directed_images_viewed": [
+    "references/2026-10-22_首批参考/01_微信参考原图/R003_场景_柔和淋浴.jpg",
+    "references/2026-10-22_首批参考/01_微信参考原图/R013_长图_低水压场景首屏.jpg",
+    "references/2026-10-22_首批参考/01_微信参考原图/R015_长图_出水与证书展示.jpg",
+    "references/2026-10-22_首批参考/01_微信参考原图/R018_长图_微孔与出水.jpg",
+    "references/2026-10-22_首批参考/01_微信参考原图/R014_长图_新品与功能标题.jpg",
+    "references/2026-10-22_首批参考/01_微信参考原图/R030_长图_软管长度标题.jpg",
+    "production/2026-10-22_参考重构/final/V01.png",
+    "models/M001/master-v1.png",
+    "production/2026-10-22_参考重构/final/K01.png",
+    "products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+    "products/主推花洒/银色/原图/微信图片_20261022184402_99_2.jpg"
+  ],
+  "fresh": true,
+  "old_person_images_as_input": false,
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "safety_adaptation": "Fully opaque ordinary white crew neck shirt; product water directed away from model and out of frame.",
+  "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-22_参考重构/revision-20261023-user-feedback/parallel-portraits/V01-fresh-v1.png",
+  "source_output": "/Users/USER/.codex/generated_images/01a1677a-d5c6-7ae1-aff4-beb08d398f79/exec-8b46a33e-7f44-409e-b83e-069536313496.png",
+  "sha256": "ffa49bb7d96a7c0019e6e69cbaf4a7e8437dfa55bae096bbca61906fff77ee49",
+  "actual_dimensions": [
+    994,
+    1582
+  ],
+  "self_review": {
+    "composition": "暖木人物手持大图+三细节窗+独立深棕金短章节桥保留。",
+    "product_scale": "左前景商品清楚，三窗承接外观细节。",
+    "color_light": "暖木金光上场景/奶油窗带/深棕金桥对照。",
+    "type_layout": "准确7组指定文案；上标题分两行。",
+    "density": "人物主体、三窗、短桥三个独立层级。",
+    "product": "黑面小低平白孔环/红钮/下银键，主图切档键反射偏暗需QA。手柄出画。",
+    "skin": "原生打开未见旧鱼鳞/重复网纹。",
+    "limitations": [
+      "桥约24.5%，原计划28%，保留核心视觉任务。"
+    ],
+    "status": "CANDIDATE_PENDING_INDEPENDENT_QA"
+  },
+  "date_utc": "2026-10-23T06:51:14.712539+00:00",
+  "user_acceptance": "PENDING",
+  "batch_full_read_record": "Reuse root M04-v1/M06-v1 and M04-v2 preflight under BATCH-REF-20261023-v1"
+}

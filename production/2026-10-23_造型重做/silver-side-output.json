@@ -1,0 +1,12 @@
+{
+  "id": "silver-side-v1",
+  "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/silver-side-v1.png",
+  "source": "/Users/USER/.codex/generated_images/01a16319-d848-71d0-95e1-72970644c800/exec-15013096-2fa4-4fad-8252-5fe2d6f2cc1b.png",
+  "sha256": "9597725bbc7a81b1851502b60484d6e4ab06b2aca67507ed7ebb1806414cf554",
+  "actual_dimensions": [
+    1086,
+    1448
+  ],
+  "status": "GEOMETRY_QA_PENDING",
+  "preflight": "silver-side-preflight.json"
+}

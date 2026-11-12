@@ -1,0 +1,26 @@
+{
+  "status": "USER_REVIEW_SAMPLES_WITH_VISIBLE_LIMITATIONS",
+  "reviewer": "root",
+  "opened_final_jpg": [
+    "D_侧面弧度.jpg",
+    "E_银色背面.jpg",
+    "F_中央红钮细节.jpg"
+  ],
+  "opened_sources": [
+    "340 back",
+    "342 side",
+    "348 panel closeup",
+    "R001",
+    "R028"
+  ],
+  "observations": {
+    "D": "Head, cylindrical rim and shoulder are enlarged; connector fully out of frame. Chrome and panel remain CG.",
+    "E": "Broad reflection gradient improved from flat grey. Visible transverse section/highlight traces remain at neck; not final photo-real chrome.",
+    "F": "Large continuous round-head closeup; static red actuator and white ring layout shown, no pressing/pins/flow demonstrated."
+  },
+  "deterministic_source_review": "Read render.py and D geometry record; editable model reopen comparison recorded in saved-model-audit.json is producer evidence, not independently rerun.",
+  "package_checks": "Root independently decoded 6 JPGs as 1600x1600 JPEG, checked both ZIP CRC and every member SHA against local, and ABC exact byte preservation; see root-file-verification.json.",
+  "browser_preview": "Not run this continuation; previous file-URL policy block remains respected. Local JPGs opened directly.",
+  "customer_acceptance": "UNKNOWN",
+  "full_set_complete": false
+}

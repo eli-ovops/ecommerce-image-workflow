@@ -1,0 +1,33 @@
+{
+  "jpg_size": [
+    1200,
+    1200
+  ],
+  "ora_crc": true,
+  "ora_recomposition": true,
+  "svg_xml": true,
+  "all4_meshes_unchanged": true,
+  "prior_13_jpg_sha_unchanged": [
+    387,
+    388,
+    389,
+    390,
+    391,
+    392,
+    393,
+    394,
+    395,
+    396,
+    397,
+    398,
+    399
+  ],
+  "source_zip_members": 30,
+  "source_zip_bytes": 28679180,
+  "zip_crc": true,
+  "zip_member_sha": true,
+  "visual_review": "Full final, reference comparison, mobile and200percent type/product opened; review candidate only",
+  "real_flow_and_hole_acceptance": false,
+  "browser_preview": "NOT_RUN",
+  "svg_render": "NOT_VISUALLY_VERIFIED"
+}

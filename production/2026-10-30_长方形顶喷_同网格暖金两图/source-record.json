@@ -1,0 +1,11 @@
+{
+  "source_blend": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-30_长方形拉钮顶喷_完整建模/长方形拉钮顶喷_v3.blend",
+  "source_sha256": "05b80b0ebc072c1a01cdf597c08f16e33d8033eb3771a9fe48dc2c18a0079905",
+  "local_copy_sha256": "05b80b0ebc072c1a01cdf597c08f16e33d8033eb3771a9fe48dc2c18a0079905",
+  "copy_matches": true,
+  "product_pixels": "Blender native render only",
+  "style_only_reference": "production/2026-10-30_长方形顶喷_银色续作/01_侧壁厚度.jpg and 02_拉钮除垢.jpg; never used as editable bitmap inputs",
+  "function_state": "STATIC; pull/needle demonstration NOT_COMPLETED",
+  "runtime_model": "UNKNOWN",
+  "requested_model": "gpt-6-astra / medium"
+}

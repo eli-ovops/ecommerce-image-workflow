@@ -1,0 +1,29 @@
+{
+  "actual_viewed": [
+    "两张去盖原照完整预览",
+    "374侧面原照完整预览",
+    "03_背面去盖接口_v2.jpg",
+    "04_正面斜侧20mm.jpg",
+    "接口实拍与成图对照_左实拍右渲染.jpg",
+    "手机宽度对照.jpg"
+  ],
+  "result": "两张审阅候选已制作，技术一致性与JPG解码通过，照片级真实感未通过",
+  "observations": [
+    "背面去白盖，深色内圈与网面可见；宽亮带修为明暗渐变",
+    "正面斜侧可辨镜面20mm侧壁，黑面纹样和红钮保持原比例",
+    "360px展示时全貌清楚，接口网面无法细读，需原尺寸或附带局部放大"
+  ],
+  "remaining": [
+    "接口内圈受光偏亮；实拍的口沿凹凸细节未逐一复现",
+    "网面尺寸、深度、节距及材质仅外观估计，网面与口沿偏规整",
+    "镜面反射过于理想，背面仍有CG感",
+    "正面花瓣槽线与磨砂仍保留上一轮局限；本轮未做拉出功能状态"
+  ],
+  "geometry_check": "PASS",
+  "photoreal_acceptance": "NOT_PASS",
+  "physical_measurement": "NOT_RUN",
+  "function_demo": "NOT_DONE",
+  "customer_acceptance": "UNKNOWN",
+  "html_browser_review": "NOT_RUN / no HTML delivered",
+  "old_versions_retained": true
+}

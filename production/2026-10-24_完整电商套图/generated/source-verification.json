@@ -1,0 +1,646 @@
+{
+  "outputs": [
+    {
+      "id": "D01",
+      "sha_matches": true,
+      "dims": [
+        1600,
+        2000
+      ],
+      "decode": true
+    },
+    {
+      "id": "D02",
+      "sha_matches": true,
+      "dims": [
+        1600,
+        2000
+      ],
+      "decode": true
+    },
+    {
+      "id": "D03",
+      "sha_matches": true,
+      "dims": [
+        1600,
+        2100
+      ],
+      "decode": true
+    },
+    {
+      "id": "D04",
+      "sha_matches": true,
+      "dims": [
+        1600,
+        2200
+      ],
+      "decode": true
+    },
+    {
+      "id": "D05",
+      "sha_matches": true,
+      "dims": [
+        1600,
+        2000
+      ],
+      "decode": true
+    },
+    {
+      "id": "D06",
+      "sha_matches": true,
+      "dims": [
+        1600,
+        2100
+      ],
+      "decode": true
+    },
+    {
+      "id": "D07",
+      "sha_matches": true,
+      "dims": [
+        1600,
+        2000
+      ],
+      "decode": true
+    },
+    {
+      "id": "D08",
+      "sha_matches": true,
+      "dims": [
+        1600,
+        2000
+      ],
+      "decode": true
+    },
+    {
+      "id": "D09",
+      "sha_matches": true,
+      "dims": [
+        1600,
+        2400
+      ],
+      "decode": true
+    },
+    {
+      "id": "K01",
+      "sha_matches": true,
+      "dims": [
+        1600,
+        1600
+      ],
+      "decode": true
+    },
+    {
+      "id": "K02",
+      "sha_matches": true,
+      "dims": [
+        1600,
+        1600
+      ],
+      "decode": true
+    },
+    {
+      "id": "K03",
+      "sha_matches": true,
+      "dims": [
+        1600,
+        1600
+      ],
+      "decode": true
+    },
+    {
+      "id": "L01",
+      "sha_matches": true,
+      "dims": [
+        800,
+        9400
+      ],
+      "decode": true
+    },
+    {
+      "id": "L02",
+      "sha_matches": true,
+      "dims": [
+        800,
+        4240
+      ],
+      "decode": true
+    },
+    {
+      "id": "M01",
+      "sha_matches": true,
+      "dims": [
+        1254,
+        1254
+      ],
+      "decode": true
+    },
+    {
+      "id": "M02",
+      "sha_matches": true,
+      "dims": [
+        1254,
+        1254
+      ],
+      "decode": true
+    },
+    {
+      "id": "M03",
+      "sha_matches": true,
+      "dims": [
+        1254,
+        1254
+      ],
+      "decode": true
+    },
+    {
+      "id": "M04",
+      "sha_matches": true,
+      "dims": [
+        1600,
+        1600
+      ],
+      "decode": true
+    },
+    {
+      "id": "M05",
+      "sha_matches": true,
+      "dims": [
+        1600,
+        1600
+      ],
+      "decode": true
+    },
+    {
+      "id": "M06",
+      "sha_matches": true,
+      "dims": [
+        1600,
+        1600
+      ],
+      "decode": true
+    },
+    {
+      "id": "M07",
+      "sha_matches": true,
+      "dims": [
+        1254,
+        1254
+      ],
+      "decode": true
+    },
+    {
+      "id": "M08",
+      "sha_matches": true,
+      "dims": [
+        1600,
+        1600
+      ],
+      "decode": true
+    },
+    {
+      "id": "W01",
+      "sha_matches": true,
+      "dims": [
+        1600,
+        2000
+      ],
+      "decode": true
+    },
+    {
+      "id": "W02",
+      "sha_matches": true,
+      "dims": [
+        1600,
+        2000
+      ],
+      "decode": true
+    }
+  ],
+  "original_photo_layers": [
+    {
+      "asset": "D03",
+      "source": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184359_97_2.jpg",
+        "sha256": "4a812b7e8b033a403a65d5d7fc8ef6ef49515410b6196e953c16aafcf71a1693"
+      },
+      "saved_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/f3e3d4925468e400.png",
+        "sha256": "34979d83f0d28e4e01fc3f70c22a55b6d23e92bf1663773ee187913d8d1b4891"
+      },
+      "source_crop": [
+        0,
+        500,
+        3024,
+        3600
+      ],
+      "uniform_scale": 0.33225806451612905,
+      "transform_recomputed_max_channel_delta": 0,
+      "final_png_matching_pixels": 855000,
+      "layer_pixels": 927000,
+      "final_fraction_identical": 0.92233,
+      "difference_note": "Remaining differences, if any, are caption overlays documented in design.py; source crop layer itself is exactly source-derived."
+    },
+    {
+      "asset": "D03",
+      "source": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+        "sha256": "0b388756f0ee2e35630dac7789237153d390fa8aaab8f58f6e2643d4181be21d"
+      },
+      "saved_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/a3369dc0252fa99f.png",
+        "sha256": "09d41959a79a14f1961a9a27d90847d0a0ae80121f91d14125bad1e0aa2000ed"
+      },
+      "source_crop": [
+        1350,
+        1500,
+        2850,
+        3000
+      ],
+      "uniform_scale": 0.36333333333333334,
+      "transform_recomputed_max_channel_delta": 0,
+      "final_png_matching_pixels": 204376,
+      "layer_pixels": 245250,
+      "final_fraction_identical": 0.833337,
+      "difference_note": "Remaining differences, if any, are caption overlays documented in design.py; source crop layer itself is exactly source-derived."
+    },
+    {
+      "asset": "D03",
+      "source": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+        "sha256": "0b388756f0ee2e35630dac7789237153d390fa8aaab8f58f6e2643d4181be21d"
+      },
+      "saved_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/2bea1171a13c850e.png",
+        "sha256": "985d7bcc1c5703611f92a63c84b9fd11adee74d454995865d770da7bfa33e184"
+      },
+      "source_crop": [
+        800,
+        650,
+        2400,
+        2050
+      ],
+      "uniform_scale": 0.3892857142857143,
+      "transform_recomputed_max_channel_delta": 0,
+      "final_png_matching_pixels": 253425,
+      "layer_pixels": 297025,
+      "final_fraction_identical": 0.853211,
+      "difference_note": "Remaining differences, if any, are caption overlays documented in design.py; source crop layer itself is exactly source-derived."
+    },
+    {
+      "asset": "D04",
+      "source": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184357_95_2.jpg",
+        "sha256": "4aee9c3464d2f590ce6e7c08da656ab36093a0976a51560d0e7706b568c412db"
+      },
+      "saved_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/1a63b240c1d1502c.png",
+        "sha256": "2f3f277d5123aba68b219e73552d1e0716e7c5717015d7cd5832bb0a2d7810a4"
+      },
+      "source_crop": [
+        0,
+        300,
+        3024,
+        3500
+      ],
+      "uniform_scale": 0.4150132275132275,
+      "transform_recomputed_max_channel_delta": 0,
+      "final_png_matching_pixels": 926780,
+      "layer_pixels": 934975,
+      "final_fraction_identical": 0.991235,
+      "difference_note": "Remaining differences, if any, are caption overlays documented in design.py; source crop layer itself is exactly source-derived."
+    },
+    {
+      "asset": "D04",
+      "source": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184358_96_2.jpg",
+        "sha256": "071b041a0c14ced993d33df9598611fd0e7ea9cb0e65892de6b6969d901fb140"
+      },
+      "saved_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/b29ddc87ebaf89b0.png",
+        "sha256": "e6f4a846aedb06e010a88ea4ad26fea35d7c312d6d55869c56679d04f2a44176"
+      },
+      "source_crop": [
+        0,
+        350,
+        3024,
+        3550
+      ],
+      "uniform_scale": 0.4150132275132275,
+      "transform_recomputed_max_channel_delta": 0,
+      "final_png_matching_pixels": 926780,
+      "layer_pixels": 934975,
+      "final_fraction_identical": 0.991235,
+      "difference_note": "Remaining differences, if any, are caption overlays documented in design.py; source crop layer itself is exactly source-derived."
+    },
+    {
+      "asset": "D06",
+      "source": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg",
+        "sha256": "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90"
+      },
+      "saved_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/f0500bd5dcdfc9a2.png",
+        "sha256": "7b598a312bfd61d4dc67e494c8c35ace5e116da30c0a1f069377dfe582227efe"
+      },
+      "source_crop": [
+        1600,
+        200,
+        2750,
+        4550
+      ],
+      "uniform_scale": 0.40869565217391307,
+      "transform_recomputed_max_channel_delta": 0,
+      "final_png_matching_pixels": 171550,
+      "layer_pixels": 171550,
+      "final_fraction_identical": 1.0,
+      "difference_note": "Remaining differences, if any, are caption overlays documented in design.py; source crop layer itself is exactly source-derived."
+    },
+    {
+      "asset": "D07",
+      "source": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+        "sha256": "0b388756f0ee2e35630dac7789237153d390fa8aaab8f58f6e2643d4181be21d"
+      },
+      "saved_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/64da30f467fc334c.png",
+        "sha256": "0c5e17e161009d10739842d7e623d1ab4066f80bab19a865c43ab083c216c5cd"
+      },
+      "source_crop": [
+        0,
+        0,
+        4284,
+        5000
+      ],
+      "uniform_scale": 0.21,
+      "transform_recomputed_max_channel_delta": 0,
+      "final_png_matching_pixels": 745500,
+      "layer_pixels": 745500,
+      "final_fraction_identical": 1.0,
+      "difference_note": "Remaining differences, if any, are caption overlays documented in design.py; source crop layer itself is exactly source-derived."
+    },
+    {
+      "asset": "D07",
+      "source": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184355_94_2.jpg",
+        "sha256": "10dcfb2cad17faf397a03e0587da0ad19c76229fe801e090fee527a3fbc1a412"
+      },
+      "saved_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/a23e6ada31e3d977.png",
+        "sha256": "3de5afd359b736670a8ab200a8fddc9816f1ae2434573b85159f25aafd9413a0"
+      },
+      "source_crop": [
+        0,
+        0,
+        4284,
+        5000
+      ],
+      "uniform_scale": 0.21,
+      "transform_recomputed_max_channel_delta": 0,
+      "final_png_matching_pixels": 745500,
+      "layer_pixels": 745500,
+      "final_fraction_identical": 1.0,
+      "difference_note": "Remaining differences, if any, are caption overlays documented in design.py; source crop layer itself is exactly source-derived."
+    },
+    {
+      "asset": "D09",
+      "source": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184347_92_2.jpg",
+        "sha256": "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90"
+      },
+      "saved_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/contain-23da4639d205b423.png",
+        "sha256": "d80370a3876f2b4818adad1bfcb2ad760fd1b7498d857ca7e543a08277f84741"
+      },
+      "source_crop": [
+        1500,
+        0,
+        3000,
+        4500
+      ],
+      "uniform_scale": 0.07555555555555556,
+      "transform_recomputed_max_channel_delta": 0,
+      "final_png_matching_pixels": 38420,
+      "layer_pixels": 38420,
+      "final_fraction_identical": 1.0,
+      "difference_note": "Remaining differences, if any, are caption overlays documented in design.py; source crop layer itself is exactly source-derived."
+    },
+    {
+      "asset": "D09",
+      "source": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+        "sha256": "0b388756f0ee2e35630dac7789237153d390fa8aaab8f58f6e2643d4181be21d"
+      },
+      "saved_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/82e6c4f175d5282a.png",
+        "sha256": "895ee07496f454940c491416a9328cb36c48ce4f0f21e5c2e4a1962471857e1b"
+      },
+      "source_crop": [
+        800,
+        600,
+        2400,
+        2000
+      ],
+      "uniform_scale": 0.290625,
+      "transform_recomputed_max_channel_delta": 0,
+      "final_png_matching_pixels": 158100,
+      "layer_pixels": 158100,
+      "final_fraction_identical": 1.0,
+      "difference_note": "Remaining differences, if any, are caption overlays documented in design.py; source crop layer itself is exactly source-derived."
+    },
+    {
+      "asset": "D09",
+      "source": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+        "sha256": "0b388756f0ee2e35630dac7789237153d390fa8aaab8f58f6e2643d4181be21d"
+      },
+      "saved_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/8ae88fde0bc2b50f.png",
+        "sha256": "994e603abfa6fd9bc5ead72fd09d2f1188af16e93335c4f774fe3106c0fb4679"
+      },
+      "source_crop": [
+        1400,
+        1700,
+        2800,
+        2900
+      ],
+      "uniform_scale": 0.33214285714285713,
+      "transform_recomputed_max_channel_delta": 0,
+      "final_png_matching_pixels": 158100,
+      "layer_pixels": 158100,
+      "final_fraction_identical": 1.0,
+      "difference_note": "Remaining differences, if any, are caption overlays documented in design.py; source crop layer itself is exactly source-derived."
+    },
+    {
+      "asset": "M04",
+      "source": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184357_95_2.jpg",
+        "sha256": "4aee9c3464d2f590ce6e7c08da656ab36093a0976a51560d0e7706b568c412db"
+      },
+      "saved_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/d6371bf1bde1de7f.png",
+        "sha256": "26dce2856c67623b13dcdf630753017c3cb12ced14bc67f4b8e61179d9e634f6"
+      },
+      "source_crop": [
+        0,
+        0,
+        3024,
+        3500
+      ],
+      "uniform_scale": 0.3757142857142857,
+      "transform_recomputed_max_channel_delta": 0,
+      "final_png_matching_pixels": 1268975,
+      "layer_pixels": 1268975,
+      "final_fraction_identical": 1.0,
+      "difference_note": "Remaining differences, if any, are caption overlays documented in design.py; source crop layer itself is exactly source-derived."
+    },
+    {
+      "asset": "M05",
+      "source": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184355_94_2.jpg",
+        "sha256": "10dcfb2cad17faf397a03e0587da0ad19c76229fe801e090fee527a3fbc1a412"
+      },
+      "saved_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/66351da7509d8072.png",
+        "sha256": "d156ca52854059508dc04a992406e52160a830b8f95d787e3743d592ecd5e678"
+      },
+      "source_crop": [
+        0,
+        600,
+        4284,
+        5000
+      ],
+      "uniform_scale": 0.11818181818181818,
+      "transform_recomputed_max_channel_delta": 0,
+      "final_png_matching_pixels": 233480,
+      "layer_pixels": 233480,
+      "final_fraction_identical": 1.0,
+      "difference_note": "Remaining differences, if any, are caption overlays documented in design.py; source crop layer itself is exactly source-derived."
+    },
+    {
+      "asset": "M08",
+      "source": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184355_94_2.jpg",
+        "sha256": "10dcfb2cad17faf397a03e0587da0ad19c76229fe801e090fee527a3fbc1a412"
+      },
+      "saved_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/7f12b3017f02baa2.png",
+        "sha256": "3122ee9c4c967bacb9c00f111a296607fa69c4657b82f0ee109be251eba1bd94"
+      },
+      "source_crop": [
+        1000,
+        1300,
+        3400,
+        4800
+      ],
+      "uniform_scale": 0.2342857142857143,
+      "transform_recomputed_max_channel_delta": 0,
+      "final_png_matching_pixels": 360800,
+      "layer_pixels": 360800,
+      "final_fraction_identical": 1.0,
+      "difference_note": "Remaining differences, if any, are caption overlays documented in design.py; source crop layer itself is exactly source-derived."
+    },
+    {
+      "asset": "W01",
+      "source": {
+        "path": "products/主推花洒/银色/原图/微信图片_20261022184355_94_2.jpg",
+        "sha256": "10dcfb2cad17faf397a03e0587da0ad19c76229fe801e090fee527a3fbc1a412"
+      },
+      "saved_crop_layer": {
+        "path": "production/2026-10-24_完整电商套图/generated/source-layers/9267e28ed6460096.png",
+        "sha256": "0101153a021c5f1a57f24e476cecc79eb2d1234f0d844bb93107d5053638b555"
+      },
+      "source_crop": [
+        650,
+        1000,
+        3800,
+        4000
+      ],
+      "uniform_scale": 0.19682539682539682,
+      "transform_recomputed_max_channel_delta": 0,
+      "final_png_matching_pixels": 279000,
+      "layer_pixels": 279000,
+      "final_fraction_identical": 1.0,
+      "difference_note": "Remaining differences, if any, are caption overlays documented in design.py; source crop layer itself is exactly source-derived."
+    }
+  ],
+  "cutout_rgb_checks": [
+    {
+      "evidence": {
+        "path": "production/2026-10-24_完整电商套图/generated/rear-cutout-v003-evidence.json",
+        "sha256": "27bbfd4ee9f7f68c0ad43fc293ffce717161c91b75ddf59276cb2de22ba12bc8"
+      },
+      "original_rgb_unchanged": true,
+      "alpha_only": true
+    },
+    {
+      "evidence": {
+        "path": "production/2026-10-24_完整电商套图/generated/gunmetal-cutout-v003-evidence.json",
+        "sha256": "c3a40d1ab215589fb73c9cf2c5c26afdb660e91bae694926d9c42e3f6d96da01"
+      },
+      "original_rgb_unchanged": true,
+      "alpha_only": true
+    },
+    {
+      "evidence": {
+        "path": "production/2026-10-24_完整电商套图/generated/silver-cutout-v003-evidence.json",
+        "sha256": "c114338bd9822f8f3d36b1426ae2459f898661fe1fe9218d7e194082189687d7"
+      },
+      "original_rgb_unchanged": true,
+      "alpha_only": true
+    },
+    {
+      "evidence": {
+        "path": "production/2026-10-24_完整电商套图/generated/black-cutout-v003-evidence.json",
+        "sha256": "77ad67efd9d837952d9f7e3b72c2778459cb74a2d873733e2510cc289463a1d7"
+      },
+      "original_rgb_unchanged": true,
+      "alpha_only": true
+    }
+  ],
+  "reused_jpg_checks": [
+    {
+      "id": "M01",
+      "same_sha": true
+    },
+    {
+      "id": "M02",
+      "same_sha": true
+    },
+    {
+      "id": "M03",
+      "same_sha": true
+    },
+    {
+      "id": "M07",
+      "same_sha": true
+    }
+  ],
+  "limitations": [
+    "Source-layer equality verifies deterministic compositing, not real-world product geometry or exact generated nozzle layout.",
+    "JPEG delivery uses normal compression. Exact RGB checks refer to saved intermediate PNG source layers."
+  ],
+  "D09_top_row_only": {
+    "outside_changed_pixels": 0,
+    "allowed_rectangles": [
+      [
+        65,
+        395,
+        466,
+        340
+      ],
+      [
+        570,
+        395,
+        466,
+        340
+      ],
+      [
+        1075,
+        395,
+        466,
+        340
+      ]
+    ]
+  }
+}

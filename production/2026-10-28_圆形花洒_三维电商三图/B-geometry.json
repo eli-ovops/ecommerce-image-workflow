@@ -1,0 +1,17 @@
+{
+  "local_mesh_unchanged": true,
+  "hashes": {
+    "01 Rebuilt continuous silver exterior and seat": "ec762c8ba0940103c5e77c60f8e1b1cfde41aecab690a795d652a2d152496862",
+    "02 Unified perforated panel": "440f048d8d9003c5918e1e3d4253c667e5005d43f69594ff505460cd0113e42d",
+    "10 Shared-surface black cavity floor": "2b5f0be1c38bf1b2e38fa3e0aa64af55e514df46c1ae99252aeff1e6be256afb",
+    "03 Recessed white rings - 144 preserved coordinates": "1d6e516b92d3d7b64e88cbe7ce77e5ed9b18d48d5c41f738112a26e8d18c9eed",
+    "04 Black aperture well walls": "eb276eb8034be17a175d5f710d86195a455d2d4aad7d4262e5b63bb1a75a16a7",
+    "08 White connector core - standard UNKNOWN": "2639f6ef80647bb877b262648f9957cd54728e733f7c72572078048702e86056",
+    "06 Red descaling actuator": "992b601e05b25b43df5447b705c55d3e5d68c087966664f637c693f4bf2f0c0b",
+    "07 Separate silver selector": "1db4c0eb166c200d2f6ec7167cf2a30caf4fda95c70d3ec6e20d294a334c59a7",
+    "09 Simplified visible thread - not engineering thread": "218a3250293fb9cd70d425ece67515dae5c707e5978049a4e53341241787eea1"
+  },
+  "pose_change": "One common rigid Z rotation -68deg",
+  "camera_ortho": 0.3149999976158142,
+  "camera_shift_y": 0.10999999940395355
+}

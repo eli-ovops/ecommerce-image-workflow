@@ -1,0 +1,45 @@
+{
+  "id": "D11",
+  "prompt": "Generate an entirely NEW original Chinese ecommerce photograph/page. Image1 CLEAN M001 sole adult identity: black hair, hazel eyes, oval face and same nose/lips. Preserve immaculate softly retouched smooth continuous unpatterned skin; no visible pores/microtexture/closed polygons/mesh/scales/etched lines. Eyebrows/eyes/hair/lips remain crisp and adult face shape natural. NO OLD PERSON SCENE is an input.\nImage2 new SILVER PURE SIDE geometry master is mandatory: head, curved neck and grip form CONTINUOUS SHALLOW S-CURVE, mildly convex bowed rear shell, real head-face/grip-axis angle; NEVER a flat disk on ruler-straight paddle handle, no sharp L/gooseneck. Image3 new REAL side03 confirms same true curved shape (black color there is irrelevant; keep requested silver SKU). Image4 real silver face defines black panel, many uniformly small LOW FLAT WHITE eyelets and tiny dark peripheral holes, RED central manual-descaling ring/button, separate lower SILVER selector. Image5 ORIGINAL reference supplies layout/mood ONLY; do not copy its different product, person, unsupported words, hardware or badges.\nEvery product bright SILVER chrome shell and handle with shallow bowed back, neck sweep visibly maintained even while held or foreshortened. Show a slight side component so actual curved body isn't flattened by projection. White outlet eyelets near flush, never tall cylinders/enlarged donuts. Exposed bare thread SILVER. No hose/bracket/connector, brand, flag, certificate, dimensions or unsupported claims.\nWater scenes: numerous delicate regular filaments emerge uniformly from ENTIRE effective white-eyelet face, never red center. Moderate realistic flow toward foreground/outside page, no water sheet. Handle's supply inlet must be out of frame or naturally concealed by hand when flowing. Ordinary completely opaque clothing covers torso, no transparent wet clothing or intimate pose. Five-finger natural hands. Only specified Chinese text, no additions.\n\nVERY TALL portrait788x1996, two photo sections with thin white separator, ABSOLUTELY NO WORDS. TOP51% high-key cold blue-white windowlit marble room: M001 ordinary dry opaque white crew-neck short-sleeve tee, shoulders turned away, face looking back over shoulder at viewer; raised hand on far LEFT holds actual curved silver product upper left, water diagonally away from face to far left/out of frame, handle out left edge. BOTTOM49% independent FRONTAL head/opaque-white-tee torso scene: SAME M001 eyes closed/relaxed slight smile, LEFT arm up with hand behind head, RIGHT hand holds curved silver shower upper right with handle out right border; fine regular water over ENTIRE face directed toward far right/out of frame away from person. Keep two DIFFERENT poses/camera/head views, ordinary fully clothed presentation; shirt stays dry-looking opaque. Both products retain actual shallow S geometry.",
+  "refs": [
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/M001-clean-v1.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/silver-side-v1.png",
+    "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/sources/side-03.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/products/主推花洒/银色/原图/微信图片_20261022184349_93_2.jpg",
+    "/Volumes/EXTERNAL/电商 作图工作流/references/2026-10-22_首批参考/02_鼎江压缩包/extracted/详情/详情_14.jpg"
+  ],
+  "version": 1,
+  "status": "OUTPUT_PENDING_INDEPENDENT_QA",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "fresh": true,
+  "old_person_scenes_as_input": false,
+  "call_date_utc": "2026-10-23T08:01:20.926417+00:00",
+  "clean_master_gate": "M001-clean-v1 PWL relayed by root",
+  "batch_full_read_record": "Same batch actual full74 root records reused under BATCH-REF-20261023-v1",
+  "actual_directed_review": "All referenced inputs actually opened; related source layout originals read in this current owner session.",
+  "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/D11-rebuild-v1.png",
+  "source_output": "/Users/USER/.codex/generated_images/01a1677a-d5c6-7ae1-aff4-beb08d398f79/exec-c3b15754-7ce3-454d-a2fc-e620b5eb8910.png",
+  "actual_dimensions": [
+    899,
+    1750
+  ],
+  "sha256": "065c09eef5212663e212d1770d1e1902d522de845f7f8d04087546c83a42b1f7",
+  "self_review": {
+    "composition": "上回眸，下正面举臂，两段无字",
+    "product_scale": "每段上方手持产品，弧颈可见",
+    "color_light": "白蓝明亮窗光",
+    "type_layout": "无文字",
+    "density": "约1:1双人物停顿",
+    "limits": [
+      "Actual899x1750 differs requested788x1996; no stretch.",
+      "Lower right flowing product bare handle end may remain visible at extreme frame edge.",
+      "Some upper/far outlet water roots difficult to confirm."
+    ],
+    "native_output_actually_opened": true,
+    "status": "PENDING_INDEPENDENT_QA",
+    "new_geometry": "New silver-side and actualside03 supplied; shallow S neck/bowed shell visible, exact 3D acceptance remains separate.",
+    "user_acceptance": "PENDING"
+  },
+  "review_date_utc": "2026-10-23T08:09:29.228621+00:00"
+}

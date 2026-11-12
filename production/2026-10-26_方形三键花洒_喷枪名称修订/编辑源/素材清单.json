@@ -1,0 +1,92 @@
+[
+  {
+    "file": "黑金背景.png",
+    "from": "production/2026-10-26_方形三键花洒_M03长方形修订/native/blackgold_background.png",
+    "sha256": "d1dc4d1e0080a4bcbece9781dafc5e7975f027f1374d3b8c43de853091e31a24",
+    "bytes": 2623617
+  },
+  {
+    "file": "暖石背景.png",
+    "from": "production/2026-10-26_方形三键花洒_真实背面修订/native/clean_stone_background.png",
+    "sha256": "338ef3d62c0fffcd6304ecb95da161fabd2cb8613299b6797e64f750261b4880",
+    "bytes": 2203291
+  },
+  {
+    "file": "银色商品抠层.png",
+    "from": "production/2026-10-26_方形三键花洒_M03长方形修订/native/183_product.png",
+    "sha256": "5eb9a243465e8f2f2209d189efc122eb7cac6d64fd6020fca95511b9959edd5a",
+    "bytes": 951241
+  },
+  {
+    "file": "枪灰商品抠层.png",
+    "from": "production/2026-10-26_方形三键花洒_局部精修/native/196_product.png",
+    "sha256": "e14de00e41ea6a8f13aff72c88b253a57b0bd5f4e2503a750343f2f36f2e1daa",
+    "bytes": 993008
+  },
+  {
+    "file": "黑色商品抠层.png",
+    "from": "production/2026-10-26_方形三键花洒_局部精修/native/198_product.png",
+    "sha256": "8389d67557cbef40195e449a19672d791d96772bd021c3ebdfb93a3095e1219e",
+    "bytes": 749375
+  },
+  {
+    "file": "M02_选定合成源.png",
+    "from": "production/2026-10-26_方形三键花洒_局部精修/native/M02_selected.png",
+    "sha256": "a8ab[REDACTED_PHONE]bcd66bf801ea9b4f770a598098bf21609d62b8130604c3eb9",
+    "bytes": 1474983
+  },
+  {
+    "file": "M04_选定合成源.png",
+    "from": "production/2026-10-26_方形三键花洒_局部精修/native/M04_selected.png",
+    "sha256": "b2f863097ffe208df43bcd4a42384d89f556955b638aac457b7f3338ec88b08b",
+    "bytes": 1595433
+  },
+  {
+    "file": "N03_选定合成源.png",
+    "from": "production/2026-10-26_方形三键花洒_局部精修/native/N03_selected.png",
+    "sha256": "567222518df6f4613e0d9b2b835da1909932dd2af9ebcd32d0acd52051336e60",
+    "bytes": 1529481
+  },
+  {
+    "file": "N05_选定合成源.png",
+    "from": "production/2026-10-26_方形三键花洒_局部精修/native/N05_selected.png",
+    "sha256": "39f2dddd1bf6fa85ebcc8a1b4a7f133e32d392fb201fefa83730770c95124a26",
+    "bytes": 960799
+  },
+  {
+    "file": "N06_选定裁切源.png",
+    "from": "production/2026-10-26_方形三键花洒_N06完整场景/review/N06_source_crop.png",
+    "sha256": "c8a376736c7c1e6b287b8a36ede6cf66de2a60b58d7e6e5631246c68fdb4e7c1",
+    "bytes": 1349028
+  },
+  {
+    "file": "喷雾独立水层.png",
+    "from": "production/2026-10-26_方形三键花洒_同角度喷雾修订/native/real210_anchored_water_v2.png",
+    "sha256": "45a5c1189d4b0334b1ce572431092a7662efb3795fbd7adc7e72c3d3a121c2f1",
+    "bytes": 176366
+  },
+  {
+    "file": "喷雾坐标.json",
+    "from": "production/2026-10-26_方形三键花洒_同角度喷雾修订/review/real-geometry-layers.json",
+    "sha256": "f0bd685ae98e5e1a8f1dacca6a22b841d3c1894f461f022d9d9279ff82f91216",
+    "bytes": 1262
+  },
+  {
+    "file": "三色摆放坐标.json",
+    "from": "production/2026-10-26_方形三键花洒_局部精修/review/sku-transform.json",
+    "sha256": "5be6805c75249ad5ce2848518148461bf6d8009cb48ae4956440e2476f58b1c5",
+    "bytes": 660
+  },
+  {
+    "file": "章节映射.json",
+    "from": "production/2026-10-26_方形三键花洒_喷枪名称修订/review/long-chapters.json",
+    "sha256": "da219f12a37c8b9c5616395916cfbd929161cc3ec8f9c47f1c3ff0889ea9c264",
+    "bytes": 770
+  },
+  {
+    "file": "MiSans-Heavy.otf",
+    "from": "production/花洒视频/制作-v1/工程/fred/public/fonts/MiSans-Heavy.otf",
+    "sha256": "6be4fe9fd5fcfbf766e90b0936b44b731893a3836376a77d964673f398b7131c",
+    "bytes": 6677020
+  }
+]

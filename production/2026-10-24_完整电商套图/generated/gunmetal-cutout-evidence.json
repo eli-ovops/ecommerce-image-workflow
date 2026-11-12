@@ -1,0 +1,18 @@
+{
+  "source": {
+    "path": "production/2026-10-24_实拍主导续作/generated/K02-v001-native.png",
+    "sha256": "b6fc8d6d5703974b1374c620efefb44556e3bf2422930bf2bb9d3ac05032f7a3"
+  },
+  "threshold_exterior_min_rgb": 214,
+  "crop_bbox": [
+    0,
+    0,
+    1254,
+    1254
+  ],
+  "method": "floodfill exterior only; original RGB unchanged; alpha mask; no AI product regeneration",
+  "output": {
+    "path": "production/2026-10-24_完整电商套图/generated/gunmetal-cutout.png",
+    "sha256": "d9afbce2cbf35d3fa603c0f7a4131de7a516ccb34231b913689fb51f4ec7a25c"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "M07",
+  "role": "黑金冲击广告",
+  "sku": "银色",
+  "refs_actual_viewed": [
+    {
+      "id": "R004",
+      "path": "references/2026-10-22_首批参考/01_微信参考原图/R004_卖点_增压结构示意.jpg",
+      "sha256": "bfb52332804e9ce8890304222376b73bbbb8931214023fe37cffe858cd024f5a"
+    },
+    {
+      "id": "R017",
+      "path": "references/2026-10-22_首批参考/01_微信参考原图/R017_长图_五大优势拼版.jpg",
+      "sha256": "88af05e68f6d314a6ba0ced0d6dee47f9a1e5526352c5836793ad89ca1677212"
+    }
+  ],
+  "review_reuse": "same approved current batch prior final visual review; no regeneration",
+  "source_files": [
+    {
+      "path": "production/2026-10-24_参考广告主图/final/AD03.jpg",
+      "sha256": "f51d6e5ce1ce4fbd8ba3257e7274f1456ab3146f462bf1a7e21c8c3c7080a13b"
+    }
+  ],
+  "actual_inputs": [
+    {
+      "path": "production/2026-10-24_参考广告主图/final/AD03.jpg",
+      "sha256": "f51d6e5ce1ce4fbd8ba3257e7274f1456ab3146f462bf1a7e21c8c3c7080a13b"
+    }
+  ],
+  "source_layers": [
+    {
+      "source": {
+        "path": "production/2026-10-24_参考广告主图/final/AD03.jpg",
+        "sha256": "f51d6e5ce1ce4fbd8ba3257e7274f1456ab3146f462bf1a7e21c8c3c7080a13b"
+      },
+      "operation": "byte-identical JPG copy",
+      "source_kind": "previous_reviewed_final_JPG"
+    }
+  ],
+  "claims": [
+    "三档出水",
+    "下方按键切档",
+    "中央红钮手动按压除垢"
+  ],
+  "copy": "Reused unchanged; see upstream manifest approved_copy",
+  "output": {
+    "path": "production/2026-10-24_完整电商套图/generated/M07-reused.jpg",
+    "sha256": "f51d6e5ce1ce4fbd8ba3257e7274f1456ab3146f462bf1a7e21c8c3c7080a13b"
+  },
+  "working": {
+    "path": "production/2026-10-24_完整电商套图/generated/M07-reused.jpg",
+    "sha256": "f51d6e5ce1ce4fbd8ba3257e7274f1456ab3146f462bf1a7e21c8c3c7080a13b"
+  },
+  "dims": [
+    1254,
+    1254
+  ],
+  "transform": "byte copy, no recompression",
+  "notes": "复用当前已验JPG，不引用10/23失败旧商品",
+  "upstream_manifest": {
+    "path": "production/2026-10-24_参考广告主图/image-manifest.json",
+    "sha256": "fc8dbcc8589fdcd14dee8be1bccf6b97b1751e501eae0e30063c6a150953b5d7"
+  },
+  "status": "REUSED_AWAITING_PACKAGE_CHECK",
+  "refs": [
+    {
+      "id": "R004",
+      "path": "references/2026-10-22_首批参考/01_微信参考原图/R004_卖点_增压结构示意.jpg",
+      "sha256": "bfb52332804e9ce8890304222376b73bbbb8931214023fe37cffe858cd024f5a"
+    },
+    {
+      "id": "R017",
+      "path": "references/2026-10-22_首批参考/01_微信参考原图/R017_长图_五大优势拼版.jpg",
+      "sha256": "88af05e68f6d314a6ba0ced0d6dee47f9a1e5526352c5836793ad89ca1677212"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "V01",
+  "output": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/V01-root-v4.png",
+  "native_source": "/Users/USER/.codex/generated_images/01a16319-d848-71d0-95e1-72970644c800/exec-81be4dd9-8b7e-4f22-9eb1-df6a34357e12.png",
+  "sha256": "f7e221ecfaa5b9154889a64eba2438570c2f4470e64d07ddb53d7a2c1867a38f",
+  "dimensions": [
+    936,
+    1681
+  ],
+  "prompt_record": "/Volumes/EXTERNAL/电商 作图工作流/production/2026-10-23_造型重做/rebuild-people/prompts/V01-root-v4.json",
+  "status": "PENDING_NATIVE_QA",
+  "scope": "left detail photograph only; freshperson unchanged",
+  "delivery_format": "JPG_ONLY"
+}

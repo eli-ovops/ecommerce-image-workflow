@@ -1,0 +1,33 @@
+{
+  "status": "PASS",
+  "asset_id": "R01",
+  "candidate_sha256": "144bc44f88c5b4d38506e8bf33713e9b18d14280351d4d46a7728cd2bff09f87",
+  "jpg_sha256": "d7a6e607ba7923f56eb39c720d57ab061fd36a25bc73d159369235ee122b68b2",
+  "appearance_source_sha256": [
+    "6de02f19793c568c799762525475cd0241af1b9c41487580383be4efbd2a1fa2",
+    "8d41d23e8e762b1e9208796587c36db70ea8e452ee2e3fdd3604f97c7f40dd60",
+    "cac746acc5481b40f41046d2d2b9b8ee1d8568f89361e651fe6687dbc379db90"
+  ],
+  "secondary_geometry_reference": {
+    "path": "production/2026-10-24_实物建模/blender/v010a/renders/strict_side.jpg",
+    "sha256": "87b0d943d94882adf26b46b88b1a52d0012f9780aedac3d6c571d7fcff1b4eeb"
+  },
+  "reviewer": "root",
+  "reviewed_at": "2026-10-24T21:17:58.230207+08:00",
+  "finding": "Actually compared final JPG, selected repair before/after, archived silver front/side photos and A038. Bright mirror-silver appearance, black face, low red flange/boss and silver lower key are more consistent with real photos than prior CG trial. Whole product and short silver bare thread visible. Two smeared rings corrected with tool-created ROI patch; PNG pixels outside small repair mask unchanged. Native canvas uniformly reduced82% for white space, with no aspect distortion. No person, accessories, unsupported copy or performance demonstration. No exact per-hole photographic or metric identity claimed.",
+  "checks": {
+    "photo_appearance": "PASS",
+    "geometry": "PASS",
+    "reference_style": "PASS",
+    "copy": "PASS",
+    "no_model": "PASS",
+    "export": "PASS"
+  },
+  "independent_layout_review": {
+    "path": "production/2026-10-24_实拍主导主图/review/independent-layout-review.json",
+    "sha256": "23c5bf182800dc0b21a5fe8dd6d4c12a0eac21878e3f282009f95ee36f0aa9bb"
+  },
+  "exact_pixel_identity_to_real_photo": false,
+  "hard_shape_lock": false,
+  "client_acceptance": "NOT_RECEIVED"
+}

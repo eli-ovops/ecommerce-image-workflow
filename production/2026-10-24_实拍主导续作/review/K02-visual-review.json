@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "reviewer": "root",
+  "reviewed_at": "2026-10-24T21:40:45.582067+08:00",
+  "candidate_sha256": "60247dc711eb149e0130e950679e85b0bad7ed2cc297b7ace854900852c9b3a5",
+  "jpg_sha256": "e9d55bf90d6e18935ecd0c8c54f6ff23f56d7bda77d3127f8e60040c3fa7c174",
+  "appearance_source_sha256": [
+    "5f7e288bec394f38fa99f5b721b127c83a90594b15e3e38346993aae23a51f8c",
+    "7ac7a4d7c35d2a4d68c5a2afe0ec784afbe2545026943306cb3216991690af2d",
+    "cac8642c6aa599def138cf2c897385624ef6827b30142c0c8551c85cb6b5c361"
+  ],
+  "checks": {
+    "photo_appearance": "PASS",
+    "geometry": "PASS",
+    "reference_style": "PASS",
+    "copy": "PASS",
+    "no_model": "PASS",
+    "export": "PASS"
+  },
+  "finding": "实际打开原生、1254JPG及GMT001/GMT004和A004。灰色细腻金属反光与K01哑黑可分，下键和短裸螺纹均暗色，红钮和孔位清晰。完整头柄及短线程留边，字不遮商品；匹配同批SKU排版。与A004借单品3/4和左文案关系，改简白目录风、去无据参数。",
+  "retained": "单品3/4、颜色名称、SKU同组排版",
+  "deviation": "背景改白，去参考六档及过滤性能",
+  "limitations": "人工外观/版式比较，未做逐孔精确位置或物理IoU测量，不代表客户接受。"
+}
