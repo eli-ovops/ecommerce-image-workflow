@@ -1,41 +1,43 @@
-# 电商图片制作工作流
+# Same Product
 
-围绕实物一致性、尺寸与结构约束、素材管理、生成返修和审图组织制作流程。
+**New scene. Same product.**
 
-GitHub：[eli-ovops/ecommerce-image-workflow](https://github.com/eli-ovops/ecommerce-image-workflow)
+An AI edit can improve the lighting and quietly move a button, thicken a panel, or change a spray-hole pattern. This project keeps the real product in the loop: photos, dimensions, structural references, and checks between revisions.
 
-## 内容
+It grew around product-image work where a good-looking result still had to match the item being sold.
 
-本次公开副本包含 1730 个来源文件。
+## What you can take from it
 
-- [`AGENTS.historical.md`](AGENTS.historical.md)
-- [`ORIGINAL_README.md`](ORIGINAL_README.md)
-- [`production/2026-10-22_制作简报.md`](production/2026-10-22_%E5%88%B6%E4%BD%9C%E7%AE%80%E6%8A%A5.md)
-- [`references/README.md`](references/README.md)
-- [`tools/build_ecommerce_delivery.py`](tools/build_ecommerce_delivery.py)
-- [`tools/build_reference_catalog.py`](tools/build_reference_catalog.py)
-- [`tools/build_reference_delivery.py`](tools/build_reference_delivery.py)
-- [`tools/photo_guided_gate.py`](tools/photo_guided_gate.py)
-- [`tools/promote_feedback_revision.py`](tools/promote_feedback_revision.py)
-- [`tools/release_gate.py`](tools/release_gate.py)
+- A workflow for separating product facts from visual references.
+- Checks for silhouette, thickness, controls, hole patterns, and water connections.
+- Revision notes that show how a small fix can disturb an already accepted detail.
+- Python tools for reviewing and preparing image deliveries.
 
-文件类型：.json（889）、.py（309）、.md（222）、.txt（192）、.html（53）、.js（42）、.swift（11）、.cjs（5）。
+## Start here
 
-## 使用与阅读入口
+1. Read the [image-production workflow](workflow/%E7%94%B5%E5%95%86%E5%9B%BE%E7%89%87%E5%88%B6%E4%BD%9CSOP.md).
+2. Open the [original project notes](ORIGINAL_README.md) for the worked examples and their status.
+3. Use your own product photos and dimensions when adapting the process.
 
-先查看保留的原项目 README、包清单与直接相关源码；运行环境和依赖以项目内实际说明为准。
-- [原项目说明](ORIGINAL_README.md)
-- [项目说明：models/M001/README.md](models/M001/README.md)
-- [项目说明：production/2026-10-22_参考重构/README.md](production/2026-10-22_%E5%8F%82%E8%80%83%E9%87%8D%E6%9E%84/README.md)
-- [项目说明：production/2026-10-22_参考重构/history/2026-10-23_银色螺纹确认前/README.md](production/2026-10-22_%E5%8F%82%E8%80%83%E9%87%8D%E6%9E%84/history/2026-10-23_%E9%93%B6%E8%89%B2%E8%9E%BA%E7%BA%B9%E7%A1%AE%E8%AE%A4%E5%89%8D/README.md)
-- [项目说明：production/2026-10-22_花洒套图/README.md](production/2026-10-22_%E8%8A%B1%E6%B4%92%E5%A5%97%E5%9B%BE/README.md)
-- [项目说明：production/2026-10-23_造型重做/README.md](production/2026-10-23_%E9%80%A0%E5%9E%8B%E9%87%8D%E5%81%9A/README.md)
+## What is included
 
-## 来源与许可
+This is a workflow, tools, and working-notes repository. The original product photos, complete image deliveries, and other unprocessed media were not included in this public snapshot. Historical candidates are not all accepted final images.
 
-本仓库新增介绍及用户原创部分按 MIT 许可公开；第三方材料按其各自许可证和署名使用，不以本许可证重新授权第三方内容。
+The linked working documents retain their original language; this project introduction is in English.
 
-来源文件中记录的公开 GitHub 链接（不表示已逐项独立验证）：
+## Sources and license
+
+The new presentation material and the owner's original contributions are published under the [MIT license](LICENSE). Third-party material keeps its own licenses and attribution; this license does not relicense it. Existing source and license files have not been changed by this update.
+
+This public snapshot contains 1730 source files. The [source manifest](SOURCE_MANIFEST.csv) lists their paths and hashes. Original media, databases, private account records, and unprocessed attachments are outside this public text-and-source snapshot.
+
+Publication and static checks do not establish runtime readiness, customer acceptance, or measured productivity gains.
+
+<details>
+<summary>Reference links retained from the project notes</summary>
+
+These links were present in the source notes; they have not all been independently reviewed.
+
 - https://github.com/Comfy-Org/ComfyUI/issues/16434
 - https://github.com/Gayaya999/ecommerce-detail-page-generator
 - https://github.com/QIYU-JACKMAN/codexQIYU-image-workflow
@@ -53,16 +55,4 @@ GitHub：[eli-ovops/ecommerce-image-workflow](https://github.com/eli-ovops/ecomm
 - https://github.com/dlazy-ai/ecommerce-skills/blob/main/docs/creative-scene/example-output.jpg
 - https://github.com/dlazy-ai/ecommerce-skills/blob/main/docs/item-detail/example-output.jpg
 
-## 未纳入本次发布的内容
-
-隐私、凭证、原始会话、来源权属不明或尚未归类的内容保留在本地。当前排除数量如下；不公开敏感匹配值或内部路径。
-
-- copied_subtree_without_scoped_license：4
-
-## 当前状态与验证边界
-
-- 本次完成公开副本整理和静态检查；没有运行来源代码、构建 App、安装 Skill 或启动服务。
-- 项目可能处于原型、实验或研究阶段；没有将其表述为生产交付、客户验收或经过验证的投资收益。
-- 图片、视频、数据库、真实账户记录及未确认可公开的附件没有随本次文本/源码副本上传。
-- 部分相对链接、运行依赖或素材可能仍需补齐；原始快照中的静态引用缺口数为 1，该数字不是运行失败数。
-- [本次来源文件清单](SOURCE_MANIFEST.csv)
+</details>
